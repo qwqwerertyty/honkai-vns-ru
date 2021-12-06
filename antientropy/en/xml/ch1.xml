@@ -26,28 +26,28 @@
             <shake position="all" time="250"></shake>
             <speak chara="5">Ай!</speak>
             <text>Стоило отвлечься на секунду, как тут же я подскользнулся и упал.</text>
-            <speak chara="0">Боже... Смотри под ноги</speak>
+            <speak chara="0">Боже… Смотри под ноги! на тебя жалко смотреть!</speak>
             <speak chara="5">…</speak>
-            <text>If only I could actually see where I'm going.</text>
+            <text>Если бы я только мог видеть куда иду…</text>
             <goto goto="5" change="0"/>
         </scene>
         <scene id="5" background="forrestDark.jpg" bgm="no">
             <bgm src="horror.mp3" status="continue"></bgm>
             <sound src="walk on grass.mp3"/>
-            <text>The ground feels sodden, and the air wafting from the cold earth saps what little heat remained inside the legs of my trousers.</text>
-            <text>And so I walk, for how long I do not know.</text>
-            <text>My surroundings grow quieter and quieter. I vaguely hear the mournful hooting of owls.</text>
-            <text>It feels …</text>
-            <text>… No, they're not planning to “dispose” of me, are they?</text>
-            <text>After all, I'm an important “specimen”, so they wouldn't dare …</text>
-            <text>Wait.</text>
+            <text>Земля кажется влажной, и воздух, доносящийся от холодной земли, забирает то немного тепла, что осталось в штанинах моих брюк.</text>
+            <text>И так я иду,даже не знаю как долго…</text>
+            <text>Мое окружение становится все тише и тише. Я смутно слышу заунывное уханье сов</text>
+            <text>Такое чувство, что…</text>
+            <text>…Нет, они же не собираются избавиться от меня?</text>
+            <text>В конце концов, я же ценный "подопытный" так что они не посмеют… или…</text>
+            <text>Секунду.</text>
             <sound src="write.mp3"/>
-            <text>In front of me, it sounds like someone is writing or scribbling on something.</text>
-            <speak chara="einNoFaceNoName">… You may go back now.</speak>
-            <text>A female voice. Calm to the point of apathy. She doesn't sound very old. Perhaps a secretary of some sort.</text>
-            <speak chara="0">Yes, Miss.</speak>
-            <text>The big hand latched onto my arm finally releases its grip.</text>
-            <text>I hear the flapping sound of a windbreaker, then the sound of footsteps slowly fading away.</text>
+            <text>Впереди, Похоже кто-то пишет, или скебёт на чём-то.</text>
+            <speak chara="einNoFaceNoName">…Хорошо, можешь возвращаться.</speak>
+            <text>Женский голос. Спокойный, даже в какой-то степени безразличный. По голосу не похоже, что она старая. Возможно какой-то секретарь, или ещё кто.</text>
+            <speak chara="0">Так точно Мисс.</speak>
+            <text>Здоровенная рука, что держала меня всё это время наконец ослабила хват.</text>
+            <text>Я слышу шелест ветровки, а после, медленно затихающие шаги.</text>
             <goto goto="10" />
         </scene>
         <scene id="10" background="schoolNight1.jpg" bgm="no">

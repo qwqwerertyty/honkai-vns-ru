@@ -20,8 +20,8 @@
             <text>Не сказать, что у меня есть выбор. Кто додумался надеть черный мешок на голову…?</text>
             <speak chara="0">Пошевеливайся.</speak>
             <text>Говорящий взял меня за руку, и без предупреждения, резко вытащил меня из машины. Он достаточно сильный... Должно быть, крепкий орешек.</text>
-            <text>...</text>
             <sound src="door close car away.mp3"/>
+            <text>...</text>
             <text>The sound of a car door slamming behind me, the sound of a starting engine.</text>
             <shake position="all" time="250"></shake>
             <speak chara="5">Ah!</speak>

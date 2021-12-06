@@ -5,22 +5,22 @@
             <bgm src="horror.mp3" status="start"></bgm>
             <text>Наконец, машина остановилась.</text>
             <sound src="car door open.mp3"/>
-            <text>A car door opens.</text>
-            <text>Cold air rushes in, carrying with it the acrid stench of tobacco.</text>
-            <speak chara="5">Achoo!</speak>
+            <text>Дверь машины открылась</text>
+            <text>Холодный воздух ворвался, неся с собой едкий запах табака.</text>
+            <speak chara="5">Апчхии!</speak>
             <speak chara="0">…</speak>
-            <speak chara="0">Get out of the car.</speak>
+            <speak chara="0">Вымётывайся из машины.</speak>
             <speak chara="5">…</speak>
-            <speak chara="5">Oh.</speak>
-            <text>I subconsciously reach for the right door, only to find it closed.</text>
-            <speak chara="0">Tsk. Your left! Left!</speak>
-            <text>The man grunts impatiently.</text>
-            <text>Obediently, I feel my way towards the other side of the car, bent over like a shrimp.</text>
-            <text>Fearing that my head would strike the door frame, I dare not straighten my back till I have taken two or three steps out of the car.</text>
-            <text>Not that I have a choice. What kind of person puts a black bag over someone's head …?</text>
-            <speak chara="0">Move.</speak>
-            <text>The source of the voice grabs my arm, and without warning wrenches me forward. He is rather strong. Must be quite a burly chap.</text>
-            <text>Thump.</text>
+            <speak chara="5">а.</speak>
+            <text>Я подсознательно тянусь к правой двери, вот только она закрыта.</text>
+            <speak chara="0">ц. слева! СЛЕВА!</speak>
+            <text>мужчина нервно ворчит.</text>
+            <text>Я послушно нащупываю свой путь к другой стороне машины, согнувшись, как креветка.</text>
+            <text>Веря, что я ударюсь головой об дверной проем, я решаю не разгибаться, пока не сделаю несколько шагов из машины.</text>
+            <text>Не сказать, что у меня есть выбор. Кто додумался надеть черный мешок на голову…?</text>
+            <speak chara="0">Пошевеливайся.</speak>
+            <text>Говорящий взял меня за руку, и без предупреждения, резко вытащил меня из машины. Он достаточно сильный... Должно быть, крепкий орешек.</text>
+            <text>...</text>
             <sound src="door close car away.mp3"/>
             <text>The sound of a car door slamming behind me, the sound of a starting engine.</text>
             <shake position="all" time="250"></shake>

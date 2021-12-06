@@ -5,7 +5,7 @@
             <bgm src="horror.mp3" status="start"></bgm>
             <text>Наконец, машина остановилась.</text>
             <sound src="car door open.mp3"/>
-            <text>Дверь машины открылась</text>
+            <text>Дверь открылась…</text>
             <text>Холодный воздух ворвался, неся с собой едкий запах табака.</text>
             <speak chara="5">Апчхии!</speak>
             <speak chara="0">…</speak>
@@ -19,13 +19,13 @@
             <text>Веря, что я ударюсь головой об дверной проем, я решаю не разгибаться, пока не сделаю несколько шагов из машины.</text>
             <text>Не сказать, что у меня есть выбор. Кто додумался надеть черный мешок на голову…?</text>
             <speak chara="0">Пошевеливайся.</speak>
-            <text>Говорящий взял меня за руку, и без предупреждения, резко вытащил меня из машины. Он достаточно сильный... Должно быть, крепкий орешек.</text>
+            <text>Говорящий взял меня за руку, и без предупреждения, резко вытащил меня из машины. Он достаточно сильный… Должно быть, крепкий орешек.</text>
             <sound src="door close car away.mp3"/>
-            <text>...</text>
-            <text>Звук захлопнувшейся за мной двери, звук вновь заводящегося двигателя.</text>
+            <text>…</text>
+            <text>Дверь с грохотом захлопнулась за мной, двигатель вновь залвёлся…</text>
             <shake position="all" time="250"></shake>
             <speak chara="5">Ай!</speak>
-            <text>Стоило отвлечься на секунду, как тут же я подскользнулся и упал.</text>
+            <text>Стоило отвлечься на секунду, как я тут же подскользнулся и упал.</text>
             <speak chara="0">Боже… Смотри под ноги! на тебя жалко смотреть!</speak>
             <speak chara="5">…</speak>
             <text>Если бы я только мог видеть куда иду…</text>
@@ -35,11 +35,11 @@
             <bgm src="horror.mp3" status="continue"></bgm>
             <sound src="walk on grass.mp3"/>
             <text>Земля кажется влажной, и воздух, доносящийся от холодной земли, забирает то немного тепла, что осталось в штанинах моих брюк.</text>
-            <text>И так я иду,даже не знаю как долго…</text>
+            <text>И так я иду, даже не знаю как долго…</text>
             <text>Мое окружение становится все тише и тише. Я смутно слышу заунывное уханье сов</text>
             <text>Такое чувство, что…</text>
-            <text>…Нет, они же не собираются избавиться от меня?</text>
-            <text>В конце концов, я же ценный "подопытный" так что они не посмеют… или…</text>
+            <text>…Нет, они же не собираются избавиться от меня!?</text>
+            <text>В конце концов, я же ценный "подопытный"! так что они не посмеют… Я надеюсь…</text>
             <text>Секунду.</text>
             <sound src="write.mp3"/>
             <text>Впереди, Похоже кто-то пишет, или скебёт на чём-то.</text>
@@ -55,113 +55,113 @@
             <show chara="einNormalCloseNoName" position="center"/>
             <sound src="cloth.mp3"/>
             <shake position="all" time="250"></shake>
-            <speak chara="einNormalCloseNoName">Greenwich Mean Time, October 20, 22:57 — Thank you for bearing with us, little lab rat.</speak>
-            <speak chara="5">Ah!</speak>
-            <text>Before I could even prepare myself, the hood on my head is suddenly whisked away with a 'swoosh'.</text>
-            <text>The drawstring elastic near the mouth of the hood had scraped violently against my nose. Now it stings.</text>
-            <speak chara="einNormalCloseNoName">Quiet.</speak>
-            <text>The messy-haired girl calmly commands me.</text>
-            <speak chara="einNormalCloseNoName">Follow me.</speak>
+            <speak chara="einNormalCloseNoName">Время по Гринвичу, 20 октября, 22:57 - Спасибо, что терпели нас, маленький подопытный мышонок.</speak>
+            <speak chara="5">Ай!</speak>
+            <text>Не успел я даже понять что происходит, как мешок на моей голове  неожиданно слетел со свистом.</text>
+            <text>Резинка мешка сильно царапнула мне нос. Теперь он жжет.</text>
+            <speak chara="einNormalCloseNoName">Тише.</speak>
+            <text>Взлохмаченная девочка cказала спокойным тоном.</text>
+            <speak chara="einNormalCloseNoName">Иди за мной.</speak>
             <show chara="einNormalCloseNoName" position="center" opacity="0.7"/>
-            <text>She doesn't even give me the chance to get a proper look at her face.</text>
-            <text>She too knows that I have nowhere else to run.</text>
+            <text>Она даже не дала возможности рассмотреть её лицо.</text>
+            <text>Видимо она тоже понимает, что мне некуда бежать.</text>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="schoolNight1.jpg" bgm="no">
             <bgm src="horror.mp3" status="continue"></bgm>
             <sound src="walk slow.mp3"/>
-            <text>A university campus. Harsh light from street lamps scatter off the bitumen, casting eerie shadows. I see pale lighting from a building up ahead, and it reminds of those terrible experiments.</text>
-            <text>As I walk, unable to stop, I begin to imagine myself as that desperate, pathetic figure fleeing for my life.</text>
-            <text>Fingers chewed raw.</text>
-            <text>Clothes torn to shreds.</text>
-            <text>Hysterically screaming.</text>
-            <text>Deliriously waving my hands about —</text>
-            <text>To be eventually shot down with a tranquiliser gun.</text>
-            <text>Or worse.</text>
-            <text remark="next">“Where you shall hear the howls of desperation,”</text>
-            <text remark="next">“and see the ancient spirits in their pain,”</text>
-            <text remark="next">“as each of them laments his second death — ”</text>
+            <text>Университетский городок. Резкий свет уличных фонарей рассеивается по земле, отбрасывая жуткие тени. Из здания впереди виднеется бледный свет. Он напоминает мне об тех ужасных экспериментах.</text>
+            <text>По пути я начинаю представлять, как отчаянный, жалкий я бегу, спасая свою шкуру.</text>
+            <text>Покусанные ногти.</text>
+            <text>Разорванная в клочья одежда.</text>
+            <text>Истерические крики.</text>
+            <text>Я, безумно машущий руками. —</text>
+            <text>И в итоге быть пристреленным из пистолета с транквилизатором.</text>
+            <text>Или ещё что хуже…</text>
+            <text remark="next">“И ты услышишь вопли исступленья,”</text>
+            <text remark="next">“И древних духов, бедствующих там,”</text>
+            <text remark="next">“О новой смерти тщетные моленья — ”</text>
             <remark post="U2FsdGVkX19kizjVUiE6CvKADa98">
                 <p class="article-text-h">Note:</p>
-                <p class="article-text">The quotation recalled by our protagonist is from Dante's “Divine Comedy” (Mandelbaum translation, Inferno Canto I.) </p>
+                <p class="article-text">Цитата, которую вспомнил наш главный герой, взята из «Божественной комедии» Данте (перевод Мандельбаума, Inferno Canto I.)  </p>
             </remark>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="schoolNight3.jpg" bgm="no">
             <show chara="einNormalCloseNoName" position="center"/>
             <bgm src="lab.mp3" status="start"></bgm>
-            <speak chara="einSmileCloseNoName">Don't be afraid. This place is different from the other laboratories.</speak>
+            <speak chara="einSmileCloseNoName">Не бойся. Это место отличается от остальных лабораторий.</speak>
             <text>!</text>
-            <text>… She sees through me, straight to the anxiety within my heart.</text>
+            <text>… Она видит меня насквозь, вплоть до беспокойства в моём сердце.</text>
             <show chara="einSmileCloseNoName" position="center"/>
-            <speak chara="einSmileCloseNoName">Imperial Institute, Lab 42.</speak>
-            <text>She speaks, as if to herself —</text>
+            <speak chara="einSmileCloseNoName">Имперский Институт, Лаборатория 42.</speak>
+            <text>Она говорит, как будто сама с собой  —</text>
             <show chara="einSmileCloseNoName" position="center"/>
-            <speak chara="einSmileCloseNoName">Welcome home.</speak>
-            <text>Home?</text>
+            <speak chara="einSmileCloseNoName">Добро пожаловать домой.</speak>
+            <text>Домой?</text>
             <goto goto="40"/>
         </scene>
         <scene id="40" background="studyNight.jpg" bgm="no">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="einNormalCloseNoName" position="center"/>
-            <speak chara="einNormalCloseNoName">Sit.</speak>
-            <text>The girl points to the sofa in the entrance hall.</text>
-            <speak chara="einNormalCloseNoName">Tea? Or coffee?</speak>
+            <speak chara="einNormalCloseNoName">Садись.</speak>
+            <text>Девочка указала на диван в вестибюле.</text>
+            <speak chara="einNormalCloseNoName">Чай? или может кофе?</speak>
             <speak chara="5">…</speak>
-            <speak chara="einNormalCloseNoName">I recommend tea. The air in London is terrible.</speak>
+            <speak chara="einNormalCloseNoName">Я бы порекомендовала чай. Воздух в лондоне ужасный.</speak>
             <speak chara="5">…</speak>
             <speak chara="einNormalCloseNoName">…</speak>
             <speak chara="5">…</speak>
             <show chara="einSeriousAhCloseNoName" position="center"/>
-            <speak chara="einSeriousAhCloseNoName">Ein-Stein.</speak>
-            <text>She suddenly and solemnly speaks in German. Ein … Stein … “One Stone”?</text>
+            <speak chara="einSeriousAhCloseNoName">Эйнштейн.</speak>
+            <text>Она внезапно заговорила по немецки. Ein … Stein … “Один камень”?</text>
             <show chara="einNormalClose" position="center"/>
-            <speak chara="einNormalClose">Doctor, Einstein — Lieserl Albert Einstein.</speak>
-            <text>She points to herself, and then to me.</text>
-            <speak chara="einNormalClose">Your name?</speak>
-            <speak chara="5">… Omega 1. It's in my files. </speak>
-            <speak chara="einNormalClose">Ω1 is not a human name.</speak>
-            <speak chara="5">… Then I don't have one.</speak>
-            <speak chara="einNormalClose">How inconvenient.</speak>
-            <text>She shakes her head.</text>
+            <speak chara="einNormalClose">Доктор, Эйнштейн — Лизерль Альберт Эйнштейн.</speak>
+            <text>Она указала на себя, а после и на меня.</text>
+            <speak chara="einNormalClose">А как твоё имя? Как тебя зовут?</speak>
+            <speak chara="5">… Омега 1. Так записано в моём досье. </speak>
+            <speak chara="einNormalClose">Ω1 Это не даже не имя!</speak>
+            <speak chara="5">… Что ж… Видимо тогда у меня нет имени.</speak>
+            <speak chara="einNormalClose">Как неудобно.</speak>
+            <text>Она помотала головой.</text>
             <speak chara="5">…</speak>
-            <text>Even so, I can't do anything about that. After all —</text>
+            <text>Даже если так, я ничего не могу с этим поделатью —</text>
             <show chara="einSmileClose" position="center"/>
-            <speak chara="einSmileClose">… Welt. W.E.L.T. </speak>
-            <speak chara="5">Eh?</speak>
-            <speak chara="einSmileClose">I feel this name is just right for you. </speak>
-            <speak chara="5">… Any name would do.</speak>
-            <text>“Ω” = “W”. “Welt” = “World”. Indeed, as an outcast of the world, to have such a name would be most amusing. </text>
+            <speak chara="einSmileClose">… Вельт. W.E.L.T. </speak>
+            <speak chara="5">А?</speak>
+            <speak chara="einSmileClose">Я думаю это имя тебе очень подходит. </speak>
+            <speak chara="5">… Да думаю, раз уж на то пошло, то подойдёт любое.</speak>
+            <text>“Ω” = “W”. “Welt” = “Мир”. если так подумать, то для изгоя мира, иметь такое имя очень забавно. </text>
             <show chara="einNormalClose" position="center"/>
-            <speak chara="einNormalClose">Now then, let's go through your physical checkup, Welt.</speak>
-            <speak chara="5">… Okay. </speak>
-            <text>Once again, I'll need to put on a lot of electrodes — perhaps a blood draw, or even a bone marrow biopsy. Well, I'm used to it all by now.</text>
+            <speak chara="einNormalClose">что ж, тогда давай сразу осмотрю тебя, Вельт.</speak>
+            <speak chara="5">… Ладно. </speak>
+            <text>Вновь я должен цеплять кучу разных электродов, возможно анализ крови, или даже биопсия костного мозга. Что ж, я уже привык ко всему такому.</text>
             <show chara="einSeriousAhCloseNoName" position="center"/>
-            <speak chara="einSeriousAhClose">No, no need to get up. Just stay put.</speak>
-            <speak chara="einSeriousAhClose">Show me your soul.</speak> <!-- Lost in translation. The translator has chosen to use a different pun instead. The original light novel online (not VN) explictly mentions "Show me your genitals".-->
-            <speak chara="5">Oh …</speak>
+            <speak chara="einSeriousAhClose">Нет, вставать не надо. сиди на месте.</speak>
+            <speak chara="einSeriousAhClose">покажи мне свою душу.</speak> <!-- данный VN переводился с китайского на английский, а теперь с английского на русский. Тут я решил переводить основываясь на ангоязычной версии перевода "Show me your soul", поскольку всех нюансов оригинала я не знаю. Если кто проинформирован на этот счёт, то отпишите мне, по возможности внесу изменения.       Коментарий от автора английского перевода:"Lost in translation. The translator has chosen to use a different pun instead. The original light novel online (not VN) explictly mentions "Show me your genitals"".-->
+            <speak chara="5">окей…</speak>
             <bgm src="lab.mp3" status="stop"></bgm>
             <shake position="all" time="250"></shake>
-            <speak chara="5">… Eh? S-Soul??</speak>
+            <speak chara="5">… что? Д-Душу???</speak>
             <show chara="einSeriousAhCloseNoName" position="center"/>
-            <speak chara="einSeriousAhClose">Take off your shoes and socks. I need to thoroughly examine your sole.</speak>
+            <speak chara="einSeriousAhClose">Снимай свои ботинки и носки. Я должна осмотреть твою подошву.</speak>
             <bgm src="lab.mp3" status="start"></bgm>
-            <speak chara="5">— What for?!</speak>
+            <speak chara="5">— Зачем?!</speak>
             <show chara="einNormalClose" position="center"/>
-            <speak chara="einNormalClose">It's getting very late, we should finish up and rest soon.</speak>
-            <speak chara="5">… Huh?!</speak>
-            <speak chara="einNormalClose">One can precisely and intuitively determine the state of someone's health by looking at their sole. Also, the inspection process is rather quick —</speak>
+            <speak chara="einNormalClose">Уже достаточно поздно, нам стоит покончить со всем как можно быстрее, и идти спать.</speak>
+            <speak chara="5">… Эм?!</speak>
+            <speak chara="einNormalClose">По подошве можно точно и интуитивно определить состояние человека. Кроме того, процесс проверки довольно быстрый.  —</speak>
             <show chara="einSmileClose" position="center"/>
-            <speak chara="einSmileClose">— Just grab a toothbrush and brush you up a bit, that should do it.</speak>
-            <speak chara="5">Wait …</speak>
-            <speak chara="5">… You mean, we can just calmly waltz off to bed after that?!</speak>
-            <speak chara="einSmileClose">Correct. Your comprehension skills are remarkable.</speak>
-            <speak chara="5">… That doesn't make any sense!</speak>
+            <speak chara="einSmileClose">— Просто возьми зубную щетку и немного почисти себя, этого должно хватить.</speak>
+            <speak chara="5">Подожди …</speak>
+            <speak chara="5">… Ты хочешь сказать, что после этого можно будет так просто пойти спать?!</speak>
+            <speak chara="einSmileClose">Именно так. Ты славливаешь всё налету.</speak>
+            <speak chara="5">… Дело не в этом!</speak>
             <show chara="einNormalClose" position="center"/>
-            <speak chara="einNormalClose">Indeed.</speak>
-            <speak chara="5">… Huh?</speak>
+            <speak chara="einNormalClose">Действительно.</speak>
+            <speak chara="5">… А?</speak>
             <show chara="einSmileClose" position="center"/>
-            <speak chara="einSmileClose">Seeing Welt so depressed, Dr Einstein decided she'd tell a joke to lift his spirits.</speak>
+            <speak chara="einSmileClose">Видя Вельта в таком подавленном состоянии, доктор Эйнштейн решила рассказать анекдот, чтобы поднять ему настроение.</speak>
             <speak chara="5">…</speak>
             <text>What the hell is wrong with this “doctor”?</text>
             <show chara="einNormalClose" position="center"/>
@@ -581,7 +581,7 @@
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaNormalClose" position="center"/>
             <speak chara="teslaNoFace">
-			For example, serve us tea and water, cook our meals, do our laundry, and if there is nothing left to do, scrub the floors and brush the toilets …</speak>
+            For example, serve us tea and water, cook our meals, do our laundry, and if there is nothing left to do, scrub the floors and brush the toilets …</speak>
             <show chara="teslaNormalClose" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
             <speak chara="weltNoFace">…</speak>

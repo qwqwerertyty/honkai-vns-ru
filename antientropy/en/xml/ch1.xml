@@ -13,8 +13,8 @@
             <speak chara="5">…</speak>
             <speak chara="5">а.</speak>
             <text>Я подсознательно тянусь к правой двери, вот только она закрыта.</text>
-            <speak chara="0">ц. слева! СЛЕВА!</speak>
-            <text>мужчина нервно ворчит.</text>
+            <speak chara="0">тц. слева! СЛЕВА!</speak>
+            <text>Мужчина нервно ворчит.</text>
             <text>Я послушно нащупываю свой путь к другой стороне машины, согнувшись, как креветка.</text>
             <text>Веря, что я ударюсь головой об дверной проем, я решаю не разгибаться, пока не сделаю несколько шагов из машины.</text>
             <text>Не сказать, что у меня есть выбор. Кто додумался надеть черный мешок на голову…?</text>
@@ -22,11 +22,11 @@
             <text>Говорящий взял меня за руку, и без предупреждения, резко вытащил меня из машины. Он достаточно сильный... Должно быть, крепкий орешек.</text>
             <sound src="door close car away.mp3"/>
             <text>...</text>
-            <text>The sound of a car door slamming behind me, the sound of a starting engine.</text>
+            <text>Звук захлопнувшейся за мной двери, звук вновь заводящегося двигателя.</text>
             <shake position="all" time="250"></shake>
-            <speak chara="5">Ah!</speak>
-            <text>A momentary lapse of focus, and I slip, falling to the ground like an idiot.</text>
-            <speak chara="0">Ya fool, watch where ya going!</speak>
+            <speak chara="5">Ай!</speak>
+            <text>Стоило отвлечься на секунду, как тут же я подскользнулся и упал.</text>
+            <speak chara="0">Боже... Смотри под ноги</speak>
             <speak chara="5">…</speak>
             <text>If only I could actually see where I'm going.</text>
             <goto goto="5" change="0"/>

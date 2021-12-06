@@ -3,7 +3,7 @@
     <story title="1">
         <scene id="0" background="black" bgm="no">
             <bgm src="horror.mp3" status="start"></bgm>
-            <text>The car has finally stopped.</text>
+            <text>Наконец, машина остановилась.</text>
             <sound src="car door open.mp3"/>
             <text>A car door opens.</text>
             <text>Cold air rushes in, carrying with it the acrid stench of tobacco.</text>

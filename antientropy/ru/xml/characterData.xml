@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <characters>
+        <character name="Низкий мужской голос" color="#8F8F8F" id="0" src=""/>
+        <character name="Пустой женский голос" color="rgb(181,233,247)" id="einNoFaceNoName" src=""/>
+        <character name="Взлохмаченная девочка" color="rgb(181,233,247)" id="einNormalCloseNoName" src="einNormalClose.png"/>
+        <character name="Взлохмаченная девочка" color="rgb(181,233,247)" id="einSmileCloseNoName" src="einSmileClose.png"/>
+        <character name="Взлохмаченная девочка" color="rgb(181,233,247)" id="einSeriousAhCloseNoName" src="einSeriousAhClose.png"/>
+        <character name="Я" color="#ffffff" id="5" src=""/>
         <character name="Эйнштейн" color="rgb(181,233,247)" id="einNormalClose" src="einNormalClose.png"/>
         <character name="Эйнштейн" color="rgb(181,233,247)" id="einSmileClose" src="einSmileClose.png"/>
         <character name="Эйнштейн" color="rgb(181,233,247)" id="einSeriousAhClose" src="einSeriousAhClose.png"/>

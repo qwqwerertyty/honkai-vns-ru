@@ -55,7 +55,7 @@
             <show chara="einNormalCloseNoName" position="center"/>
             <sound src="cloth.mp3"/>
             <shake position="all" time="250"></shake>
-            <speak chara="einNormalCloseNoName">Время по Гринвичу, 20 октября, 22:57 - Спасибо, что терпели нас, маленький подопытный мышонок.</speak>
+            <speak chara="einNormalCloseNoName">Время по Гринвичу, 20 октября, 22:57 - Спасибо, что терпел нас, маленький подопытный мышонок.</speak>
             <speak chara="5">Ай!</speak>
             <text>Не успел я даже понять что происходит, как мешок на моей голове  неожиданно слетел со свистом.</text>
             <text>Резинка мешка сильно царапнула мне нос. Теперь он жжет.</text>
@@ -138,13 +138,13 @@
             <text>Вновь я должен цеплять кучу разных электродов, возможно анализ крови, или даже биопсия костного мозга. Что ж, я уже привык ко всему такому.</text>
             <show chara="einSeriousAhCloseNoName" position="center"/>
             <speak chara="einSeriousAhClose">Нет, вставать не надо. сиди на месте.</speak>
-            <speak chara="einSeriousAhClose">покажи мне свою душу.</speak> <!-- данный VN переводился с китайского на английский, а теперь с английского на русский. Тут я решил переводить основываясь на ангоязычной версии перевода "Show me your soul", поскольку всех нюансов оригинала я не знаю. Если кто проинформирован на этот счёт, то отпишите мне, по возможности внесу изменения.       Коментарий от автора английского перевода:"Lost in translation. The translator has chosen to use a different pun instead. The original light novel online (not VN) explictly mentions "Show me your genitals"".-->
-            <speak chara="5">окей…</speak>
+            <speak chara="einSeriousAhClose">покажи мне свои гениталии.</speak>
+            <speak chara="5">Окей…</speak>
             <bgm src="lab.mp3" status="stop"></bgm>
             <shake position="all" time="250"></shake>
-            <speak chara="5">… что? Д-Душу???</speak>
+            <speak chara="5">…Стоп, ЧТО!?!? ЭТО ЕЩЁ ЗАЧЕМ!?</speak>
             <show chara="einSeriousAhCloseNoName" position="center"/>
-            <speak chara="einSeriousAhClose">Снимай свои ботинки и носки. Я должна осмотреть твою подошву.</speak>
+            <speak chara="einSeriousAhClose">Просто шучу, давай, снимай свои ботинки и носки. Я должна осмотреть твою подошву.</speak>
             <bgm src="lab.mp3" status="start"></bgm>
             <speak chara="5">— Зачем?!</speak>
             <show chara="einNormalClose" position="center"/>
@@ -163,17 +163,17 @@
             <show chara="einSmileClose" position="center"/>
             <speak chara="einSmileClose">Видя Вельта в таком подавленном состоянии, доктор Эйнштейн решил, что она расскажет анекдот, чтобы поднять ему настроение.</speak>
             <speak chara="5">…</speak>
-            <text>What the hell is wrong with this “doctor”?</text>
+            <text>Что чёрт возьми не так с этим “Доктором”?</text>
             <show chara="einNormalClose" position="center"/>
-            <speak chara="einNormalClose">You'll sleep in Room 105 over there.</speak>
-            <text>The girl points down a corridor to the side. </text>
-            <speak chara="einNormalClose">I live upstairs.</speak>
-            <speak chara="5">… Oh.</speak>
-            <speak chara="einNormalClose">Good night. You can forget your past identity as a little lab rat.</speak>
+            <speak chara="einNormalClose">Ты будешь спать в комнате 105. Она там</speak>
+            <text>Девочка указала на корридор сбоку. </text>
+            <speak chara="einNormalClose">Я живу наверху.</speak>
+            <speak chara="5">…угу.</speak>
+            <speak chara="einNormalClose">Доброй ночи. Можешь забыть о том, кем ты был раньше, маленьким эксперементальным мышонком.</speak>
             <hide position="center"></hide>
             <bgm src="themeWelt.mp3" status="start"></bgm>
-            <text>She walks away, without a single backward glance.</text>
-            <text>Leaving behind a “little lab rat”, rooted to the floor, dumbfounded.</text>
+            <text>Она ушла, ни разу не оглянувшись.</text>
+            <text>Её слова “маленький эксперементальный мышонок”, задели за больное.</text>
             <speak chara="5">…</speak>
             <goto goto="50"/>
         </scene>
@@ -183,70 +183,70 @@
                 <p class="article-text">…</p>
             </text>
             <text article="1">
-                <p class="article-text">The man now named “Welt” couldn't understand what just happened. Ever since the day he started forming memories again, nobody else had so casually given him such a baffling degree of freedom — even though “the day he started remembering” was not that long ago.</p>
-                <p class="article-text">It was this same season, three years ago, when he first opened his eyes to a scene of chaos. Unfamiliar men and women were inspecting him, asking him all sorts of questions, questions that one would only ask a lost child.</p>
+                <p class="article-text">Вельт дого пытался осознать произошедшее. С тех пор, как он начал вспоминать некогда позабытые им вещи, никто не давал ему столько свободы — хоть “День, когда он начал вспоминать” был не так уж и давно.</p>
+                <p class="article-text">это было примерно 3 года назад, первое, что ему удосужилось увидеть открыв глаза, был хаос. Вокруг него столпилось много людей. Они задавали множество казалось странных, но в то же время и простых вопросов. Такие обычно спрашивают у потерянных детей.</p>
             </text>
             <text article="1">
-                <p class="article-text">“What is your name?”</p>
+                <p class="article-text">“Как тебя зовут?”</p>
                 <br />
-                <p class="article-text">“Where do you live?”</p>
+                <p class="article-text">“Откуда ты?”</p>
                 <br />
-                <p class="article-text">“What is your nationality?”</p>
+                <p class="article-text">“Кто твои родители?”</p>
             </text>
             <text article="1">
                 <p class="article-text">“…”</p>
                 <br />
-                <p class="article-text">It was a strange feeling — you undoubtedly knew all the answers, yet you could not “congeal” or solidify those answers in your brain. It was as if all the neurons that wove the sea of your memories were fried.</p>
+                <p class="article-text">Это было странное чувство — хоть ты и несомненно знал на них ответы, но они расплывались в голове мутными фрагментами воспоминаний. Как будто все нейроны, соткавшие море твоих воспоминаний, подгорели, а то и вовсе расплавились.</p>
             </text>
             <text article="1">
-                <p class="article-text">“I don't know”</p>
-                <p class="article-text">This was the one response that the young man could muster.</p>
-                <p class="article-text">He could still remember how to speak — yet he didn't know whether this was something he should be grateful for.  German, English, Russian, Latin …  even Japanese and Chinese. He couldn't remember how he came to understand so many languages.</p>
+                <p class="article-text">“Я не знаю…”</p>
+                <p class="article-text">Это был единственный ответ, который отчётливо приходил на ум.</p>
+                <p class="article-text">Он знал как говорить — однако он не был уверен, как это ему даётся.  Немецкий, Английский, Русский, Латинский …  Даже Японский и Китайский. Он не только не знал на каком языке он говорит, но и не понимал, откуда он их столько знает.</p>
             </text>
             <text article="1">
-                <p class="article-text">“Who am I?”</p>
+                <p class="article-text">“Кто я?”</p>
                 <br />
-                <p class="article-text">He quite naturally retorted with such a question.</p>
+                <p class="article-text">Такой вопрос был вполне вероятен в такой ситуации, однако никто не ожидал его услышать.</p>
             </text>
             <text article="1">
-                <p class="article-text">“We don't know either”</p>
+                <p class="article-text">“Этого мы тоже не знаем”</p>
                 <br />
-                <p class="article-text">The others replied. Then they unleashed a torrent of conversation, though they might as well have been speaking to themselves.</p>
+                <p class="article-text">после этого, толпу настигла волна бурных обсуждений.</p>
             </text>
             <text article="1">
-                <p class="article-text">“Schicksal”. Our “Destiny”. A secret organisation with a long history. The true masters of the world, the saviours of humanity.</p>
-                <p class="article-text">“Honkai”. The “Collapse”. The one calamity that science has yet to explain completely. Since the dawn of civilisation, it has polluted the human world, transforming peaceful creatures into terrifying demons. These monsters or “Honkai Beasts”, in their alien plastic flesh, strike fear into us all.</p>
-                <p class="article-text">“Myself”. I, who lost my memory, was the sole survivor of a Honkai event. Its location was Berlin, where it had originated from some  multi-storeyed building.</p>
-                <p class="article-text">“My body”. Within this fortunate body of mine hides a great secret — for the sake of saving more people, I must accept their plans for experimentation on my body: it is my only option.</p>
+                <p class="article-text">“Schicksal”. Наша “Судьба”. Секретная организация с длинной историей. Истинные правители мира, спасители человечества.</p>
+                <p class="article-text">“Хонкай”. “Коллапс”. Единственное бедствие, которое науке еще предстоит объяснить. С самого начала цивилизации он загрязнял человеческий мир, превращая мирных существ в ужасающих демонов. Эти монстры или «Чудовища Хонкая» в своей инопланетной пластиковой плоти вселяют страх в всех нас.</p>
+                <p class="article-text">Что на счёт меня? Я, потерявший память, был единственным выжившим проишествия Хонкай. Это случилось в Берлине, откуда он появился из какого-то многоэтажного дома. .</p>
+                <p class="article-text">В этом моем "счастливом" теле скрывается "великий секрет" - который как утвердают учённые - ключ к спасению многих людей. Мне ничего не остаётся, кроме как принять их задумки, и позволить проводить эксперименты над своим телом.</p>
             </text>
             <text article="1">
-                <p class="article-text">One month. Another month. Month after month.</p>
+                <p class="article-text">Шли дни. Дни сменялись неделями. Недели сменяли Месяца. Месяца сменялись годами.</p>
                 <br />
-                <p class="article-text">One year. Another year. Year after year.</p>
+                <p class="article-text">Прошёл год. Затем второй. После ещё один. И так год за годом, год за годом.</p>
                 <br />
-                <p class="article-text">The young man, code-named “Ω1”, was taken from one laboratory to another, to repeat the exact same thing, over and over again.</p>
+                <p class="article-text">Маленький мальчик, с позывным “Ω1”, то и дело перевозился из одной лаборатории, в другую, с целью проведения новых экспериментов снова и снова.</p>
             </text>
             <text article="1">
-                <p class="article-text">To bear the unbearable, suffer the insufferable.</p>
+                <p class="article-text">Чтобы терпеть нетерпимое, выносить невыносимое.</p>
             </text>
             <text article="1">
-                <p class="article-text">“Please cooperate with us.”</p>
+                <p class="article-text">“Пожалуйста, сотрудничай с нами.”</p>
                 <br />
-                <p class="article-text">“Please consider it for the sake of humanity.”</p>
+                <p class="article-text">“Пожалуйста пойми, это всё для будущего человечества.”</p>
                 <br />
-                <p class="article-text">“These are unavoidable side effects.”</p>
+                <p class="article-text">“Это лишь неизбежные побочные эффекты.”</p>
             </text>
             <text article="1">
-                <p class="article-text">A flock of lunatic scientists. Saving humanity and what not: it's all just a load of hogwash.</p>
-                <p class="article-text">Did you not say that I am a fortunate survivor? Then why do I have to needlessly suffer through such manner of misfortune?</p>
-                <p class="article-text">The “humanity” that you repeatedly emphasise, who are they really? Where is your humanity?</p>
+                <p class="article-text">Стая сумасшедших ученых. Спасение человечества и прочее… фигня это всё!</p>
+                <p class="article-text">Разве мне не говорили, что мне повезло, что я выжил? Тогда почему я должен без нужды страдать из-за таких несчастий? </p>
+                <p class="article-text">Это “Человечество” о котором вы то и дело говорите, да кто они вообще чёрт возми такие!? Где всё это ваше "человечество"?</p>
             </text>
             <text article="1">
-                <p class="article-text">There were moments where I really wanted to just die and be done with it.</p>
+                <p class="article-text">Бывало и такое, что я просто хотел умереть, чтобы покончить со всем этим.</p>
                 <br />
                 <p class="article-text">…</p>
                 <br />
-                <p class="article-text">If it wasn't for that chatterbox who kept checking in on me.</p>
+                <p class="article-text">Если бы не этот болтун, который продолжал проверять меня…</p>
             </text>
             <goto goto="60" change="0"/>
         </scene>
@@ -267,7 +267,7 @@
                 <br />
                 <p class="article-text-s">Your old pal，</p>
                 <p class="article-text-s">Clown Alpha</p>
-                <p class="article-text-s">1955.10.2.</p>
+                <p class="article-text-s">1955.10.2.33013301</p>
             </text>
             <goto goto="70"/>
         </scene>

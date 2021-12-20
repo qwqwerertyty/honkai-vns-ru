@@ -19,7 +19,7 @@
 
 1. Перейди на https://zklm.github.io/honkai-vn-antientropy/ 
 2. Справа-сверху - иконка с шестерёнкой.
-3. Внизу, в окне "Custom EN XML Source" замени ссылку на: https://raw.githubusercontent.com/RaytheonThunder/honkai-vns/master/antientropy/en/xml/
+3. Внизу, в окне "Custom EN XML Source" замени ссылку на: https://raw.githubusercontent.com/qwqwerertyty/honkai-vns-ru/main/antientropy/ru/xml/
 4. после закрой настройки, и обнови страницу.
 
 

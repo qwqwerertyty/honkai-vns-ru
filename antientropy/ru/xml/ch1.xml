@@ -214,7 +214,7 @@
                 <p class="article-text">после этого, толпу настигла волна бурных обсуждений.</p>
             </text>
             <text article="1">
-                <p class="article-text">“Schicksal”. Наша “Судьба”. Секретная организация с длинной историей. Истинные правители мира, спасители человечества.</p>
+                <p class="article-text">Schicksal. Он же "Шикзаль", Наша “Судьба”. Секретная организация с длинной историей. Истинные правители мира, спасители человечества.</p>
                 <p class="article-text">“Хонкай”. “Коллапс”. Единственное бедствие, которое науке еще предстоит объяснить. С самого начала цивилизации он загрязнял человеческий мир, превращая мирных существ в ужасающих демонов. Эти монстры или «Чудовища Хонкая» в своей инопланетной пластиковой плоти вселяют страх в всех нас.</p>
                 <p class="article-text">Что на счёт меня? Я, потерявший память, был единственным выжившим проишествия Хонкай. Это случилось в Берлине, откуда он появился из какого-то многоэтажного дома. .</p>
                 <p class="article-text">В этом моем "счастливом" теле скрывается "великий секрет" - который как утвердают учённые - ключ к спасению многих людей. Мне ничего не остаётся, кроме как принять их задумки, и позволить проводить эксперименты над своим телом.</p>
@@ -253,39 +253,40 @@
         <scene id="60" background="letter.jpg" bgm="no">
             <bgm src="themeWelt.mp3" status="continue"></bgm>
             <text article="1">
-                <p class="article-text-h">To Ω:</p>
-                <p class="article-text">A good October to you. Time flies: this would already be my 22nd letter to you — last time I had finished telling you the story of the Lady Saint. But before I seek new stories to regale, let us first discuss what is happening around us.</p>
-                <p class="article-text">I have already heard of the terrible incident in September, and I apologise on their behalf. Well, it just so happens that there is a new laboratory: I anticipate you will be able to transfer to it soon. Whether the circumstances will be more favourable than your previous lab, that I cannot say for certain — because from what I hear, the new person in charge is a lady with a rather “earnest” personality.</p>
-                <p class="article-text">However, I must inform you from the standpoint of Schicksal: all the experiments you've been through, have been for the continued survival of a certain species on this planet, one so-called “Homo sapiens” — hence your continued and necessary suffering. The world will always treat some people unfairly, and this is something none of us can really change.</p>
-                <p class="article-text">It has already been three years since the disaster in Berlin. The city has already begun its reconstruction. The people will slowly forget the horrors of that night.</p>
-                <p class="article-text">Yet we all know that, at this present moment, a sinister power continues to grow and fester within the rift of space-time. It spared you back then, but it did not spare the others. If we are able to truly fathom the logic behind this phenomenon, then we “Homo sapiens” will be able to live up to our name, to use our sapience to conquer the natural world — then no one will ever need to spend another day living in fear or delusion, deceiving themselves and others.</p>
-                <p class="article-text">Yes, this is most unfair to you; in fact the most recent events have been particularly unjust to you. But if only for my sake, I hope you can understand and forgive everything. The fate of all humanity, in a certain sense, rests upon your shoulders.</p>
+                <p class="article-text-h">Для Ω1:</p>
+                <p class="article-text">Доброго тебе октября. Время летит незаметно: это уже мое 22-е письмо для тебя - в последний раз я рассказал историю Святой леди. Но прежде чем я начну искать новые истории, чтобы потчевать, давай сначала обсудим то, что происходит вокруг нас.</p>
+                <p class="article-text">Я уже слышал об ужасном инциденте в сентябре и приношу извинения от их имени. Так уж получилось, что есть новая лаборатория. Я надеюсь, скоро ты сможешь туда переехать. Я не могу сказать наверняка, будут ли обстоятельства более благоприятными, чем в предыдущей лаборатории, потому что, насколько я слышал, новым ответственным лицом является дама с довольно «серьезным» характером.</p>
+                <p class="article-text">Однако я должен сообщить тебе с точки зрения Шикзаля: все эксперименты, через которые вы прошли, были направлены на выживание определенного вида на этой планете, так называемого «Homo sapiens» - отсюда твои постоянные и необходимые страдания. Мир всегда будет несправедливо относиться к некоторым людям, и никто из нас не в силах этого изменить.</p>
+                <p class="article-text">Прошло уже три года после катастрофы в Берлине. В городе уже началась реконструкция. Люди постепенно забудут ужасы той ночи.</p>
+                <p class="article-text">Тем не менее, все мы знаем, что в настоящий момент зловещая сила продолжает расти и гноиться в разломе пространства-времени. Тогда она пощадила тебя, но не пощадила других. Если мы сможем по-настоящему понять логику этого феномена, то мы, «Homo sapiens», сможем оправдать свое имя, использовать свой разум, чтобы покорить мир природы - тогда никому и никогда не придется жить в страхе. или заблуждении, обманывая себя и других. </p>
+                <p class="article-text">Да, всё это очень несправедливо по отношению к тебе; признаться, последние события были в этом плане особенно несправедливы. Но хотя бы ради меня, надеюсь, ты сможешь понять и простить. Судьба всего человечества в определенном смысле лежит на твоих плечах.</p>
                 <br />
                 <p class="article-text-h">P.S.</p>
-                <p class="article-text"> Concerning your background before your memory loss: as far as I know, the relevant department should still be looking into this — but as you may already recognise, it has been more than three years since the incident, and the possibility of getting any results will only become slimmer with time. But I don't believe that so-called “Child of Honkai” Theory. You can't be a Herrscher, right?</p>
-                <p class="article-text">Perhaps the arrival of new technology will bring about some unexpected turnaround of the whole situation … who knows? The new laboratory really isn't that bad; in fact, I believe when you get there you'll be quite willing to cooperate with them — trust me.</p>
+                <p class="article-text"> Что касается твоего прошлого, до потери памяти: насколько мне известно, соответствующий отдел все еще должен изучать это, но, как ты, возможно, уже знаешь, с момента инцидента прошло более трех лет, и возможность получения каких-либо результатов со временем будет становятся только меньше. Но я не верю в так называемую теорию «Дитя Хонкая». Ты ведь не можешь быть Херршером? </p>
+                <p class="article-text">Возможно, появление новых технологий приведет к неожиданному изменению всей ситуации… кто знает? Новая лаборатория действительно не так уж плоха; на самом деле, я верю, что когда ты доберёшься туда, ты будешь вполне готов сотрудничать с ними - поверь мне.</p>
                 <br />
-                <p class="article-text-s">Your old pal，</p>
-                <p class="article-text-s">Clown Alpha</p>
-                <p class="article-text-s">1955.10.2.33013301</p>
+                <p class="article-text-s">Твой старый приятель</p>
+                <p class="article-text-s">Клоун Альфа</p>
+                <p class="article-text-s">1955.10.2.</p>
             </text>
             <goto goto="70"/>
         </scene>
         <scene id="70" background="weltRoomNight1.jpg" bgm="no">
             <bgm src="themeWelt.mp3" status="continue"></bgm>
-            <speak chara="5">Huh … That guy, he sounded so casual …</speak>
-            <speak chara="5">Yet … I'm sure everyone has their own problems to deal with.</speak>
-            <speak chara="5">After all, he was just some anonymous pen pal arranged for me by some anonymous bigwig.</speak>
-            <speak chara="5">But his story about a certain “Saint Kallen” did touch me. I definitely had not planned on paying so much attention to that type of propaganda or political drivel —</speak>
-            <speak chara="5">Since when did I start looking forward to his monthly story updates?</speak>
-            <speak chara="5">Sigh …</speak>
-            <text>“105”. A musty-smelling wooden door is carelessly left ajar.</text>
-            <text>This must be the room where the strange girl has allowed me to spend the night. The lifeless linen curtains, the walls that seem more at home at a mortuary. Indeed, this is a décor most befitting of a laboratory —</text>
+            <speak chara="5">хах… Этот парень, он звучал так… непринужденно …</speak>
+            <speak chara="5">Тем не менее ... я уверен, что у каждого есть свои проблемы, с которыми нужно справляться.</speak>
+            <speak chara="5">В конце концов, он был просто анонимным приятелем по переписке, устроенным для меня каким-то анонимным авторитетом. .</speak>
+            <speak chara="5">Но его история о “Святой Каллен” и вправду заинтересовала меня. Я определенно не планировал уделять так много внимания такой пропаганде или политической чуши. —</speak>
+            <speak chara="5">С каких пор я начал с нетерпением ждать его новые истории?</speak>
+            <speak chara="5">Вздох …</speak>
+            <text>“105”. Пахнущая плесенью деревянная дверь была оставлена слегка приоткрытой .</text>
+            <text>Это должно быть та комната,где мне разрешила переночевать эта сомнительная леди. безжизненнные, бледно-бежевые занавески, стены, больше походяшье на стены морга нежели дома. Действительно, такой декор как нельзя лучше подходит для лаборатории. —</text>
             <goto goto="72" change="0"/>
         </scene>
         <scene id="72" background="weltRoomNight3.jpg" bgm="no">
             <bgm src="themeWelt.mp3" status="continue"></bgm>
-            <text>Mm? There's bread and snacks on this desk. Are they for me to eat?</text>
+            <text>Мм? тут на столе лежит хлеб и закуски. они что, для меня?</text>
+            <text>Видимо этот затхлый запах исходил вовсе не от двери…</text>
             <text>…</text>
             <text>Munch munch.</text>
             <speak chara="5">…</speak>

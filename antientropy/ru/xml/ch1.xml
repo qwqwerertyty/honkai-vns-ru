@@ -230,9 +230,9 @@
                 <p class="article-text">Чтобы терпеть нетерпимое, выносить невыносимое.</p>
             </text>
             <text article="1">
-                <p class="article-text">“Пожалуйста, сотрудничай с нами.”</p>
+                <p class="article-text">“Пожалуйста, помоги нам.”</p>
                 <br />
-                <p class="article-text">“Пожалуйста пойми, это всё для будущего человечества.”</p>
+                <p class="article-text">“Пожалуйста пойми, это всё для будущего "человечества".”</p>
                 <br />
                 <p class="article-text">“Это лишь неизбежные побочные эффекты.”</p>
             </text>
@@ -290,15 +290,15 @@
             <text>…</text>
             <text>Munch munch.</text>
             <speak chara="5">…</speak>
-            <speak chara="5">My God! What's in this slice of bread?!</speak>
-            <speak chara="5">How can it be so delicious?!</speak>
-            <speak chara="5">This indescribable aroma of mushrooms! </speak>
-            <speak chara="5">And this bacon that tastes just perfect! </speak>
-            <speak chara="5">There are simply no words to describe this rich and mellow aftertaste!</speak>
+            <speak chara="5">Боже! Что они засунули в этот хлеб?!</speak>
+            <speak chara="5">Как он может быть столь вкусным?!</speak>
+            <speak chara="5">А этот неаероятный грибной аромат!</speak>
+            <speak chara="5">И этот бекон! Он просто идеален! </speak>
+            <speak chara="5">Ещё не придумали слов, способных передать это богатое и нежное послевкусие!</speak>
             <shake position="all" time="250"></shake>
-            <speak chara="5">How can it be so delicious!</speak>
+            <speak chara="5">Как он может быть такоим вкусным!</speak>
             <shake position="all" time="250"></shake>
-            <speak chara="5">It's great to be alive indeed!</speak>
+            <speak chara="5">Ради такого можно ещё пожить!</speak>
             <goto goto="75" change="0"/>
         </scene>
         <scene id="75" background="black" bgm="no">
@@ -309,21 +309,21 @@
             <text>… … … …</text>
             <bgm src="themeWelt.mp3" status="stop"></bgm>
             <sound src="mid-lude.mp3"/>
-            <text>And thus, fully satisfied, having indulged in a delicacy of unsurpassed quality, Welt sinks into a deep slumber.</text>
-            <text>The next day —</text>
+            <text>И вот, полностью удовлетворенный, предавшись деликатесу непревзойденного качества, Вельт погружается в глубокий сон.</text>
+            <text>На следующий день —</text>
             <goto goto="80"/>
         </scene>
         <scene id="80" background="weltRoomDay1.jpg" bgm="no">
             <bgm src="morning.mp3" status="start"></bgm>
-            <text>There was a heavy rainstorm in the middle of the night —  opening the windows, one can sense the air is especially fresh and clean, leading one to doubt that this place could have ever been the birthplace of the Industrial Revolution.</text>
-            <text>Not far from here, perched on tree branches are several sparrows chirping constantly, having a lively discussion about the sun as it rises above the horizon.</text> <!-- 山雀 = Titmouse but sparrow chosen here to avoid ambiguity re: tit-->
-            <text>At the first glimmer of dawn, a butterfly emerges from some dark crevice, languidly crawling across the window frame.</text>
-            <speak chara="teslaNoFaceNoName">Hey.</speak>
-            <text>The butterfly beats its wings twice, then disappears into the azure sky.</text>
-            <text>As the sunshine pierces the tree leaves and thickets, to spill upon his body, the young man can feel the hard lump within his heart begin to thaw and dissolve.</text>
-            <speak chara="teslaNoFaceNoName">Hey!</speak>
-            <text>What an incredible evening. What an incredible morning.</text>
-            <text>How long has it been since I experienced such peaceful tranquillity?</text>
+            <text>Посреди ночи шёл сильный дождь —  открыв окна, чувствуется, особенная свежий и чистота воздуха, от чего неверится, что некогда это место было сердцем промышленной революции.</text>
+            <text>Неподалёку, на ветвях деревьев сидят несколько Синичек, постоянно щебечущих, оживленно обсуждая восход солнца.</text>
+            <text>При первых проблесках рассвета из какой-то темной расщелины вылезает бабочка, лениво ползая по оконной раме.</text>
+            <speak chara="teslaNoFaceNoName">Эй.</speak>
+            <text>Вот дважды взмахнув крыльями, она исчезает в лазурном небе.</text>
+            <text>Когда солнечный свет проникнув сквозь листья и заросли деревьев и разливается по его телу, юноша чувствует, как твердый комок в его сердце начинает таять и растворяться.</text>
+            <speak chara="teslaNoFaceNoName">ЭЙ!</speak>
+            <text>Какое замечательное утро!</text>
+            <text>Как давно я в последний раз испытывал такое спокойствие?</text>
             <text>Whether it be wind or rain, or the song of birds, or the buzzing drone of flying insects —</text>
             <text>At this very moment, even if there were some loud commotion，it won't matter too much …</text>
             <goto goto="84" change="0"/>
@@ -561,28 +561,28 @@
             <speak chara="weltNoFace">… Job?</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="einNormalClose" position="right"/>
-            <speak chara="einNoFace">Lab assistant.</speak>
+            <speak chara="einNoFace">Помощник лаборатории.</speak>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
-            <speak chara="weltNoFace">… Assistant? I —</speak>
+            <speak chara="weltNoFace">… Ассистент? Я? —</speak>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaNormalClose" position="center"/>
             <show chara="teslaNormalClose" position="center"/>
-            <speak chara="teslaNoFace"> Basically, you're no longer a little lab rat. You are now our companion. Let us rejoice.</speak>
+            <speak chara="teslaNoFace">другими словами, теперь ты уже не подопытный крыс. Теперь ты наш помощник. надеюсь, ты нас ещё порадуешь.</speak>
             <text>Twintails speaks with the solemn monotone of one reciting scripture.</text>
             <show chara="teslaNormalClose" position="center" opacity="0.7"/>
             <show chara="einNormalClose" position="right"/>
-            <speak chara="einNoFace">Dr Tesla, we need to tell him exactly what he is doing, his specific responsibilities.</speak>
+            <speak chara="einNoFace">Доктор Тесла, обьясни ему всё в деталях, его конкретные обязанности.</speak>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaSnickerClose" position="center"/>
-            <speak chara="teslaNoFace">Hmm … to put it simply: to serve us and keep us happy?</speak>
+            <speak chara="teslaNoFace">Хмм… проще говоря: обслуживать нас, и дела нашу жизнь проще исчастливее?</speak>
             <show chara="teslaSnickerClose" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
             <speak chara="weltNoFace">…?</speak>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaNormalClose" position="center"/>
             <speak chara="teslaNoFace">
-            For example, serve us tea and water, cook our meals, do our laundry, and if there is nothing left to do, scrub the floors and brush the toilets …</speak>
+            К примеру, подавай нам чай и кофе, готовь нам, наводи за нами порядок, and if there is nothing left to do, scrub the floors and brush the toilets …</speak>
             <show chara="teslaNormalClose" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
@@ -600,14 +600,14 @@
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="einSeriousAhClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="einNoFace">Ahem.</speak>
-            <text>Mophead clears her throat, this time more loudly.</text>
+            <speak chara="einNoFace">Кхм-кхм.</speak>
+            <text>Швабра clears her throat, На этот раз несколько громче.</text>
             <show chara="einSeriousAhClose" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassClose" position="center"/>
-            <speak chara="teslaNoFace"> Okay okay I'll explain it properly! Obviously, I'm normally not this long-winded…</speak>
+            <speak chara="teslaNoFace"> Хорошо Хорошо, я объясню всё по порядку, хоть я и не люблю распинаться…</speak>
             <hide position="left"/>
             <hide position="right"/>
-            <text>Out of nowhere, Twintails whisks out a pair of red-framed glasses, and reluctantly puts them on.</text>
+            <text>Из ниоткуда, двухвостая внезапно достала очки в красной оправе, и быстрым движением надела их.</text>
             <show chara="teslaSnickerGlassClose" position="center"/>
             <speak chara="teslaNoFace">Uh-huh … Listen well, toy-boy. Generally speaking, the role of a lab assistant is to assist in experiments, obviously. Unfortunately, you are clearly lacking in this capability, aren't you?</speak>
             <text>The young man nods.</text>
@@ -625,29 +625,29 @@
             <speak chara="teslaNoFace">Oi! Is it okay or not? If you don't agree, we can always send you back, all right?!</speak>
             <speak chara="weltNoFace">…</speak>
             <show chara="teslaEmbarraGlassClose" position="center"/>
-            <speak chara="teslaNoFace">Hey! You stupid?</speak>
-            <text>Begrudgingly, the girl with the red-rimmed spectacles waves her hands in front of the young man's eyes.</text>
+            <speak chara="teslaNoFace">Эй! Ты тупой?</speak>
+            <text>Внезапно, девочка с красными очками наичнает махать руками перед глазами.</text>
             <show chara="teslaEmbarraGlassClose" position="center" opacity="0.7"/>
             <show chara="einSmileClose" position="right"/>
-            <speak chara="einNoFace">Dr Einstein believes that Welt is simply going through a state of shock and astonishment at the news.</speak>
+            <speak chara="einNoFace">Др. Эйнштейн считает, что Вельт сейчас всего лишь пребывает в неком шоке от услышанного.</speak>
             <show chara="einSmileClose" position="right" opacity="0.7"/>
             <show chara="teslaAngryClose" position="center"/>
-            <speak chara="teslaNoFace" remark="next">… Lieserl! Are you some troll from “The Lord of the Rings”? Stop using “Doctor this” or “Doctor that” to address us. It's getting very annoying!</speak> <!-- The VN uses 兽人 = "orc", not "troll" -->
+            <speak chara="teslaNoFace" remark="next">… Лизерль! Ты как какой-то тролль из “Властелина колец”? хватит уже этих “Доктор это”, “Доктор то” обращаясь к нам. Это раздражает!</speak> <!-- The VN uses 兽人 = "orc", not "troll" -->
             <show chara="teslaAngryClose" position="center" opacity="0.7"/>
             <remark post="U2FsdGVkX192eVQJxmFnhxbdYPSj">
-                <p class="article-text-h">Note:</p>
-                <p class="article-text"> JRR Tolkien's “The Lord of the Rings” was first published in the United Kingdom on July 29, 1954, in the form of its first volume “The Fellowship of the Ring”.</p>
-                <p class="article-text">Tolkien had planned to compile “The Lord of the Rings” into a single volume for publication, but the idea could not be realised because of postwar shortages in material and paper.</p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text"> Книга Дж. Р. Р. Толкина «Властелин колец» была впервые опубликована в Соединенном Королевстве 29 июля 1954 года в виде первого тома «Братства кольца».</p>
+                <p class="article-text">Толкин планировал собрать «Властелин колец» в единый том для публикации, но идея не могла быть реализована из-за послевоенной нехватки материалов и бумаги.</p>
             </remark>
             <show chara="teslaEmbarraGlassClose" position="center"/>
-            <speak chara="teslaNoFace">… Wait.</speak>
-            <speak chara="teslaNoFace">… Who's “Welt”?</speak>
-            <speak chara="teslaNoFace">… Is it this little boy-toy?</speak>
+            <speak chara="teslaNoFace">… Стоп, погоди.</speak>
+            <speak chara="teslaNoFace">… Кто этот "Вельт" которого ты упомянула?</speak>
+            <speak chara="teslaNoFace">… Это этот маленький игрушечный мальчик?</speak>
             <show chara="teslaAngryClose" position="center"/>
-            <speak chara="teslaNoFace">… Lieserl! Don't tell me that's the name you gave him?</speak>
+            <speak chara="teslaNoFace">… Лизерль! Только не говори мне, что это егоимя, и что это ты назвала его так?</speak>
             <show chara="teslaEmbarraGlassClose" position="center" opacity="0.7"/>
             <show chara="weltShameClose" position="left"/>
-            <speak chara="weltNoFace">Wait, was it me you were referring to as “little boy-toy”?!</speak>
+            <speak chara="weltNoFace">Подожди,это тыменя назвала “маленьким игрушечным мальчиком?!</speak>
             <bgm src="lab.mp3" status="stop"></bgm>
             <end post="U2FsdGVkX18SorRINadIetIkimT9"/>
         </scene>

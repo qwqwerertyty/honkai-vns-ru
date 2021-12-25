@@ -15,10 +15,10 @@
         <character name="Вельт" color="#ffffff" id="weltShameClose" src="weltShameClose.png"/>
         <character name="Вельт" color="#ffffff" id="weltNormalClose" src="weltNormalClose.png"/>
         <character name="???" color="rgb(237,118,114)" id="teslaNoFaceNoName" src=""/>
-        <character name="Хвостик" color="rgb(237,118,114)" id="teslaEmbarraCloseNoName" src="teslaEmbarraClose.png"/>
-        <character name="Хвостик" color="rgb(237,118,114)" id="teslaAngryCloseNoName" src="teslaAngryClose.png"/>
-        <character name="Хвостик" color="rgb(237,118,114)" id="teslaSnickerCloseNoName" src="teslaSnickerClose.png"/>
-        <character name="Хвостик" color="rgb(237,118,114)" id="teslaBoringCloseNoName" src="teslaBoringClose.png"/>
+        <character name="Юная леди" color="rgb(237,118,114)" id="teslaEmbarraCloseNoName" src="teslaEmbarraClose.png"/>
+        <character name="Юная леди" color="rgb(237,118,114)" id="teslaAngryCloseNoName" src="teslaAngryClose.png"/>
+        <character name="Юная леди" color="rgb(237,118,114)" id="teslaSnickerCloseNoName" src="teslaSnickerClose.png"/>
+        <character name="Юная леди" color="rgb(237,118,114)" id="teslaBoringCloseNoName" src="teslaBoringClose.png"/>
         <character name="Тесла" color="rgb(237,118,114)" id="teslaEmbarraClose" src="teslaEmbarraClose.png"/>
         <character name="Тесла" color="rgb(237,118,114)" id="teslaEmbarraGlassClose" src="teslaEmbarraGlassClose.png"/>
         <character name="Тесла" color="rgb(237,118,114)" id="teslaAngryClose" src="teslaAngryClose.png"/>

@@ -554,7 +554,7 @@
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="einNormalClose" position="right"/>
             <speak chara="einNoFace">Безработные склонны предаваться отчаянию.</speak>
-            <text>With a “puff”, Mophead stands up from her sofa “nest”.</text>
+            <text>Со свистом, Швабра встала с софы “гнезда”.</text>
             <speak chara="einNoFace">В общем мы решили дать тебе работу.</speak>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>

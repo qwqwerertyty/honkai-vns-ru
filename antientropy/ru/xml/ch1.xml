@@ -12,12 +12,12 @@
             <speak chara="0">Вымётывайся из машины.</speak>
             <speak chara="5">…</speak>
             <speak chara="5">а.</speak>
-            <text>Я подсознательно тянусь к правой двери, вот только она закрыта.</text>
-            <speak chara="0">тц. слева! СЛЕВА!</speak>
-            <text>Ворчит этот мужик очень нервно.</text>
-            <text>Я послушно нащупываю свой путь к другой стороне машины, согнувшись, как креветка.</text>
+            <text>*Я подсознательно тянусь к правой двери, вот только она закрыта.</text>
+            <speak chara="0">Ц. слева! СЛЕВА!</speak>
+            <text>Ворчит этот мужик очень нервно…</text>
+            <text>Я послушно нащупываю свой путь к другой стороне машины, согнувшись как креветка.</text>
             <text>Веря, что я ударюсь головой об дверной проем, я решаю не разгибаться, пока не сделаю несколько шагов из машины.</text>
-            <text>Не сказать, что у меня есть выбор. Кто додумался надеть черный мешок на голову…?</text>
+            <text>Не сказать, что у меня есть выбор. Кто вообще додумался надеть черный мешок мне на голову…?</text>
             <speak chara="0">Пошевеливайся.</speak>
             <text>Говорящий взял меня за руку, и без предупреждения, резко вытащил меня из машины. Он достаточно сильный… Должно быть, крепкий орешек.</text>
             <sound src="door close car away.mp3"/>
@@ -39,7 +39,7 @@
             <text>Мое окружение становится все тише и тише. Я смутно слышу заунывное уханье сов</text>
             <text>Такое чувство, что…</text>
             <text>…Нет, они же не собираются избавиться от меня!?</text>
-            <text>В конце концов, я же ценный "подопытный"! так что они не посмеют… Я надеюсь…</text>
+            <text>В конце концов, я же "ценный подопытный образец"! так что они не посмеют… Я надеюсь…</text>
             <text>Секунду.</text>
             <sound src="write.mp3"/>
             <text>Впереди, Похоже кто-то пишет, или скебёт на чём-то.</text>
@@ -57,7 +57,7 @@
             <shake position="all" time="250"></shake>
             <speak chara="einNormalCloseNoName">Время по Гринвичу, 20 октября, 22:57 - Спасибо, что терпел нас, маленький подопытный мышонок.</speak>
             <speak chara="5">Ай!</speak>
-            <text>Не успел я даже понять что происходит, как мешок на моей голове  неожиданно слетел со свистом.</text>
+            <text>Не успел я даже понять что происходит, как мешок на моей голове неожиданно слетел со свистом.</text>
             <text>Резинка мешка сильно царапнула мне нос. Теперь он жжет.</text>
             <speak chara="einNormalCloseNoName">Тише.</speak>
             <text>Взлохмаченная девочка cказала спокойным тоном.</text>
@@ -72,11 +72,11 @@
             <sound src="walk slow.mp3"/>
             <text>Университетский городок. Резкий свет уличных фонарей рассеивается по земле, отбрасывая жуткие тени. Из здания впереди виднеется бледный свет. Он напоминает мне об тех ужасных экспериментах.</text>
             <text>По пути я начинаю представлять, как я отчаянный, жалкий, бегу спасая свою шкуру.</text>
-            <text>С покусанные ногтями.</text>
+            <text>С покусанными ногтями.</text>
             <text>Разорванной в клочья одеждой.</text>
             <text>Истерически крича.</text>
             <text>При этом безумно махая руками. —</text>
-            <text>И всё для того, чтобы в итоге меня пристрелили из пистолета с транквилизатором.</text>
+            <text>И всё ради того, чтобы в итоге меня пристрелили из пистолета с транквилизатором.</text>
             <text>Или ещё что хуже…</text>
             <text remark="next">“И ты услышишь вопли исступленья,”</text>
             <text remark="next">“И древних духов, бедствующих там,”</text>
@@ -121,11 +121,11 @@
             <speak chara="einNormalClose">А как твоё имя? Как тебя зовут?</speak>
             <speak chara="5">… Омега 1. Так записано в моём досье. </speak>
             <speak chara="einNormalClose">Ω1 Это не даже не имя!</speak>
-            <speak chara="5">… Что ж… Видимо тогда у меня нет имени.</speak>
+            <speak chara="5">… Что ж… Видимо у меня тогда нет имени.</speak>
             <speak chara="einNormalClose">Как неудобно.</speak>
             <text>Она помотала головой.</text>
             <speak chara="5">…</speak>
-            <text>Даже если так, я ничего не могу с этим поделатью —</text>
+            <text>Даже если так, я ничего не могу с этим поделать —</text>
             <show chara="einSmileClose" position="center"/>
             <speak chara="einSmileClose">… Вельт. W.E.L.T. </speak>
             <speak chara="5">А?</speak>
@@ -152,23 +152,23 @@
             <speak chara="5">… Эм?!</speak>
             <speak chara="einNormalClose">По подошве можно точно и интуитивно определить состояние человека. Кроме того, процесс проверки довольно быстрый.  —</speak>
             <show chara="einSmileClose" position="center"/>
-            <speak chara="einSmileClose">— Просто возьми зубную щетку и немного почисти себя, этого должно хватить.</speak>
+            <speak chara="einSmileClose">— Ещё возьми зубную щетку и приведи себя в порядок, на сегодня этого должно хватить.</speak>
             <speak chara="5">Подожди …</speak>
-            <speak chara="5">… Ты хочешь сказать, что после этого можно будет так просто пойти спать?!</speak>
+            <speak chara="5">… Ты хочешь сказать, что после этого можно будет вот так просто пойти спать?!</speak>
             <speak chara="einSmileClose">Именно так. Ты славливаешь всё налету.</speak>
             <speak chara="5">… Дело не в этом!</speak>
             <show chara="einNormalClose" position="center"/>
             <speak chara="einNormalClose">Действительно.</speak>
             <speak chara="5">… А?</speak>
             <show chara="einSmileClose" position="center"/>
-            <speak chara="einSmileClose">Видя Вельта в таком подавленном состоянии, доктор Эйнштейн решил, что она расскажет анекдот, чтобы поднять ему настроение.</speak>
+            <speak chara="einSmileClose">Видя Вельта в таком подавленном состоянии, доктор Эйнштейн решила, что она расскажет анекдот, чтобы поднять ему настроение.</speak>
             <speak chara="5">…</speak>
             <text>Что чёрт возьми не так с этим “Доктором”?</text>
             <show chara="einNormalClose" position="center"/>
             <speak chara="einNormalClose">Ты будешь спать в комнате 105. Она там</speak>
             <text>Девочка указала на корридор сбоку. </text>
             <speak chara="einNormalClose">Я живу наверху.</speak>
-            <speak chara="5">…угу.</speak>
+            <speak chara="5">…Угу.</speak>
             <speak chara="einNormalClose">Доброй ночи. Можешь забыть о том, что ты раньше был маленьким эксперементальным мышонком.</speak>
             <hide position="center"></hide>
             <bgm src="themeWelt.mp3" status="start"></bgm>
@@ -184,7 +184,7 @@
             </text>
             <text article="1">
                 <p class="article-text">Вельт дого пытался осознать произошедшее. С тех пор, как он начал вспоминать некогда позабытые им вещи, никто не давал ему столько свободы — хоть “День, когда он начал вспоминать” был не так уж и давно.</p>
-                <p class="article-text">это было примерно 3 года назад, первое, что ему удосужилось увидеть открыв глаза, был хаос. Вокруг него столпилось много людей. Они задавали множество казалось странных, но в то же время и простых вопросов. Такие обычно спрашивают у потерянных детей.</p>
+                <p class="article-text">это было примерно 3 года назад, первое, что ему удосужилось увидеть открыв глаза, был хаос. Вокруг него столпилось много людей. Они задавали множество казалось странных, но и в то же время простых вопросов. Такие обычно спрашивают у потерянных детей.</p>
             </text>
             <text article="1">
                 <p class="article-text">“Как тебя зовут?”</p>
@@ -274,8 +274,8 @@
         <scene id="70" background="weltRoomNight1.jpg" bgm="no">
             <bgm src="themeWelt.mp3" status="continue"></bgm>
             <speak chara="5">хах… Этот парень, он звучал так… непринужденно …</speak>
-            <speak chara="5">Тем не менее ... я уверен, что у каждого есть свои проблемы, с которыми нужно справляться.</speak>
-            <speak chara="5">В конце концов, он был просто анонимным приятелем по переписке, устроенным для меня каким-то анонимным авторитетом. .</speak>
+            <speak chara="5">Тем не менее … я уверен, что у каждого есть свои проблемы, с которыми нужно справляться.</speak>
+            <speak chara="5">В конце концов, он был просто анонимным "приятелем по переписке", устроенной для меня каким-то анонимным авторитетом.</speak>
             <speak chara="5">Но его история о “Святой Каллен” и вправду заинтересовала меня. Я определенно не планировал уделять так много внимания такой пропаганде или политической чуши. —</speak>
             <speak chara="5">С каких пор я начал с нетерпением ждать его новые истории?</speak>
             <speak chara="5">Вздох …</speak>
@@ -285,7 +285,7 @@
         </scene>
         <scene id="72" background="weltRoomNight3.jpg" bgm="no">
             <bgm src="themeWelt.mp3" status="continue"></bgm>
-            <text>Мм? тут на столе лежит хлеб и закуски. они что, для меня?</text>
+            <text>А? тут на столе лежит хлеб и какие-то закуски. они что, для меня?</text>
             <text>Видимо этот затхлый запах исходил вовсе не от двери…</text>
             <text>…</text>
             <text>Хрумк Хрумк.</text>
@@ -293,8 +293,8 @@
             <speak chara="5">Боже! Что они засунули в этот хлеб?!</speak>
             <speak chara="5">Как он может быть столь вкусным?!</speak>
             <speak chara="5">А этот неаероятный грибной аромат!</speak>
-            <speak chara="5">И этот бекон! Он просто идеален! </speak>
-            <speak chara="5">Ещё не придумали слов, способных передать это богатое и нежное послевкусие!</speak>
+            <speak chara="5">И этот бекон! Он прожарен идеально! </speak>
+            <speak chara="5">В мире ещё не придумали слов, способных передать это богатое и нежное послевкусие!</speak>
             <shake position="all" time="250"></shake>
             <speak chara="5">Как он может быть такоим вкусным!</speak>
             <shake position="all" time="250"></shake>
@@ -315,7 +315,7 @@
         </scene>
         <scene id="80" background="weltRoomDay1.jpg" bgm="no">
             <bgm src="morning.mp3" status="start"></bgm>
-            <text>Посреди ночи шёл сильный дождь —  открыв окна, чувствуется, особенная свежесть и чистота воздуха, от чего неверится, что некогда это место было сердцем промышленной революции.</text>
+            <text>Посреди ночи шёл сильный дождь —  открыв окна, чувствуется особенная свежесть и чистота воздуха, от чего не верится, что некогда это место было сердцем промышленной революции.</text>
             <text>Неподалёку, на ветвях деревьев сидят несколько Синичек, постоянно щебечущих, оживленно обсуждая восход солнца.</text>
             <text>При первых проблесках рассвета из какой-то темной расщелины вылезает бабочка, лениво ползая по оконной раме.</text>
             <speak chara="teslaNoFaceNoName">Эй.</speak>
@@ -334,8 +334,8 @@
             <shake position="all" time="250"></shake>
             <speak chara="teslaNoFaceNoName">ЭЭЙ!! Я ОБРАЩАЮСЬ К ТЕБЕ!!!</speak>
             <text>Юноша почувствовал, как что-то тяжёлое влетело ему по башке.</text>
-            <text>аж в глазах потемнело …</text>
-            <text>какого…? вдруг синички подлетели, и начали нарезать круги над моей головой…</text>
+            <text>Аж в глазах потемнело …</text>
+            <text>Какого…? Вдруг синички подлетели, и начали нарезать круги над моей головой…</text>
             <goto goto="85" change="0"/>
         </scene>
         <scene id="85" background="weltRoomDay2.jpg" bgm="no">
@@ -343,7 +343,7 @@
             <show chara="teslaAngryCloseNoName" position="right"/>
             <shake position="all" time="250"></shake>
             <speak chara="teslaAngryCloseNoName">Серьёзно! ты глухой!? Я звала тебя уже несколько раз! повезло ещё, что я смогла открыть эту дверь.</speak>
-            <text>Напавшим была красноволосая девушка с двумя хвостиками, яростно ругающая упавшего юношу, который теперь сидит на земле, пялясь на птиц кружащих над его головой. На ней еще белый лабораторный халат…</text>
+            <text>Напавшим была красноволосая девушка с двумя хвостиками, яростно ругающая упавшего юношу, который теперь сидел на земле, пялясь на птиц кружащих над его головой. На ней ещё белый лабораторный халат…</text>
             <show chara="teslaAngryCloseNoName" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltSurpriseClose">… Ты ещё кто?</speak>
@@ -353,7 +353,7 @@
             <text>Не договорив, оборвав на полуслове, она перевела взгляд на стол, и начала бегло осматривать тарелку.</text>
             <text> Одиноко стоящую на единственом в комнате столе.</text>
             <hide position="right"></hide>
-            <text>Хвостик, закрыв глаза, С предельной концентрацией всего своего внимания, подносит нос к тарелке, и начинает чательно принюхиваться.</text>
+            <text>"Хвостик", закрыв глаза, С предельной концентрацией всего своего внимания, подносит нос к тарелке, и начинает чательно принюхиваться.</text>
             <show chara="teslaAngryCloseNoName" position="right"/>
             <shake position="right" time="250"></shake>
             <speak chara="teslaAngryCloseNoName">Чт… Т-т-ты … Ты не съёл что-то трюфельное? Только не говори, что ты ел!</speak>
@@ -368,14 +368,14 @@
             <text>Красноволосая вдруг закатила глаза. было похоже, что она вот-вот потеряет сознание.</text>
             <show chara="teslaAngryCloseNoName" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="teslaAngryCloseNoName">Что-то ~ типо ~ грибов? … ТЫ! Говоришь МНЕ, что трюфели - это что-то типо грибов?! Чтоб его, Эта дура - Швабра тоже так думает?!</speak>
+            <speak chara="teslaAngryCloseNoName">Что-то ~ типо ~ грибов? … ТЫ! Говоришь МНЕ, что трюфели - это "что-то типо грибов"?! Чтоб его, Эта дура - "Швабра" тоже так думает?!</speak>
             <show chara="teslaEmbarraCloseNoName" position="right"/>
             <speak chara="teslaEmbarraCloseNoName">… Ась?</speak>
-            <text>Она только что заметила, что, помимо пустой тарелки, на столе лежат еще несколько «подозрительных» закусок.</text>
+            <text>Она только что заметила, что, помимо пустой тарелки, на столе лежат еще несколько «сомнительных» закусок.</text>
             <show chara="teslaEmbarraCloseNoName" position="right"/>
             <speak chara="teslaEmbarraCloseNoName">Ц-ц-ц-ц-ц … «КомФит» … «Атомный файербол» … Тёмный шоколад …</speak>
             <show chara="teslaAngryCloseNoName" position="right"/>
-            <speak chara="teslaAngryCloseNoName"> Как вообще можно смешивать трюфели, с подобного рода дешевыми, второсортными закусками?!</speak>
+            <speak chara="teslaAngryCloseNoName"> Как вообще можно совмещать трюфели, с подобного рода дешевыми, второсортными закусками?!</speak>
             <show chara="teslaEmbarraCloseNoName" position="right"/>
             <text>То и дело возмущаясь, она сама начала уплетать как она выразилась «второсортные закуски» "за обе щеки", пока не замечает что-то в углу комнаты.</text>
             <bgm src="lab.mp3" status="start"></bgm>
@@ -393,7 +393,7 @@
             <text>Вскоре он схватился за голову, сдавшись, свернувшись в комочек.</text>
             <show chara="teslaSnickerCloseNoName" position="right"/>
             <speak chara="teslaSnickerCloseNoName">Хехе …</speak>
-            <text>Хвостик кажется что-то осознала в этот момент.</text>
+            <text>"Хвостик" кажется что-то осознала в этот момент.</text>
             <speak chara="teslaSnickerCloseNoName">Могу ~ ли ~ Я ~ Открыть ~ и ~ взгялуть?</speak>
             <text>Красноволосая нападавшая сменила тон, говоря так, как будто она была актером в радиопостановке.</text>
             <text>Оказавшись в трансе, молодой человек видит, как перед ним появляется иллюзия свечи и плети.</text>
@@ -415,7 +415,7 @@
             <show chara="teslaAngryCloseNoName" position="right"/>
             <shake position="right" time="250"></shake>
             <speak chara="teslaAngryCloseNoName">— Ааарргх!!</speak>
-            <text>Красноволосый хвостик вдруг резко теряет какое либо самообладание, и начинает размахивать кулаком по всей комнате.</text>
+            <text>Красноволосый "Хвостик" вдруг резко теряет какое либо самообладание, и начинает размахивать кулаком по всей комнате.</text>
             <speak chara="teslaAngryCloseNoName">… Чтоб тебя! Мерзость! Это чертовски гнусно!… Это какое-то умышленное домогательство! … Бьюсь об заклад, она определённо хотела, чтобы я прочла это!</speak>
             <speak chara="teslaAngryCloseNoName">Ты!</speak>
             <text>Она презрительно посмотрела, и указала двумя пальцами на юношу, который в это время продолжал валяться на полу.</text>
@@ -431,7 +431,7 @@
             <show chara="weltShameClose" position="left" opacity="0.7"/>
             <show chara="teslaAngryCloseNoName" position="right"/>
             <speak chara="teslaAngryCloseNoName">…</speak>
-            <text>Взгляд хвостика был настолько ужасающим, что казалось, будто в любой момент она может выстрелить смертоносными лазерами из глаз.</text>
+            <text>Взгляд "Хвостика" был настолько ужасающим, что казалось, будто в любой момент она может выстрелить смертоносными лазерами из глаз.</text>
             <shake position="left" time="250"></shake>
             <show chara="teslaAngryCloseNoName" position="right" opacity="0.7"/>
             <show chara="weltShameClose" position="left"/>
@@ -447,11 +447,11 @@
             <show chara="teslaEmbarraCloseNoName" position="right" opacity="0.7"/>
             <shake position="left" time="250"></shake>
             <show chara="weltShameClose" position="left"/>
-            <speak chara="weltShameClose">Eek!</speak>
+            <speak chara="weltShameClose">!!</speak>
             <show chara="weltShameClose" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraCloseNoName" position="right"/>
             <text article="1">
-                <p class="article-text">（continued）</p>
+                <p class="article-text">（продолжая）</p>
                 <p class="article-text">… Я знаю, что люди, с которыми ты только что познакомился, могут быть не особо убедительными. Но поверь, именно здесь ты построишь себе новую жизнь.</p>
                 <br />
                 <p class="article-text-s">За изысканной кухней мы доверяем, </p>
@@ -460,7 +460,7 @@
             </text>
             <text>Неохотно дочитав открытку, рассерженная девочка наконец что-то вспомнила. —</text>
             <show chara="teslaBoringCloseNoName" position="right"/>
-            <speak chara="teslaBoringCloseNoName">кстати, ты не узнаешь, кто я, не так ли? </speak>
+            <speak chara="teslaBoringCloseNoName">кстати, ты не узнаешь меня, не так ли? </speak>
             <show chara="teslaBoringCloseNoName" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <text>С неуверенностью и страхом юноша помотал головой.</text>
@@ -486,7 +486,7 @@
             <bgm src="lab.mp3" status="continue"></bgm>
             <speak chara="einNoFace">Доброе утро, Др. Тесла — как тебе сегодняшний завтрак?</speak>
             <speak chara="teslaNoFace">Утро доброе, Эйн. — Хм.</speak>
-            <text>Держа Вельта за воротник, Хвостик неодобрительно дуется и дёргается.</text>
+            <text>Держа Вельта за воротник, "Хвостик" неодобрительно дуется и дёргается.</text>
             <speak chara="teslaNoFace">… Мерзкая сука, как ты можешь делать вид, что все в порядке?</speak>
             <speak chara="einNoFace">Похоже, бутерброд с колбасой тебе по вкусу. Это замечательно.</speak>
             <text>Несмотря на грубые ругательства, девушка с волосами, напоминающими швабру, продолжает мирно откидываться на софе, и с видом безразличия кусает сэндвич.</text>
@@ -497,7 +497,7 @@
             <speak chara="einNoFace">Доктор Эйнштейн не понимает, о чём говорит Доктор Тесла.</speak>
             <speak chara="teslaNoFace">Не прикидывайся дурой! Мой мешочек с трюфелями, тот кто стащил его из моей комнаты без разрешения была ты! Разве не так?</speak>
             <speak chara="einNoFace">…</speak>
-            <text>Швабра тут же начала вилять указательным пальцем назад и вперед, как будто она уже ожидала ее ответа. </text>
+            <text>"Швабра" тут же начала вилять указательным пальцем назад и вперед, как будто она уже ожидала ее ответа. </text>
             <speak chara="einNoFace">Др Эёнштейн хочет кое-что тебе напомнить —</speak>
             <speak chara="einNoFace" remark="next">— Даже если ДР Тесла предпочитает ездить в Триест на отпуск, это не означает, что мешочек с грибами - это её личная собственность.</speak>
             <remark post="U2FsdGVkX19jgf4aT8mx5i123cv3">
@@ -508,7 +508,7 @@
             <speak chara="teslaNoFace">Ч-ч-что ты сказала? Я достала их своими кровью и потом! Ты издеваешься?!</speak>
             <speak chara="teslaNoFace">К тому же трюфели - это не грибы! Вы называете их так пренебрегая их честью!</speak>
             <speak chara="einNoFace">Хах …</speak>
-            <text>Неохотно, Швабра делает глубокий выдох.</text>
+            <text>Неохотно, "Швабра" делает глубокий выдох.</text>
             <speak chara="einNoFace">Трюфели были куплены за средства лаборатории. От чего они становяться общей собственностью. Ещё какие-нибудь вопросы?</speak>
             <speak chara="teslaNoFace">… Это называется займ! Я заплачу в следующий раз, когда будут деньги! Запомни!</speak>
             <speak chara="einNoFace">Если доктор Тесла продолжит настаивать на своих ложных утверждениях, то у доктора Эйнштейна не будет другого выбора, кроме как сообщить об этом хищении государственных средств в штаб-квартиру.</speak>
@@ -537,8 +537,8 @@
             <text>Эйнштейн облизала пальцы, избавляясь от остатков соли.</text>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraClose" position="center"/>
-            <speak chara="teslaNoFace">Ц. У вас двоих происходит этот приём-ответ… Не говорите мне, что вы давно потерянные любовники?</speak>
-            <text>Хвостик нахмурилась изобразив горы своими бровями.</text>
+            <speak chara="teslaNoFace">Ц. У вас двоих проходит этот "приём-ответ…" Не говорите мне, что вы давно потерянные любовники?</speak>
+            <text>"Хвостик" нахмурилась изобразив горы своими бровями.</text>
             <show chara="teslaEmbarraClose" position="center" opacity="0.7"/>
             <show chara="einSeriousAhClose" position="right"/>
             <speak chara="einNoFace">Доктор Эйнштейн никогда не будет встречаться со столь жалкой личностью.</speak>
@@ -554,7 +554,7 @@
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="einNormalClose" position="right"/>
             <speak chara="einNoFace">Безработные склонны предаваться отчаянию.</speak>
-            <text>Со свистом, Швабра встала с софы “гнезда”.</text>
+            <text>Со свистом, "Швабра" встала с софы “своего гнезда”.</text>
             <speak chara="einNoFace">В общем мы решили дать тебе работу.</speak>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
@@ -569,20 +569,19 @@
             <show chara="teslaNormalClose" position="center"/>
             <show chara="teslaNormalClose" position="center"/>
             <speak chara="teslaNoFace">другими словами, теперь ты уже не подопытный крыс. Теперь ты наш помощник. надеюсь, ты нас ещё порадуешь.</speak>
-            <text>Twintails speaks with the solemn monotone of one reciting scripture.</text>
             <show chara="teslaNormalClose" position="center" opacity="0.7"/>
             <show chara="einNormalClose" position="right"/>
             <speak chara="einNoFace">Доктор Тесла, обьясни ему всё в деталях, его конкретные обязанности.</speak>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaSnickerClose" position="center"/>
-            <speak chara="teslaNoFace">Хмм… проще говоря: обслуживать нас, и дела нашу жизнь проще исчастливее?</speak>
+            <speak chara="teslaNoFace">Хмм… проще говоря: обслуживать нас, и делать нашу жизнь проще и счастливее?</speak>
             <show chara="teslaSnickerClose" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
             <speak chara="weltNoFace">…?</speak>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaNormalClose" position="center"/>
             <speak chara="teslaNoFace">
-            К примеру, подавай нам чай и кофе, готовь нам, наводи за нами порядок. ну а если делать нечего, то можешь мыть полы, или вычищать унитаз …</speak>
+            К примеру, подавай нам чай и кофе, готовь нам, наводи за нами порядок. ну а если делать нечего, то можешь мыть полы, или вычищать туалет …</speak>
             <show chara="teslaNormalClose" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
@@ -590,7 +589,7 @@
             <show chara="einSeriousEmClose" position="right"/>
             <shake position="right" time="250"></shake>
             <speak chara="einNoFace">Кхм.</speak>
-            <text>Швабра намеренно откашливается.</text>
+            <text>"Швабра" намеренно откашливается.</text>
             <show chara="einSeriousEmClose" position="right" opacity="0.7"/>
             <show chara="teslaAngryClose" position="center"/>
             <speak chara="teslaNoFace">Я просто шучу! С таким скучным, простым и красивым мальчиком, как ты, даже если бы ты хотел быть нашим слугой, мы бы никогда тебя не приняли …</speak>
@@ -601,13 +600,13 @@
             <show chara="einSeriousAhClose" position="right"/>
             <shake position="right" time="250"></shake>
             <speak chara="einNoFace">Кхм-кхм.</speak>
-            <text>Швабра опять откашливается, но на этот раз несколько громче.</text>
+            <text>"Швабра" опять откашливается, но на этот раз несколько громче.</text>
             <show chara="einSeriousAhClose" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassClose" position="center"/>
             <speak chara="teslaNoFace"> Хорошо Хорошо, я объясню всё по порядку, хоть я и не люблю распинаться…</speak>
             <hide position="left"/>
             <hide position="right"/>
-            <text>Из ниоткуда, двухвостая внезапно достала очки в красной оправе, и быстрым движением надела их.</text>
+            <text>Из ниоткуда, "Двухвостая" внезапно достала очки в красной оправе, и быстрым движением надела их.</text>
             <show chara="teslaSnickerGlassClose" position="center"/>
             <speak chara="teslaNoFace">Угу… Значит слушай, мальчик-игрушечный. Очевидно, что роль лаборанта заключается в помощи в проведении экспериментов. Как не крути, а тебе такое явно не светит, поскольку ты ничего не знаешь. не так ли? </speak>
             <text>Юноша кивнул.</text>
@@ -618,8 +617,8 @@
             <speak chara="weltNoFace">…</speak>
             <show chara="teslaEmbarraGlassClose" position="center"/>
             <speak chara="teslaNoFace">Есть ли что-то, что я не ясно объяснила? Опять же, говоря простым языком, твоя задача - вывести нас на улицу, чтобы мы повеселились.</speak>
-            <speak chara="teslaNoFace">Но пожалуйста! не мешай нам в рабочее время. Можешь отдохнуть в библиотеке или просто прогуляйся —</speak>
-            <speak chara="teslaNoFace">— Но не уходи слишком далеко, а не то эта организация подумает, что ты собираешься сбежать. Ну а мы не хотим иметь дело с котиками в штатском.</speak>
+            <speak chara="teslaNoFace">Но пожалуйста! не мешай нам в рабочее время. Можешь отдохнуть в библиотеке или просто пойти прогуляться —</speak>
+            <speak chara="teslaNoFace">— Но не уходи слишком далеко, а не то эта организация подумает, что ты собираешься сбежать. Ну а мы не хотим иметь дело с «котиками в штатском».</speak>
             <speak chara="weltNoFace">…</speak>
             <show chara="teslaAngryClose" position="center"/>
             <speak chara="teslaNoFace">Эй! Идёт или нет? Если ты не согласен, то мы всегда можем отправить тебя обратно, понял?!</speak>
@@ -644,10 +643,10 @@
             <speak chara="teslaNoFace">… Кто этот "Вельт" которого ты упомянула?</speak>
             <speak chara="teslaNoFace">… Это этот маленький игрушечный мальчик?</speak>
             <show chara="teslaAngryClose" position="center"/>
-            <speak chara="teslaNoFace">… Лизерль! Только не говори мне, что это егоимя, и что это ты назвала его так?</speak>
+            <speak chara="teslaNoFace">… Лизерль! Только не говори мне, что это его имя, и что это ты назвала его так?</speak>
             <show chara="teslaEmbarraGlassClose" position="center" opacity="0.7"/>
             <show chara="weltShameClose" position="left"/>
-            <speak chara="weltNoFace">Подожди,это тыменя назвала “маленьким игрушечным мальчиком?!</speak>
+            <speak chara="weltNoFace">Подожди, это меня ты назвала «маленьким игрушечным мальчиком»?!</speak>
             <bgm src="lab.mp3" status="stop"></bgm>
             <end post="U2FsdGVkX18SorRINadIetIkimT9"/>
         </scene>

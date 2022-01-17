@@ -438,7 +438,7 @@
             <speak chara="weltNoFace">…</speak>
             <show chara="0einSlyVestClose-up" position="right"/>
             <show chara="weltTiredSweaterClose-up" position="left" opacity="0.7"/>
-            <speak chara="einNoFace">Мой дед однажды сказал: «Успех = гениальность + пот + меньше болтовни».”</speak>
+            <speak chara="einNoFace">Мой дед однажды сказал: «Успех = гениальность + пот - пустая болтовня».”</speak>
             <show chara="0einSlyVestClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredSweaterClose-up" position="left"/>
             <speak chara="weltNoFace">…</speak>

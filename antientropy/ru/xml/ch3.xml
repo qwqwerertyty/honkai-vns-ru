@@ -11,335 +11,336 @@
         </scene>
         <scene id="10" background="corridorMessy.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
-            <text>Compared to the tidy and orderly ground floor, the private space on the top floor is quite simply Hell on Earth.</text>
-            <text>A few minutes ago, Welt would never have predicted that he would find these items outside a girl's bedroom  — </text>
-            <text>Pizza boxes piled together like Jenga.</text> <!-- Note that Jenga was not invented until the 1980s -->
-            <text>Wastepaper piled into bins and forming trash heaps the size of small mountains.</text>
-            <text>Bras, undergarments and stockings, hang-drying everywhere.</text>
-            <text>Mysterious electronic devices discarded and tossed against a corner, their surfaces covered with dust.</text>
-            <text>It's hard to imagine how: but perhaps because the cleaners won't come upstairs, everything has now turned into this hair-raising spectacle.</text>
-            <text>Now, if there is the tiniest, most remote possibilty, that this scene is actually typical for private residences of countless single ladies everywhere — God knows how many gentlemen will be left shellshocked and heartbroken?</text>
-            <text>At least, right now, Welt is searching for Room 203 with a heavy heart.</text>
+            <text>По сравнению с опрятным и аккуратным первым этажом, "личное пространство" на верхнем этаже — это просто ад на земле.</text>
+            <text>Ещё недавно, Вельт и подумать не мог, что возле женской спальни будет такой беспорядок.</text>
+            <text>Коробки из под пиццы, лежащие друг на друге, и формирующие башню с пол метра высотой.</text>
+            <text>Макулатура не умещающаяся в мусорные баки, образует кучи мусора размером с небольшой холм.</text>
+            <text>Бюстгальтеры, нижнее белье и чулки, развешенные сушиться вдоль стен.</text>
+            <text>Странные электронные устройства, выброшенные и брошенные в угол, покрыты пылью.</text>
+            <text>Трудно представить как: но, может быть, из-за того, что уборщицы не ходят наверх, всё здесь превратилось в этот ужас, от которого волосы встают дыбом.</text>
+            <text>Хотя на самом деле, эта сцена типична для частных резиденций бесчисленных одиноких дам повсюду — чёрт знает, сколько джентльменов останутся потрясенными и убитыми шоком?</text>
+            <text>Однако, сейчас Вельту надо найти комнату 203.</text>
             <sound src="8_24_knock_door.mp3"/>
-            <text>“Knock Knock.”</text>
+            <text>“Тук-Тук.”</text>
             <text>…</text>
             <sound src="8_24_door_lock.mp3"/>
-            <text>“Click.”</text>
-            <text>Somewhat surprisingly, the door opened rather quickly — </text>
+            <text>“Клик.”</text>
+            <text>На удивление, дверь открыли достаточно быстро — </text>
+            <text>…</text>
             <bgm src="themeTesla.mp3" status="start"></bgm>
-            <text>No! That was the sound of a door locking!</text>
+            <text>Нет! Это был звук закрывающейся двери!</text>
             <show chara="weltShameClose" position="left"/>
-            <speak chara="weltNoFace">… Dr Tesla! I-I do not come upstairs willingly!</speak>
+            <speak chara="weltNoFace">… Тесла! Я сюда вообще-то не по своей воле пришёл!</speak>
             <show chara="weltShameClose" position="left" opacity="0.7"/>
             <show chara="teslaAngryNightyQ" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">Huh? Are you trying to say you're sleepwalking, Assistant Welt?</speak>
-            <text> From the other side of the door transmits a grumpy and energetic voice — no doubt it's the real deal, none other than Tesla herself.</text>
+            <speak chara="teslaNoFace">А? Хочешь сказать мне, что ты лунатик?</speak>
+            <text> С другой стороны двери раздался сварливый и энергичный голос — без сомнения, это Тесла.</text>
             <show chara="weltShameClose" position="left"/>
             <show chara="teslaAngryNightyQ" position="center" opacity="0.7"/>
-            <speak chara="weltNoFace">N-n-no, I'm not…</speak>
+            <speak chara="weltNoFace">Чт-Нет!, я не об этом…</speak>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Uh …</speak>
+            <speak chara="weltNoFace">А? …</speak>
             <show chara="weltNormalClose" position="left"/>
-            <speak chara="weltNoFace"> I mean … It was Dr Einstein who asked me to come and wake you up …</speak>
+            <speak chara="weltNoFace">Эйнштейн отправила меня за тобой, сказала, чтобы я разбудил тебя …</speak>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraNightyQ" position="center"/>
-            <speak chara="teslaNoFace">I wasn't asleep!</speak>
+            <speak chara="teslaNoFace">Я не спала!</speak>
             <show chara="teslaEmbarraNightyQ" position="center" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Umm …</speak>
-            <speak chara="weltNoFace">Okay then … Anyway, we're going to take the next flight to America …</speak>
+            <speak chara="weltNoFace">Эмм …</speak>
+            <speak chara="weltNoFace">Ладно … Так или иначе, мы отправляемся в Америку …</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="teslaBoringNightyQ" position="center"/>
-            <speak chara="teslaNoFace">W-w-w-wait — </speak>
-            <speak chara="teslaNoFace"> — To where?</speak>
+            <speak chara="teslaNoFace">Ч-ч-ч-Что?! — </speak>
+            <speak chara="teslaNoFace"> — Куда!?</speak>
             <show chara="weltSurpriseClose" position="left"/>
             <show chara="teslaBoringNightyQ" position="center" opacity="0.7"/>
-            <speak chara="weltNoFace">To America.</speak>
+            <speak chara="weltNoFace">В Америку.</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="teslaBoringNightyQ" position="center"/>
-            <speak chara="teslaNoFace"> — Now?</speak>
+            <speak chara="teslaNoFace"> — Когда?</speak>
             <show chara="weltSurpriseClose" position="left"/>
             <show chara="teslaBoringNightyQ" position="center" opacity="0.7"/>
-            <speak chara="weltNoFace">Yes …</speak>
+            <speak chara="weltNoFace">Сейчас …</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="teslaBoringNightyQ" position="center"/>
-            <speak chara="teslaNoFace">… “America”, as in the “United States of America”?</speak>
+            <speak chara="teslaNoFace">… “Америка”, как “Соединенные Штаты Америки”?</speak>
             <show chara="weltSurpriseClose" position="left"/>
             <show chara="teslaBoringNightyQ" position="center" opacity="0.7"/>
-            <speak chara="weltNoFace">Correct … Western USA … Montana …</speak>
+            <speak chara="weltNoFace">Верно … Западная Америка  … Монтана …</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="teslaAngryNightyQ" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">… Have you gone mad?</speak>
+            <speak chara="teslaNoFace">… Ты с ума сошёл?</speak>
             <show chara="teslaAngryNightyQ" position="center" opacity="0.7"/>
             <show chara="weltShameClose" position="left"/>
-            <speak chara="weltNoFace">I don't understand the situation either!</speak>
+            <speak chara="weltNoFace">Я сам не всё понял…</speak>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">It was just that the short-sleeves — no, glasses — no, the Finn showed her a strange letter, then she immediately became all serious about it …</speak>
+            <speak chara="weltNoFace">Вот только этот странный библиотекарь, Финн, показал ей странное письмо, после она сразу стала серьёзной …</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="teslaBoringNightyQ" position="center"/>
-            <speak chara="teslaNoFace">… What the heck?</speak>
+            <speak chara="teslaNoFace">… Какого чёрта?</speak>
             <show chara="teslaBoringNightyQ" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
-            <speak chara="weltNoFace">Um … the letter said something about finding some ancient pasttimes …</speak>
-            <speak chara="weltNoFace">Hmm … and some words I didn't recognise …</speak>
+            <speak chara="weltNoFace">В письме было что-то про старые времена …</speak>
+            <speak chara="weltNoFace">и какие-то странные слова, но я не понял, что это было …</speak>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Ah, that's right! The sender's name was Sch … er, someone called Schr … what was it — </speak>
+            <speak chara="weltNoFace">А, точно! отправителем был Шрё … как-то там, кто-то называвший себя так, и был отправителем. — </speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraNightyQ" position="center"/>
-            <speak chara="teslaNoFace"> — It's Schrödinger!</speak>
+            <speak chara="teslaNoFace"> — Это был Шрёдингер!</speak>
             <show chara="teslaEmbarraNightyQ" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
-            <speak chara="weltNoFace">Y-y-yes! Schrödinger, it was from Schrödinger.</speak>
+            <speak chara="weltNoFace">Д-д-да!, Это был Шрёдингер! Это письмо было от Шрёдингера.</speak>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaAngryNightyQ" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">Planck that old hag, once again using her own students to pick up fresh meat!</speak>
+            <speak chara="teslaNoFace">Планк! Ох уж эта старая карга! Опять использует своих учеников, чтобы наживиться!</speak>
             <show chara="weltSurpriseClose" position="left"/>
             <show chara="teslaAngryNightyQ" position="center" opacity="0.7"/>
-            <speak chara="weltNoFace">… Huh?</speak>
+            <speak chara="weltNoFace">… Что?</speak>
             <show chara="teslaAngryNightyQ" position="center"/>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">You don't need to know!</speak>
+            <speak chara="teslaNoFace">Тебе этого знать не обязательно!</speak>
             <show chara="teslaAngryNightyQ" position="center" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
-            <speak chara="weltNoFace">Um …</speak>
+            <speak chara="weltNoFace">Эм …</speak>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaAngryNightyQ" position="center"/>
             <shake position="center" time="250"></shake>
             <sound src="8_24_mess.mp3"/>
-            <speak chara="teslaNoFace">Clearly, she's mine! … Clearly, so is Lab 42! … Clearly — </speak>
-            <text>The topic is beginning to sound a bit too dangerous, so Welt, standing outside the door, can only cover his ears and keep mute as a mouse. But the dreadful ringing and clattering of her shrill voice continues incessantly, piercing through the door into his eardrums.</text>
+            <speak chara="teslaNoFace">Ясно, Чтоб тебя! … Я тебе ещё покажу… И лабораторию 42 тоже?! … Зашибись! -</speak>
+            <text>Разговор начинает набирать неожиданный оборот, и Вельту, стоящему за дверью, остается лишь заткнуть уши и молчать, как мышь. Но пронзительный звон и лязг её голоса продолжается беспрестанно, вонзаясь через дверь в его барабанные перепонки.</text>
             <text>…</text>
             <show chara="teslaEmbarraNightyQ" position="center"/>
-            <speak chara="teslaNoFace">All right!</speak>
+            <speak chara="teslaNoFace">Ладно!</speak>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="black">
             <bgm src="themeTesla.mp3" status="stop"></bgm>
             <sound src="hit man.mp3"/>
-            <text>Clatter scatter.</text>
-            <text>The poor young man had fallen onto a pile of pizza boxes, and is now sprawled out on his back, eyes glazed, mouth agape.</text>
-            <text>The door had swung open without warning — startling Welt, who unfortunately back-pedalled onto the pizza boxes — and without much force, slipped and fell.</text>
-            <text>But that is not the most important thing.</text>
+            <text>Шумное исчадие…</text>
+            <text>Бедняга Вельт аж чуть не упал на рядом лежащую кучу коробок.</text>
+            <text>Вдруг дверь без предупреждения распахнулась, и испуганный Вельт, дав задний ход, всё-же свалился на коробки с пиццей. </text>
+            <text>Но это только часть беды…</text>
             <goto goto="25" change="0"/>
         </scene>
         <scene id="25" background="corridorMessy.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="teslaNormalNightyClose" position="center"/>
-            <speak chara="weltNoFace">T—Te — </speak>
+            <speak chara="weltNoFace">Т-Те… — </speak>
             <show chara="teslaEmbarraNightyClose" position="center"/>
-            <speak chara="teslaNoFace">Urgh you pest! Did your fall give you brain damage as well? Move aside!</speak>
-            <speak chara="weltNoFace">Dr Tesla! It's not yet summer outside!</speak>
+            <speak chara="teslaNoFace">Чтоб тебя, зараза! Ты случаем не покалечил три свои последние клетки мозга? Двинься!</speak>
+            <speak chara="weltNoFace">Тесла! На улице сейчас ещё не лето!</speak>
             <show chara="teslaBoringNightyClose" position="center"/>
-            <speak chara="teslaNoFace">Huh? What are you talking about?</speak>
-            <speak chara="weltNoFace">I mean, that … y-y-you …</speak>
+            <speak chara="teslaNoFace">А? О чём ты говоришь?</speak>
+            <speak chara="weltNoFace">Я про то, что ты…</speak>
             <show chara="teslaEmbarraNightyClose" position="center"/>
-            <speak chara="teslaNoFace">Y-y-you what? You stuttering fool. M-m-move!</speak>
+            <speak chara="teslaNoFace">Что "что ты"? Ты посмешища кусок. Убирайся отсюда!</speak>
             <show chara="teslaBoringNightyClose" position="center"/>
-            <speak chara="weltNoFace">… You're wearing only a nightgown right now, aren't you?!</speak>
+            <speak chara="weltNoFace">… На тебе лишь ночная сорочка!</speak>
             <bgm src="lab.mp3" status="stop"></bgm>
             <goto goto="28" change="0"/>
         </scene>
         <scene id="28" background="white">
             <sound src="hit man.mp3"/>
-            <text>And with a muffled sound, Welt's “Welt” comes crashing down, instantly transforming into a sea of white.</text> <!-- Remember that Welt means "World" in German.-->
+            <text>И вдруг, мир Вельта рушится с приглушенным звуком, мгновенно превращаясь в белое море.</text> <!-- Remember that Welt means "World" in German.-->
             <goto goto="30"/>
         </scene>
         <scene id="30" background="carNoon.jpg">
             <bgm src="street.mp3" status="start"></bgm>
             <show chara="weltTiredSweaterClose-up" position="right"/>
             <show chara="nokiaSmileHandUpClose-up" position="left" opacity="0.7"/>
-            <speak chara="weltNoFace">Hnngh — O-o-ow.</speak>
+            <speak chara="weltNoFace">Ххммхх — А-а-ауу….</speak>
             <text article="1">
-                <p class="article-text">Welt is seated in the front row of a temporarily-borrowed Volkswagen Beetle alongside the driver — the Finn with the gold-rimmed glasses. Welt lightly touches his head.</p>
+                <p class="article-text">Вельт сидит в первом ряду временно взятого напрокат Volkswagen Beetle рядом с водителем — финном в очках в золотой оправе. Он слегка дотрагивается до свей головы</p>
                 <br />
-                <p class="article-text">Sure enough, it now sports a bump.</p>
+                <p class="article-text">Ну да, теперь на нем есть шишка.</p>
                 <br />
-                <p class="article-text">But having said that … my life is still intact. Perhaps that alone is worth a three-day holiday?</p>
+                <p class="article-text">Но, не смотря на это… я еще жив. Одно это стоит трехдневного отпуска!</p>
             </text>
             <goto goto="32" change="0"/>
         </scene>
         <scene id="32" background="CG3.jpg">
             <bgm src="street.mp3" status="continue"></bgm>
-            <text>Squinting at the back seat through the rearview mirror, Welt spies the source of his suffering, using her compact mirror to calmly draw on her lipstick.</text>
-            <text>Welt can't understand how such a person is capable of tossing her own living space into a complete shambles.</text>
-            <text>It's even messier than Einstein's hairdo next to her.</text>
-            <text> — And in a hurry, she had almost forgotten to change her clothes before they departed.</text>
+            <text>Прищурившись на заднем сиденье через зеркало заднего вида, Вельт высматривает источник его страданий, которое непринуждённо глядит в свое компактное зеркальце, и спокойнонаносит макияж.</text>
+            <text>Вельт не может понять, как такой человек способен превратить собственное жилое пространство в такие руины.</text>
+            <text>По сравнению с этим, швабра доктора Эйнштейн может показаться акуратной укладкой.</text>
+            <text> — В спешке она чуть не забыла переодеться перед отъездом.</text>
             <text article="1">
-                <p class="article-text">But perhaps more difficult to understand is this — where did she find that light billowing shawl, and fine one-piece dress? Not a single wrinkle on it. Anyone who has seen those Jenga stacks of pizza-boxes would be certain that this girl must have a four-dimensional wardrobe.</p>
-                <p class="article-text">No, it should be the other way around — Whoever's seen this lovely cute girl before me, would never believe that she in fact lives in a pigsty, right?</p>
+                <p class="article-text">Но, пожалуй, труднее понять вот что: Где она нашла эту легкую развевающуюся шаль и прекрасное цельное платье? На нем ни единой морщинки. Любой, кто видел эти стопки коробок из-под пиццы в Дженге, был бы уверен, что у этой девушки должен быть четырехмерный гардероб. .</p>
+                <p class="article-text">Нет, должно быть наоборот — кто бы ни увидел эту милую девушку, никогда бы не поверил, что она на самом деле живет в свинарнике.</p>
             </text>
-            <text>The young woman in question, who now appears rather neat and fresh (on the surface) begins to put away her mirror. Welt hurriedly averts his gaze.</text>
-            <text>Out of the corner of his eyes, he notices the corners of the Finn's mouth curl briefly into a sly smile.</text>
+            <text>Теперь же, Тесла выглядит довольно опрятной (на первый взгляд). Она начинает убирать свое зеркало, и Вельт поспешно отводит взгляд.</text>
+            <text>Краем глаза он замечает, как уголки рта финна на мгновение изогнулись в лукавой улыбке.</text>
             <speak chara="weltNoFace">…</speak>
-            <text>Stick to driving the car!</text>
-            <speak chara="einNoFace">Hey.</speak>
-            <text>Just as Welt was beginning to feel miserable, Einstein hands him a document wallet from the back seat.</text>
-            <speak chara="weltNoFace">Is this … for me?</speak>
-            <text>Welt takes the paper wallet. Inside, there appears to be several small hardbound booklets.</text>
-            <speak chara="einNoFace">Mm-hmm. Open it and have a look. </speak>
-            <speak chara="einNoFace">You'll need them later.</speak>
+            <text>Следи за дорогой!</text>
+            <speak chara="einNoFace">Эй.</speak>
+            <text>Как только Вельт начал чувствовать себя неловко, Эйнштейн протянула ему бумажник с документами.</text>
+            <speak chara="weltNoFace">Это… для меня?</speak>
+            <text>Вельт взял бумажник. Внутри оказалось несколько небольших буклетов в твердом переплете.</text>
+            <speak chara="einNoFace">Угу. Открой и посмотри. </speak>
+            <speak chara="einNoFace">Позже это тебе пригодится.</speak>
             <goto goto="35" change="0"/>
         </scene>
         <scene id="35" background="carNoon.jpg">
             <bgm src="street.mp3" status="continue"></bgm>
             <speak chara="weltNoFace">…</speak>
-            <text>One of the booklets is a passport. </text>
-            <text>The wallet also contains a work permit of the Imperial Institute, and some documents to guarantee movement through Immigration.</text>
+            <text>Одним из буклетов оказался паспорт. </text>
+            <text>В бумажнике также был удостоверение о работе от Имперского института и некоторые документы, гарантирующие прохождение через иммиграционный контроль.</text>
             <show chara="weltNormalSweaterClose-up" position="right"/>
             <speak chara="weltNoFace">Welt Joyce?</speak>
-            <text>Printed on the passport is one such name, half-familiar, half-foreign.</text>
+            <text>Напечатанное в нём имя, казалось знакомым, и в то же время чуждым.</text>
             <show chara="teslaSmileDressClose-up" position="left"/>
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace">Ah … Joyce is a surname taken from an author.</speak>
-            <speak chara="teslaNoFace" remark="next">Do you know “Ulysses”?</speak>
+            <speak chara="teslaNoFace">Ах… Джойс — фамилия, взятая у автора.</speak>
+            <speak chara="teslaNoFace" remark="next">Ты знаешь “Улисс”?</speak>
             <remark post="U2FsdGVkX19Pnf400VtQNsGpiWZl">
-                <p class="article-text-h">Note:</p>
-                <p class="article-text">“Ulysses” is a novel written by Irish modernist writer James Joyce in 1922.</p>
-                <p class="article-text">The novel chronicles the daily life of the protagonist — a distressed Dubliner, a salesman by the name of Leopold Bloom — in Dublin during the day and night of June 16, 1904. </p>
-                <p class="article-text">“Ulysses” is a masterpiece of the stream-of-consciousness genre, and is hailed as one of the top 100 English novels of the 20th century. Each year, June 16 is commemorated as “Bloom Day”.</p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">“Улисс” - это новелла, написанная ирландским писателем-модернистом Джеймсом Джойсом в 1922.</p>
+                <p class="article-text">В романе рассказывается о повседневной жизни главного героя — обездоленного дублинца, продавца по имени Леопольд Блум — в Дублине днем и ночью 16 июня 1904 года.</p>
+                <p class="article-text">“Улисс” является шедевром жанра потока сознания и считается одним из 100 лучших английских романов 20-го века. Каждый год 16 июня отмечается как «День цветения».</p>
             </remark>
             <show chara="teslaSmileDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltNormalSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Ulysses? … You mean the Latin name for “Odysseus”?</speak>
+            <speak chara="weltNoFace">Улисс? … Ты имеешь в виду латинское имя “Одиссея”?</speak>
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">No …</speak>
-            <speak chara="teslaNoFace">Well … I shouldn't have expected you to know that. Just pretend I never asked.</speak>
+            <speak chara="teslaNoFace">Нет …</speak>
+            <speak chara="teslaNoFace">Что-ж … Я не ожидала, что ты будешь знать. Притворись, что я никогда и не спрашивала.</speak>
             <show chara="teslaBoringDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Anyway, make sure you remember the name she gave you, and avoid giving yourself away in front of Customs.</speak>
+            <speak chara="teslaNoFace">В любом случае, постарайся запомнить имя, которое Эйн тебе дала, не выдай себя на таможне.</speak>
             <show chara="teslaBoringDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltScaredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Giving myself away … wait, is this documentation forged?</speak>
-            <text>After all, the name “Welt” was just made up by Einstein not that long ago.</text>
+            <speak chara="weltNoFace">Не выдавать себя?… Стоп, Эти документы подделаны?</speak>
+            <text>Однако и имя «Вельт» было придумано Эйнштейном не так давно.</text>
             <show chara="weltScaredSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSmileDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Well, it depends on how you look at it.</speak>
+            <speak chara="teslaNoFace">Ну, это зависит от того, как на это посмотреть.</speak>
             <show chara="teslaSnickerDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Just pretend it's — “an official certificate issued by a civilian without explicit permission”.</speak>
+            <speak chara="teslaNoFace">просто представь, что это — «официальный документ, выданный гражданским лицом без разрешения».</speak>
             <show chara="teslaSnickerDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltScaredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">What kind of justification is that?</speak>
+            <speak chara="weltNoFace">Что за оправдание?</speak>
             <show chara="weltScaredSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSmileDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Look, it's something we can't reveal!</speak>
+            <speak chara="teslaNoFace">Слушай, мы не можем это раскрывать! </speak>
             <show chara="teslaBoringDressClose-up" position="left"/>
-            <speak chara="teslaNoFace"> But if you start acting all weird, our Righteous Friends of Justice from Scotland Yard will start investigating and asking difficult questions — and I do not particularly welcome that idea.</speak>
+            <speak chara="teslaNoFace">И если ты начнёшь вести себя подозрительно, наши "Праведные Друзья Справедливости"" из Скотленд-Ярда начнут расследование и будут лезть с каверзными вопросами. И я не горю желанием разбираться с этим.</speak>
             <show chara="teslaBoringDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltScaredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Isn't Scotland Yard a criminal police organisation?! Not the Home Office?!</speak> <!-- Added "Home Office" to clarify -->
+            <speak chara="weltNoFace">Разве Скотланд-Ярд не отдел криминальной полиции!?</speak>
             <show chara="weltScaredSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">… Gosh, how could an amnesiac like you remember something as obscure as that?</speak>
-            <speak chara="teslaNoFace"> Who planted such ideas in your head? I just mean the police, okay? Any police!</speak>
+            <speak chara="teslaNoFace">… Боже, как человек, страдающий амнезией как ты, помнит что-то настолько непонятное?</speak>
+            <speak chara="teslaNoFace"> Кто вбил тебе в голову такие мысли? Я имею в виду полицию, хорошо? Любая полиция!</speak>
             <show chara="teslaEmbarraDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltTiredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Erm …</speak>
+            <speak chara="weltNoFace">Эхм …</speak>
             <show chara="weltTiredSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="einNormalCoatClose-up" position="left"/>
-            <speak chara="einNoFace">Relax.</speak>
+            <speak chara="einNoFace">Успокойся.</speak>
             <show chara="einSmileCoatClose-up" position="left"/>
-            <speak chara="einNoFace">Just remember your name and you'll be fine.</speak>
+            <speak chara="einNoFace">Просто запомни своё имя, пока этого будет достаточно.</speak>
             <show chara="einSmileCoatClose-up" position="left" opacity="0.7"/>
             <show chara="weltNormalSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">… Mm-hmm.</speak>
+            <speak chara="weltNoFace">… Ну ладно.</speak>
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaBoringDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Ah.</speak>
+            <speak chara="teslaNoFace">Ах.</speak>
             <show chara="teslaBoringDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltNormalSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">What now?</speak>
+            <speak chara="weltNoFace">Что теперь?</speak>
             <show chara="teslaEmbarraDressClose-up" position="left"/>
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace">None of your damn business.</speak>
+            <speak chara="teslaNoFace">Не твоего ума дело.</speak>
             <show chara="teslaNormalDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Hey Finn, what did you do with your son?</speak>
-            <text>“Son”. For a brief moment, Welt was unable to parse the exact meaning of this word in his brain.</text>
+            <speak chara="teslaNoFace">Эй, Финн, что ты решил со своим сыном?</speak>
+            <text>“Сын”. Какое-то мгновение Вельт не мог уловить значение этого слова.</text>
             <show chara="teslaNormalDressClose-up" position="left" opacity="0.7"/>
             <show chara="nokiaSmileHandUpClose-up" position="right"/>
-            <speak chara="nokiaNoFace">It's fine, I've already called his school.</speak>
-            <speak chara="nokiaNoFace">It's not the first time Joachim has been put in such a situation. He'll be okay.</speak>
+            <speak chara="nokiaNoFace">Все в порядке, я уже позвонил в его школу.</speak>
+            <speak chara="nokiaNoFace">Это не первый раз, когда Йоахим оказывается в такой ситуации. Всё будет в порядке.</speak>
             <show chara="nokiaSmileHandUpClose-up" position="right" opacity="0.7"/>
-            <text>Joachim. Seems like that's the name of the Finn's son …</text>
-            <text>Wait.</text>
-            <text>Son?</text>
+            <text>Йоахим. Кажется так зовут его сына …</text>
+            <text>Стоп.</text>
+            <text>Сын?</text>
             <shake position="all" time="250"></shake>
-            <text>So in other words, Mr Gold-rimmed Glasses here, he has a son who is already attending school?</text>
+            <text>Другими словами, у "Мистера Позолоченные Очки" есть сын, и он уже ходит в школу?</text>
             <hide position="left"/>
             <hide position="right"/>
             <show chara="teslaAngryDressClose-up" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">What are you doing, blanking out again? You blockhead! Hurry up and memorise your name!</speak>
-            <text>With a karate chop, Twintails strikes Welt's head at the exact spot where the lump is growing.</text>
-            <text>Most certainly a deliberate and targeted manoeuvre.</text>
+            <speak chara="teslaNoFace">Что ты делаешь!? опять отключаешься? Тупица! Поторопись и запомни свое имя!</speak>
+            <text>Ударом каратиста, "Хвостик" бьет Вельта по голове точно в то место, где растет шишка.</text>
+            <text>Наверняка преднамеренный и целенаправленный маневр.</text>
             <hide position="center"/>
             <show chara="teslaAngryDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltTiredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">O-o-ow…</speak>
+            <speak chara="weltNoFace">А-а-ау…</speak>
             <show chara="weltScaredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Y-you, how could you be sure I wasn't busy doing that just now?!</speak>
+            <speak chara="weltNoFace">И-и вообще, с чего ты вообще взяла, что я не был этим только что занят?!</speak>
             <show chara="weltScaredSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Hmph. Idiot.</speak>
+            <speak chara="teslaNoFace">Хмпх. Идиот.</speak>
             <show chara="teslaBoringDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">You're obviously envious of Finn the family man, right?</speak>
+            <speak chara="teslaNoFace">Ты явно завидуешь Финну-семьянину, верно?</speak>
             <show chara="teslaEmbarraDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltTiredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Urgh …</speak>
+            <speak chara="weltNoFace">Угхх …</speak>
             <show chara="weltTiredSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalDressClose-up" position="left" />
-            <speak chara="teslaNoFace">Miss “Yang”.</speak>
+            <speak chara="teslaNoFace">Мисс “Янг”.</speak>
             <show chara="teslaNormalDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltNormalSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Huh?</speak>
+            <speak chara="weltNoFace">А?</speak>
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSnickerDressClose-up" position="left" />
-            <speak chara="teslaNoFace">Henrietta Yang, a young and promising archaeologist, a beauty of mixed German-Chinese heritage. She's the Finn's wife. However —</speak>
-            <speak chara="teslaNoFace"> — she is also a very busy lady who can only be at home for around ten days a year. How about you also try raising a child by yourself?</speak>
+            <speak chara="teslaNoFace">Генриетта Янг, молодой и многообещающий археолог, красавица смешанного немецко-китайского происхождения. Она жена финна. Тем не менее - </speak>
+            <speak chara="teslaNoFace"> — она также очень занятая женщина, которая бывает дома только около десяти дней в году. Как насчет того, чтобы попробовать воспитать ребенка одной?</speak>
             <show chara="teslaNormalDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltTiredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Oh …</speak>
+            <speak chara="weltNoFace">А …</speak>
             <show chara="weltTiredSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="nokiaSmileHandUpClose-up" position="left"/>
-            <speak chara="nokiaNoFace">Ha ha ha … Actually, everything's gotten much better after he started going to school. Anyway, my wife's work is valuable and deserving of our support.</speak>
+            <speak chara="nokiaNoFace">Ха-ха-ха… На самом деле, все стало намного лучше, когда он начал ходить в школу. В любом случае, работа моей жены ценна и заслуживает нашей поддержки.</speak>
             <hide position="left"/>
             <hide position="right"/>
             <show chara="teslaAngryDressClose-up" position="center"/>
-            <speak chara="teslaNoFace">Whatever, your top priority now is to memorise your name. And your surname. Every single letter. Don't you dare think about anything else! There'll be plenty of time to do that on the plane!</speak>
-            <text>Twintails grips the back of Welt's collar, and fiercely “exhorts” him with those menacing words —  before purposefully turning towards the mophaired girl seated next to her.</text>
+            <speak chara="teslaNoFace">Как бы то ни было, сейчас твоя главная задача — запомнить своё имя… И фамилию… Каждую букву. И не смей отвлекаться! В самолете на это будет куча времени!</text>
+            <text>Яростно схватив Вельта за воротник, "Хвостик" наставляет его этими угрожающими словами, прежде чем скользяще повернуться к сидящей рядом с ней Эйнштейну.</text>
             <hide position="center"/>
             <show chara="teslaBoringDressClose-up" position="left" />
             <show chara="einNormalCoatClose-up" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace">But … that said, is it still that hard to get anyone to do anything with me?</speak>
-            <speak chara="teslaNoFace">Even if it's in such a boring place as an airplane?</speak>
+            <speak chara="teslaNoFace">К слову, все еще так трудно заставить кого-то что-то сделать со мной?</speak>
+            <speak chara="teslaNoFace">Ведь в самолёте так скучно.</speak>
             <show chara="teslaBoringDressClose-up" position="left" opacity="0.7"/>
             <show chara="einFoolCoatClose-up" position="right"/>
             <speak chara="einNoFace">…</speak>
             <show chara="einFoolCoatClose-up" position="right" opacity="0.7"/>
             <show chara="teslaBoringDressClose-up" position="left" />
-            <speak chara="teslaNoFace">What now? Last time, you didn't play with me, and instead read a book all by yourself. As if your time is simply too precious to keep me company.</speak>
+            <speak chara="teslaNoFace">Что теперь? В прошлый раз ты не играла со мной, а вместо этого читала свою книгу. Как будто твоё время тебе слишком дорого, чтобы составить мне компанию.</speak>
             <show chara="teslaBoringDressClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalCoatClose-up" position="right"/>
             <speak chara="einNoFace">…</speak>
-            <text>Mophead stares expressionlessly into Twintails' eyes.</text>
-            <speak chara="einNoFace">This time we're sharing a double room.</speak>
+            <text>Эйнштейн кинула безэмоциональный взгляд в сторону Теслы.</text>
+            <speak chara="einNoFace">На этот раз мы будем ночевать в двухместном номере.</speak>
             <show chara="einNormalCoatClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalDressClose-up" position="left" />
             <speak chara="teslaNoFace">…</speak>
             <show chara="teslaSmileDressClose-up" position="left" />
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">WOW!</speak>
+            <speak chara="teslaNoFace">ВААУ!</speak>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">REALLY, REALLY? No single rooms this time? Hahaha, that's fantastic! </speak>
+            <speak chara="teslaNoFace">СЕРЬЁЗНО!?, ТЫ НЕ ШУТИШЬ? Никаких однушек в этот раз? Хаха, боже, Это потрясающе! </speak>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace"> I love you Liserl! Love you to death!</speak>
+            <speak chara="teslaNoFace">Я люблю тебя Лизерль! До смерти люблю!</speak>
             <show chara="teslaSmileDressClose-up" position="left" opacity="0.7"/>
             <show chara="einFoolCoatClose-up" position="right"/>
             <bgm src="themeTesla.mp3" status="start"></bgm>
-            <speak chara="einNoFace"> — But only if you promise to dress properly after drinking alcohol and taking your bath …</speak>
+            <speak chara="einNoFace"> — Но это только в том случае, если ты пообещаешь мне, что будешь нормально одеваться после пьянки, или ванны …</speak>
             <show chara="einFoolCoatClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalDressClose-up" position="left" />
             <speak chara="teslaNoFace">…</speak>
@@ -351,364 +352,365 @@
             <show chara="weltShySweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShameDressClose-up" position="left" />
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">S-such a tease …</speak>
+            <speak chara="teslaNoFace">Тоже мне задира…</speak>
+            <speak chara="teslaNoFace">Нашла время стебаться…</speak>
             <show chara="teslaSmileDressClose-up" position="left" />
-            <speak chara="teslaNoFace">How could that possibly be true … Aha ha ha …</speak>
+            <speak chara="teslaNoFace">Как вообще это может быть прадой? … Хах ха ха …</speak>
             <show chara="teslaSmileDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltScaredSweaterClose-up" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="weltNoFace">… Wait, so what I saw before was really — </speak>
+            <speak chara="weltNoFace">… Стоп, то есть, то что я тогда увидел, мне не почудилось!? — </speak>
             <hide position="left"/>
             <hide position="right"/>
             <sound src="hit man.mp3"/>
-            <speak chara="weltNoFace"> — UWAAHHH?!</speak>
-            <text>Before the poor young man in the front seat could react, he was already clutching his head, groaning, and falling back into his seat.</text>
+            <speak chara="weltNoFace"> — УВААХХХХ?!</speak>
+            <text>Прежде чем бедный молодой человек на переднем сиденье успел среагировать, он уже схватился за голову, застонал и упал обратно на свое место.</text>
             <show chara="teslaAngryDressClose-up" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">Welt, shut your trap!!</speak>
+            <speak chara="teslaNoFace">ВЕЛЬТ!, рот свой замолчи!!</speak>
             <goto goto="50"/>
         </scene>
         <scene id="50" background="planeNoon.jpg">
             <bgm src="serenity.mp3" status="start"></bgm>
             <sound src="8_24_launch.mp3"/>
-            <text>The first leg from London to New York.</text>
-            <text>Eight hours.</text>
-            <text>Then transfer to a flight to Chicago. </text>
-            <text>Two hours.</text>
-            <text>Then the final leg to Billings.</text>
-            <text>Another two hours.</text>
-            <text>This does not include time spent waiting to board or change flights —  which will be considerable despite the fact they are VIPs.</text>
-            <text>With the expectation of such a long journey, the roar of the jet engine is even more sleep-inducing than usual …</text>
-            <text>… Especially when the scenery outside the window is an endless monotony of vast ocean.</text>
-            <text>So, even when Welt is awoken by an urge to pass urine — </text>
-            <text> — For a while, he hesitated to leave his seat.</text>
-            <text>He lifts the right arm of the lightly-snoring Twintails that had been draped across his body; and he helps the Finn on the other side of the aisle pick up his glasses that had fallen to the floor — </text>
+            <text>Сперва из Лондона в Нью-Йорк.</text>
+            <text>Восемь часов.</text>
+            <text>После, пересадка на рейс в Чикаго.</text>
+            <text>Два часа.</text>
+            <text>Затем последний рейс в Биллингс.</text>
+            <text>Ещё два часа.</text>
+            <text>Это не включая время на ожидание посадки или пересадки на рейс, которое будет значительным, несмотря на то, что они VIP-пассажиры.</text>
+            <text>В ожидании такого дальнего пути, рёв реактивного двигателя усыпляет еще больше, чем обычно…</text>
+            <text>… Особенно, когда пейзаж за окном представляет собой бесконечное однообразие бескрайнего океана.</text>
+            <text>Однако не смотря на это, Вельт всё-же проснулся —</text>
+            <text> — Некоторое время он не собирался покидать свое место, однако вскоре желание пойти облегчиться взяло верх.</text>
+            <text>Он поднимает правую руку слегка похрапывающей рядом Теслы, которая навалилась на него; заодно помогая Финну, сидящему напротив, подобрать упавшие на пол очки — </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
-            <text> — Only after stepping into the aisle does Welt notice that, among the travellers sleeping left and right, Einstein is still awake, sitting by a window and reading a book in the light.</text>
-            <text>It seems that, every now and then, she is also jotting or scribbling something into her notebook.</text>
+            <text> — Только шагнув в проход, Вельт замечает, что среди спящих по обе стороны путешественников, Эйнштейн все еще не спит, сидит у окна и читает книгу.</text>
+            <text>Кажется, что время от времени она что-то записывает в свой блокнот.</text>
             <show chara="einSmileVestClose-up" position="center"/>
-            <speak chara="weltNoFace">I'm going to the restroom for a while.</speak>
+            <speak chara="weltNoFace">Я отойду в уборную ненадолго.</speak>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Understood.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Поняла.</p>
             </text>
-            <text>The messy-haired girl wrote on a slip of paper and held it up with her hand.</text>
-            <text>Is she reminding him not to disturb other people's sleep?</text>
+            <text>Эйништейн записала на листе бумаги и подняла его перед собой.</text>
+            <text>Это она так напоминает мне, чтоб я не разбудил никого?</text>
             <speak chara="weltNoFace">…</speak>
-            <text>Feeling embarrassed, the young man decides to get on with it and move towards the restroom.</text>
+            <text>Чувствуя себя смущенным, Вельт решает не задерживаться, и направился в туалет.</text>
             <goto goto="55"/>
         </scene>
         <scene id="55" background="planeNoon.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
-            <text>At this moment, no one is waiting in the queue, so Welt is quickly able to address his particular physiological need.</text>
+            <text>К счастью, у туалетов очереди не оказалось, поэтому Вельт быстро удовлетворил свою потребность.</text>
             <choices>
-                <x goto="60" change="black">Maybe I should continue sleeping to get rid of this jet lag …</x>
-                <y>Why isn't Eins taking a break?</y>
+                <x goto="60" change="black">Возможно, мне стоит продолжить спать, чтобы не словить десинхроноз …</x>
+                <y>Почему Эйн ещё не спит?</y>
             </choices>
             <bgm src="themeEin.mp3" status="start"></bgm>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1" post="U2FsdGVkX19eqZ1UrJe1GmX4HkVk">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Not taking a break?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Не спишь?</p>
             </text>
             <hide position="center"></hide>
-            <text>“When in Rome, do as the Romans do.” Welt decides to hand her back a note.</text>
+            <text>“в чужой стране жить - чужой обычай любить.” Вельт решает передать ей записку.</text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">I'm just reading something quite interesting.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Я просто читаю кое-что очень интересное.</p>
             </text>
             <hide position="center"></hide>
-            <text>It is written on the note passed back to him.</text>
-            <text>The temperature in the cabin becomes a little cold, and the young man cannot decide whether he should put on a coat.</text>
+            <text>В салоне становится немного прохладно, и Вельт не может решить, стоит ли ему надевать пальто.</text>
             <show chara="teslaBlackDressClose-up" position="center" opacity="0.7"/>
-            <text>Naturally, Twintails is still sleeping blissfully between the two of them.</text>
+            <text>Как-никак, Тесла все еще блаженно спит между ними, и тревожить её не хочется.</text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">What is it?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Что это?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Riemann conjecture.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Гипотеза Римана.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Math problem?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Математическая проблема?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
                 <div class="article-pic" picsrc="zeta_function.png" style="background-position:left;"/>
-                <p class="article-text-h" style="color:rgb(181,233,247);font-style:italic;">All non-trivial zeros of the analytic continuation are on the line 1/2 + ti.</p>
+                <p class="article-text-h" style="color:rgb(181,233,247);font-style:italic;">все нетривиальные нули дзета-функции Римана лежат на критической прямой, состоящей из комплексных чисел 1/2 + ti.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Absolutely no idea.</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">А попроще? Ничего не понял…</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Not surprising. And people who lack knowledge of complex functions will find it hard to understand.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Неудивительно. Людям, которым не хватает знаний о сложных функциях, будет трудно это понять.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">You only need to know that it can be considered the Holy Grail of the entire mathematical community.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Тебе достаточно знать, что его можно считать Святым Граалем всего математического сообщества.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Holy Grail?!</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Святым Граалем?!</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">For example, if it holds true, from the generalized Reimann Conjecture, Goldbach's conjecture can be easily proven.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Например, если это верно, из обобщенной гипотезы Реймана можно легко доказать гипотезу Гольдбаха.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Do you know what Goldbach's conjecture is?</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Ты знаешь, что такое гипотеза Гольдбаха?</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">No, I don't …</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Нет, без понятия …</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Any odd number greater than 5 can be expressed as the sum of three primes;</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Любое нечетное число больше 5 можно представить в виде суммы трех простых;</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Any even number greater than 2 can be expressed as the sum of two primes.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Любое четное число больше 2 можно представить в виде суммы двух простых.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
                 <p class="article-text" style="color:#EDEDED;font-style:italic;">…</p>
                 <br />
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">All in all, sounds impressive.</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">В общем звучит впечатляюще.</p>
                 <br />
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Do you want to solve these conjectures?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Хочешь решить эти гипотезы?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">No, I don't.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Нет.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">They are completely beyond my abilities.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Все они сверх моих возможностей.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Moreover, my main business is not mathematics. It's just that Riemann had a great influence on me, that's all.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Тем более, что моё основное увлечение — это не математика. Просто Риман оказал на меня большое влияние, вот и все.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Was he your … maths teacher</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Он был твоим … преподавателем математики???</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">You could say so.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Ты в праве так считать.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">He certainly didn't know me, and it was impossible for him to know that my general theory of relativity was based on his Riemannian manifolds.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Он, конечно, не знал меня, и знать не мог, но моя общая теория относительности основана на его Риманово многообразии..</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">After all, he was a historical figure from more than a hundred years ago. He was dead by the time my grandpa was born.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">В конце концов, он был исторической фигурой более чем столетней давности. Он был мертв к тому времени, когда родился мой дедушка.</p>
             </text>
             <hide position="center"></hide>
-            <text>It takes the young man a while to digest the general meaning of that statement.</text>
-            <text>He decides to ask a question that may be a little easier for her to explain — </text>
-            <text> — if only so that he can continue following the conversation.</text>
+            <text>Вельту потребовалось некоторое время, чтобы переварить общий смысл сего утверждения.</text>
+            <text>Он решает задать вопрос, который ей будет немного легче объяснить — </text>
+            <text> — хотя бы для того, чтобы он мог продолжать следить за разговором.</text> 
             <show chara="teslaBlackDressClose-up" position="center" opacity="0.7"/>
-            <text>… Especially while a certain Twintails remains asleep.</text>
+            <text>… Особенно пока Тесла спит .</text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">General relativity?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Общая теория относительности?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">In simple terms, it is a theory that universal gravitation is equivalent to the distortion of time and space.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Проще говоря, это теория, согласно которой вселенская гравитация эквивалентна искажению времени и пространства.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
                 <p class="article-text" style="color:#EDEDED;font-style:italic;">…</p>
                 <br />
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Is there a metaphor or image I can imagine?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Есть ли простой образ, который я могу представить?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">You must have seen a whirlpool before.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Ты наверное уже видел водоворот.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Imagine a wooden ball falling into the whirlpool. Does it look like it is sucked into the hole in the centre?</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Представь деревянный шар, падающий в водоворот. Похоже, что его засасывает в центр?</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Yes.</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Ну да.</p>
                 <br />
-                <p class="article-text" style="color:#EDEDED;font-style:italic;"> — Do you mean that gravity is also an illusion like this?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;"> — Хочешь сказать, что гравитация - это тоже иллюзия, как эта?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">That's right.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Именно так.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">We know that for the wooden ball, the twisting water surface is the direct cause of its spiral motion.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Мы знаем, что для деревянного шара закручивание водной поверхности является непосредственной причиной его спирального движения.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">The same is true for a planet.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">То же верно и для планет.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Any object will rely on its own mass to distort the space and time they are in, forming a vortex that attracts other objects.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Любой объект будет полагаться на свою собственную массу, чтобы искажать пространство и время, в котором они находятся, образуя вихрь, который притягивает другие объекты.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Gravity is just a manifestation of this distortion.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Гравитация всего лишь проявление этого искажения.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Imagine that the surface of the earth is full of such ripples, and our plane is surfing on it.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Представьте, что поверхность земли покрыта такой рябью, и наш самолет скользит по ней.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">This feels like some kind of philosophy …</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Звучит как какая-то философия …</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Physical theory without mathematical notation is philosophy.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Физическая теория без математических обозначений — это философия..</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">That's why Sir Newton's masterpiece is called “The Mathematical Principles of Natural Philosophy”.</p> <!-- Or perhaps "Dame Newton", given the gender-swapping in the Honkai universe. -->
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Вот почему творение сэра Ньютона называется «Математические принципы натуральной философии».</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">I haven't read that book …</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Я её не читал …</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">You won't find it easy to understand.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Тебе будет трудно её понять.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">The mathematical notation of that era is itself indecipherable for most modern readers.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Математические обозначения той эпохи сами по себе неразборчивы для большинства современных читателей.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Indecipherable …</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Неразборчивы …</p>
                 <br />
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Speaking of which, what was that weird text in Schrödinger's letter that I couldn't understand?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Кстати говоря, что это был за странный текст в письме Шрёдингера, который я не мог понять?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">A name.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Имя.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">The name of an information processing device from 50,000 years ago.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Так назвали устройство обработки информации 50,000-ти летной давности.</p>
             </text>
             <hide position="center"></hide>
-            <text>The content of this sentence is so unexpected that Welt remains perplexed for a while.</text>
+            <text>Содержание этого предложения настолько неожиданно, что на какое-то время Вельт замер в недоумении.</text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">What?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Ч-что?</p>
             </text>
             <hide position="center"></hide>
-            <text>The other party simply draws a line silently under the words “information processing device”.</text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">So … what is an “information processing device”?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">So … Что это за “устройство обработки информации”?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Imagine a librarian made of machinery, or a library with automatons as its administrators.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Представь библиотекаря, состоящего из механизмов, или библиотеку с автоматами в качестве администраторов.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Automatic machinery?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Автоматические механизмы?</p>
                 <br />
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Fifty thousand years ago?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Пятьдесят тысяч лет назад?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">From your perspective …</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Сейчас ты можешь …</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Just treat it as a cliff-hanger, a taste of things to come.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Просто отнестись к этому как к интригующей завязке, пускай подогреет вкус грядущих событий.</p>
                 <br />
                 <p class="article-text" style="color:rgb(181,233,247);">☺</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Please tell me now.</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Пожалуйста, скажи сейчас!</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Too much trouble.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Слишком много проблем.</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Please.</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Пожалуйста!</p>
+                <br />
+                <p class="article-text" style="color:rgb(181,233,247);">இ௰இ</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Someone will tell you in due course.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Всему свое время. Тебе потом кто-нибудь объяснит</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Someone whom I reckon will not be afraid of this inconvenience — so please spare me the trouble.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Кто-то, кого я полагаю, не напугает это непонимание, так что, пожалуйста, избавь меня от хлопот.</p>
                 <br />
                 <p class="article-text" style="color:rgb(181,233,247);">☺</p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">Whoa, Eins is so mean.</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Ох, Эйн такая злюка!</p>
                 <br />
                 <p class="article-text" style="color:#EDEDED;">☹</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Of course I am. </p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Естественно. </p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">p.s. Now that I think of it, I find your tone pathetic.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">p.s. Теперь, при мысли об этом, мне кажется твой тон жалким.</p>
             </text>
             <hide position="center"></hide>
-            <text>The young man had no choice but to stick out his tongue.</text>
-            <text>The girl responds in kind.</text>
-            <text>While doing so, she also takes the note back from him.</text>
+            <text>Вельту ничего не пришло в голову, как высунуть язык.</text>
+            <text>Девочка ответила тем-же.</text>
+            <text>При этом она также забирала у него записку.</text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Let's use this opportunity to attend math class. </p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Давай воспользуемся этой возможностью, и "посетим" урок математики. </p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Are you serious?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Ты серьезно?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Of course.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Конечно.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Do you know how to prove e^(πi) + 1 = 0? </p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Знаешь, как доказать e^(πi) + 1 = 0? </p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">How could I know?!</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">И как я должен об этом узнать?!</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Oh. Should we start with the fundamental theorem of calculus?</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Ой. Может быть начнем с основной теоремы анализа?</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">No, since I need to teach you, maybe it's better to start by learning Dedekind cuts? </p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Нет, так как мне нужно научить тебя, может быть, следует начать с изучения сокращений Дедекинда?</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Ah, at this point, I think we're better off just starting from the very basics with set theory … </p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">А, на данный момент, я думаю, нам лучше начать с самых основ теории множеств … </p>
             </text>
             <show chara="weltBlackClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Can I choose to sleep?</p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">… Могу ли я выбрать СПАТЬ?</p>
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Okay.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Ладно.</p>
                 <br />
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">Then I can read more books by myself.</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">В таком случае я прочту больше книг для себя.</p>
                 <br />
                 <p class="article-text" style="color:rgb(181,233,247);">☺</p>
             </text>
             <hide position="center"></hide>
             <show chara="einLveCoatClose-up" position="center"/>
-            <text>And as she passes the note, the girl sticks out her tongue with an even more innocent expression.</text>
-            <text>It is as if she is saying — </text>
-            <text>“Want to chat with me? You're a hundred years behind.”</text>
+            <text>И когда она передает записку, девушка высовывает язык с еще более невинным выражением лица.</text>
+            <text>Она как бы говорит — </text>
+            <text>«Хочешь поболтать со мной? Ты отстал на сотню лет». </text>
             <goto goto="70"/>
         </scene>
         <scene id="60" background="Memory2.jpg">
             <bgm src="8_24_war.mp3" status="start"></bgm>
             <text post="U2FsdGVkX18wrTH4A0Mz6Lys852r">…</text>
             <text>… …</text>
-            <text>Countless people killed.</text>
-            <text>Countless buildings, the pride and joy of those very people, incinerated and destroyed.</text>
-            <text>I have long since grown numb to their desperate wailing.</text>
-            <text>Now, these survivors, like cockroaches … How are they going to deal with me?</text>
-            <text>Eviscerate me live, cut out my Herrscher Core, then hang me like a dog in public?</text>
+            <text>Бесчисленное количество людей убито…</text>
+            <text>Бесчисленные здания, надежда и счастье множества людей, сожжены и разрушены.</text>
+            <text>Я уже давно оцепенел от их отчаянного воя.</text>
+            <text>Эти выжившие … как тараканы … Как они собираются со мной расправиться?</text>
+            <text>Выпотрошите меня заживо? Вырежете моё Херршер-ядро, а затем публично повесите меня?</text>
             <text>… … …</text>
             <shake position="all" time="250"></shake>
             <sound src="8_24_womanLaugh2.mp3"/>
-            <speak chara="redNoFace">HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!</speak>
-            <text>Quite interesting, isn't it?</text>
-            <text>A strange weapon that can distort space-time and create blackholes, is that the way it gains its power?</text>
-            <text>So marvelous … And you lot can unleash its power as often as you like …</text>
-            <text>… But one day, it will use power a hundred-fold stronger than I am now, to seek vengeance against you!</text>
+            <speak chara="redNoFace">ХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХА!</speak>
+            <text>Очень знятно, не находишь?</text>
+            <text>Странное оружие, способное искривлять пространство и время, создавать чёрные дыры, вот значит как оно накапливает свою чудовищную силу?</text>
+            <text>Так потрясающе… Можно высвобождать его мощь так часто, как захочешь…</text>
+            <text>… Но однажды он воспользуется силой в сто раз сильнее, чем я сейчас, чтобы отомстить мне!</text>
             <shake position="all" time="250"></shake>
             <sound src="8_24_womanLaugh2.mp3"/>
-            <speak chara="redNoFace">HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!</speak>
-            <text>And when that time comes, I really hope you won't lower me from the gallows — </text>
-            <text> — in that case, won't it be a perfect time and place for me to witness with my own eyes, the miserable demise predestined for you?</text>
+            <speak chara="redNoFace">ХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХА!</speak>
+            <text>И когда настанет этот момент, я очень надеюсь, что ты не спустишь меня с виселицы. — </text>
+            <text> — в таком случае, не будет ли это время и место, самым подходящим для меня, чтобы своими глазами увидеть твою жалкую смерть?</text>
             <shake position="all" time="250"></shake>
             <sound src="8_24_womanLaugh2.mp3"/>
-            <speak chara="redNoFace">HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!</speak>
+            <speak chara="redNoFace">ХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХАХА!</speak>
             <goto goto="65"/>
         </scene>
         <scene id="65" background="planeNoon.jpg">
@@ -718,121 +720,121 @@
             <speak chara="weltNoFace">…</speak>
             <speak chara="weltNoFace">… …</speak>
             <speak chara="weltNoFace">… … …</speak>
-            <text>Awakened by that crazed laughter, Welt sits weak and limp in his seat, his mouth wide open and gasping for air, the blue veins of both temples twitching and pulsating.</text>
-            <text>That nightmare just now, it felt much too real — so real that Welt begins to wonder if it was a flashback from his true memory.</text>
-            <text>“Herrscher”.</text>
-            <text>Welt had heard this term before while he was in the previous labs.</text>
-            <text>According to conclusions drawn from ancient manuscripts, when the instantaneous power output of a Honkai eruption reaches over 1000HW, there is a chance for an existence called a “Herrscher” to be born within the disaster zone.</text>
-            <text>The “Herrscher” is a monster transformed from a human who is highly adaptable to Honkai Energy — </text>
-            <text> — These women can use the supernatural power originating from the “Core of the Herrscher” to destroy the human world with impunity.</text>
-            <text>Yes, “women”. More than a dozen Herrschers had been recorded in ancient literature, and with no exceptions, all of them were female.</text>
-            <text>Generally speaking, the adaptability of males to Honkai Energy is much lower than that of females —  and the Herrscher is the ultimate manifestation of that adaptability.</text>
+            <text>Проснувшись от этого безумного смеха, Вельт сидит, обессиленный и обмякший, с широко открытым ртом, жадно глотая воздух. Посиневшие вены на обоих висках подергиваются и пульсируют.</text>
+            <text>Этот кошмар только что казался слишком реальным — настолько реальным, что Вельт начинает задаваться вопросом, не было ли это воспоминанием его прошлого.</text>
+            <text>“Херршер”.</text>
+            <text>Вельт слышал это слово раньше, когда был в предыдущих лабораториях.</text>
+            <text>Согласно выводам, сделанным из древних рукописей, когда выходная мощность "Хонкай Извержения"" достигает более 1000 ГВт за раз, есть шанс, что в зоне бедствия родится существо, называемое «Херршером».</text>
+            <text>«Херршер» - это монстр, преобразованный из человека, который хорошо адаптируется к энергии Хонкая — </text>
+            <text> — Эти женщины могут использовать сверхъестественную силу, происходящую из «Ядра Хершера», чтобы безнаказанно уничтожиить человеческий мир.</text>
+            <text>Да, “женщины”. В древней литературе упоминается более дюжины Херршеров, и все они без исключения - женщины.</text>
+            <text>Вообще говоря, приспособляемость мужчин к Энергии Хонкай намного ниже, чем у женщин, и Херршер является высшим проявлением этой приспособляемости.</text>
             <speak chara="weltNoFace">…</speak>
-            <text>There are no Herrschers in the world today. Also, those various statements referring to them in ancient literature may be nothing more than crude creation myths.</text>
-            <text>But one thing continues to make the young man Welt feel uneasy: in his dream, the woman whose form he had taken, why were her thoughts so chilling and frightful?</text>
+            <text>Сегодня в мире нет Херршеров. Кроме того, те различные утверждения, относящиеся к ним в древней литературе, могут быть не чем иным, как мифами о сотворении мира.</text>
+            <text>Но одно продолжает беспокоить юношу Вельта: во сне женщина, чью форму он принял … почему ее мысли были такими леденящими и пугающими?</text>
             <speak chara="einNoFace">Zzz …</speak>
             <speak chara="teslaNoFace">Zzz …</speak>
             <speak chara="nokiaNoFace">Zzz …</speak>
-            <text>Looking to his left and right, he sees his companions all immersed in their own personal dreams.</text>
-            <speak chara="weltNoFace">… Don't think too much, a nightmare is just a coincidence, a stroke of bad luck, nothing else.</speak>
+            <text>Оглядываясь по сторонам, Вельт видит своих сладко спящих товарищей.</text>
+            <speak chara="weltNoFace">… Не стоит думать об этом слишком много, кошмар — это просто совпадение, удача, ничего больше..</speak>
             <goto goto="68" change="0"/>
         </scene>
         <scene id="68" background="black">
             <bgm src="serenity.mp3" status="stop"></bgm>
             <sound src="deep breath.mp3"/>
-            <text>Motivating himself in this way, the young man takes a deep breath, and closes his eyes.</text>
-            <text>Just go back to sleep, and wipe my mind clean of that terrible figment of my imagination.</text>
+            <text>Мотивируя себя таким образом, Вельт делает глубокий вдох и закрывает глаза.</text>
+            <text>Просто ложись спать и не думай об этом. Тебе всё это лишь приснилось</text>
             <goto goto="70"/>
         </scene>
         <scene id="70" background="airportNewYork.jpg">
             <bgm src="themeWelt.mp3" status="start"></bgm>
-            <text>New York International Airport.</text>
-            <text>Due to the flight spanning five time zones, Welt can still see the afterglow of a setting sun here, even though it has been ten hours since lunch.</text>
+            <text>Международный аэропорт Нью-Йорка.</text>
+            <text>Из-за полета, охватывающего пять часовых поясов, Вельт все еще может видеть здесь свет заходящего солнца, хотя с обеда прошло уже десять часов.</text>
             <show chara="blackTwo" position="left"/>
-            <speak chara="blackNoFace">Dr Einstein, Dr Tesla.</speak>
-            <text>Two strangers suddenly interrupt Welt's reverie.</text>
+            <speak chara="blackNoFace">Доктор Эйнштейн, доктор Тесла.</speak>
+            <text>Двое незнакомцев внезапно прервали задумчивость Вельта.</text>
             <show chara="blackTwo" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousFar" position="center"/>
-            <speak chara="nokiaNoFace">Excuse me, who might you two be …?</speak>
-            <text>The Finn stands vigilantly in front of the two ladies.</text>
+            <speak chara="nokiaNoFace">Извините, с кем имеем дело?</speak>
+            <text>Финн зорко встал перед двумя дамами.</text>
             <show chara="blackTwo" position="left"/>
             <show chara="nokiaSeriousFar" position="center" opacity="0.7"/>
-            <speak chara="blackNoFace">Dr Einstein, we should have met before.</speak>
-            <text>This middle-aged man has a deep voice. Welt feels as though he too had heard his voice before.</text>
+            <speak chara="blackNoFace">Доктор Эйнштейн, мы должно было встречались раньше.</speak>
+            <text>У этого мужчины средних лет низкий голос. Вельту на мгновение показалось, что он тоже слышал этот голос раньше.</text>
             <show chara="blackTwo" position="left" opacity="0.7"/>
             <show chara="einSeriousCoatFar" position="right"/>
-            <speak chara="einNoFace">What can I do for you?</speak>
-            <text>The mophaired girl responds emotionlessly, as if they had never been acquainted.</text>
+            <speak chara="einNoFace">Чем обязана?</speak>
+            <text>Эйнштейн ответила беземоционально, как будто они никогда и не были знакомы.</text>
             <show chara="einSeriousCoatFar" position="right" opacity="0.7"/>
             <show chara="blackTwo" position="left"/>
-            <speak chara="blackNoFace">The Old Man hopes this will be of help to you.</speak>
-            <text>The middle-aged man takes a scroll case from his leather briefcase, and hands it to the Finn.</text>
-            <speak chara="blackNoFace">You are an expert in ancient manuscripts, right?</speak>
+            <speak chara="blackNoFace">Старик думает, что это вам поможет.</speak>
+            <text>Мужчина средних лет достает из своего кожаного портфеля свиток и передает его финну.</text>
+            <speak chara="blackNoFace">Вы специалист по древним манускриптам, да?</speak>
             <show chara="blackTwo" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousFar" position="center"/>
-            <speak chara="nokiaNoFace">For the time being …</speak>
+            <speak chara="nokiaNoFace">На данный момент …</speak>
             <show chara="blackTwo" position="left"/>
             <show chara="nokiaSeriousFar" position="center" opacity="0.7"/>
-            <speak chara="blackNoFace">Then you should recognize this.</speak>
+            <speak chara="blackNoFace">В таком случае, это должно быть вам известно.</speak>
             <show chara="blackTwo" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousFar" position="center"/>
             <speak chara="nokiaNoFace">…</speak>
-            <text>The Finn opens the wooden box dubiously, and pulls out a tattered piece of parchment that appears to have only been recently restored.</text>
-            <speak chara="nokiaNoFace">Aramaic …</speak>
-            <speak chara="nokiaNoFace">“Judgement Day” … “Sacrifice” … “Song” …</speak>
+            <text>Финн с сомнением открывает деревянную шкатулку и вытаскивает изодранный кусок пергамента, который, кажется, был восстановлен совсем недавно.</text>
+            <speak chara="nokiaNoFace">Арамеик …</speak>
+            <speak chara="nokiaNoFace">“Судный день” … “Жертва” … “Песнь” …</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="nokiaNoFace">This verse … C-could this be the Dead Sea Scrolls?</speak>
+            <speak chara="nokiaNoFace">Эти слвоа… Не уж то, это свитки Мертвого моря?</speak>
             <show chara="blackTwo" position="left"/>
             <show chara="nokiaSeriousFar" position="center" opacity="0.7"/>
-            <speak chara="blackNoFace">Hehe … indeed you recognise it.</speak>
-            <speak chara="blackNoFace">Not bad. This is part of the scroll that has never  been released publicly. I hope that the secrets within will be useful to your research.</speak>
+            <speak chara="blackNoFace">Хехе … Вы действительно их узнали.</speak>
+            <speak chara="blackNoFace">Неплохо. Это часть свитка, которая никогда не публиковалась. Я надеюсь, что его тайны будут полезны в ваших исследованиях.</speak>
             <show chara="blackTwo" position="left" opacity="0.7"/>
             <show chara="teslaNormalDressFar" position="right"/>
-            <speak chara="teslaNoFace">So, the Overseer, what exactly does he need us to do?</speak>
+            <speak chara="teslaNoFace">Итак, Смотритель, что именно ему нужно от нас?</speak>
             <show chara="blackTwo" position="left"/>
             <show chara="teslaNormalDressFar" position="right" opacity="0.7"/>
-            <speak chara="blackNoFace">Nothing.</speak>
-            <speak chara="blackNoFace">The Old Man just hopes to give Lab 42 a hand in their research — that is all.</speak>
+            <speak chara="blackNoFace">Ничего.</speak>
+            <speak chara="blackNoFace">Старик просто хочет помочь Лаборатории 42 в их исследованиях — вот и все.</speak>
             <show chara="blackTwo" position="left" opacity="0.7"/>
             <show chara="teslaSnickerDressFar" position="right"/>
-            <speak chara="teslaNoFace">In other words …  He has high expectations for our research this time, yes?</speak>
+            <speak chara="teslaNoFace">Другими словами… На этот раз он возлагает большие надежды на наше исследование, да?</speak>
             <show chara="blackTwo" position="left"/>
             <show chara="teslaSnickerDressFar" position="right" opacity="0.7"/>
-            <speak chara="blackNoFace">Of course.</speak>
-            <speak chara="blackNoFace">He looks forward to reading your thesis.</speak>
+            <speak chara="blackNoFace">Именно.</speak>
+            <speak chara="blackNoFace">Он с нетерпением ждет прочтения вашей диссертации.</speak>
             <show chara="blackTwo" position="left" opacity="0.7"/>
             <show chara="teslaSnickerDressFar" position="right"/>
-            <speak chara="teslaNoFace">Okay, okay, I understand.</speak>
-            <speak chara="teslaNoFace">The point of our activities here is to not let the North American branch monopolise the results, right?</speak>
+            <speak chara="teslaNoFace">Хорошо, хорошо, я поняла.</speak>
+            <speak chara="teslaNoFace">Смысл нашей деятельности здесь в том, чтобы не позволить североамериканскому отделению монополизировать результаты, верно?</speak>
             <show chara="teslaBoringDressFar" position="right"/>
-            <speak chara="teslaNoFace">To muster people and mobilise resources for such a trivial reason, relations between the European and North American branches must be quite sour indeed.</speak>
+            <speak chara="teslaNoFace">Чтобы собрать людей и мобилизовать ресурсы по такой тривиальной причине, отношения между европейским и североамериканским отделениями должны быть очень натянутыми.</speak>
             <show chara="teslaBoringDressFar" position="right" opacity="0.7"/>
             <show chara="blackTwo" position="left"/>
             <speak chara="blackNoFace">…</speak>
-            <speak chara="blackNoFace">Ah yes. Here's a souvenir, please kindly accept.</speak>
-            <text>The middle-aged man no longer pays any attention to Tesla, but instead takes out a box of luxurious-looking chocolate from his leather briefcase, and hands it to Einstein.</text>
-            <speak chara="blackNoFace">Well, see you next time.</speak>
+            <speak chara="blackNoFace">Ах, да. Вот сувенир, пожалуйста, примите.</speak>
+            <text>Мужчина средних лет, более не обращая внимания на Теслу, достает из своего портфеля коробку "премиальных" шоколадных конфет и передает ее Эйнштейну.</text>
+            <speak chara="blackNoFace">Что ж, увидимся в следующий раз.</speak>
             <show chara="nokiaSeriousFar" position="left" opacity="0.7"/>
             <show chara="teslaBoringDressFar" position="center"/>
             <show chara="einSeriousCoatFar" position="right" opacity="0.7"/>
             <speak chara="teslaNoFace">…</speak>
             <show chara="teslaEmbarraDressFar" position="center"/>
-            <speak chara="teslaNoFace">Tut.</speak>
-            <speak chara="teslaNoFace">That man liked to talk around the point, but I could tell that they still have that same old authoritarian streak. After all, the tail cannnot be allowed to wag the dog, and a tree trunk must remain strong while its branches remain light. Now that a new branch finally prospers, they have come to fear it. And so they turn against it faster than turning the pages of a book.</speak> <!-- 说的不疼不痒 = "Speaking neither of pain nor of itch"; 尾大不掉 = "A large tail will not be easy to discard or control"; 翻脸比翻书还快 = "turn about face faster than turning the pages of a book" -->
+            <speak chara="teslaNoFace">Ть.</speak>
+            <speak chara="teslaNoFace">Ему явно по душе говорить не по существу, но я могу сказать, что у них все еще есть та же старая авторитарная жилка. Ведь нельзя позволять хвосту вилять собакой, а ствол дерева должен оставаться крепким, а его ветки — легкими. Теперь, когда новая ветвь наконец-то начала процветать, они стали ее бояться. И вот они восстают против него быстрее, чем переворачивают страницы книги.</speak>
             <show chara="teslaEmbarraDressFar" position="center" opacity="0.7"/>
             <show chara="einNormalCoatFar" position="right"/>
             <speak chara="einNoFace">…</speak>
-            <text>Einstein remains non-committal in her non-response, and silently peels away the wrapping paper from a piece of chocolate.</text>
+            <text>Эйнштейн избегает ответа и молча снимает обёртку с конфеты.</text>
             <show chara="teslaAngryDressFar" position="center"/>
             <show chara="einNormalCoatFar" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace">Hey! I'm speaking to you, Mophead! Just a box of chocolate is enough to win you over?!</speak>
+            <speak chara="teslaNoFace">Эй! Я говорю с тобой, Швабра! Одной лишь коробки шоколада достаточно, чтобы покорить тебя?!</speak>
             <show chara="teslaAngryDressFar" position="center" opacity="0.7"/>
             <show chara="einSmileCoatFar" position="right"/>
-            <speak chara="einNoFace">If I don't eat it, Mr Cocoa Farmer will be upset.</speak>
+            <speak chara="einNoFace">Если я его не съем, мистер какао-фермер расстроится.</speak>
             <show chara="teslaAngryDressFar" position="center"/>
             <show chara="einSmileCoatFar" position="right" opacity="0.7"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">… Are you even listening to me?!</speak>
+            <speak chara="teslaNoFace">… Ты меня вообще слушаешь?!</speak>
             <end post="U2FsdGVkX19iYggwjfZZvGuXAWk9"/>
         </scene>
     </story>

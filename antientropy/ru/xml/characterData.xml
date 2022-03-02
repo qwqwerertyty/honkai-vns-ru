@@ -76,8 +76,8 @@
         <character name="Эйнштейн" color="rgb(181,233,247)" id="einLveCoatClose-up" src="8_24_einLveCoatClose-up.png"/>
         <character name="Эйнштейн" color="rgb(181,233,247)" id="einNormalCoatFar" src="8_24_einNormalCoatFar.png"/>
         <character name="Эйнштейн" color="rgb(181,233,247)" id="einSmileCoatFar" src="8_24_einSmileCoatFar.png"/>
-        <character name="Человек в чёрном" color="#8F8F8F" id="blackNoFace" src=""/>
-        <character name="Человек в чёрном" color="#8F8F8F" id="blackTwo" src="8_24_leader.png"/>
+        <character name="Люди в чёрном" color="#8F8F8F" id="blackNoFace" src=""/>
+        <character name="Люди в чёрном" color="#8F8F8F" id="blackTwo" src="8_24_leader.png"/>
         <character name="Девочка" color="rgb(180,60,65)" id="redNoFace" src=""/>
         <character name="Тесла" color="rgb(237,118,114)" id="teslaShameDressFar" src="8_30_teslaShameDressFar.png"/>
         <character name="Тесла" color="rgb(237,118,114)" id="teslaGreenDressClose-up" src="8_30_teslaGreenDressClose-up.png"/>

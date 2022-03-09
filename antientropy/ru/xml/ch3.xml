@@ -309,7 +309,7 @@
             <hide position="left"/>
             <hide position="right"/>
             <show chara="teslaAngryDressClose-up" position="center"/>
-            <speak chara="teslaNoFace">Как бы то ни было, сейчас твоя главная задача — запомнить своё имя… И фамилию… Каждую букву. И не смей отвлекаться! В самолете на это будет куча времени!</text>
+            <speak chara="teslaNoFace">Как бы то ни было, сейчас твоя главная задача — запомнить своё имя… И фамилию… Каждую букву. И не смей отвлекаться! В самолете на это будет куча времени!</speak>
             <text>Яростно схватив Вельта за воротник, "Хвостик" наставляет его этими угрожающими словами, прежде чем скользяще повернуться к сидящей рядом с ней Эйнштейну.</text>
             <hide position="center"/>
             <show chara="teslaBoringDressClose-up" position="left" />

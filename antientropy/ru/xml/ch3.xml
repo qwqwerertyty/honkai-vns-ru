@@ -827,7 +827,7 @@
             <text>Эйнштейн избегает ответа и молча снимает обёртку с конфеты.</text>
             <show chara="teslaAngryDressFar" position="center"/>
             <show chara="einNormalCoatFar" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace">Эй! Я говорю с тобой, Швабра! Одной лишь коробки шоколада достаточно, чтобы покорить тебя?!</speak>
+            <speak chara="teslaNoFace">Эй! Я говорю с тобой, Швабра! Одной лишь коробки конфет достаточно, чтобы покорить тебя?!</speak>
             <show chara="teslaAngryDressFar" position="center" opacity="0.7"/>
             <show chara="einSmileCoatFar" position="right"/>
             <speak chara="einNoFace">Если я его не съем, мистер какао-фермер расстроится.</speak>

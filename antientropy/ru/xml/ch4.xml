@@ -87,7 +87,7 @@
             <show chara="weltTiredClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
             <speak chara="nokiaNoFace">Слушай, в принципе, хороший человек должен иметь четкое представление о своих сильных сторонах.</speak>
-             <текст>«Мистер Позолоченнные Очки» показал жест «ОК» и закругляет тему, прежде чем Вельт успел вставить еще одно слово.</text>
+             <text>«Мистер Позолоченнные Очки» показал жест «ОК» и закругляет тему, прежде чем Вельт успел вставить еще одно слово.</text>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltTiredClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
@@ -275,7 +275,7 @@
             <speak chara="weltNoFace">Этот «Техасский холдем», о котором вы упомянули, я не знаю, как в него играть.</speak>
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaBoringDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">… Это не так сложно, ты поймешь всё по ходу игры.</speak>.</speak>
+            <speak chara="teslaNoFace">… Это не так сложно, ты поймешь всё по ходу игры.</speak>
             <show chara="teslaBoringDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltNormalSweaterClose-up" position="right"/>
             <speak chara="weltNoFace">Эм…</speak>

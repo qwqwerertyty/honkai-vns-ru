@@ -11,17 +11,17 @@
             <text remark="next">Имперский Институт.</text>
             <remark post="U2FsdGVkX19nEXNXbauN7pDja052">
                 <p class="article-text-h">Примечание:</p>
-                <p class="article-text">Имперский Институт расположен в Кенсингтоне, Лондон. Он был основан Королевой Великобритании: Викторией, в 1888Г. Он стал одним из основателей Имперского Колледжа, в лондоне в 1907Г. (Примечание от автора англ. перевода: "Это не совсем так: Имперский институт оставался отдельным учреждением от Имперского колледжа, хотя сейчас Колледж занимает то место, где когда-то располагался институт".)</p>
-                <p class="article-text">В 1958, Имперский Институт Был Переименован в "Институт Содружества", и кампус был перестроен в другом месте. От первоначального здания сохранилась только знаменитая "Башня Королевы".</p>
+                <p class="article-text">Имперский Институт расположен в Кенсингтоне, Лондон. Он был основан Королевой Великобритании: Викторией, в 1888Г. Он стал одним из основателей Имперского Колледжа, в Лондоне в 1907Г. (Примечание от автора англ. перевода: "Это не совсем так: Имперский институт оставался отдельным учреждением от Имперского колледжа, хотя сейчас Колледж занимает то место, где когда-то располагался институт".)</p>
+                <p class="article-text">В 1958, Имперский Институт был переименован в "Институт Содружества", и кампус был перестроен в другом месте. От первоначального здания сохранилась только знаменитая "Башня Королевы".</p>
             </remark>
-            <text>Будучи “Вышвырнутым на улицу” той красноволосой девчонкой, не находящий своего места юноша теперь бесцельно бродит по колледжу, колледжу с почти 70-летней историей.</text>
+            <text>Будучи “вышвырнутым на улицу” той красноволосой девчонкой, не находящий своего места юноша теперь бесцельно бродит по колледжу, колледжу с почти 70-летней историей.</text>
             <show chara="teslaAngryClose" position="center" opacity="0.6"/>
             <speak chara="teslaNoFace">Ладно-ладно, быстрее убирайся отсюда, и постарайся привыкнуть к новому месту!</speak>
             <speak chara="teslaNoFace">И не смей возвращаться до полудня!</speak>
             <hide position="center"/>
             <text>Он не может понять почему, не смотря на то, что она тоже член ордена Шиксаля, он испытывает чувство жестокого обращения со стороны этой девушки —</text>
             <text>— Однако ему это не кажется столь неприятным.</text>
-            <speak chara="weltNoFace">Уф … Даже сейчас все мои мысли запутаны.</speak>
+            <speak chara="weltNoFace">Уф… даже сейчас все мои мысли запутаны.</speak>
             <bgm src="serenity.mp3" status="start"></bgm>
             <text article="1">
                 <p class="article-text">Имперский Институт.</p>
@@ -29,7 +29,7 @@
                 <p class="article-text">Неподалёку, пастельно-зеленый купол Королевской Башни покрыт пылью и грязными следами дождевой воды, производя невыразимо безобразный, грязный цвет и блеск — словно даже в такой необыкновенно ясный день, он решил поиздеваться, и нагнать тоску, напомнив холодную, дождивую погоду, свойственную этому месту.</p>
             </text><!--изначально говорилось, что купол ~напоминает людям о загрязнении воздуха, или что-то вроде-->
             <text>Привыкший к безупречному убранству высококлассных исследовательских лабораторий, Вельт чувствует себя странно утешенным тем, что можно считать ориентиром, эквивалентным забытой знаменитости.</text>
-            <text>Хоть личной свободы в абсолютном смысле нет — по крайней мере, эта «вездесущая и всемогущая» организация предпочла на мгновение расслабиться. .</text>
+            <text>Хоть личной свободы в абсолютном смысле нет — по крайней мере, эта «вездесущая и всемогущая» организация предпочла на мгновение расслабиться.</text>
             <text>Что ж, может быть.</text>
             <text>Осень медленно наступает, и солнце тщетно пытается согреть остывающую, продуваемую ветрами землю.</text>
             <text>Опираясь на мраморные перила около пешеходной дорожки, Вельт энергично хлопает себя по щекам.</text>
@@ -40,13 +40,13 @@
             <text>— И посмотри, как прекрасен этот мир!</text>
             <text article="1">
                 <p class="article-text">К северу от института находится большой участок пышного, зеленеющего леса. Говорят, это знаменитый Гайд-парк и Кенсингтонские сады, но вероятно это не заинтересует эту парочку "гениев".</p>
-                <p class="article-text">Мне кажется, что для этой элиты в их бледно-белой башне, единственный способ расслабиться, который приходит на ум, это удобно устроиться на садовой скамейке, закрыть глаза и расслабиться.</p>
+                <p class="article-text">Мне кажется, что для этой элиты в их бледно-белой башне, единственный способ отдохнуть, который приходит на ум, это удобно устроиться на садовой скамейке, закрыть глаза и расслабиться.</p>
                 <p class="article-text">Не очень то это и креативно. Даже оставив Эйнштейна в стороне, для Теслы это будет явно слишком скучно.</p>
             </text>
             <text article="1">
                 <p class="article-text">Мне надо сводить их в место поинтереснее.</p>
                 <p class="article-text">В Лондоне должно быть много мест, где можно развлечься. Не потратив много времени на размышления, Вельт решает отправиться в библиотеку</p>
-                <p class="article-text">— Of course, he cannot know that in the future, there will be something more convenient like the Internet.</p>
+                <p class="article-text">— Конечно, он не может знать, что в будущем появится что-то более подходящее, например Интернет.</p>
             </text>
             <goto goto="20"/>
         </scene>
@@ -55,42 +55,42 @@
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">Халло.</speak>
             <text>Библиотекарь — неформально одетый мужчина, в полосатой рубашке с короткими рукавами и в очках в золотой оправе. </text>
-            <text>Блондин лет тридцати, вдруг начинает разговор со странным иностранным акцентом.  —</text>
+            <text>Блондин лет тридцати, вдруг начинает разговор со странным иностранным акцентом. —</text>
             <bgm src="lab.mp3" status="start"></bgm>
             <speak chara="nokiaNoNameNoFace">Сиерр, могу ли йа поинтересоваться, не хотите ли фзять какие либо книги?</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Аа … Эмм … Я …</speak>
+            <speak chara="weltNoFace">Аа… Эмм… Я…</speak>
             <text>Вельт почувствовал, что не вытерпит этого человека слишком долго, с его странным акцентом.</text>
-            <speak chara="weltNoFace">Простите … У вас не найдётся несколько книг … о местных достопремичательностях, или какие нибудь … туристические руководства?</speak>
+            <speak chara="weltNoFace">Простите… у вас не найдётся несколько книг… о местных достопремичательностях, или какие нибудь… туристические руководства?</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">Турисстические рукофодстфа?</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Хмм … ну такие книжки, которые помогут ознакомиться с интересными местами в лондоне.</speak>
+            <speak chara="weltNoFace">Хмм… ну такие книжки, которые помогут ознакомиться с интересными местами в Лондоне.</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">… Это не сфонит ни ф какие колокола.</speak>
             <text>Мистер "позолоченные очки" с сожалением взмахнул руками.</text>
             <speak chara="nokiaNoNameNoFace">Не желаете ли пройти в читальный зал, и поискать там? </speak>
-            <speak chara="nokiaNoNameNoFace">Мне очень ж-аль, но похоже, у нес нет туррисстичесских гидов. Я не фидел никаких упоминаний ф жухнале, так что наша библиотека и фправду не распологается такими книгами —</speak><!--только сейчас я понял, что картика библиотекаря подписана "Nokia". Боже! (≧∇≦)ﾉ остановите мой ор!-->
+            <speak chara="nokiaNoNameNoFace">Мне очень ж-аль, но похоже, у нас нет туррисстичесских гидов. Я не фидел никаких упоминаний ф жухнале, так что наша библиотека и фправду не распологается такими книгами —</speak><!--только сейчас я понял, что картика библиотекаря подписана "Nokia". Боже! (≧∇≦)ﾉ остановите мой ор!-->
             <speak chara="nokiaNoNameNoFace">— Или возможно прафильнее будет сказать, что они за гранью тех книг, на которые мы "охотимся".</speak>
             <text>Мистер "позолоченные очки" скорчил странную гримасу, что-то между фальшивой улыбкой и сожалением. Заставив Вельта почувствовать, будто это он здесь странный.</text>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
-            <speak chara="weltNoFace">Эх … Хотя я и не рассчитывал на многое.</speak>
+            <speak chara="weltNoFace">Эх… Хотя я и не рассчитывал на многое.</speak>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltNoFace">Могу ли я тогда узнать, где находится читальный зал?</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
-            <speak chara="nokiaNoNameNoFace">Хмм …</speak>
-            <speak chara="nokiaNoNameNoFace"> Если я просто скажу фам, то вы можете не найти…</speak>
+            <speak chara="nokiaNoNameNoFace">Хмм…</speak>
+            <speak chara="nokiaNoNameNoFace">Если я просто скажу фам, то вы можете не найти…</speak>
             <speak chara="nokiaNoNameNoFace">Позфольте я отведу вас.</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Хм … Спасибо, И простите за беспокойство.</speak>
-            <text>Этот парень, хоть и кажется немного претенциозным, в конце концов, он кажется хорошим человеком.  —</text>
+            <speak chara="weltNoFace">Хм… Спасибо, и простите за беспокойство.</speak>
+            <text>Этот парень, хоть и кажется немного претенциозным, в конце концов, он кажется хорошим человеком. —</text>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">Подождите.</speak>
@@ -104,21 +104,21 @@
             <speak chara="nokiaNoNameNoFace">Что такое?</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Аэмм … Хмм …</speak>
-            <speak chara="weltNoFace">…  Извините, нет, у меня нет такой карточки.</speak>
+            <speak chara="weltNoFace">Аэмм… Хмм…</speak>
+            <speak chara="weltNoFace">… Извините, нет, у меня нет такой карточки.</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">Ах, вот оно что. Чтож это немного усложнит задачу …</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Эмм … Я новый ассистент в 42 лаборатории … так что …</speak>
+            <speak chara="weltNoFace">Эмм … Я новый ассистент в 42 лаборатории… так что…</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSeriousClose" position="right"/>
             <shake position="right" time="250"></shake>
             <speak chara="nokiaNoNameNoFace">Что? 42 Лаборатория?</speak>
             <show chara="nokiaNoNameSeriousClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Эм … Да, именно так …</speak>
+            <speak chara="weltNoFace">Эм… Да, именно так…</speak>
             <text>Вельт не понял, почему вдруг мистер "позолоченные очки" вдруг стал таким серьёзным.</text>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
@@ -128,20 +128,20 @@
             <shake position="left" time="250"></shake>
             <speak chara="weltNoFace">Старый… Пердун?</speak>
             <shake position="left" time="250"></shake>
-            <speak chara="weltNoFace">Стоп, Что ты несёшь?! Каким это образом доктор - старик?!</speak>
+            <speak chara="weltNoFace">Стоп, что ты несёшь?! Каким это образом доктор - старик?!</speak>
             <text>Слова “Старый пердун” так удивили Вельта, что он чуть не потерял свою челюсть.</text>
             <show chara="weltShameClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
-            <speak chara="nokiaNoNameNoFace">Хо хо хо … прости, прости… Просто недавно у нас появились появились мошенники, выдающие себя за работников лаборатории. Видимо они как-то узнали о вашем скором прибытии …</speak>
+            <speak chara="nokiaNoNameNoFace">Хо хо хо… прости, прости… Просто недавно у нас появились появились мошенники, выдающие себя за работников лаборатории. Видимо они как-то узнали о вашем скором прибытии…</speak>
             <speak chara="nokiaNoNameNoFace">Вы уж простите, что пришлось ставить вас в неловкое положение.</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
-            <speak chara="nokiaNoNameNoFace">Доктор Эйнштейн попросила меня, но на тот момент у неё не было вашей фотографии …</speak>
+            <speak chara="nokiaNoNameNoFace">Доктор Эйнштейн попросила меня, но на тот момент у неё не было вашей фотографии…</speak>
             <text>Мистер "позолоченные очки" пожал плечами, продолжая улыбаться в своей манере.</text>
-            <speak chara="nokiaNoNameNoFace">Честное слово, этот метод проверки - это полностью её идея … Хах.</speak>
+            <speak chara="nokiaNoNameNoFace">Честное слово, этот метод проверки - это полностью её идея… Хах.</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
@@ -154,9 +154,9 @@
         <scene id="30" background="campusImperialDay.jpg">
             <bgm src="street.mp3" status="start"></bgm>
             <sound src="walk slow.mp3"/>
-            <text>«Таймс» слишком серьезен, а «Файненшл таймс» Вообще не годится для его целей: но на страницах дешевых таблоидов, таких как «Дейли геральд» и «Дейли миррор», он находит некоторые интересные вещи. </text>
+            <text>«Таймс» слишком серьезен, а «Файненшл таймс» вообще не годится для его целей: но на страницах дешевых таблоидов, таких как «Дейли геральд» и «Дейли миррор», он находит некоторые интересные вещи.</text>
             <text>В полдень, Вельт выходит из газетной комнаты, в одной руке держа и просматривая свои заметки, а другой консультируясь с одолженным уличным справочником.</text>
-            <text>Британский Музей — Грэйт Расселл стрит;</text>
+            <text>Британский Музей — улица Грэйт Расселл;</text>
             <text>Национальная Галерея — Трафальгарская площадь;</text>
             <text>Театральный район, Казино и Китайский Городок — Лестер-сквер;</text>
             <text>…</text>
@@ -169,7 +169,7 @@
             <bgm src="street.mp3" status="continue"></bgm>
             <text>… Хотя у меня нет ни гроша, поскольку это моя работа, я должен получить компенсацию, верно?</text>
             <text>— Таким образом, Вельт погружается в состояние глубокой задумчивости и вскоре неосознанно возвращается в маленький дворик Лаборатории 42. </text>
-            <text>Отделённая 42 лаборатория — представляет собой небольшую рабочую виллу, построенную в послевоенный период, поэтому она отличается "авангардным"" дизайном, сочетающим в себе как рабочие, так и бытовые требования.</text>
+            <text>Отделённая 42 лаборатория — представляет собой небольшую рабочую виллу, построенную в послевоенный период, поэтому она отличается "авангардным" дизайном, сочетающим в себе как рабочие, так и бытовые требования.</text>
             <text>На первом этаже находится кабинет, мастерская, гостинная, кухня ванная комната и даже секретный склад, защищенный дверью от какого-то старого хранилища;</text>
             <text>Верхний этаж представляет собой жилой район, куда «мужчинам вход воспрещен». Так что Вельт без понятия, как выглядит эта область.</text>
             <text>Розовые занавески? Мебель кремового цвета? Комната, полная плюшевых игрушек?</text>
@@ -180,7 +180,7 @@
             <bgm src="street.mp3" status="stop"></bgm>
             <sound src="door open.mp3"/>
             <speak chara="weltNoFace">Я дома.</speak>
-            <text>Аккуратно приоткрыв входную дверь виллы, юноша вежливо приветствует… пустую гостиную …</text>
+            <text>Аккуратно приоткрыв входную дверь виллы, юноша вежливо приветствует… пустую гостиную…</text>
             <text>Он сохранял эту странную привычку, сколько себя помнил, настолько, что Шиксаль всерьёз исследовал вероятность того, что он японец.</text>
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="einSmileClose" position="right"/>
@@ -194,37 +194,37 @@
             <speak chara="einNoFace">Я тебя напугала?</speak>
             <show chara="einSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">А … нет … ты не …</speak>
+            <speak chara="weltNoFace">А… нет… ты не…</speak>
             <show chara="einNormalClose" position="right"/>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <speak chara="einNoFace">Тогда ладно. Как продвигается твой сбор информации?</speak>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="weltNormalClose" position="left"/>
-            <speak chara="weltNoFace">Хмм … Не плохо? В лондоне действительно полно интересных мест.</speak>
+            <speak chara="weltNoFace">Хмм… не плохо? В Лондоне действительно полно интересных мест.</speak>
             <show chara="einNormalClose" position="right"/>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <speak chara="einNoFace">…</speak>
             <text>Выражение лица у "швабры" было холодное, и она, кажется, была не особо удовлетворена ответом молодого человека.</text>
             <speak chara="einNoFace">Итак, что сегодня на обед?</speak>
-            <text>И с этим преуменьшением она небрежно бросает довольно универсальную и проверенную временем дилемму..</text>
+            <text>И с этим преуменьшением она небрежно бросает довольно универсальную и проверенную временем дилемму.</text>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Эмм … А?</speak>
+            <speak chara="weltNoFace">Эмм… А?</speak>
             <show chara="einNormalClose" position="right"/>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <speak chara="einNoFace">Желательно, чтобы это было поблизости, и что-то интересное. Какие-нибудь идеи?</speak>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Ухх …</speak>
+            <speak chara="weltNoFace">Ухх…</speak>
             <text>Всё утро он был занят только поиском книг так и не осмотрев окресностей. Вельт покрылся холодным потом. Будучи впервые в этом месте, откуда он мог знать, какие рестораны стоит посетить?</text>
             <show chara="einNormalClose" position="right"/>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
-            <speak chara="einNoFace">Смотрю… ты не знаешь что и ответить …</speak>
-            <text>Она подтверждает это пустым выражением лица .</text>
+            <speak chara="einNoFace">Смотрю… ты не знаешь что и ответить…</speak>
+            <text>Она подтверждает это пустым выражением лица.</text>
             <show chara="einNormalClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
-            <text>Смущенный, Вельт покачал головой .</text>
+            <text>Смущенный, Вельт покачал головой.</text>
             <show chara="einNormalClose" position="right"/>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <speak chara="einNoFace">Обед, ты угощаешь.</speak>
@@ -243,8 +243,8 @@
             <show chara="einSmileClose" position="right"/>
             <show chara="weltShameClose" position="left" opacity="0.7"/>
             <speak chara="einNoFace">Просто устраиваю сценку "битый фарфор". У тебя всё-равно не хватило бы времени, чтобы объехать весь Кенсингтон.</speak> <!-- 碰瓷儿 = "Битый фарфор", способ обмануть кого-либо, устроив несчастный случай, например, положить «дорогое» фарфоровое изделие туда, где его можно легко опрокинуть и разбить, а затем начать требовать компенсацию. --> 
-            <text> Девушка нежно насмехается и жалеет дурака, который только что стал объектом ее собственного поддразнивания.</text>
-            <speak chara="einNoFace">Today we shall have pasta!</speak>
+            <text>Девушка нежно насмехается и жалеет дурака, который только что стал объектом ее собственного поддразнивания.</text>
+            <speak chara="einNoFace">Сегодня у нас будут макароны!</speak>
             <hide position="right"></hide>
             <hide position="left"></hide>
             <show chara="einSmileCoatClose" position="center"/>
@@ -254,7 +254,7 @@
             <speak chara="einNoFace">Не важно. Сегодня твой первый день. Пожалуйста, пожалуйста, не думай, что меня так легко разозлить.</speak>
             <show chara="einSmileCoatClose" position="center" opacity="0.7"/>
             <sound src="key.mp3"/>
-            <text>Она достает ключ и начинает запирать входную дверь. .</text>
+            <text>Она достает ключ и начинает запирать входную дверь.</text>
             <goto goto="60"/>
         </scene>
         <scene id="60" background="londonStreet.jpg">
@@ -264,27 +264,27 @@
             <speak chara="einNoFace">Это музей В&amp;А.</speak>
             <speak chara="einNoFace">Это Свято-Троицкий храм.</speak>
             <text>Девушка с растрепанными волосами и бесстрастным характером продолжает свою экскурсию вместе с Вельтом. Те, кто не знаком с ситуацией, вероятно, примут их за пару давно потерянных братьев и сестер, несколько отчужденных друг от друга.</text>
-            <speak chara="weltNoFace">Мм …</speak>
+            <speak chara="weltNoFace">Мм…</speak>
             <show chara="einSmileCoatClose-up" position="center"/>
             <speak chara="einNoFace">«А» — это инициал «Альберт». От моего собственного имени.</speak>
             <speak chara="weltNoFace">… А?</speak>
             <show chara="einNormalCoatClose-up" position="center"/>
             <speak chara="einNoFace">Шучу.</speak>
-            <speak chara="weltNoFace">Э? …</speak>
+            <speak chara="weltNoFace">Э?…</speak>
             <show chara="einFoolCoatClose-up" position="center"/>
             <speak chara="einNoFace">Хехе, От части это всё же правда.</speak>
             <speak chara="weltNoFace">… А?</speak>
             <show chara="einNormalCoatClose-up" position="center"/>
-            <speak chara="einNoFace" remark="next">Забудь… Это просто очередное совпадение .</speak>
+            <speak chara="einNoFace" remark="next">Забудь… Это просто очередное совпадение.</speak>
             <remark post="U2FsdGVkX19iI3nii1DJQrJarsUb">
-                <p class="article-text-h">Note:</p>
+                <p class="article-text-h">Примечание:</p>
                 <p class="article-text">Принц-консорт Альберт, полное имя Фрэнсис Альберт Август Чарльз Эммануэль, был мужем королевы Виктории.</p>
                 <p class="article-text">Музей V&amp;A (Виктории и Альберта) был назван в честь королевской четы. В Англии есть ряд достопримечательностей и учреждений, названных в честь «Альберта». Все они были установлены королевой в память о принце Альберте после его смерти. .</p>
             </remark>
             <hide position="center"/>
             <text>Разве один и тот же разговор не повторился уже несколько раз?</text>
-            <text>От Королевского музыкального колледжа до Принсес-Гарденс, Музея науки и Музея естественной истории …</text>
-            <text>… Ей бы это не понравилось, не так ли? ?</text>
+            <text>От Королевского музыкального колледжа до Принсес-Гарденс, Музея науки и Музея естественной истории…</text>
+            <text>… Ей бы это не понравилось, не так ли?</text>
             <show chara="einSmileCoatClose-up" position="center"/>
             <speak chara="einNoFace">Кажется, уже полгода прошло, с тех пор, как я гулял так долго.</speak>
             <text>Девушка лениво потягивается, и говорит не оглядываясь…</text>
@@ -292,7 +292,7 @@
             <text>Вельт прикинул у себя в голове, и понял, что они прошли чуть больше километра.</text>
             <show chara="einNormalCoatClose-up" position="center"/>
             <sound src="Hah.mp3"/>
-            <speak chara="einNoFace">Мм… В день я работаю около трёх или четырёх часов.</speak>
+            <speak chara="einNoFace">Мм. В день я работаю около трёх или четырёх часов.</speak>
             <text>Молодая женщина зевает еще ленивее, чем раньше.</text>
             <speak chara="weltNoFace">… Но разве это не полдня работы??!</speak>
             <show chara="einSmileCoatClose-up" position="center"/>
@@ -322,17 +322,17 @@
         <scene id="72" background="CG2.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <speak chara="einNoFace">Ах! Мне пожалуйста этот клубничный торт!</speak>
-            <speak chara="einNoFace">… Только его. этого мне хватит.</speak>
-            <speak chara="weltNoFace">Чтож… я воьму …</speak>
+            <speak chara="einNoFace">… Только его. Этого мне хватит.</speak>
+            <speak chara="weltNoFace">Чтож… я возьму…</speak>
             <speak chara="weltNoFace">… Подожди, не ты ли говорила, что собираешься есть макароны?</speak>
             <speak chara="einNoFace">Это была лишь фигура речи.</speak>
             <speak chara="weltNoFace">Но …</speak>
             <speak chara="einNoFace">Мне просто вдруг захотелось торта.</speak>
             <speak chara="weltNoFace">…</speak>
             <speak chara="einNoFace">Оффициант ждёт тебя.</speak>
-            <speak chara="weltNoFace">А, да … Мне пожалуйста запечённых улиток … и еще пасту с тушеными морепродуктами. Думаю, что всё.</speak> <!-- Вероятно, Полента и Богони и Паста Маринара. -->
+            <speak chara="weltNoFace">А, да… Мне пожалуйста запечённых улиток… и еще пасту с тушеными морепродуктами. Думаю, что всё.</speak> <!-- Вероятно, Полента и Богони и Паста Маринара. -->
             <text article="1">
-                <p class="article-text">Официант уходит, получив заказ. Девушка от нечего делать смотрит в окна, будто размышляя над каким-то философским вопросом. Ее тёмно-синие глаза, круглое кукольное лицо, увенчанное светлыми натуральными кудрями, — если бы не эта ужасная прическа, она легко могла бы быть образцом красоты. .</p>
+                <p class="article-text">Официант уходит, получив заказ. Девушка от нечего делать смотрит в окна, будто размышляя над каким-то философским вопросом. Ее тёмно-синие глаза, круглое кукольное лицо, увенчанное светлыми натуральными кудрями, — если бы не эта ужасная прическа, она легко могла бы быть образцом красоты.</p>
             </text>
             <text article="1">
                 <p class="article-text">Именно во время столь хаотичных размышлений, Вельт кое-что понял: он кажется, впервые обратил внимание на внешность этой гениальной женщины — доктора Лизерль Альберт Эйнштейн. Без сомнений, у нее легендарный темперамент «сумасшедшего ученого»; но в то же время она, кажется, также ведет себя как обычная девушка, хотя и любит дразнить его жалкое «я».</p>
@@ -342,13 +342,13 @@
         <scene id="75" background="italianRestaurant.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="weltShySweaterClose-up" position="left"/>
-            <speak chara="weltNoFace">Эйн …</speak>
+            <speak chara="weltNoFace">Эйн…</speak>
             <show chara="weltShySweaterClose-up" position="left" opacity="0.7"/>
             <show chara="0einNormalVestClose-up" position="right"/>
             <speak chara="einNoFace">… Да?</speak>
             <show chara="weltNormalSweaterClose-up" position="left"/>
             <show chara="0einNormalVestClose-up" position="right" opacity="0.7"/>
-            <speak chara="weltNoFace">Извини… Просто… я… случайно сказал это вслух.</speak>
+            <speak chara="weltNoFace">Извини… Просто… Я… случайно сказал это вслух.</speak>
             <show chara="weltShySweaterClose-up" position="left"/>
             <speak chara="weltNoFace">Думаю, что над использованием прозвищ… может быть это сможет помочь нашему дальнейшему разговору… но как-то странно разбирать чью-то фамилию.</speak>
             <show chara="weltShySweaterClose-up" position="left" opacity="0.7"/>
@@ -356,9 +356,9 @@
             <speak chara="einNoFace">… Меня это не волнует, если так тебе проще, то можешь называть меня как тебе будет удобно.</speak>
             <show chara="weltShySweaterClose-up" position="left"/>
             <show chara="0einSmileVestClose-up" position="right" opacity="0.7"/>
-            <speak chara="weltNoFace">Серьёзно? … Чтож… спасибо за это.</speak>
+            <speak chara="weltNoFace">Серьёзно?… Чтож… спасибо за это.</speak>
             <text>Вельт начинает смотреть то влево, то вправо, смущенно потирая уши и щеки. —</text>
-            <speak chara="weltNoFace">На самом деле… у меня есть вопрос, однако это может прозвучать грубо с моей стороны …</speak>
+            <speak chara="weltNoFace">На самом деле… у меня есть вопрос, однако это может прозвучать грубо с моей стороны…</speak>
             <show chara="0einSeriousAhVestClose-up" position="right"/>
             <show chara="weltShySweaterClose-up" position="left" opacity="0.7"/>
             <speak chara="einNoFace">Врать перед дамой еще грубее.</speak>
@@ -381,7 +381,7 @@
             <text>Соображая немного медленно, Вельту пришлось воспользоваться обеими руками, чтобы его челюсть не упала на землю.</text>
             <show chara="0einSlyVestClose-up" position="right"/>
             <show chara="weltScaredSweaterClose-up" position="left" opacity="0.7"/>
-            <speak chara="einNoFace">Просто коротаю наше время. умножь это на 6, отними мой настоящий возраст, и получишь число, корень которого - тоже мой возраст.</speak>
+            <speak chara="einNoFace">Просто коротаю наше время. Умножь это на 6, отними мой настоящий возраст, и получишь число, корень которого - тоже мой возраст.</speak>
             <show chara="weltTiredSweaterClose-up" position="left"/>
             <show chara="0einSlyVestClose-up" position="right" opacity="0.7"/>
             <speak chara="weltNoFace">…</speak>
@@ -402,16 +402,16 @@
             <speak chara="weltNoFace">… Как тут вообще можно так говорить!? Это же тоже не просто так делается.</speak>
             <show chara="0einSlyVestClose-up" position="right"/>
             <show chara="weltTiredSweaterClose-up" position="left" opacity="0.7"/>
-            <speak chara="einNoFace">Кстати, не отходя от темы, если теббе будет интересно, Тесла на четыре года старше меня.</speak> <!-- ( ͡° ͜ʖ ͡°) -->
+            <speak chara="einNoFace">Кстати, не отходя от темы, если тебе будет интересно, Тесла на четыре года старше меня.</speak> <!-- ( ͡° ͜ʖ ͡°) -->
             <show chara="0einSlyVestClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalSweaterClose-up" position="left"/>
-            <speak chara="weltNoFace">Почему после твоих слов, мне теперь кажется, что она социально неприспособленна для своего возраста?  …</speak>
+            <speak chara="weltNoFace">Почему после твоих слов, мне теперь кажется, что она социально неприспособленна для своего возраста?…</speak>
             <show chara="0einFoolVestClose-up" position="right"/>
             <show chara="weltNormalSweaterClose-up" position="left" opacity="0.7"/>
             <speak chara="einNoFace">Не сказать, что Вельт в чём-то лучше.</speak>
             <show chara="0einFoolVestClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredSweaterClose-up" position="left"/>
-            <speak chara="weltNoFace">Ээ …</speak>
+            <speak chara="weltNoFace">Ээ…</speak>
             <show chara="0einNormalVestClose-up" position="right"/>
             <show chara="weltTiredSweaterClose-up" position="left" opacity="0.7"/>
             <speak chara="einNoFace">…</speak>
@@ -447,7 +447,7 @@
             <speak chara="weltNoFace">… Тем не менее, обычно <i>ТЫ</i> несешь чепуху! Какого рода «образ характера» описывает тебя точнее? Ты больше как тихий и сдержанный тип, или же скорее болтливый и ехидный?!</speak>
             <show chara="weltScaredSweaterClose-up" position="left" opacity="0.7"/>
             <show chara="0einSlyVestClose-up" position="right"/>
-            <speak chara="einNoFace">… Доктор Эйнштейн не понимает, что ты подразумеваешь под «образом характера». .</speak>
+            <speak chara="einNoFace">… Доктор Эйнштейн не понимает, что ты подразумеваешь под «образом характера».</speak>
             <text>На мгновение Вельт мельком видит дьявольскую ухмылку.</text>
             <goto goto="80"/>
         </scene>
@@ -455,14 +455,14 @@
             <bgm src="street.mp3" status="start"></bgm>
             <show chara="nokiaNoNameSmileClose" position="mostright"/>
             <text>…</text>
-            <text>Возвращаясь из «Caffé Concerto», Эйнштейн и Вельт встречают светловолосого библиотекаря в полосатой рубашке с короткими рукавами и очках в золотой оправе, бегающий то вперёд то назад около Лаборатории 42.</text>
+            <text>Возвращаясь из «Caffé Concerto», Эйнштейн и Вельт встречают светловолосого библиотекаря в полосатой рубашке с короткими рукавами и очках в золотой оправе, бегающий то вперёд, то назад около Лаборатории 42.</text>
             <hide position="mostright"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">О, Эйнштейн! Вы вернулись!</speak>
             <text>То, как этот мужчина встречает девушку, говорит о том, что они хорошо знакомы друг с другом. Какое-то отвращение мелькнуло в сердце Вельта.</text>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="einNormalCoatClose" position="left"/>
-            <speak chara="einNoFace">…Ах, Финн, Что страслось?.</speak>
+            <speak chara="einNoFace">…Ах, Финн, Что страслось?</speak>
             <hide position="left"/>
             <hide position="right"/>
             <show chara="nokiaNoNameSmileClose" position="center"/>
@@ -470,7 +470,7 @@
             <text>Неудивительно, что этот парень носит зимой только рубашку с короткими рукавами, и говорит с таким странным акцентом — будто он из Финляндии. если это так, то это многое объясняет.</text>
             <text>Говорят, когда температура достигает точки замерзания, на заднем дворе до сих пор переворачивают сырые колбаски. —</text>
             <text>— Хотя это, наверное, просто шутка из какой-то газеты.</text>
-            <text>Хотя про столь легкомысленного человека, точно сказать не могу  …</text>
+            <text>Хотя про столь легкомысленного человека, точно сказать не могу…</text>
             <hide position="center"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <show chara="einNormalCoatClose" position="left" opacity="0.7"/>
@@ -493,7 +493,7 @@
             <speak chara="weltNoFace">Э… это точно нормально? Моего уровня безопасности достаточно? —</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="einSmileCoatClose" position="center"/>
-            <speak chara="einNoFace">Я сказала: "Помоги мне открыть её”</speak>
+            <speak chara="einNoFace">Я сказала: "Помоги мне открыть её"</speak>
             <show chara="einSmileCoatClose" position="center" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">Ха-ха, Наверное странно такое говорить… но если бы это было строго секретное письмо, оно никогда не было бы доставлено кем-то моего ранга.</speak>
@@ -508,29 +508,29 @@
                 <p class="article-text-h">Эйнштейну, моему уважаемому коллеге:</p>
                 <p class="article-text">Я верю, что с момента нашей последней встречи у тебя все хорошо. Недавно мы довольно неплохо провели время, как в старые добрые… Если тебе ещё интересно, пожалуйста, найди денёк, чтобы прийти и повеселиться, будем ждать. Я уверяю, тебя это явно заинтересует.</p>
                 <p class="article-text">Что касательно нашей работы, ⵥⵙⵎ ⵋⴱⴳ ⵐⵓⴽⴸ ⵐ ⵥⵛⵌⴱⴴⵙⴸ ⵋⵓⵖⴱ ⵥⴶ должно быть в состоянии помочь, так ведь?</p>
-                <p class="article-text-s">Ваш младший коллега, который с нетерпением ждет встречи с вами , </p>
+                <p class="article-text-s">Ваша младшая коллега, которая с нетерпением ждет встречи с вами, </p>
                 <p class="article-text-s">Шрёдингер</p>
                 <p class="article-text-s">10.16. Биллингс , Монтана</p>
             </text>
             <show chara="einSeriousCoatClose" position="center" opacity="0.7"/>
             <speak chara="weltNoFace">…</speak>
-            <text>Любопытная ситуация: содержание письма кажется довольно беззаботным и спонтанным. Но оно содержит довольно загадочный код .</text>
+            <text>Любопытная ситуация: содержание письма кажется довольно беззаботным и спонтанным. Но оно содержит довольно загадочный код.</text>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="einSeriousCoatClose" position="center"/>
             <bgm src="themeEin.mp3" status="start"></bgm>
-            <speak chara="einNoFace">Зачем она написала так формально? …</speak>
+            <speak chara="einNoFace">Зачем она написала так формально?…</speak>
             <text>К удивлению Вельта, Эйнштейн торжественно возвращает документы финну.</text>
             <show chara="nokiaNoNameSeriousClose" position="right" opacity="0.7"/>
             <speak chara="einNoFace">Это… это же настоящее имя Ады, верно?</speak>
-            <text> Она указала своим тонкм пальцем на странный код “ⵥⵙⵎ ⵋⴱⴳ ⵐⵓⴽⴸ ⵐ ⵥⵛⵌⴱⴴⵙⴸ ⵋⵓⵖⴱ ⵥⴶ”.</text>
+            <text>Она указала своим тонкм пальцем на странный код “ⵥⵙⵎ ⵋⴱⴳ ⵐⵓⴽⴸ ⵐ ⵥⵛⵌⴱⴴⵙⴸ ⵋⵓⵖⴱ ⵥⴶ”.</text>
             <show chara="einSeriousCoatClose" position="center" opacity="0.7"/>
             <show chara="nokiaNoNameSeriousClose" position="right"/>
             <speak chara="nokiaNoNameNoFace">… Угу.</speak>
-            <speak chara="nokiaNoNameNoFace">Она должна знать её имя однако …</speak>
+            <speak chara="nokiaNoNameNoFace">Она должна знать её имя однако…</speak>
             <show chara="nokiaNoNameSeriousClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <text>Зачем им советоваться с этим человеком? Он что? эксперт в какой-то научной области?</text>
-            <text>Кто эта “Ада”? </text>
+            <text>Зачем им советоваться с этим человеком? Он что эксперт в какой-то научной области?</text>
+            <text>Кто эта “Ада”?</text>
             <text>Что вообще произошло?</text>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="einSeriousCoatClose" position="center"/>

@@ -11,7 +11,7 @@
             <show chara="weltNormalClose" position="left"/>
             <speak chara="weltNoFace">Итак, как всё дошло до этого?…</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
-            <text>Вельт яростно делает глоток колы, настороженно наблюдая за финном, который несет пакеты различных форм и размеров.</text>
+            <text>Вельт яростно делает глоток колы, настороженно наблюдая за Финном, который несет пакеты различных форм и размеров.</text>
             <text>Девушки пошли в магазин нижнего белья, и Вельту ничего не оставалось, кроме как остаться вместе с другим мужчиной и возможно поговорить.</text>
             <text>Да, другой мужчина, который собирался последовать за девушками и сам щеголять внутри магазина.</text>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
@@ -21,7 +21,7 @@
             <speak chara="nokiaNoFace">Не говоря уже о том, что магазины беспошлинной торговли здесь действительно дешевле, чем в Лондоне.</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <text>Этот парень действительно хорошо таскает сумки. Даже с его нелепой позой, все равно они не падают на землю.</text>
+            <text>Этот парень действительно хорошо таскает сумки. Даже с его нелепой позой, они все равно не падают на землю.</text>
             <text>Может быть, он часто играл такую роль в прошлом? Разве его жена не археолог, которого часто нет дома?</text>
             <show chara="weltTiredClose" position="left"/>
             <text>Женщины действительно такие ужасные создания.</text>
@@ -34,7 +34,7 @@
             </remark>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
-            <speak chara="nokiaNoFace">От части ты прав. Честно говоря, в последнее время она также балуется покупками с доставкой, и я слышал, что она вроде накупила много бесполезных вещей.</speak>
+            <speak chara="nokiaNoFace">Отчасти ты прав. Честно говоря, в последнее время она также балуется покупками с доставкой, и я слышал, что она вроде накупила много бесполезных вещей.</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltTiredClose" position="left"/>
             <speak chara="weltNoFace">… Должно быть, Эйнштейну очень трудно иметь с ней дело.</speak>
@@ -46,20 +46,20 @@
             <speak chara="weltNoFace">А?</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
-            <speak chara="nokiaNoFace">Тебе не кажется, что в жизни все веселее и интереснее именно благодаря таким людям, как Тесла??</speak>
+            <speak chara="nokiaNoFace">Тебе не кажется, что в жизни все веселее и интереснее именно благодаря таким людям, как Тесла?</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltTiredClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
             <show chara="nokiaBagSmileClose" position="right"/>
             <show chara="weltTiredClose" position="left" opacity="0.7"/>
             <speak chara="nokiaBagSmileClose">Не смотри на девушек свысока.</speak>
-            <speak chara="nokiaNoFace">Если ты слишком строгий, то ты можешь никогда и не найти свою вторую половину в будущем, а?</speak>
+            <speak chara="nokiaNoFace">Если ты слишком строгий, то ты можешь никогда и не найти свою вторую половинку в будущем, а?</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltTiredClose" position="left"/>
             <speak chara="weltNoFace">… Займись своим делом.</speak>
             <show chara="weltTiredClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
-            <speak chara="nokiaNoFace">Хо-хо, холоден и мрачен снаружи, горяч и прян внутри, как необычно! Если ты хочешь быть еще мрачнее …</speak>
+            <speak chara="nokiaNoFace">Хо-хо, холоден и мрачен снаружи, горяч и прян внутри, как необычно! Если ты хочешь быть еще мрачнее…</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltNoFace">…?</speak>
@@ -70,8 +70,8 @@
             <remark post="U2FsdGVkX180vKbyXq4IHH3HepZD">
                 <p class="article-text-h">Примечание:</p>
                 <p class="article-text">Хамфри Богарт (25 дек. 1899г – 14 янв. 1957г). был американским киноактером, который оставался легендарным в киноиндустрии на протяжении десятилетий после своей смерти.</p>
-                 <p class="article-text">Он был номинирован на "Оскар" за лучшую мужскую роль за выдающуюся роль в "Касабланке" в 1942 году. Этот фильм и по сей день считается вечной классикой, а его роль "Рика Блейна» американцы боготворили.</p>
-                 <p class="article-text">В 1999 году Американский институт киноискусства назвал его величайшим актером за 100 лет с момента рождения кино. .</p>
+                <p class="article-text">Он был номинирован на "Оскар" за лучшую мужскую роль в "Касабланке" в 1942 году. Этот фильм и по сей день считается вечной классикой, а его роль "Рика Блейна» американцы боготворили.</p>
+                <p class="article-text">В 1999 году Американский институт киноискусства назвал его величайшим актером за 100 лет с момента рождения кино.</p>
             </remark>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
@@ -87,17 +87,17 @@
             <show chara="weltTiredClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
             <speak chara="nokiaNoFace">Слушай, в принципе, хороший человек должен иметь четкое представление о своих сильных сторонах.</speak>
-             <text>«Мистер Позолоченнные Очки» показал жест «ОК» и закругляет тему, прежде чем Вельт успел вставить еще одно слово.</text>
+            <text>«Мистер Позолоченнные Очки» показал жест «ОК» и закругляет тему, прежде чем Вельт успел вставить еще одно слово.</text>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltTiredClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
             <show chara="weltNormalClose" position="left"/>
             <speak chara="weltNoFace">… Э-э, есть кое-что, что беспокоит меня последнее время.</speak>
-             <text>Вельт, пытаясь развеять свое негативное впечатление о финне и начинает подбирать тему разговора по своему вкусу.</text>
+            <text>Вельт, пытаясь развеять свое негативное впечатление о Финне и начинает подбирать тему разговора по своему вкусу.</text>
             <show chara="weltNormalClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
-            <speak chara="nokiaNoFace">А? Это касается Организации? Или это что-то, что мы собираемся расследовать?</speak>
-             <text>Кажется, он не откажется ни от одной темы.</text>
+            <speak chara="nokiaNoFace">А? Это касается Организации? Или это что-то, что мы собираемся исследовать?</speak>
+            <text>Кажется, он не откажется ни от одной темы.</text>
             <show chara="weltTiredClose" position="left" opacity="1"/>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <speak chara="weltNoFace">Хм… меня волнуют оба вопроса — </speak>
@@ -146,7 +146,7 @@
             <speak chara="weltNoFace">Ты чокнутый.</speak>
             <show chara="weltTiredClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
-            <speak chara="nokiaNoFace">Ты молчишь. Но когда я впервые встретил свою будущую жену впервые, я по глупости задал ей вопрос — </speak>
+            <speak chara="nokiaNoFace">Ты молчишь. Но когда я впервые встретил свою будущую жену, я по глупости задал ей вопрос — </speak>
             <speak chara="nokiaNoFace">«Разве не глупо, что ты все еще носишь шаровары в твоем то возрасте?»</speak>
             <speak chara="nokiaNoFace"> — А после, я был избит до полусмерти.</speak>
             <speak chara="nokiaNoFace">Должен сказать, это было довольно сильное и здоровое избиение. Ха-ха-ха-ха.</speak>
@@ -155,7 +155,7 @@
             <speak chara="weltNoFace">… Никто кроме тебя не несет ответственности за твоё безумие!</speak>
             <show chara="weltShameClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
-            <speak chara="nokiaNoFace">Но, если честно… если когда-нибудь ты встретишь девушку лет тридцати, которая до сих пор любит носить шаровары, не отказывайся от такой возможности всей жизни..</speak>
+            <speak chara="nokiaNoFace">Но, если честно… если когда-нибудь ты встретишь девушку лет тридцати, которая до сих пор любит носить шаровары, не отказывайся от такой возможности всей жизни.</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltTiredClose" position="left"/>
             <speak chara="weltNoFace">…</speak>
@@ -165,14 +165,14 @@
             <remark post="U2FsdGVkX19PN8ZVJEe5S4WK1BZz">
                 <p class="article-text-h">Примечание:</p>
                 <p class="article-text">«Финская полька» (“Ievan Polkka”) — известная в Финляндии народная песня, описывающая тему юноши и девушки, порвавших с феодальными традициями и мужественно преследующих любовь.</p>
-                 <p class="article-text">Известной адаптацией этой песни является “Leek Song” ("Песня о луке-порей") в исполнении Хацунэ Мику.</p>
+                <p class="article-text">Известной адаптацией этой песни является “Leek Song” ("Песня о луке-порей") в исполнении Хацунэ Мику.</p>
             </remark>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltNoFace">…?</speak>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaBagSmileClose" position="right"/>
-            <speak chara="nokiaNoFace">Кстати, мое полное имя Элиас Нокианвиртанен — аутентичный финн.</speak>
+            <speak chara="nokiaNoFace">Кстати, мое полное имя Элиас Нокианвиртанен — аутентичный Финн.</speak>
             <show chara="nokiaBagSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
             <speak chara="weltNoFace">…??</speak>
@@ -213,20 +213,20 @@
             <sound src="8_24_launch.mp3"/>
             <show chara="einNormalDressClose-up" position="center" opacity="0.7"/>
             <text>Когда группа наконец села на рейс в Чикаго, Эйнштейн уже переоделась в только что купленную одежду.</text>
-            <text>Шуба из меховой шали, напоминающая хорька, и струящееся платье, наслоенное ярусом за ярусом, напоминающее кремовый торт. - говорят, что это платье дебютантки викторианской эпохи.</text>
+            <text>Шуба из меховой шали, напоминающая хорька, и струящееся платье, наслоенное ярусом за ярусом, напоминающее кремовый торт - говорят, что это платье дебютантки Викторианской эпохи.</text>
             <text>Это трудно описать, но платье, что она надела, излучает странную и нелепую атмосферу. Тем более, что она сейчас спит, откинувшись на сиденье с той книгой о Римане, приклеенной вверх ногами к ее лицу.</text>
             <text>Более чем уверен, что тут не обошлось без личного чувства моды Теслы.</text>
             <text>С такой же уверенностью могу предположить, что больше всего опустел кошелёк Теслы.</text>
-            <text>И, наконец, само собой разумеется, что таких людей, как Тесла, невозможно застать за чтением проф. или технической литературы в дороге.</text>
+            <text>И, наконец, само собой разумеется, что таких людей, как Тесла, невозможно застать за чтением профессиональной или технической литературы в дороге.</text>
             <bgm src="themeTesla.mp3" status="start"></bgm>
             <hide position="center"/>
             <show chara="teslaSmileDressClose-up" position="left"/>
             <speak chara="teslaNoFace">Давайте играть в карты!</speak>
-            <text>…Почему она сама не носит это кукольное платье?</text>
+            <text>Почему она сама не носит это кукольное платье?</text>
             <show chara="nokiaSmileClose-up" position="right"/>
             <show chara="teslaSmileDressClose-up" position="left" opacity="0.7"/>
             <speak chara="nokiaNoFace">Можно, однако играть втроем будет немного неудобно.</speak>
-            <text>Похоже, финн уже в серьез начал прикидывать все варианты.</text>
+            <text>Похоже, Финн уже в серьез начал прикидывать все варианты.</text>
             <text>Трое, одного не хватает… — Видимо, Финн любит играть в бридж…</text>
             <show chara="nokiaSmileClose-up" position="right" opacity="0.7"/>
             <show chara="teslaBoringDressClose-up" position="left"/>
@@ -266,7 +266,7 @@
             <speak chara="teslaNoFace">… В любом случае, мы должны быть благодарны сегодняшней индустриальной цивилизации за то, что она дает нам возможность следовать желаниям нашего сердца и есть так плотно, как нам нравится. Аминь.</speak>
             <show chara="teslaSmileDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltNormalSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Excuse me…</speak>
+            <speak chara="weltNoFace">Простите…</speak>
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalDressClose-up" position="left"/>
             <speak chara="teslaNoFace">Да, ассистент Вельт, какой у вас вопрос? Даю вам разрешение задать вопрос.</speak>
@@ -291,10 +291,10 @@
             <speak chara="teslaNoFace">Что? Ты чем-то не доволен? Я тебя чем-то обидела?</speak>
             <show chara="teslaBoringDressClose-up" position="left" opacity="0.7"/>
             <show chara="weltTiredSweaterClose-up" position="right"/>
-            <speak chara="weltNoFace">Да нет, Не важно.</speak>
+            <speak chara="weltNoFace">Да нет, неважно.</speak>
             <bgm src="serenity.mp3" status="start"></bgm>
             <text>"В конце концов, играем мы всё же не всерьёз. Даже если бы это было не так, то мне все равно нечего терять".</text>
-            <text>Приняв эту мысль, Вельт решает отбросить сомнения, и стиснув зубы.</text>
+            <text>Приняв эту мысль, Вельт решает отбросить сомнения, и стиснул зубы.</text>
             <goto goto="25"/>
         </scene>
         <scene id="25" background="planeNight.jpg">
@@ -307,7 +307,7 @@
             <show chara="weltNormalSweaterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraDressClose-up" position="left"/>
             <speak chara="teslaNoFace">С-с-стой!</speak>
-            <text> Тесла выхватила две карты из стопки сброса и насильно пихнула их обратно в руку Вельта.</text>
+            <text>Тесла выхватила две карты из стопки сброса и насильно пихнула их обратно в руку Вельта.</text>
             <show chara="teslaBoringDressClose-up" position="left"/>
             <bgm src="themeTesla.mp3" status="start"></bgm>
             <speak chara="teslaNoFace">Не пас!</speak>
@@ -337,9 +337,9 @@
             <show chara="teslaEmbarraDressClose-up" position="left"/>
             <speak chara="teslaNoFace">НЕТ!</speak>
             <show chara="teslaShameDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">Нет, нет… для таких, как ты, это слишком переживать о своей победе, и вследствии терять всякое удовольствие от игры!</speak>
+            <speak chara="teslaNoFace">Нет-нет… для таких, как ты, это слишком переживать о своей победе, и вследствии терять всякое удовольствие от игры!</speak>
             <show chara="teslaEmbarraDressClose-up" position="left"/>
-            <speak chara="teslaNoFace"> Посмотри на себя, ты всегда такой консервативный, всегда колеблющийся, всегда съежившийся, всегда заикающийся! Ты вообще мужик!?, ты…</speak>
+            <speak chara="teslaNoFace">Посмотри на себя, ты всегда такой консервативный, всегда колеблющийся, всегда съежившийся, всегда заикающийся! Ты вообще мужик!?</speak>
             <show chara="teslaEmbarraDressClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalDressClose-up" position="right"/>
             <bgm src="themeEin.mp3" status="start"></bgm>
@@ -347,7 +347,7 @@
             <text>Знакомый неорганический голос доносится из-под той книги Римана. Похоже, громкий голос Теслы разбудил Эйнштейна.</text>
             <show chara="einNormalDressClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSmileDressClose-up" position="left"/>
-            <speak chara="teslaNoFace">… Т-ты, Ты проснулась.</speak>
+            <speak chara="teslaNoFace">… Т-ты, ты проснулась.</speak>
             <text>Даже не оглядываясь на Теслу, Вельт все равно чувствует румянец на ее лице.</text>
             <show chara="teslaSmileDressClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalDressClose-up" position="right"/>
@@ -362,7 +362,7 @@
             <show chara="teslaNormalDressClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalDressClose-up" position="right"/>
             <speak chara="einNoFace">Шоколад.</speak>
-            <text> Девушка, чьи волосы выглядят еще более растрёпанными, чем раньше, игнорируя удивление остальных, протягивает руку.</text>
+            <text>Девушка, чьи волосы выглядят еще более растрёпанными, чем раньше, игнорируя удивление остальных, протягивает руку.</text>
             <text>Тесла выхватила несколько «игровых фишек» у двух джентльменов и передала их ей.</text>
             <show chara="weltSurpriseSweaterClose-up" position="left"/>
             <show chara="einNormalDressClose-up" position="right" opacity="0.7"/>
@@ -382,15 +382,15 @@
             <bgm src="themeWelt.mp3" status="start"></bgm>
             <text>К моменту, когда самолет наконец приземлился в Биллингсе, солнце уже давно село.</text>
             <text>Если бы не разница в часовом поясе и местоположении, они, вероятно, увидели бы яркое и великолепное утреннее солнце над Лондоном.</text>
-             <text>Ну, если на этот раз лондонская туман не такой густой.</text>
-             <text>Биллингс – небольшой город, и в связи с тем, что сейчас здесь не туристический сезон, кажется, что в большом терминале почти нет людей.</text>
-             <text>Возможно, из-за этого, как только кто-то встречает кого-то или здоровается, его отчетливо слышно на расстоянии ста метров и более.</text>
+            <text>Ну, если на этот раз Лондонский туман не такой густой.</text>
+            <text>Биллингс – небольшой город, и в связи с тем, что сейчас здесь не туристический сезон, кажется, что в большом терминале почти нет людей.</text>
+            <text>Возможно, из-за этого, как только кто-то встречает кого-то или здоровается, его отчетливо слышно на расстоянии ста метров и более.</text>
             <show chara="planckSmileCoatFar" position="left"/>
             <bgm src="lab.mp3" status="start"></bgm>
             <speak chara="planckNoNameNoFace">Эйнштейн! Тесла!</speak>
             <text>Высокая стройная женщина с волосами до талии громко приветствует их издалека.</text>
             <show chara="schroNormalEmFar" position="right"/>
-            <text>Рядом с ней — молодая девушка, одетая в пуховик, с единственным хвостиком в виде штопора и невыразительным лицом, машущая рукой, в небрежным для приветствия образом.</text>
+            <text>Рядом с ней — молодая девушка, одетая в пуховик, с единственным хвостиком в виде штопора и невыразительным лицом, машущая рукой, небрежным для приветствия образом.</text>
             <show chara="planckSmileCoatFar" position="left" opacity="0.7"/>
             <show chara="schroNormalEmFar" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraDressFar" position="center"/>
@@ -399,12 +399,12 @@
             <show chara="teslaEmbarraDressFar" position="center" opacity="0.7"/>
             <show chara="einSmileDressFar" position="center"/>
             <speak chara="einNoFace">Эта высокая женщина — профессор Планк, мой научный руководитель и номинальный глава Североамериканского отделения.</speak>
-            <text>должно быть, другая девушка - Шрёдингер, та, кто отправила то загадочное письмо. Она, кажется, примерно того же возраста, что и Тесла. Она что, тоже доктор наук?</text>
+            <text>Должно быть, другая девушка - Шрёдингер, та, кто отправила то загадочное письмо. Она, кажется, примерно того же возраста, что и Тесла. Она что, тоже доктор наук?</text>
             <text>Кроме того, что значит «номинальный»? Может быть, там какой-то другой «босс за кулисами»?</text>
             <hide position="right"/>
             <show chara="einSmileDressFar" position="center" opacity="0.7"/>
             <show chara="planckSmileCoatFar" position="left"/>
-            <speak chara="planckNoFace">Эй, эй, моя Малышка Лизерль такая милая в этом платье! Ты стал немного выше, а?</speak>
+            <speak chara="planckNoFace">Эй, эй, моя Малышка Лизерль такая милая в этом платье! Ты стала немного выше, а?</speak>
             <show chara="planckEinFar" position="left"/>
             <hide position="center"/>
             <text>Пока Вельт все еще размышляет над словами Эйнштейна, профессор Планк внезапно заключает девушку в крепкие объятия.</text>
@@ -419,7 +419,7 @@
             <show chara="planckEinFar" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraDressFar" position="right"/>
             <speak chara="teslaNoFace">… Хм, тебе не нужно мне напоминать.</speak>
-             <text>Тесла кисло смотрит на Планк.</text>
+            <text>Тесла кисло смотрит на Планк.</text>
             <show chara="teslaShameDressFar" position="right"/>
             <speak chara="teslaNoFace">А ты не боишься убить своего самого любимого ученика, пока мы говорим…</speak>
             <show chara="teslaShameDressFar" position="right" opacity="0.7"/>
@@ -436,8 +436,8 @@
             <show chara="teslaAngryDressFar" position="right" opacity="0.7"/>
             <show chara="planckEinFar" position="left"/>
             <speak chara="planckNoFace">Что случилось? Разве мы все не девушки?</speak>
-             <text>"Старшая сестра" подмигивает девочке, обхватившей её левую руку, и подносит указательный палец правой руки к губам.</text>
-             <speak chara="einNoFace">Кхе-кхе…</speak>
+            <text>"Старшая сестра" подмигивает девочке, обхватившей её левую руку, и подносит указательный палец правой руки к губам.</text>
+            <speak chara="einNoFace">Кхе-кхе…</speak>
             <text>Бедная Швабра может лишь дать приглушенный ответ, так как она еще не оправилась от шока нападения.</text>
             <show chara="planckEinFar" position="left" opacity="0.7"/>
             <show chara="nokiaSmileFar" position="right"/>
@@ -453,7 +453,7 @@
             <text>Профессор Планк наконец-то выпускает беднягу Эйнштейна из её рук.</text>
             <show chara="planckSeriousCoatFar" position="left"/>
             <text>Она бросает долгий, казалось бы, серьезный взгляд вверх и вниз на Финна, но затем ее взгляд останавливается на Вельте.</text>
-            <speak chara="planckNoFace">научный сотрудник…?</speak>
+            <speak chara="planckNoFace">Научный сотрудник…?</speak>
             <show chara="planckSeriousCoatFar" position="left" opacity="0.7"/>
             <show chara="weltNormalFar" position="right"/>
             <speak chara="weltNoFace">Эээ… условно говоря, да.</speak>
@@ -495,7 +495,7 @@
             <show chara="einNormalDressFar" position="right" opacity="0.7"/>
             <show chara="schroNormalEmFar" position="center"/>
             <speak chara="schroNoFace">Я говорю…</speak>
-            <text> В неловкой обстановке именно Шредингер, единственный человек, который до этого не проронил ни слова, нарушает молчание.</text>
+            <text>В неловкой обстановке именно Шредингер, единственный человек, который до этого не проронил ни слова, нарушает молчание.</text>
             <show chara="schroNormalAhFar" position="center"/>
             <speak chara="schroNoFace">Давайте сначала определимся, что будем есть на ужин, а потом продолжим нашу беседу.</speak>
             <show chara="schroNormalEmFar" position="center"/>
@@ -529,29 +529,29 @@
             <text>Резиновая, эластичная текстура совершенно не похожа на богатый, сложный вкус, который ждёшь от хороших морепродуктов… Это определенно не «устрица». — </text>
             <show chara="teslaBoringDressClose-up" position="center"/>
             <text>Но в то же время оно не похоже ни на курицу, говядину, печень или сердце, которые она когда-либо пробовала — так что же это, черт возьми, такое?</text>
-             <text>Фрикадельки не сказать, что ужасные, но даже в этом случае на лице доктора Теслы начинают появляться сомнения.</text>
+            <text>Фрикадельки не сказать, что ужасные, но даже в этом случае на лице доктора Теслы начинают появляться сомнения.</text>
             <show chara="planckSlyClose-up" position="center"/>
             <speak chara="planckNoFace">«Устрица Скалистых гор» — это ласковое прозвище.</speak>
             <text>Увидев, что она полностью проглотила фрикадельку, профессор Планк, ни секунды не колеблясь, начинает объяснять.</text>
             <show chara="planckNormalClose-up" position="center"/>
             <speak chara="planckNoFace">Как видите, эта местность гористая. Во времена, когда технологии консервирования продуктов не были так хорошо развиты, здешние ковбои не могли есть настоящих устриц.</speak>
             <show chara="planckSlyClose-up" position="center"/>
-            <speak chara="planckNoFace">Так что эти кусочки, которые люди из прибрежных районов никогда бы не съели, — они решили назвать их «устрицами» — наполовину из утешения, наполовину из развлечения.</speak>
+            <speak chara="planckNoFace">Так что эти кусочки, которые люди из прибрежных районов никогда бы не съели, — они решили назвать «устрицами» — наполовину из утешения, наполовину из развлечения.</speak>
             <speak chara="planckNoFace">В повседневной жизни их называют по разному; однако, если быть точными…</speak>
             <show chara="planckSmileClose-up" position="center"/>
             <speak chara="planckNoFace">В биологическом смысле мы бы назвали их «яичками».</speak> <!-- Устрицы Скалистых гор также считаются афродизиаками. Возьми из этого, что хочешь. -->
             <show chara="teslaBoringDressClose-up" position="center"/>
             <bgm src="themeTesla.mp3" status="stop"></bgm>
             <speak chara="teslaNoFace">Что?</speak>
-            <text>Тесла просто не может поверить своим ушам .</text>
+            <text>Тесла просто не может поверить своим ушам.</text>
             <show chara="planckSlyClose-up" position="center"/>
             <bgm src="themeTesla.mp3" status="start"></bgm>
-            <speak chara="planckNoFace">«яички».</speak>
+            <speak chara="planckNoFace">«Яички».</speak>
             <text>Профессор Планк повторила с улыбкой.</text>
             <show chara="planckSmileClose-up" position="center"/>
             <speak chara="planckNoFace">Это яички, молодых быков.</speak> 
             <hide position="center"/>
-            <text>За одним столом Эйнштейн и Шредингер пожимают плечами, не в состоянии хоть как помочь.</text>
+            <text>За одним столом Эйнштейн и Шрёдингер пожимают плечами, не в состоянии хоть как помочь.</text>
             <text>Вельт и Финн оба приковано смотрят на вилки в руках, думая, что же делать с «жареными фрикадельками», которые так близко зависли у их разинутых ртов.</text>
             <show chara="teslaGreenDressClose-up" position="center"/>
             <text>Что касается бедной Теслы — </text>
@@ -569,9 +569,9 @@
         </scene>
         <scene id="51" background="CG4.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
-            <text> Неся на спине пьяную в стельку Теслу, Вельт с трудом поднимает голову и смотрит в ночное небо.</text>
+            <text>Неся на спине пьяную в стельку Теслу, Вельт с трудом поднимает голову и смотрит в ночное небо.</text>
             <speak chara="weltNoFace">Значит, это снег…</speak>
-            <speak chara="weltNoFace">Я не помню, чтобы сам видел это… и я не знаю почему, но я чувствую чувство ностальгии.</speak>
+            <speak chara="weltNoFace">Я не помню, чтобы сам видел его… и я не знаю почему, но я чувствую ностальгию.</speak>
             <speak chara="einNoFace" remark="next">Déjà vu.</speak>
             <text>Эйнштейн раскрывает зонт и идет рядом с ним.</text>
             <speak chara="weltNoFace">Эм… Прости?</speak>
@@ -599,12 +599,12 @@
             <speak chara="einNoFace">Профессор, старшие не должны перебивать, когда молодые люди разговаривают друг с другом.</speak>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="planckSadCoatFar" position="left"/>
-            <speak chara="planckNoFace">Boo hoo hoo… Baby Lieserl is too cruel!</speak>
+            <speak chara="planckNoFace">Бу-ху-ху… Малышка Лизерль слишком жестока!</speak>
             <text>Планк притворно и преувеличенно плачет.</text>
             <speak chara="planckNoFace">Теперь Старшая Сестричка действительно убита горем! А ведь я уже даже собиралась сообщить тебе хорошие новости!</speak>
             <show chara="planckSadCoatFar" position="left" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="center"/>
-            <speak chara="einNoFace">Профессор, глупо притворяться милым с далеко не лучшими намерениями.</speak>
+            <speak chara="einNoFace">Профессор, глупо притворяться милой с далеко не лучшими намерениями.</speak>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="planckBoringCoatFar" position="left"/>
             <speak chara="planckNoFace">Хпф, я искренне пытаюсь быть доброй!</speak>
@@ -621,7 +621,7 @@
             <text>Бедняга Вельт явно ошарашен словами «ночной рейд».</text>
             <show chara="einNormalWinterFar" position="center"/>
             <show chara="weltShameWinterFar" position="right" opacity="0.7"/>
-            <speak chara="einNoFace">… Эйнштейн не особо заинтересован наблюдением за звездами.</speak>
+            <speak chara="einNoFace">… Эйнштейн не особо заинтересована наблюдением за звездами.</speak>
             <text>Этим заявлением Швабра раскрывает истинное значение так называемого «ночного рейда».</text>
             <text>Две девушки, кажется, знакомы с манерами друг друга, как если бы они были семьей.</text>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
@@ -633,7 +633,7 @@
             <speak chara="einNoFace">… Хмм.</speak>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="planckSlyCoatFar" position="left"/>
-            <speak chara="planckNoFace">Всё Хмм да хмм, вы разрываетесь между двумя умами?</speak> <!-- 口是心非了 = "рот говорит да но сердце отказывается." -->
+            <speak chara="planckNoFace">Всё хмм, да хмм, вы разрываетесь между двумя умами?</speak> <!-- 口是心非了 = "рот говорит да но сердце отказывается." -->
             <text>Длинноволосая Старшая Сестричка вызывающе машет указательным пальцем.</text>
             <show chara="planckSmileCoatFar" position="left"/>
             <speak chara="planckNoFace">Но сегодня вам нужно хорошо выспаться — завтра всем нужно встать пораньше, чтобы добраться до места.</speak>
@@ -649,19 +649,19 @@
             <speak chara="planckNoFace">Ты не согласен?</speak>
             <show chara="planckSlyCoatFar" position="left" opacity="0.7"/>
             <show chara="weltSurpriseWinterFar" position="right"/>
-            <speak chara="weltNoFace">Эм… Ага?</speak>
+            <speak chara="weltNoFace">Эм… ага?</speak>
             <show chara="weltSurpriseWinterFar" position="right" opacity="0.7"/>
             <show chara="planckSmileCoatFar" position="left"/>
             <speak chara="planckNoFace">Лизерль такая милая девочка — как старший брат, ты не должен терроризировать ее, а?</speak>
             <show chara="planckSmileCoatFar" position="left" opacity="0.7"/>
             <show chara="weltShyWinterFar" position="right"/>
-            <speak chara="weltNoFace">Э-э-эм — Брат?</speak>
+            <speak chara="weltNoFace">Э-э-эм — брат?</speak>
             <show chara="weltShyWinterFar" position="right" opacity="0.7"/>
             <show chara="planckSeriousCoatFar" position="left"/>
-            <speak chara="planckNoFace">Ой-ой, Видимо, я ошиблась…</speak>
+            <speak chara="planckNoFace">Ой-ой, видимо, я ошиблась…</speak>
             <text>Длинноволосая Старшая Сестричка ответила вычурно, как будто она уже предвидела его реакцию.</text>
             <show chara="planckSlyCoatFar" position="left"/>
-            <speak chara="planckNoFace">Справедливо, в таком случае, Может быть… домашнее животное?</speak>
+            <speak chara="planckNoFace">Справедливо, в таком случае, может быть… домашнее животное?</speak>
             <show chara="planckSlyCoatFar" position="left" opacity="0.7"/>
             <show chara="weltShameWinterFar" position="right"/>
             <speak chara="weltNoFace">Ч-что? К чему это все?!</speak>
@@ -677,7 +677,7 @@
             <show chara="planckSlyCoatFar" position="left" opacity="0.7"/>
             <show chara="schroNormalEmFar" position="center"/>
             <speak chara="schroNoFace">…</speak>
-            <text>Шрёдингер незаметно втиснулась в их компанию и теперь с пренебрежением смотрит неустанным ледяным взглядом на претенциозное выражение лица Планки.</text>
+            <text>Шрёдингер незаметно втиснулась в их компанию и теперь с пренебрежением смотрит неустанным ледяным взглядом на претенциозное выражение лица Планк.</text>
             <speak chara="schroNoFace">Учитель, мне есть что сказать, но я не знаю, говорить мне это или нет.</speak>
             <show chara="planckBoringCoatFar" position="left"/>
             <show chara="schroNormalEmFar" position="center" opacity="0.7"/>
@@ -691,7 +691,7 @@
             <show chara="planckSadCoatFar" position="left"/>
             <show chara="schroNormalAhFar" position="center" opacity="0.7"/>
             <speak chara="planckNoFace">…</speak>
-            <speak chara="planckNoFace">Я знал, что из твоих уст никогда не будет забавы! Пф!</speak>
+            <speak chara="planckNoFace">Я знала, что из твоих уст никогда не будет забавы! Пф!</speak>
             <end post="U2FsdGVkX18Pl0DHdQ3CMr0NKlFs"/>
         </scene>
     </story>

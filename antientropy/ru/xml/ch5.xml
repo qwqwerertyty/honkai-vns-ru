@@ -421,7 +421,7 @@
             <text>У американцев, безусловно, причудливая манера называть вещи, и их вкус к живописным географическим названиям не менее своеобразен.</text>
             <show chara="planckSmileCoatClose-upSymme" position="left"/>
             <speak chara="planckNoFace">Велт, который сейчас час?</speak>
-            <text>Планк, перебравись обратно на место водителя, вдруг, кажется, что-то вспомнила.</text>
+            <text>Планк, перебравшись обратно на место водителя, вдруг, кажется, что-то вспомнила.</text>
             <show chara="planckSmileCoatClose-upSymme" position="left" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="right"/>
             <speak chara="weltNoFace">Секунду… </speak>
@@ -430,7 +430,7 @@
             <text>Вельт, не имея при себе наручных часов, изогнулся, чтобы схватить за запястье одну из девушек перед ним.</text>
             <show chara="weltNormalWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">ЭЙ-ЭЙ-ЭЙ! ТЫ ВЫБИРАЕШЬ СМЕРТЬ !?</speak>
+            <speak chara="teslaNoFace">ЭЙ-ЭЙ-ЭЙ! ТЫ ВЫБРАЛ СМЕРТЬ!?</speak>
             <show chara="teslaAngryGlassWinterClose-up" position="center" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="right"/>
             <text>Не обращая внимания на протесты Теслы, Вельт отчаянно рискуя своей жизнью, сосредотачивает свой взгляд на этой маленькой круглой поверхности. — </text>

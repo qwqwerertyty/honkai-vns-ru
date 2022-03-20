@@ -1,53 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
     <story>
-    	<scene id="0" background="bg.jpg">
+        <scene id="0" background="bg.jpg">
             <sound src="mid-lude.mp3"/>
             <cg src="lastChapter.png" bg="bg.jpg"></cg>
             <goto goto="260" change="#000000"/>
         </scene>
         <scene id="260" background="forrestDark.jpg">
             <sound src="mid-lude.mp3"/>
-			<sound src="03_15_ruinBerlin.mp3"/>
-			<sound src="11_17_memory.mp3"/>
-			<sound src="horror.mp3"/>
-			<sound src="8_24_war.mp3"/>
-			<sound src="8_24_war.mp3"/>
-			<sound src="8_24_war.mp3"/>
-			<sound src="8_24_war.mp3"/>
-			<sound src="11_17_tatakau.mp3"/>
-			<sound src="11_17_tatakau.mp3"/>
-			<sound src="11_17_tatakau.mp3"/>
-			<sound src="horror.mp3"/>
-			<sound src="horror.mp3"/>
-			<sound src="horror.mp3"/>
-			<sound src="horror.mp3"/>
-			<sound src="horror.mp3"/>
-			<sound src="11_17_tatakau.mp3"/>
-			<sound src="11_17_tatakau.mp3"/>
-			<sound src="04_20_Brigantia.mp3"/>
-			<sound src="04_20_Brigantia.mp3"/>
-			<sound src="04_20_Brigantia.mp3"/>
-			<sound src="04_20_Brigantia.mp3"/>
-			<sound src="04_20_Brigantia.mp3"/>
-			<sound src="04_20_Brigantia.mp3"/>
-			<sound src="04_20_Brigantia.mp3"/>
-			<sound src="04_20_tank.mp3"/>
-			<sound src="04_20_tank.mp3"/>
-			<sound src="04_20_tank.mp3"/>
-			<sound src="04_20_tank.mp3"/>
-			<sound src="04_20_tank.mp3"/>
-			<sound src="07_20_amazingGrace.mp3"/>
-			<sound src="07_20_amazingGrace.mp3"/>
-			<sound src="07_20_amazingGrace.mp3"/>
-			<sound src="07_20_amazingGrace.mp3"/>
-			<sound src="07_20_amazingGrace.mp3"/>
-			<sound src="07_20_amazingGrace.mp3"/>
-			<sound src="07_20_amazingGrace.mp3"/>
-			<sound src="morning.mp3"/>
-			<sound src="07_20_bellaCiao.mp3"/>
-			<sound src="07_20_bellaCiao.mp3"/>
-			<sound src="07_20_bellaCiao.mp3"/>
+            <sound src="03_15_ruinBerlin.mp3"/>
+            <sound src="11_17_memory.mp3"/>
+            <sound src="horror.mp3"/>
+            <sound src="8_24_war.mp3"/>
+            <sound src="8_24_war.mp3"/>
+            <sound src="8_24_war.mp3"/>
+            <sound src="8_24_war.mp3"/>
+            <sound src="11_17_tatakau.mp3"/>
+            <sound src="11_17_tatakau.mp3"/>
+            <sound src="11_17_tatakau.mp3"/>
+            <sound src="horror.mp3"/>
+            <sound src="horror.mp3"/>
+            <sound src="horror.mp3"/>
+            <sound src="horror.mp3"/>
+            <sound src="horror.mp3"/>
+            <sound src="11_17_tatakau.mp3"/>
+            <sound src="11_17_tatakau.mp3"/>
+            <sound src="04_20_Brigantia.mp3"/>
+            <sound src="04_20_Brigantia.mp3"/>
+            <sound src="04_20_Brigantia.mp3"/>
+            <sound src="04_20_Brigantia.mp3"/>
+            <sound src="04_20_Brigantia.mp3"/>
+            <sound src="04_20_Brigantia.mp3"/>
+            <sound src="04_20_Brigantia.mp3"/>
+            <sound src="04_20_tank.mp3"/>
+            <sound src="04_20_tank.mp3"/>
+            <sound src="04_20_tank.mp3"/>
+            <sound src="04_20_tank.mp3"/>
+            <sound src="04_20_tank.mp3"/>
+            <sound src="07_20_amazingGrace.mp3"/>
+            <sound src="07_20_amazingGrace.mp3"/>
+            <sound src="07_20_amazingGrace.mp3"/>
+            <sound src="07_20_amazingGrace.mp3"/>
+            <sound src="07_20_amazingGrace.mp3"/>
+            <sound src="07_20_amazingGrace.mp3"/>
+            <sound src="07_20_amazingGrace.mp3"/>
+            <sound src="morning.mp3"/>
+            <sound src="07_20_bellaCiao.mp3"/>
+            <sound src="07_20_bellaCiao.mp3"/>
+            <goto goto="100" change="#000000"/>
+        <scene id="100" background="bg.jpg">
+            <bgm src="mid-lude.mp3" status="start"></bgm>
+            <cg src="newChapter.png" bg="blackHole.jpg"></cg>
             <end last="1" post="U2FsdGVkX1+h4mbmmvyMmba9mr1G"/>
         </scene>
     </story>

@@ -4,7 +4,7 @@
     	<scene id="0" background="bg.jpg">
             <bgm src="mid-lude.mp3" status="start"></bgm>
             <cg src="lastChapter.png" bg="bg.jpg"></cg>
-            <goto goto="10" change="#000000"/>
+            <goto goto="260" change="#000000"/>
         </scene>
         <scene id="260" background="bg.jpg">
             <bgm src="mid-lude.mp3" status="start"></bgm>

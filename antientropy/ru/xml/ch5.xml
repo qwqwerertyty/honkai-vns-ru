@@ -21,7 +21,7 @@
             <bgm src="street.mp3" status="start"></bgm>
             <text>Лорел.</text>
             <text>Парк Сити.</text>
-            <text>"Columbus".</text>
+            <text>"Колумб".</text>
             <text>Рид Пойнт.</text>
             <text>Грейклифф.</text>
             <text>Биг-Тимбер.</text>
@@ -40,7 +40,7 @@
             <speak chara="planckNoFace">Хмм, может быть тогда тебе понравится на Аляске?</speak>
             <show chara="planckSmileCoatClose-upSymme" position="left" opacity="0.7"/>
             <show chara="schroNormalAhClose-upSymme" position="right"/>
-            <speak chara="schroNoFace">Нет… Этого достаточно… </speak>
+            <speak chara="schroNoFace">Нет… Этого достаточно…</speak>
             <speak chara="schroNoFace" remark="next">Как ни посмотри, а вокруг Анкориджа слишком много гор.</speak>
             <remark>
                 <p class="article-text-h">Примечание: </p>
@@ -52,14 +52,14 @@
             <speak chara="schroNoFace">Вот только у русских слишком резкий запах тела, и я, вероятно, его не перенесу.</speak>
             <show chara="schroNormalEmClose-upSymme" position="right" opacity="0.7"/>
             <show chara="planckNormalCoatClose-upSymme" position="left"/>
-            <speak chara="planckNoFace">Даже учитывая, что Канада находится чуть севернее? Ты и впрямь предпочитаешь экзотическое привычному, не так ли?</speak>]
+            <speak chara="planckNoFace">Даже учитывая, что Канада находится чуть севернее? Ты и впрямь предпочитаешь экзотическое привычному, не так ли?</speak>
             <show chara="planckNormalCoatClose-upSymme" position="left" opacity="0.7"/>
             <show chara="schroNormalAhClose-upSymme" position="right"/>
             <speak chara="schroNoFace" remark="next">Канада, в том числе район Юкона недалеко от Аляски, была полностью затоплена арктическим ледяным покровом во время последнего ледникового периода…</speak>
             <remark post="U2FsdGVkX18Fdl7WdyWDLF5FgdGs">
                 <p class="article-text-h">Примечание: </p>
                 <p class="article-text">Последний ледниковый максимум - самый холодный, пик которого пришелся на 25,000 лет до нашей эры.</p>
-                <p class="article-text">В то время, около 24% суши было покрыто льдом, уровень моря был примерно на 120 метров ниже, а средняя температура полюсов была на 10-20°С ниже, чем сейчас. </p>
+                <p class="article-text">В то время, около 24% суши было покрыто льдом, уровень моря был примерно на 120 метров ниже, а средняя температура полюсов была на 10-20°С ниже, чем сейчас.</p>
                 <p class="article-text">Во время последнего ледникового периода земля была более прохладной и сухой, а опустынивание более сильным, чем в наши дни.</p>
             </remark>
             <speak chara="schroNoFace">Учитель, вы вправду думаете, что нам когда-нибудь будет предоставлена возможность работать там?</speak>
@@ -67,29 +67,29 @@
             <show chara="planckSeriousCoatClose-upSymme" position="left"/>
             <speak chara="planckNoFace">Как бы то ни было…</speak>
             <show chara="planckNormalCoatClose-upSymme" position="left"/>
-            <speak chara="planckNoFace"> Но Сибирь вообще не в нашей юрисдикции, а?</speak>
+            <speak chara="planckNoFace">Но Сибирь вообще не в нашей юрисдикции, а?</speak>
             <show chara="planckNormalCoatClose-upSymme" position="left" opacity="0.7"/>
             <show chara="schroNormalAhClose-upSymme" position="right"/>
             <speak chara="schroNoFace">Да, однако «Вавилонская лаборатория» распологается там. Разве это не то место, куда отправляют тех, кто не подчиняется Смотрителю, во время экспериментов над людьми?</speak>
             <show chara="schroNormalEmClose-upSymme" position="right" opacity="0.7"/>
             <show chara="planckBoringCoatClose-upSymme" position="left"/>
-            <speak chara="planckNoFace"> … Это была злая шутка.</speak>
+            <speak chara="planckNoFace">… Это была злая шутка.</speak>
             <show chara="planckNormalCoatClose-upSymme" position="left"/>
-            <speak chara="planckNoFace"> … И ничуть не смешная.</speak>
+            <speak chara="planckNoFace">… И ничуть не смешная.</speak>
             <show chara="planckNormalCoatClose-upSymme" position="left" opacity="0.7"/>
             <show chara="schroNormalAhClose-upSymme" position="right"/>
             <speak chara="schroNoFace">Учитель, вы всегда неохотно рассматриваете негативные возможности.</speak>
             <show chara="schroNormalEmClose-upSymme" position="right"/>
-            <text>Шредингер продолжала неторопливо теребить своё штопорообразный локон, как будто предостережение ее не касалось.</text>
+            <text>Шредингер продолжала неторопливо теребить свой штопорообразный локон, как будто предостережение ее не касалось.</text>
             <show chara="schroNormalAhClose-upSymme" position="right"/>
             <speak chara="schroNoFace" remark="next">Принцип неопределенности.</speak>
             <speak chara="schroNoFace" remark="next">Мир меняется под наблюдением человека — если сосредоточиться только на красивых и добрых вещах, он превратится в хрупкую фарфоровую куклу.</speak>
             <remark post="U2FsdGVkX18cdcmDUJFVy06pVsT6">
                 <p class="article-text-h">Примечание: </p>
-                <p class="article-text"> Принцип неопределенности гласит, что положение и импульс частицы не могут быть определены одновременно, а неопределенность следует из неравенства — </p>
+                <p class="article-text">Принцип неопределенности гласит, что положение и импульс частицы не могут быть определены одновременно, а неопределенность следует из неравенства — </p>
                 <p class="article-text">ΔxΔp ≥ h/4π</p>
-                <p class="article-text"> — где h — постоянная Планка.</p>
-                <p class="article-text">Этот принцип указывает на то, что наблюдатели не могут делать точные прогнозы для всех физических величин микроскопической частицы. Чем выше достоверность одних величин, тем больше неопределенность других. (Примечание переводчика: Шрёдингер, вероятно, перепутал принцип неопределенности с эффектом наблюдателя. Обратите внимание, что это распространенная путаница.)</p>
+                <p class="article-text">— где h — постоянная Планка.</p>
+                <p class="article-text">Этот принцип указывает на то, что наблюдатели не могут делать точные прогнозы для всех физических величин микроскопической частицы. Чем выше достоверность одних величин, тем больше неопределенность других. (Примечание переводчика: Шрёдингер, вероятно, перепутала принцип неопределенности с эффектом наблюдателя. Обратите внимание, что это распространенная путаница.)</p>
             </remark>
             <show chara="schroNormalEmClose-upSymme" position="right" opacity="0.7"/>
             <show chara="planckBoringCoatClose-upSymme" position="left"/>
@@ -135,7 +135,7 @@
             <show chara="schroNormalEmClose-upSymme" position="right"/>
             <speak chara="schroNoFace"> … </speak>
             <text>Шредингер беспомощно вздохнула.</text>
-            <speak chara="schroNoFace">Я действительно должна сказать это? … </speak>
+            <speak chara="schroNoFace">Я действительно должна сказать это?… </speak>
             <show chara="schroNormalAhClose-upSymme" position="right"/>
             <speak chara="schroNoFace">Учитель, это всё отголоски того, что вы всё ещё одиноки. Это начинает выходить за рамки.</speak>
             <show chara="schroNormalEmClose-upSymme" position="right" opacity="0.7"/>
@@ -161,7 +161,7 @@
             <text>Планк говорит с закрытыми глазами. Кажется, она тоже толком не уснула.</text>
             <speak chara="einNoFace">Эта пьяница уже достаточно поспала.</speak>
             <shake position="all" time="250"></shake>
-            <text> Без лишних слов, Швабра стукнула Рыжего Хвостика по голове.</text>
+            <text>Без лишних слов, Швабра стукнула Красного Хвостика по голове.</text>
             <goto goto="25" change="0"/>
         </scene>
         <scene id="25" background="roadMontana2.jpg">
@@ -188,7 +188,7 @@
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="planckSmileCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Теперь, когда все проснулись — </speak>
-            <speak chara="planckNoFace"> — lдавайте начнем с основного положения.</speak>
+            <speak chara="planckNoFace"> — давайте начнем с основного положения.</speak>
             <show chara="planckSmileCoatClose-up" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose-up" position="left"/>
             <speak chara="schroNoFace">Окей.</speak>
@@ -197,16 +197,16 @@
             <show chara="schroNormalEmClose-up" position="left" opacity="0.7"/>
             <show chara="planckNormalCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Как известно, Йеллоустонский парк — первый природный заповедник в истории человечества.</speak>
-            <speak chara="planckNoFace">главной частью парка является Йеллоустонское озеро, представляющее собой кальдеру или кратер, образовавшийся из главного жерла Йеллоустонского супервулкана. Этот действующий вулкан может высвобождать огромное количество энергии — </speak>
+            <speak chara="planckNoFace">Главной частью парка является Йеллоустонское озеро, представляющее собой кальдеру или кратер, образовавшийся из главного жерла Йеллоустонского супервулкана. Этот действующий вулкан может высвобождать огромное количество энергии — </speak>
             <speak chara="planckNoFace">Если он когда-нибудь извергнется, вулканический пепел, снизит среднюю глобальную температуру примерно на 10 градусов на срок до года.</speak>
             <show chara="planckNormalCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
             <speak chara="weltNoFace">10 градусов?</speak>
-            <text> Вельт не совсем понял к чему Планк сказала это.</text>
+            <text>Вельт не совсем понял к чему Планк сказала это.</text>
             <show chara="weltNormalWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckSeriousCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Это означает, что вскоре после бедствия, подавляющее большинство тропических или субтропических культур погибнет, что приведет к неурожаю.</speak>
-            <speak chara="planckNoFace">Другими словами … </speak>
+            <speak chara="planckNoFace">Другими словами…</speak>
             <speak chara="planckNoFace">Не будет преувеличением сказать, что опустошительные голод и эпидемии распространятся по многим странам.</speak>
             <show chara="planckSeriousCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
@@ -215,7 +215,7 @@
             <show chara="schroNormalAhClose-up" position="left"/>
             <speak chara="schroNoFace">Расслабься, это не то, о чем мы должны беспокоиться в нашей жизни.</speak>
             <text>Шредингер прищурилась на Вельта через зеркало.</text>
-            <speak chara="schroNoFace">Более того, если мы проиграем Хонкаю, эти тревоги — все равно все они потеряют смысл.</speak>
+            <speak chara="schroNoFace">Более того, если мы проиграем Хонкаю, эти тревоги — все они в любом случае потеряют смысл.</speak>
             <show chara="schroNormalEmClose-up" position="left" opacity="0.7"/>
             <show chara="teslaSnickerGlassWinterClose-up" position="right"/>
             <speak chara="teslaNoFace">Конечно, если ты немного параноик, то ты также можешь думать о Йеллоустонском вулкане как о части «Роскошного комплексного обеда "Honkai Extra-Value"», специально приготовленного для удовольствия человечества.</speak>
@@ -236,14 +236,14 @@
             <speak chara="weltNoFace">Что!? — </speak>
             <show chara="teslaNormalGlassWinterClose-up" position="center"/>
             <speak chara="teslaNoFace">В общем, метаболические условия у самцов млекопитающих таковы, что у них возникает сильная аллергическая реакция при заражении Хонкаем — </speak>
-            <speak chara="teslaNoFace">Другими словами, приспосабливаемость мужчин к хонкаю обычно очень низка — </speak>
+            <speak chara="teslaNoFace">Другими словами, приспосабливаемость мужчин к Хонкаю обычно очень низка — </speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="center"/>
             <speak chara="teslaNoFace">Однако бывают и исключения.</speak>
             <bgm src="themeEin.mp3" status="start"></bgm>
             <speak chara="teslaNoFace">Будь то какой-то военный преступник, или же ты сам, это всё исключительные случаи.</speak>
             <show chara="weltSurpriseWinterClose-up" position="center"/>
-            <speak chara="weltNoFace">Эм … Я?</speak>
-            <text>Вельт никогда не думал, что его когда либо приравняют к опаснейшими военными преступникам, и какое-то время он не знал, как отреагировать.</text>
+            <speak chara="weltNoFace">Эм… Я?</speak>
+            <text>Вельт никогда не думал, что его когда-либо приравняют к опаснейшими военными преступникам, и какое-то время он не знал, как отреагировать.</text>
             <show chara="teslaSnickerGlassWinterClose-up" position="center"/>
             <speak chara="teslaNoFace">Да. У тебя явно есть какая-то неизвестная экзотическая способность, которую мы пока не знаем.</speak>
             <show chara="teslaBoringGlassWinterClose-up" position="center"/>
@@ -270,7 +270,7 @@
             <show chara="einSmileWinterClose-up" position="right"/>
             <speak chara="einNoFace">Поверь мне.</speak>
             <speak chara="einNoFace">«Доказательств» и вправду не так много, так что здесь я могу полагаться только на свою интуицию…</speak>
-            <speak chara="einNoFace"> …Но прошу, поверь.</speak>
+            <speak chara="einNoFace">…Но прошу, поверь.</speak>
             <hide position="left"/>
             <hide position="right"/>
             <show chara="einSmileWinterClose-up" position="center"/>
@@ -281,17 +281,17 @@
             <speak chara="planckNoFace">Кхм.</speak>
             <show chara="planckSmileCoatClose-up" position="center"/>
             <speak chara="planckNoFace">Ладно, ладно.</speak>
-            <speak chara="planckNoFace">Вернемся к основной теме? Мы здесь, чтобы делами аниматься, да? Очень интересными делами, а.</speak>
+            <speak chara="planckNoFace">Вернемся к основной теме? Мы здесь, чтобы заниматься делами, да? Очень интересными делами, а.</speak>
             <goto goto="40"/>
         </scene>
         <scene id="40" background="roadMontana3.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="planckSeriousCoatClose-up" position="right"/>
-            <speak chara="planckNoFace" remark="next">…Наконец, в этом образце не углерод-14 не был обнаружен.</speak>
+            <speak chara="planckNoFace" remark="next">…Наконец, в этом образце углерод-14 не был обнаружен.</speak>
             <remark>
                 <p class="article-text-h">Примечание: </p>
-                <p class="article-text"> Углерод-14 — радиоактивный изотоп углерода с периодом полураспада около 5730 лет.</p>
-                <p class="article-text">Иными словами, для образца, который перестал обладать какой-либо биологической активностью, содержание углерода-14 в нем будет уменьшаться наполовину каждые 5730 лет — оно будет продолжать снижаться с такой скоростью, пока даже самые сложные приборы не перестанут его обнаруживать. его присутствие.</p>
+                <p class="article-text">Углерод-14 — радиоактивный изотоп углерода с периодом полураспада около 5730 лет.</p>
+                <p class="article-text">Иными словами, для образца, который перестал обладать какой-либо биологической активностью, содержание углерода-14 в нем будет уменьшаться наполовину каждые 5730 лет — оно будет продолжать снижаться с такой скоростью, пока даже самые сложные приборы не перестанут обнаруживать его присутствие.</p>
             </remark>
             <speak chara="planckNoFace">Исходя из этого, можно с уверенностью сказать, что человеческая деятельность в руинах последний раз была примерно в 50,000г. до н.э., с погрешностью не более 1000 лет.</speak>
             <show chara="planckSmileCoatClose-up" position="right"/>
@@ -301,24 +301,24 @@
             <speak chara="nokiaNoFace">Даже так, это всё равно удивительно… </speak>
             <text>Финн сложил руки вместе, погрузившись в глубокое размышление.</text>
             <show chara="nokiaSmileEmWinterClose-upSymme" position="left"/>
-            <speak chara="nokiaNoFace"> …Я не ожидал, что человеческая деятельность уже присутствовала в Северной Америке в эпоху Предыдущей Цивилизации.</speak>
+            <speak chara="nokiaNoFace">… Я не ожидал, что человеческая деятельность уже присутствовала в Северной Америке в эпоху Предыдущей Цивилизации.</speak>
             <show chara="nokiaSmileEmWinterClose-upSymme" position="left" opacity="0.7"/>
             <show chara="planckSmileCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Это аналогично тому, как у нас есть исследовательские центры в Антарктиде.</speak>
             <show chara="planckSlyCoatClose-up" position="right"/>
-            <speak chara="planckNoFace">И это не противоречит нашему нынешнему пониманию Предыдущей Эры.</speak>
-            <text>Планк рассеянно играет с ее длинными волосами, словно намеренно подражая Шрёдингеру из прошлого.</text>
+            <speak chara="planckNoFace">И это не противоречит нашему нынешнему пониманию Предыдущей Цивилизации.</speak>
+            <text>Планк рассеянно играет со своими длинными волосами, словно намеренно подражая Шрёдингер из прошлого.</text>
             <show chara="planckSlyCoatClose-up" position="right" opacity="0.7"/>
             <show chara="nokiaSeriousEmWinterClose-upSymme" position="left"/>
             <speak chara="nokiaNoFace">Нет… </speak>
             <show chara="nokiaSmileAhWinterClose-upSymme" position="left"/>
-            <speak chara="nokiaNoFace">Масштабы этого сравнимы с археологическими руинами в Старом Свете… все может быть не так просто, как вы говорите.</speak><!--"The scale of this is comparable to archaeological ruins in the Old World…" - как правильнее в контексте перевести "Old World"? тут он говорил про время, или место?-->
+            <speak chara="nokiaNoFace">Масштабы этого сравнимы с археологическими руинами в Старом Мире… все может быть не так просто, как вы говорите.</speak><!--"The scale of this is comparable to archaeological ruins in the Old World…" - как правильнее в контексте перевести "Old World"? тут он говорил про время, или место?-->
             <text>Финн продолжает подпирать подбородок сцепленными руками.</text>
             <text>Откуда взялся этот фанатик Шерлока Холмса??</text>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
             <speak chara="weltNoFace">Это… </speak>
             <text>Вельт, уже долго чешет затылок в замешательстве, и вот он поднял руку.</text>
-            <speak chara="weltNoFace">Эта «древняя цивилизация», о которой вы говорите — </speak>
+            <speak chara="weltNoFace">Эта «предыдущая цивилизация», о которой вы говорите — </speak>
             <speak chara="weltNoFace"> — Что это такое?</speak>
             <show chara="weltSurpriseWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckNormalCoatClose-up" position="right"/>
@@ -332,14 +332,14 @@
             <speak chara="nokiaNoFace">Тогда позвольте мне объяснить.</speak>
             <text>Как знаток древней литературы финн просто не мог отказаться от предложения.</text>
             <show chara="nokiaSmileAhWinterClose-up" position="right"/>
-            <speak chara="nokiaNoFace">«Предыдущая эра», как следует из названия, была научно- и технологически развитой цивилизацией, которая когда-то процветала на Земле, задолго до начала нашей с вами истории.</speak>
+            <speak chara="nokiaNoFace">«Предыдущая цивилизация», как следует из названия, была научно- и технологически развитой цивилизацией, которая когда-то процветала на Земле, задолго до начала нашей с вами истории.</speak>
             <speak chara="nokiaNoFace" remark="next">Эта цивилизация восходит к астраханскому археологическому памятнику №3, датируемого примерно 53 000 лет до нашей эры. .</speak>
             <remark>
                 <p class="article-text-h">Примечание: </p>
                 <p class="article-text">Астрахань расположена на берегу Каспийского моря. Это последний крупный город, через который протекает река Волга. Он распределен на более чем дюжине островов, соединенных мостами. Город был основан в 13 веке Золотой Ордой и образовал независимое Астраханское ханство с 1460 по 1556 год, прежде чем был присоединен к Великому Московскому княжеству.</p>
                 <p class="article-text">Местный деликатес - арбуз.</p>
             </remark>
-            <speak chara="nokiaNoFace"> Он характеризовался общей культурой и охватывал огромный регион, простирающийся от Японского моря до Средиземного моря, от Балтийского моря до Персидского залива.</speak>
+            <speak chara="nokiaNoFace">Он характеризовался общей культурой и охватывал огромный регион, простирающийся от Японского моря до Средиземного моря, от Балтийского моря до Персидского залива.</speak>
             <show chara="nokiaSmileEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
             <speak chara="weltNoFace">Они тоже были людьми?</speak>
@@ -354,21 +354,21 @@
             <show chara="nokiaSmileAhWinterClose-up" position="right"/>
             <speak chara="nokiaNoFace">Ха-ха-ха-ха, нет, не так. Мы на удивление достаточно похожи во многих из этих аспектов.</speak>
             <speak chara="nokiaNoFace">Так называемая модель, которую я только что упомянул, в основном относится к продолжительности и разнообразию цивилизации.</speak>
-            <speak chara="nokiaNoFace"> Например, наша современная цивилизация восходит к нескольким регионам, таким как Ближний Восток, еще в 4000 году до нашей эры;</speak>
+            <speak chara="nokiaNoFace">Например, наша современная цивилизация восходит к нескольким регионам, таким как Ближний Восток, еще в 4000 году до нашей эры;</speak>
             <speak chara="nokiaNoFace">С тех пор, спустя почти 6000 лет развития и расширения, мы, наконец, сформировали цивилизованное общество, охватывающее весь земной шар.</speak>
             <speak chara="nokiaNoFace">У нас бесчисленное множество разных наций, бесчисленное количество языков, бесчисленное количество культур. У нас очень разнообразная цивилизация.</speak>
             <show chara="nokiaSmileEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Не то же самое было и с «Предыдущей Эрой»??</speak>
+            <speak chara="weltNoFace">Не то же самое было и с «Предыдущей Цивилизацией»??</speak>
             <show chara="weltNormalWinterClose-up" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose-up" position="right"/>
             <speak chara="nokiaNoFace">Нет, они были другими. Весь их мир имел единый язык и технологический комплекс.</speak>
-            <speak chara="nokiaNoFace">В нашем мире, несмотря а то, что греко-римская, британская и американская культуры были очень влиятельны, они по-прежнему далеки от достижения такого уровня гегемонии.</speak>
+            <speak chara="nokiaNoFace">В нашем мире, несмотря на то, что греко-римская, британская и американская культуры были очень влиятельны, они по-прежнему далеки от достижения такого уровня гегемонии.</speak>
             <show chara="nokiaSmileEmWinterClose-up" position="right"/>
             <speak chara="nokiaNoFace">Если поискать сравнение получше… Скажем, их единство было больше похоже на единство древней Восточной Азии, где все народы вокруг Китая в той или иной форме используют китайские иероглифы хань.</speak> <!-- 大家都用汉字; Ханьские китайские иероглифы (汉字 или 漢字) почти идентичны японским кандзи, корейским ханджа и вьетнамским ханьто. -->
             <show chara="nokiaSmileEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">То-есть, ты говоришь… их культурное разнообразие было очень низким?</speak>
+            <speak chara="weltNoFace">То есть, ты говоришь… их культурное разнообразие было очень низким?</speak>
             <show chara="weltNormalWinterClose-up" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose-up" position="right"/>
             <speak chara="nokiaNoFace">Угу. Более того, они вроде бы сохранили весь американский континент в первозданном необитаемом состоянии, так же, как мы сейчас защищаем Антарктиду.</speak>
@@ -398,7 +398,7 @@
             <bgm src="themeTesla.mp3" status="start"></bgm>
             <show chara="einBlackWinterClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);">Второй закон термодинамики можно сформулировать следующим образом: если энтропия системы уменьшается, это неизбежно приводит к увеличению энтропии другой системы с большим отрывом. С точки зрения теории информации это эквивалентно огромной информационной асимметрии между обычной средой, где информация очень хаотична, и отрицательной энтропийной средой, где информация высоко упорядочена. Исторически исследования показали, что энергия Хонкай и эта информационная асимметрия имеют сильную взаимосвязь. Математически мнимая внутренняя энергия принадлежит коллапсирующему, сходящемуся многообразию, в то время как так называемое расходящееся многообразие — то есть обычно воспринимаемое нами четырехмерное пространство-время — содержит термодинамическое проявление «реальной внутренней энергии»; вместе они могут быть математически выражены как комплексная функция более высокого порядка, и в результате ее можно использовать для предсказания флуктуаций Хонкаи на субатомном уровне. Поэтому нынешние исследователи обычно подозревают, что эта «воображаемая внутренняя энергия» является энергией Хонкай или, по крайней мере, ее основной составляющей.</p>
+                <p class="article-text" style="color:rgb(181,233,247);">Второй закон термодинамики можно сформулировать следующим образом: если энтропия системы уменьшается, это неизбежно приводит к увеличению энтропии другой системы с большим отрывом. С точки зрения теории информации это эквивалентно огромной информационной асимметрии между обычной средой, где информация очень хаотична, и отрицательной энтропийной средой, где информация высоко упорядочена. Исторически исследования показали, что энергия Хонкай и эта информационная асимметрия имеют сильную взаимосвязь. Математически мнимая внутренняя энергия принадлежит коллапсирующему, сходящемуся многообразию, в то время как так называемое расходящееся многообразие — то есть обычно воспринимаемое нами четырехмерное пространство-время — содержит термодинамическое проявление «реальной внутренней энергии»; вместе они могут быть математически выражены как комплексная функция более высокого порядка, и в результате ее можно использовать для предсказания флуктуаций Хонкая на субатомном уровне. Поэтому нынешние исследователи обычно подозревают, что эта «воображаемая внутренняя энергия» является энергией Хонкай или, по крайней мере, ее основной составляющей.</p>
             </text>
             <show chara="einSmileWinterClose-up" position="center"/>
             <speak chara="einNoFace">Как тебе такое? Теперь ты понимаешь немного больше, Ассистент Вельт?</speak>
@@ -412,15 +412,15 @@
         <scene id="50" background="hotSpring.jpg">
             <bgm src="street.mp3" status="start"></bgm>
             <text article="1">
-                <p class="article-text">Проходя под аркой Рузвельта, на которой выгравированы слова «На благо и удовольствие народа», автофургон Volkswagen Type 2 въезжает в Вайоминг по трассе 89. Учёные увлеченно обсуждают всевозможные технические детали — Вельт, который едва понял даже самые элементарные из них, ничего не остаётся, кроме как любоваться пейзажами национального парка.</p>
+                <p class="article-text">Проезжая под аркой Рузвельта, на которой выгравированы слова «На благо и удовольствие народа», автофургон Volkswagen Type 2 въезжает в Вайоминг по трассе 89. Учёные увлеченно обсуждают всевозможные технические детали — Вельт, который едва понял даже самые элементарные из них, ничего не остаётся, кроме как любоваться пейзажами национального парка.</p>
             </text>
             <text>Мэммот Хот Спрингс… </text>
             <text>Озеро Суон… </text>
-            <text>Ревущая Гора … </text>
-            <text>Файрхолл Ривер … </text>
+            <text>Ревущая Гора… </text>
+            <text>Файрхолл Ривер… </text>
             <text>У американцев, безусловно, причудливая манера называть вещи, и их вкус к живописным географическим названиям не менее своеобразен.</text>
             <show chara="planckSmileCoatClose-upSymme" position="left"/>
-            <speak chara="planckNoFace">Велт, который сейчас час?</speak>
+            <speak chara="planckNoFace">Вельт, который сейчас час?</speak>
             <text>Планк, перебравшись обратно на место водителя, вдруг, кажется, что-то вспомнила.</text>
             <show chara="planckSmileCoatClose-upSymme" position="left" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="right"/>
@@ -453,7 +453,7 @@
         <scene id="53" background="hotSpring.jpg">
             <bgm src="street.mp3" status="start"></bgm>
             <show chara="planckSmileCoatClose-upSymme" position="left"/>
-            <speak chara="planckNoFace">Ха ха ха ха … </speak>
+            <speak chara="planckNoFace">Ха ха ха ха…</speak>
             <speak chara="planckNoFace">Так или иначе, похоже, нам надо наверстать упущенное!</speak>
             <text>Длинноволосая Старшая Сестричка яростно переключает передачи и тут же нажимает на педаль газа. — </text>
             <goto goto="54" change="0"/>
@@ -465,7 +465,7 @@
             <bgm src="lab.mp3" status="stop"></bgm>
             <bgm src="themeTesla.mp3" status="start"></bgm>
             <text>Фургон внезапно рванул вперед, сначала минуя несколько родников сапфирового цвета, а после пересекая большой мост — </text>
-            <text>Затем он свернул с основного шоссе и устремляется вверх по относительно пологому склону — </text>
+            <text>Затем она свернула с основного шоссе и устремляется вверх по относительно пологому склону — </text>
             <text>Только для того, чтобы сразу выполнить резкое торможение с 90-градусным заносом.</text> <!-- PURANKU DORIFTO! -->
             <show chara="weltShameWinterClose-up" position="center"/> 
             <speak chara="weltNoFace">АААААААА МЫ СЕЙЧАС РАЗОБЪЕМСЯ!! СПААСИИТЕЕ!!</speak>
@@ -497,7 +497,7 @@
             <speak chara="planckNoFace">Хоть он и называется «Старый верный», потому что он очень пунктуален, у него два интервала!</speak>
             <speak chara="planckNoFace">65 минут и 91 минута — говорят, что точный интервал зависит от размера каждого извержения.</speak>
             <speak chara="weltNoFace">Эх… тогда мы — </speak>
-            <speak chara="planckNoFace">Как вам такое? разве нам всем не повезло сегодня?</speak>
+            <speak chara="planckNoFace">Как вам такое? Разве нам всем не повезло сегодня?</speak>
             <speak chara="schroNoFace"> … Профессор, пожалуйста, перестаньте всех дразнить. Это не было удачей.</speak>
             <speak chara="schroNoFace">Особенно учитывая то, что парк каждый день прогнозирует и обновляет время извержения.</speak>
             <speak chara="planckNoFace"> … </speak>

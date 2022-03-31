@@ -9,7 +9,7 @@
         <scene id="10" background="duckLake.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="schroNormalAhClose-up" position="center"/>
-            <speak chara="schroNoFace">11:38 по монтане, мы на месте.</speak>
+            <speak chara="schroNoFace">11:38 по Монтане, мы на месте.</speak>
             <show chara="schroNormalEmClose-up" position="center"/>
             <speak chara="schroNoFace">Вот обед, который я приготовила утром. Поедим, пока будем идти.</speak>
             <hide position="center"/>
@@ -22,7 +22,7 @@
         <scene id="20" background="quarry.jpg">
             <bgm src="9_28_cave.mp3" status="start"></bgm>
             <text>Пройдя за забор, стало понятно, что Утиное озеро давно осушили, и дно озера теперь лежит у всех на виду.</text>
-            <text> Вельт не поинимает, почему озеро перед ним, сейчас больше напоминает карьер. — </text>
+            <text>Вельт не понимает, почему озеро перед ним, сейчас больше напоминает карьер. — </text>
             <show chara="weltNormalWinterFar" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterFar" position="right"/>
             <speak chara="teslaNoFace">Цк!</speak>
@@ -48,7 +48,7 @@
             <show chara="planckSlyCoatFar" position="center" opacity="0.7"/>
             <show chara="edisonSeriousWinterFar" position="right"/>
             <speak chara="edisonNoFace">Мм.</speak>
-            <text>Взгляд «Нэнси» проскользнул мимо Планки и Шрёдингера, прежде чем останавиться на Эйнштейне и остальных.</text>
+            <text>Взгляд «Нэнси» проскользнул мимо Планк и Шрёдингер, прежде чем останавиться на Эйнштейне и остальных.</text>
             <show chara="edisonNeckWinterFar" position="right"/>
             <speak chara="edisonNoFace">Они все - твои ученики?</speak>
             <show chara="edisonNeckWinterFar" position="right" opacity="0.7"/>
@@ -63,7 +63,7 @@
             <speak chara="edisonNoFace">Имперский Институт?</speak>
             <text>Дама в мужской одежде показалась ошеломленной на несколько секунд.</text>
             <show chara="edisonNeckWinterFar" position="right"/>
-            <speak chara="edisonNoFace">Из лондона?</speak>
+            <speak chara="edisonNoFace">Из Лондона?</speak>
             <show chara="edisonNeckWinterFar" position="right" opacity="0.7"/>
             <show chara="weltTes normal" position="left"/>
             <speak chara="weltNoFace">Да…</speak>
@@ -82,7 +82,7 @@
             <show chara="edisonSeriousWinterClose-up" position="right"/>
             <show chara="weltTes normal close-up" position="left"/>
             <text>Женщина подошла ещё ближе.</text>
-            <text>Welt чувствует, что их носы вот-вот столкнутся друг с другом.</text>
+            <text>Вельт чувствует, что их носы вот-вот столкнутся друг с другом.</text>
             <speak chara="weltNoFace">…</speak>
             <text>Хотя Вельт едва может нормально дышать —</text>
             <text>— Её взгляд всё так же остается прикованным на каком-то месте за спиной Вельта. Как будто он сам не более чем прозрачное облако.</text>
@@ -116,17 +116,17 @@
             <show chara="edisonSlyWinterFar" position="right"/>
             <speak chara="edisonNoFace">Это ~ было бы ~ действительно ~ очень ~ страшно.</speak>
             <speak chara="edisonNoFace">Я ~ помню ~ это,</speak>
-            <speak chara="edisonNoFace">Год ~ назад,</speak>
+            <speak chara="edisonNoFace">год ~ назад,</speak>
             <speak chara="edisonNoFace">ты ~ разозлилась ~ совсем ~ чуть-чуть,</speak>
             <speak chara="edisonNoFace">тогда ~ ты ~ почти ~,</speak>
-            <speak chara="edisonNoFace">Сожгла ~ мой кабинет ~ до ~ тла — </speak>
+            <speak chara="edisonNoFace">сожгла ~ мой ~ кабинет ~ до ~ тла — </speak>
             <speak chara="edisonNoFace">Ведь ~ так?</speak>
-            <text>С легкой улыбкой она медленно, слово за словом, рассказывает о том, что, по-видимому, был довольно ужасающий инцидент.</text>
+            <text>С легкой улыбкой она медленно, слово за словом, рассказывает о том, что, по-видимому, звучит как довольно ужасающий инцидент.</text>
             <show chara="edisonSlyWinterFar" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">Хмпх, этот инцидент был не по моей вине — </speak>
             <show chara="teslaAngryGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">— И вообще, Как по мне, так очень даже хорошо, что твой офис сгорел и рухнул, скряга!</speak> <!-- 铁公鸡 = «Железный петух», за которым обычно следует 一毛不拔, «не желающий расставаться ни с одним пером». Вероятно, она имеет в виду, что Нэнси урезала расходы на строительство или меры предосторожности. -->
+            <speak chara="teslaNoFace">— И вообще, как по мне, так очень даже хорошо, что твой офис сгорел и рухнул, скряга!</speak> <!-- 铁公鸡 = «Железный петух», за которым обычно следует 一毛不拔, «не желающий расставаться ни с одним пером». Вероятно, она имеет в виду, что Нэнси урезала расходы на строительство или меры предосторожности. -->
             <text>С другой стороны, Тесла отказывается отступать или выдавать какую-либо слабость, вместо этого отбросив презрительный взгляд.</text>
             <show chara="teslaAngryGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="edisonSeriousWinterFar" position="right"/>
@@ -171,7 +171,7 @@
             <speak chara="edisonNoFace">Для сучки-неудачника, которая не умеет говорить вежливо —</speak>
             <show chara="edisonSmileWinterFar" position="right"/>
             <speak chara="edisonNoFace">— небольшая неудача может считаться большим благословением, не так ли?</speak>
-            <text>Рот этой Леди слегка дёрнулсяя, и она сделала жест, как будто подает кому-то сигнал.</text>
+            <text>Рот этой Леди слегка дёрнулся, и она сделала жест, как будто подает кому-то сигнал.</text>
             <show chara="edisonSmileWinterFar" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">Ч-ч-что ты собираешься делать?!</speak>
@@ -231,7 +231,7 @@
             <text>Длинноволосая Старшая Сестричка делает утрированное движение, имитируя выстрел из пистолета.</text>
             <show chara="planckSmileCoatFar" position="left" opacity="0.7"/>
             <show chara="edisonSlyWinterFar" position="right"/>
-            <speak chara="edisonNoFace">Да, И вправду… особенно эта рыжая, кажется, она сейчас полна боевого духа.</speak>
+            <speak chara="edisonNoFace">Да, и вправду… особенно эта красноволосая, кажется, она сейчас полна боевого духа.</speak>
             <show chara="edisonSlyWinterFar" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">…</speak>
@@ -277,13 +277,13 @@
             <show chara="weltSurpriseWinterFar" position="center" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">Следует сказать, что она ещё могущественнее, чем ты можешь себе представить.</speak>
-            <text>Рыжий Хвостик дуется с немного унылым выражением лица.</text>
+            <text>Красный Хвостик дуется с немного унылым выражением лица.</text>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">Она, несомненно, гений — будь то искусство изобретательства или искусство бизнеса — она все равно гений.</speak>
             <speak chara="teslaNoFace">Если не учитывать некоторые другие ее «качества»… она действительно выдающийся, экстраординарный человек.</speak>
             <show chara="teslaNormalGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="weltNormalWinterFar" position="center"/>
-            <speak chara="weltNoFace">That's … </speak>
+            <speak chara="weltNoFace">Это… </speak>
             <show chara="weltNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterFar" position="left"/>
             <shake position="left" time="250"></shake>
@@ -300,14 +300,14 @@
             <hide position="right"/>
             <show chara="planckSmileCoatFar" position="center"/>
             <show chara="teslaNormalGlassWinterFar" position="left" opacity="0.7"/>
-            <text>Как объясняет профессор Планк, в свою очередь она гладит Близнеца по голове. На этот раз она не оказывает никакого сопротивления.</text>
+            <text>Как объясняет профессор Планк, в свою очередь она гладит Двухвостку по голове. На этот раз она не оказывает никакого сопротивления.</text>
             <show chara="planckSmileCoatFar" position="center" opacity="0.7"/>
             <show chara="schroNormalEmFar" position="right"/>
             <speak chara="schroNoFace">…</speak>
             <show chara="schroNormalAhFar" position="right"/>
             <speak chara="schroNoFace">В любом случае, мы должны закончить обсуждение этой темы.</speak>
             <show chara="schroNormalEmFar" position="right"/>
-            <text>Шредингер неохотно посмотрела на Теслу, достала свё удостоверение и провела им по устройству активации лифта.</text>
+            <text>Шрёдингер неохотно посмотрела на Теслу, достала своё удостоверение и провела им по устройству активации лифта.</text>
             <show chara="schroNormalAhFar" position="right"/>
             <speak chara="schroNoFace">Давайте поторопимся, и войдём в руины —</speak>
             <goto goto="40"/>
@@ -329,16 +329,16 @@
             <show chara="planckSlyCoatClose" position="right" opacity="0.7"/>
             <show chara="teslaSnickerGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Ой, Ассистент Вельт такой неженка, трудно уже на пяти градусах ниже нуля. —</speak>
-            <speak chara="teslaNoFace"> —Очень интересно посмотреть на тебя в январе, когда будет минус 20°, хе-хе-хе.</speak>
+            <speak chara="teslaNoFace"> — Очень интересно посмотреть на тебя в январе, когда будет минус 20°, хе-хе-хе.</speak>
             <show chara="teslaSnickerGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltNormalWinterClose" position="center"/>
-            <speak chara="weltNoFace">…Ну извините, я и впрямь не люблю холод.</speak>
+            <speak chara="weltNoFace">… Ну извините, я и впрямь не люблю холод.</speak>
             <show chara="weltNormalWinterClose" position="center" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
             <speak chara="einNoFace">Поэтому усердно тренируй свое тело. Когда-нибудь я хочу взять тебя в Антарктиду.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="center"/>
-            <speak chara="weltNoFace">…Даже ты, Эйнштейн? Даже ты?</speak>
+            <speak chara="weltNoFace">… Даже ты, Эйнштейн? Даже ты?</speak>
             <goto goto="50"/>
         </scene>
         <scene id="50" background="mysGate.jpg">
@@ -355,7 +355,7 @@
             <speak chara="nokiaNoFace">Следующему поколению… Сражаться… Зависит от нас…</speak>
             <speak chara="nokiaNoFace">“Ради будущего, за которое мы должны сражаться”. Это… обобщённое значение.</speak>
             <show chara="nokiaSmileEmWinterClose-up" position="right" />
-            <text>Голос финна становится немного напряженным и взволнованным.</text>
+            <text>Голос Финна становится немного напряженным и взволнованным.</text>
             <show chara="nokiaSmileEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="planckSmileCoatClose-up" position="left"/>
             <speak chara="planckNoFace">Настоящий профессионал —</speak>
@@ -382,7 +382,7 @@
         <scene id="60" background="casterCave.jpg">
             <bgm src="9_28_cave.mp3" status="start"></bgm>
             <text>Прогулка по руинам и наслаждение мясным бургером — для Вельта это действительно новый опыт.</text>
-            <text remark="next">Структура руин напоминает древний город Петру, как в одном географическом журнале; или какой-нибудь гномий город, как его описывает Толкин.</text>
+            <text remark="next">Структура руин напоминает древний город Петра, как в одном географическом журнале; или какой-нибудь гномий город, как его описывает Толкин.</text>
             <remark>
                 <p class="article-text-h">Примечание:</p>
                 <p class="article-text">Петра (Греч.: Πέτρα) — древний город в Иордании. Исторически это был крупный торговый город, стратегически расположенный на главной магистрали и позволяющий торговать между Востоком и Западом.</p>
@@ -455,7 +455,7 @@
             <speak chara="einNoFace">…Вторжение? Битва? Инфекционное заболевание?</speak>
             <show chara="einSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace">Кто знает, может быть, финн…</speak>
+            <speak chara="schroNoFace">Кто знает, может быть, Финн…</speak>
             <show chara="schroNormalAhClose" position="left" opacity="0.7"/>
             <show chara="einSeriousEmWinterClose" position="right"/>
             <sound src="9_28_sheeee.mp3"/>
@@ -582,7 +582,7 @@
             <speak chara="planckNoFace">Тсс…</speak>
             <text>Планк делает жест, сигнализируя им: «Пожалуйста, говорите тише».</text>
             <show chara="planckNormalCoatClose" position="right"/>
-            <speak chara="planckNoFace">Если вам действительно любопытно, я думаю, в романе есть известная цитата, которая прямо сейчас подходит к этой ситуации.）</speak>
+            <speak chara="planckNoFace">（Если вам действительно любопытно, я думаю, в романе есть известная цитата, которая прямо сейчас подходит к этой ситуации.）</speak>
             <show chara="planckNormalCoatClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose" position="left"/>
             <speak chara="weltNoFace">…?</speak>
@@ -613,7 +613,7 @@
             <show chara="planckNormalCoatClose" position="left"/>
             <speak chara="planckNoFace">…</speak>
             <show chara="planckSmileCoatClose" position="left"/>
-            <speak chara="planckNoFace">…Я… Я не такая грубая женщина, знаете ли.</speak>
+            <speak chara="planckNoFace">… Я… Я не такая грубая женщина, знаете ли.</speak>
             <show chara="planckSmileCoatClose" position="left" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="right"/>
             <speak chara="schroNoFace">…Всем плевать, профессор.</speak>
@@ -627,7 +627,7 @@
             <show chara="schroNormalAhClose" position="right"/>
             <speak chara="schroNoFace">Отныне больше не должно быть странных звуков.</speak>
             <show chara="schroNormalEmClose" position="right"/>
-            <text>Шредингер взяла странный прибор со стола и достала из её основания предмет в форме бруска, похожий на батарейку.</text>
+            <text>Шрёдингер взяла странный прибор со стола и достала из её основания предмет в форме бруска, похожий на батарейку.</text>
             <show chara="schroNormalAhClose" position="right"/>
             <speak chara="schroNoFace">Судя по конструктивному исполнению, это должен быть ультразвуковой генератор. Я не знаю, как он мог оставаться в рабочем состоянии так долго.</speak>
             <show chara="schroNormalEmClose" position="right" opacity="0.7"/>
@@ -671,7 +671,7 @@
             <show chara="schroNormalAhClose" position="right"/>
             <speak chara="schroNoFace">Итак… может быть, это какие-то очень важные данные?</speak>
             <show chara="schroNormalEmClose" position="right"/>
-            <text>Шредингер положила загадочную машину обратно на стол, затем жестом указала на взволнованную Теслу.</text>
+            <text>Шрёдингер положила загадочную машину обратно на стол, затем жестом указала на взволнованную Теслу.</text>
             <show chara="schroNormalEmClose" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Э-э… должно быть, этот "Мистер Х" спрятал его в более безопасном или лучше скрытом месте, ты так не думаешь?</speak>
@@ -685,7 +685,7 @@
             <show chara="schroNormalAhClose" position="right"/>
             <speak chara="schroNoFace">То есть хочешь сказать, что какой-то древний человек взял Солиум и оставил нам эту подсказку?</speak>
             <show chara="schroNormalEmClose" position="right"/>
-            <text>Шредингер уклончиво пожимает плечами.</text>
+            <text>Шрёдингер уклончиво пожимает плечами.</text>
             <show chara="schroNormalAhClose" position="right"/>
             <speak chara="schroNoFace">В таком случае, не должен ли быть более четкий намек?</speak>
             <speak chara="schroNoFace">— А не какой-то расплывчатый двусмысленный текст? Как ни посмотри, больше похоже на то, что кто-то украл Солиум и теперь дурит нас.</speak>
@@ -700,7 +700,7 @@
             <show chara="einSeriousAhWinterClose" position="right"/>
             <speak chara="einNoFace">Лондондерри, город в Северной Ирландии.</speak>
             <show chara="einNormalWinterClose" position="right"/>
-            <text>Внезапно, ни с того ни с сего, Молчавшая всё это время Швабра заговорила.</text>
+            <text>Внезапно, ни с того ни с сего, молчавшая всё это время Швабра заговорила.</text>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Э… А!</speak>
@@ -733,7 +733,7 @@
             <show chara="schroNormalAhClose" position="right"/>
             <speak chara="schroNoFace">…Однако это всё ещё может быть просто совпадением.</speak>
             <show chara="schroNormalEmClose" position="right"/>
-            <text>Шредингер до сих пор была не особо убеждена.</text>
+            <text>Шрёдингер до сих пор была не особо убеждена.</text>
             <show chara="schroNormalEmClose" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Как вообще может быть такое совпадение?!</speak>
@@ -786,7 +786,7 @@
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
             <speak chara="schroNoFace">Мм… было бы неплохо оставить эксперта по древней письменности с нами.</speak>
-            <text>Казалось, даже Шредингера такая договоренность вполне устраивала.</text>
+            <text>Казалось, даже Шрёдингер такая договоренность вполне устраивала.</text>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="teslaSnickerGlassWinterClose" position="right"/>
             <shake position="right" time="250"></shake>
@@ -800,7 +800,7 @@
             <show chara="planckSmileCoatClose" position="center" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
             <speak chara="schroNoFace">А?</speak>
-            <text>Шредингер, по-видимому, не знала об этом.</text>
+            <text>Шрёдингер, по-видимому, не знала об этом.</text>
             <speak chara="schroNoFace">Разве она не должна лично присутствовать на опросе?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="planckSlyCoatClose" position="center"/>
@@ -830,7 +830,7 @@
             <show chara="planckSadCoatClose" position="center"/>
             <speak chara="planckNoFace">Было бы неплохо, если бы КПД меха-прототипа можно было увеличить в два-три раза.</speak>
             <show chara="planckSmileCoatClose" position="center"/>
-            <text>Планк ободряюще погладиа Шредингера по голове.</text>
+            <text>Планк ободряюще погладила Шрёдингер по голове.</text>
             <show chara="planckSmileCoatClose" position="center"/>
             <speak chara="planckNoFace">Пока мы продолжаем делать такие успехи в наших технологиях, наша тактика затягивания не будет напрасной.</speak>
             <goto goto="100"/>
@@ -840,7 +840,7 @@
             <show chara="planckSadCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Эх… как скучно…</speak>
             <show chara="planckSmileCoatClose-up" position="right"/>
-            <speak chara="planckNoFace">Ты! не пойдешь ли ты поиграть со своей сестричкой?</speak>
+            <speak chara="planckNoFace">Ты! Не пойдешь ли ты поиграть со своей сестричкой?</speak>
             <text>В какой-то момент Длинноволосая Старшая Сестра села на сиденье рядом с Вельтом.</text>
             <show chara="planckSmileCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
@@ -852,13 +852,13 @@
             <text>После этих слов, она деликатно надув губы, теребит волосы у уха.</text>
             <show chara="planckSlyCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">…Кого ты обвиняешь? Совсем недавно, ты остановила меня, чтобы рассказать кучу действительно плохих шуток.</speak>
+            <speak chara="weltNoFace">… Кого ты обвиняешь? Совсем недавно, ты остановила меня, чтобы рассказать кучу действительно плохих шуток.</speak>
             <show chara="weltSurpriseWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckBoringCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Цк.</speak>
             <show chara="planckBoringCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltShameWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">…Хм? Не говори мне, что ты всё ещё хочешь продолжить?</speak>
+            <speak chara="weltNoFace">… Хм? Не говори мне, что ты всё ещё хочешь продолжить?</speak>
             <show chara="weltShameWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckSadCoatClose-up" position="right"/>
             <speak chara="planckNoFace">У ученых явно есть всевозможные увлечения…</speak>
@@ -871,13 +871,13 @@
             <speak chara="planckNoFace">Ты презираешь свою старшую сестру за то, что она слишком старая, не так ли?!</speak>
             <show chara="planckBoringCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Нет… нет, это неправда… С чео ты так решила?!</speak>
+            <speak chara="weltNoFace">Нет… нет, это неправда… С чего ты так решила?!</speak>
             <show chara="weltTiredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckSmileCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Тогда давай, поиграй со мной!</speak>
             <show chara="planckSmileCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">…Итак, профессор, вы можете хотя бы объяснить, что вы хотите сыграть?</speak>
+            <speak chara="weltNoFace">… Итак, профессор, вы можете хотя бы объяснить, что вы хотите сыграть?</speak>
             <show chara="weltNormalWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckSlyCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Хмм…</speak>
@@ -896,7 +896,7 @@
             <speak chara="planckNoFace">Что, есть что-то в твоей старшей сестричке, что тебя не устраивает?</speak>
             <show chara="planckSlyCoatClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">…Это не вопрос удовлетворенности или неудовлетворенности!</speak>
+            <speak chara="weltNoFace">… Это не вопрос удовлетворенности или неудовлетворенности!</speak>
             <show chara="weltTiredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckSadCoatClose-up" position="right"/>
             <speak chara="planckNoFace">Ммм… но после того, как мы сойдем с самолета, разве мы не пойдем разными путями, чтобы заниматься каждый своими делами?</speak>
@@ -969,7 +969,7 @@
             <bgm src="serenity.mp3" status="continue"></bgm>
             <text>Прежде чем юноша успевает произнести хоть слово, тонкий указательный палец Длинноволосой Старшей Сестрички нежно прикасается к его губам. Она грациозно двигается, садится рядом с Вельтом, в более незаметном месте.</text>
             <text>Красные губы задерживаются у его глаз, а щекотливый шепот дразнит его воображение.</text>
-            <speak chara="planckNoFace">… Давай … поговорим шепотом?</speak>
+            <speak chara="planckNoFace">… Давай… поговорим шепотом?</speak>
             <speak chara="planckNoFace">Это просто некоторые…</speak>
             <speak chara="planckNoFace">личные слова…</speak>
             <speak chara="planckNoFace">между нами двумя…</speak>

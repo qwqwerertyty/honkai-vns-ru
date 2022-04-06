@@ -12,714 +12,714 @@
         <scene id="10" background="londonStreet.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="start"></bgm>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">You two, what are you on about, whispering like that?!</speak>
-            <text>Twintails complains, while tossing everything she is carrying straight into Welt's arms. </text>
+            <speak chara="teslaNoFace">Вы двое, о чём вы там шепчетесь?!</speak>
+            <text>—В ярости, Тесла бросила сумки в руки Вельта.</text>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltScaredWinterClose" position="center"/>
-            <speak chara="weltNoFace"> … Da-da-danger! </speak>
-            <text>With great difficulty, the young man manages to grab one bag after another, as they fly towards him in quick succession. In a state of panic, he spits out — </text>
+            <speak chara="weltNoFace">…Оо-о-осторожнее!</speak>
+            <text>Вельт еле смог схватить все сумки, одну за другой.</text>
             <show chara="weltTiredWinterClose" position="center"/>
-            <speak chara="weltNoFace">We're in the middle of a street! What should we do if something breaks? </speak>
+            <speak chara="weltNoFace">Мы посреди улицы! Что предлагаешь делать, если что-то сломается?</speak>
             <show chara="weltTiredWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">You pay. </speak>
-            <text>Tesla shrugs, matter-of-factly. </text>
+            <speak chara="teslaNoFace">Ты заплатишь.</speak>
+            <text>Тесла пожала плечами.</text>
             <show chara="teslaEmbarraGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="center"/>
-            <speak chara="weltNoFace"> … You're being too much of a bully. </speak>
+            <speak chara="weltNoFace">…Ты слишком буянишь.</speak>
             <show chara="weltShameWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hmph, since the Finn was left over on the other side to handle the translation and archaeological work, you shall now automatically assume his “male duties”. </speak>
+            <speak chara="teslaNoFace">Хпф, так как финн остался с другой группой, теперь ты автоматически берёшь на себя все его «мужские обязанности».</speak>
             <show chara="teslaSnickerGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Is that too hard to understand? </speak>
+            <speak chara="teslaNoFace">Так трудно это понять?</speak>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Oh, and if Planck had not run off to Vienna, she could've also shared these menial tasks with you … </speak>
+            <speak chara="teslaNoFace">О, и если бы Планк не высадилась в Вене, то она вполне могла бы разделить с тобой эти uhzpyst дела…</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="center"/>
-            <speak chara="weltNoFace">（ … It's indeed hard to understand. Perhaps it'd be better to ask why a person like you had to go everywhere and buy bags upon bags of useless stuff. ）</speak>
-            <speak chara="weltNoFace">（ … And wasn't it you who clearly said, “No problem, no problem, you two can go ahead and leave us”? ）</speak>
+            <speak chara="weltNoFace">(…Это действительно трудно понять. Может быть, лучше спросить, pfxtv ты бегаешь повсюду, и покупаешь столько всякого барахла?)</speak>
+            <speak chara="weltNoFace">(…И разве ты не ясно сказала: «Нет проблем, нет проблем, вы двое можете уйти и оставить нас»?)</speak>
             <show chara="weltTiredWinterClose" position="center" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">To translate for you —  She's actually asking you what “we” were just talking about. </speak>
-            <text>Einstein, who is leading the way by herself, stretches lazily and explains without looking back at Welt. </text>
+            <speak chara="einNoFace">Если тебе перевести — она спросила тебя, о чем «мы» только что говорили.</speak>
+            <text>Эйнштейн, идущая впереди, лениво потягивается и объясняет, не оглядываясь на Вельта.</text>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose" position="center"/>
-            <speak chara="weltNoFace"> … What? </speak>
-            <speak chara="weltNoFace"> …  I-is that really her intent? </speak>
+            <speak chara="weltNoFace">…Что?</speak>
+            <speak chara="weltNoFace">…Она сейчас действительно имела это ввиду?</speak>
             <show chara="weltScaredWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hey,  I'm not that awkward, alright?! </speak>
+            <speak chara="teslaNoFace">Эй, я не такая странная, понял?!</speak>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">So you should respond to her: Eins is introducing you to the history of Northern Ireland and the city of Londonderry, something that Eins is very familiar with — </speak>
-            <text>Refusing to acknowledge Twintails' complaints in the slightest, Mophead speaks according to standard protocol, as though she were minding her own business — </text>
+            <speak chara="einNoFace">Так что ты должен ответить ей: Эйн знакомит меня с историей Северной Ирландии и города Лондондерри, с чем Эйн хорошо знакома—</speak>
+            <text>Не обращая внимания на все возмущения Теслы, Эйнштейн говорит как по своему "обычному" протоколу, будто занята чем-то другим —</text>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace"> — and in so doing, to show you how Celtic culture is gradually being eroded by Anglo-Saxon culture. </speak>
-            <speak chara="einNoFace">Hmm … just now I should be detailing the differences between Scotland, Wales and Ireland … </speak>
+            <speak chara="einNoFace">— и при этом показать мне, как кельтская культура постепенно размывается англо-саксонской культурой.</speak>
+            <speak chara="einNoFace">Хм… как раз сейчас я должна была подробно рассказать о различиях между Шотландией, Уэльсом и Ирландией…</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">What the … </speak>
+            <speak chara="teslaNoFace">Какого…</speak>
             <show chara="teslaSmileGlassWinterClose" position="left"/>
-            <text> After hearing the actual details of the “conspiratorial whispering” between Einstein and Welt, Tesla's expression instantly brightened. </text>
-            <speak chara="teslaNoFace">Last time you said you've been to Ireland, was it actually here? </speak>
+            <text>После услышанных подробностей «заговорщического шепота» между Эйнштейном и Вельтом, выражение лица Теслы мгновенно просветлело.</text>
+            <speak chara="teslaNoFace">В прошлый раз, когда ты говорила, что была в Ирландии, это было здесь?</speak>
             <show chara="teslaSmileGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">Mm-hmm. At that time, it was not easy to buy air tickets, so I left from here for New York by ship. </speak>
+            <speak chara="einNoFace">Угу. Тогда купить авиабилеты было непросто, поэтому я уплыла в Нью-Йорк на корабле.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose" position="center"/>
-            <speak chara="weltNoFace">Ship? </speak>
+            <speak chara="weltNoFace">Корабле?</speak>
             <show chara="weltNormalWinterClose" position="center" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">Mm. it was the first time I left home for long-distance travel … I was quite happy, actually. Although the time spent on the journey was rather long. </speak>
+            <speak chara="einNoFace">Мм. это был первый раз, когда я уехала из дома в дальнее путешествие… Я и впрямь была очень счастлива, Однако время в пути было довольно долгим.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Ah … was that twenty years ago? </speak>
+            <speak chara="teslaNoFace">Ах… это было… лет Двадцать назад?</speak>
             <show chara="teslaNormalGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltScaredWinterClose" position="center"/>
-            <speak chara="weltNoFace"> … Huh? </speak>
+            <speak chara="weltNoFace">…А?</speak>
             <show chara="weltScaredWinterClose" position="center" opacity="0.7"/>
             <show chara="einFoolWinterClose" position="right"/>
-            <speak chara="einNoFace"> … </speak>
-            <speak chara="einNoFace">Tesla, it was nine years ago. Your answer was off by more than ten … </speak>
-            <speak chara="einNoFace">Twenty years ago … how old were you yourself … </speak>
+            <speak chara="einNoFace">…</speak>
+            <speak chara="einNoFace">Тесла, это было девять лет назад. Ты промахнулась более чем на десять…</speak>
+            <speak chara="einNoFace">Двадцать лет назад… сколько тебе было лет…</speak>
             <goto goto="15" change="#000000"/>
         </scene>
         <scene id="15" background="londonStreet2.jpg">
             <bgm src="10_20_londonderry_b.mp3" status="start"></bgm>
             <show chara="planckSisterBlackClose-up" position="center"/>
-            <speak chara="planckSisterNoFace">According to the itinerary, today we will rest here for a day — then we will cross the Atlantic. </speak>
-            <speak chara="planckSisterNoFace">We have a rare day to spend on land — is there anything you want to play? </speak>
-            <speak chara="einNoFace"> … Teacher, why, you are acting like a child in school. </speak>
-            <speak chara="einNoFace"> Instead of wasting time “playing”, I feel it's better if we just find a comfortable place to do some light reading … </speak>
-            <speak chara="planckSisterNoFace"> … Fräulein Einstein, are you trying to make me happy or sad? </speak>
-            <speak chara="planckSisterNoFace"> … No, today you must accompany me and we shall do this and that together! </speak>
-            <speak chara="planckSisterNoFace"> … Let's go, we shall climb the city walls! </speak>
+            <speak chara="planckSisterNoFace">По плану сегодня мы побудем денек здесь — затем пересечем Атлантику.</speak>
+            <speak chara="planckSisterNoFace">У нас есть возможность провести его на суше — есть ли что-нибудь, во что ты хочешь поиграть?</speak>
+            <speak chara="einNoFace">…Учитель, вы ведете себя как ребенок в школе.</speak>
+            <speak chara="einNoFace">Вместо того, чтобы тратить время на «игры», я считаю, что будет лучше, если мы просто найдем удобное место, чтобы немного почитать…</speak>
+            <speak chara="planckSisterNoFace">…Фройлейн Эйнштейн, вы пытаетесь развеселить меня, или огорчить?</speak>
+            <speak chara="planckSisterNoFace">…Нет, сегодня ты должна сопровождать меня, и мы сделаем и то и это вместе!</speak>
+            <speak chara="planckSisterNoFace">…Пошли, полезем на городские стены!</speak>
             <goto goto="17" change="#000000"/>
         </scene>
         <scene id="17" background="londonStreet.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="start"></bgm>
             <show chara="einFoolWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">You … You still remember such things so clearly. </speak>
+            <speak chara="teslaNoFace">Ты… Ты до сих пор всё так ясно помнишь, в таких мелочах.</speak>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">I say … when I was seven or eight, those places my grandpa took me to  — I've long since forgotten what they're like. </speak>
-            <speak chara="teslaNoFace">Anyway, it was in the Croatian countryside. Some backwater where birds won't even bother crapping in. Wasn't particularly interesting anyway. </speak>
+            <speak chara="teslaNoFace">Я говорю… когда мне было семь или восемь лет, те места, куда меня водил дедушка — я давно забыла, что они из себя представляют.</speak>
+            <speak chara="teslaNoFace">Так или иначе, это было в хорватской деревне. Какая-то заводь, куда птицы даже не сунутся. В любом случае, это было не особо интересно.</speak>
             <show chara="teslaNormalGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose" position="right"/>
-            <speak chara="einNoFace">No, I also don't have much of an impression of what happened when I was young. It's just a coincidence that I retain this fragment of memory. </speak>
+            <speak chara="einNoFace">Нет, у меня тоже нет особого впечатления о том, что происходило в молодости. То, что я помню этот фрагмент - это просто совпадение.</speak>
             <show chara="einSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Huh? </speak>
+            <speak chara="teslaNoFace">А?</speak>
             <show chara="teslaNormalGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">But if one was interested enough in a place, they would naturally seek a lot of information about it. Slowly, one would become as familiar with the local customs as they are with the back of their hand. </speak> <!-- 如数家珍 = "to be familiar with a subject matter as though one is enumerating their family valuables" -->
+            <speak chara="einNoFace">Но если кто-то был заинтересован в каком-то месте, он, естественно, искал много информации о нем. Постепенно можно было бы так же познакомиться с местными обычаями, как и с тыльной стороной ладони.</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace"> … It's indeed horrifying, a theorist's obsessive pursuit of knowledge. </speak>
+            <speak chara="teslaNoFace">…Это немного ужасающе, навязчивая погоня теоретика за знаниями.</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">At any rate, it's better than those experimentalists who blow the roof off at the drop of a hat. </speak>
+            <speak chara="einNoFace">Во всяком случае, это лучше, чем у тех экспериментаторов, у которых сносит крышу в мгновение ока.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hey! </speak>
+            <speak chara="teslaNoFace">Эй!</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einFoolWinterClose" position="right"/>
-            <speak chara="einNoFace">Oh, then that's better yet again than those experimenters who destroy the world at the flick of a switch. </speak>
+            <speak chara="einNoFace">О, тогда это еще лучше, чем те экспериментаторы, которые уничтожают мир одним щелчком выключателя.</speak>
             <show chara="einFoolWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace"> … HEY THAT'S EVEN MORE OUTRAGEOUS! </speak>
+            <speak chara="teslaNoFace">…ЭЙ, ЭТО ЕЩЁ ВОЗМУТИТЕЛЬНЕЕ!</speak>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <text article="1">
-                <p class="article-text">So, on the fifth weekend of October, 1955 AD, three young souls  —  two women and one man, in a burst of laughter and jeering —  ascended the walls of Londonderry, the best-preserved urban defensive structure in all of Europe since the Age of Enlightenment. </p>
+                <p class="article-text">Итак, в пятые выходные октября 1955 года три молодые души — две женщины и один мужчина — в порыве смеха и глумления взошли на стены Лондондерри, лучше всего сохранившегося городского оборонительного сооружения во всей Европе со времен Эпохи. Просвещения.</p>
                 <br />
-                <p class="article-text"> At that moment, they would have never thought that, in this Irish city, they would experience one of the most important events of their lives.</p>
+                <p class="article-text">В тот момент они и подумать не могли, что в этом ирландском городе им предстоит пережить одно из самых важных событий в своей жизни.</p>
             </text>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="derryWall.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="einNormalWinterFar" position="center"/>
-            <speak chara="einNoFace">Londonderry was originally only called Derry. </speak>
-            <speak chara="einNoFace">Of course, it has nothing to do with the “Delhi” in India. Instead it comes from the Irish “Daire” — meaning “oak forest”. </speak>
-            <speak chara="einNoFace">Later, a London chamber of commerce came here to colonise and develop the land, so they assigned the prefix “London” to the city's name. </speak>
+            <speak chara="einNoFace">Первоначально Лондондерри назывался просто "Дерри".</speak>
+            <speak chara="einNoFace">Конечно, к «Дели» в Индии это не имеет никакого отношения. Вместо этого оно происходит от ирландского «Daire», что означает «дубовый лес».</speak>
+            <speak chara="einNoFace">Позже сюда приехала лондонская торговая палата, чтобы  начать  осваивать и колонизировать земли, поэтому к названию города приписали приставку «Лондон».</speak>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">People from the colonial period seemed to enjoy naming things like this … </speak>
+            <speak chara="teslaNoFace">Людям колониального периода, похоже, нравилось называть вещи таким образом…</speak>
             <show chara="teslaBoringGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace" remark="next">Whether it's New York or Rhode Island, there are no few examples of people directly copying a European place name. </speak>
+            <speak chara="teslaNoFace" remark="next">Будь то Нью-Йорк или Род-Айленд, есть немало примеров, когда люди напрямую копируют европейское географическое название.</speak>
             <remark post="U2FsdGVkX19HAOD7GN9woHXyw4Jp">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Rhode Island is one of the thirteen states that originally formed the United States. Its full name is “the State of Rhode Island and Providence Plantations”, of which the name “Rhode Island” is derived from the Greek island of Rhodes (Ρόδος). </p>
-                <p class="article-text">Providence, the state capital, is home to Brown University, and is also the hometown of Howard Phillips Lovecraft (1890-1937), a famous novelist and creator of the Cthulhu mythology. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Род-Айленд — один из тринадцати штатов, первоначально образовавших Соединенные Штаты. Его полное название — «Штат Род-Айленд и плантации Провиденс», название которого «Род-Айленд» происходит от греческого острова Родос (Ρόδος).</p>
+                <p class="article-text">Провиденс, столица штата, является родиной Университета Брауна, а также родным городом Говарда Филлипса Лавкрафта (1890-1937), известного романиста и создателя мифологии Ктулху.</p>
             </remark>
             <show chara="teslaBoringGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="center"/>
-            <speak chara="einNoFace">Because it was a city developed by Londoners — </speak>
-            <text>Einstein continued her explanation unceasingly, completely ignoring the side-commentary from Tesla, </text>
-            <speak chara="einNoFace"> — whether it was in the choice of location, or the planning of its central urban district, in both respects the city deliberately imitated London. </speak>
-            <speak chara="einNoFace" remark="next"> From the current point of view, the main difference is probably …  that the water quality of the River Foyle is much better than the River Thames. </speak>
+            <speak chara="einNoFace">Потому что это был город, построенный лондонцами —</speak>
+            <text>Эйнштейн безостановочно продолжала свое объяснение, полностью игнорируя комментарии Теслы.</text>
+            <speak chara="einNoFace">—Будь то выбор места или планировка центрального городского района, в обоих случаях город намеренно подражал Лондону.</speak>
+            <speak chara="einNoFace" remark="next">С этой точки зрения, главное отличие, вероятно, в том, что качество воды в реке Фойл намного лучше, чем в Темзе.</speak>
             <remark post="U2FsdGVkX19HAOD7GN9woHXyw4Jp">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">The River Foyle is the main river that nurtures Londonderry, with its clear waters and rich biodiversity. </p>
-                <p class="article-text">Londonderry's position relative to the river and its estuary was intentional — the city planners deliberately imitated London's position relative to the Thames. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Река Фойл — главная река, питающая Лондондерри, с её чистыми водами и богатым биоразнообразием.</p>
+                <p class="article-text">Положение Лондондерри по отношению к реке и ее устью было преднамеренным — градостроители намеренно имитировали положение Лондона по отношению к Темзе.</p>
             </remark>
-            <speak chara="einNoFace">Like the London City Wall, the Derry City Wall was also arranged in an approximate square or diamond shape; this was relatively rare for European cities. </speak>
-            <speak chara="einNoFace">Of course, compared to London, the names of the city gates here are much more arbitrary, such as the “Shipquay Gate” right in front of us — so named because the gate faces the quay for overseas shipping. </speak>
-            <speak chara="einNoFace">Similarly, going clockwise from the East, we see such gates as the “Ferryquay Gate”, “Bishop's Gate”, and “Butcher's Gate”. </speak>
-            <speak chara="einNoFace">Derry is one of the few “virgin cities” in European history whose walls have never been breached since her founding — in 1689, she experienced a 105-day siege but was able to hold firm. </speak>
+            <speak chara="einNoFace">Как и лондонская городская стена, городская стена Дерри также имела форму квадрата или ромба; это было относительно редко для европейских городов.</speak>
+            <speak chara="einNoFace">Конечно, по сравнению с Лондоном названия городских ворот здесь гораздо более условны, например, «Ворота пристани» прямо перед нами — названы так потому, что ворота обращены к пристани для заграничного судоходства.</speak>
+            <speak chara="einNoFace">Точно так же, двигаясь по часовой стрелке с востока, «Паромные ворота», «Епископские ворота» и «Мясные ворота».</speak>
+            <speak chara="einNoFace">Дерри — один из немногих «девственных городов» в европейской истории, чьи стены ни разу не пробивались с момента его основания — в 1689 году он выдержал 105-дневную осаду, но смог устоять.</speak>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">Be that as it may … Ultimately, didn't it also have something to do with the remoteness of this place? </speak>
-            <text>Twin-tails retorts somewhat incredulously. </text>
+            <speak chara="teslaNoFace">Как бы то ни было… В итоге, не было ли это как-то связано с удаленностью этого места?</speak>
+            <text>— несколько недоверчиво возразила Тесла</text>
             <show chara="teslaBoringGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterFar" position="center"/>
-            <speak chara="einNoFace">No, no, no.  </speak>
-            <speak chara="einNoFace">At the time, it was an important hub connecting the British mainland with her American colonies, and many Irish immigrants set off from here for the New World. </speak>
+            <speak chara="einNoFace">Нет, нет.</speak>
+            <speak chara="einNoFace">В то время это был важный узел, соединяющий материковую часть Великобритании с ее американскими колониями, и многие ирландские иммигранты отправлялись отсюда в Новый Свет.</speak>
             <show chara="einSeriousEmWinterFar" position="center" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace"> … </speak>
+            <speak chara="teslaNoFace">…</speak>
             <show chara="teslaEmbarraGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="weltShyWinterFar" position="right"/>
-            <speak chara="weltNoFace">Indeed, there is so much history … </speak>
-            <speak chara="weltNoFace">It feels like you've always been interested in Ireland, am I right? </speak>
+            <speak chara="weltNoFace">Действительно, так много истории…</speak>
+            <speak chara="weltNoFace">Похоже, тебя всегда интересовала Ирландия, верно?</speak>
             <show chara="weltShyWinterFar" position="right" opacity="0.7"/>
             <show chara="einSmileWinterFar" position="center"/>
-            <speak chara="einNoFace">Actually it all started here … from this very city … </speak>
-            <speak chara="einNoFace"> When you realise the beauty of a culture, you will voluntarily search and dig up more information. </speak>
-            <speak chara="einNoFace">Ireland is such a place to me. Shouldn't it be similar to someone else's interest in India? </speak>
+            <speak chara="einNoFace">На самом деле все началось здесь… С этого самого города…</speak>
+            <speak chara="einNoFace">Когда ты осознаёшь красоту культуры, ты будешь искать и выкапывать больше информации.</speak>
+            <speak chara="einNoFace">Для меня Ирландия - такое место. Разве не похоже на чей-то интерес к Индии?</speak>
             <show chara="einSmileWinterFar" position="center" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace"> … </speak>
+            <speak chara="teslaNoFace">…</speak>
             <show chara="teslaEmbarraGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">Indeed I have read many books on Indian philosophy. </speak>
-            <speak chara="teslaNoFace">However, unlike your situation, it is completely impossible for me to wholeheartedly embrace Indian culture. </speak>
+            <speak chara="teslaNoFace">Да, я прочла много книг по индийской философии.</speak>
+            <speak chara="teslaNoFace">Однако, в отличие от твоего случая, для меня совершенно невозможно всем сердцем принять индийскую культуру.</speak>
             <show chara="teslaEmbarraGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="weltNormalWinterFar" position="right"/>
-            <speak chara="weltNoFace"> … ? </speak>
+            <speak chara="weltNoFace">…?</speak>
             <show chara="weltNormalWinterFar" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">Is it really that hard to understand? A caste system that divides people into four classes, from high to low — such a system should be extinguished. </speak>
+            <speak chara="teslaNoFace">Неужели так сложно понять? Кастовая система, которая делит людей на четыре класса, от высшего к низшему, — такую систему надо искоренить.</speak>
             <show chara="teslaEmbarraGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="einFoolWinterFar" position="center"/>
-            <speak chara="einNoFace">That … that wasn't what I meant just now … </speak>
+            <speak chara="einNoFace">Я… Я не это имела в виду…</speak>
             <show chara="einFoolWinterFar" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterFar" position="right"/>
-            <speak chara="weltNoFace">Eh … indeed, Tesla, you don't need to be so sensitive around such topics. </speak>
+            <speak chara="weltNoFace">Эх… Да-уж, Тесла, не нужно быть таким щепетильным в таких темах.</speak>
             <show chara="weltNormalWinterFar" position="right"/>
-            <speak chara="weltNoFace">Having said that, about that clue we specifically came for — do we really have a clear objective? </speak>
+            <speak chara="weltNoFace">К слову, что касается той подсказки, за которой мы пришли — у нас действительно есть четкая цель?</speak>
             <show chara="weltNormalWinterFar" position="right" opacity="0.7"/>
             <show chara="einSmileWinterFar" position="center"/>
-            <speak chara="einNoFace">Of course we do. </speak>
+            <speak chara="einNoFace">Конечно.</speak>
             <show chara="einSeriousAhWinterFar" position="center"/>
             <bgm src="10_20_londonderry_p.mp3" status="stop"></bgm>
-            <speak chara="einNoFace">Wait a moment … </speak>
+            <speak chara="einNoFace">Подожди ка…</speak>
             <show chara="einSeriousAhWinterClose" position="center"/>
-            <speak chara="einNoFace">Right here! </speak>
+            <speak chara="einNoFace">Здесь!</speak>
             <goto goto="25" change="0"/>
         </scene>
         <scene id="25" background="CG7-1.jpg">
             <bgm src="themeEin.mp3" status="start"></bgm>
-            <text>What was originally a mere “jaunt” around the one mile that is the Derry City Wall — </text>
-            <text> — has now evolved into something more, as Mophead suddenly lies down in front of a cannon on the wall, taking out a flashlight from her pocket and holding it in her mouth. </text>
-            <speak chara="weltNoFace">Wh-why so sudden … </speak>
-            <speak chara="teslaNoFace">Ye-yes indeed, what's going on here? </speak>
-            <text>Welt and Tesla both seem puzzled. </text>
-            <speak chara="einNoFace">There are still 24 such cannons left. </speak>
-            <speak chara="teslaNoFace">Oh … so what's so special about this one? </speak>
-            <text>Twintails shrugs, conveying her confusion. </text>
-            <speak chara="einNoFace">This one is also nothing special. </speak>
-            <speak chara="teslaNoFace">Huh? </speak>
-            <speak chara="einNoFace">It's just that the pointer jumped. </speak>
-            <text>Einstein pulls out some army-green device from her front pocket. </text>
-            <speak chara="teslaNoFace" remark="next">What's this … a Geiger counter? </speak>
+            <text>То, что изначально было простой «прогулкой» вокруг городской стены Дерри длиной в одну милю —</text>
+            <text>— Теперь превратилось в нечто большее, когда Эйнштейн внезапно легла перед пушкой, и достала из кармана фонарик и взяла его в рот.</text>
+            <speak chara="weltNoFace">Ч-почему так внезапно…</speak>
+            <speak chara="teslaNoFace">Да-да, что здесь происходит?</speak>
+            <text>Вельт и Тесла выглядят озадаченными.</text>
+            <speak chara="einNoFace">Таких пушек осталось еще 24 штуки.</speak>
+            <speak chara="teslaNoFace">О… так что же такого особенного в этой?</speak>
+            <text>Телса пожала плечами, показывая свое замешательство.</text>
+            <speak chara="einNoFace">Эта тоже ничем не примечательна</speak>
+            <speak chara="teslaNoFace">А?</speak>
+            <speak chara="einNoFace">Просто указатель подскочил.</speak>
+            <text>Эйнштейн доста из переднего кармана какое-то устройство армейского зеленого цвета.</text>
+            <speak chara="teslaNoFace" remark="next">Что это… Счетчик Гейгера?</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">The Geiger counter, also known as the Geiger-Müller counter, is a particle detector used to detect ionising radiation. It is usually used to detect alpha rays (proton-and-neutron particles) and beta rays (electron particles), while some models can detect gamma rays (ultra-high frequency electromagnetic waves) and x-rays. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Счетчик Гейгера, также известный как счетчик Гейгера-Мюллера, представляет собой детектор частиц, используемый для обнаружения ионизирующего излучения. Обычно он используется для обнаружения альфа-лучей (протонных и нейтронных частиц) и бета-лучей (электронных частиц), в то время как некоторые модели могут обнаруживать гамма-лучи (ультравысокочастотные электромагнитные волны) и рентгеновские лучи.</p>
             </remark>
-            <speak chara="teslaNoFace">Is there a radioactive source here?! </speak>
-            <speak chara="einNoFace">No … </speak>
-            <speak chara="einNoFace">This is the trace Honkai energy detector that I let Ada convert from a Geiger counter some time ago. </speak>
-            <speak chara="einNoFace"> Doesn't it look fashionable? </speak>
-            <speak chara="teslaNoFace"> … Fashionable?! </speak>
-            <speak chara="teslaNoFace">I say it looks pretty intimidating … </speak>
-            <text>Twintails sneers and turns up her nose at Mophead's fashion sense. </text>
-            <speak chara="weltNoFace">Wait … </speak>
-            <speak chara="weltNoFace">Who's Ada? </speak>
-            <speak chara="teslaNoFace">An assistant, just an assistant. Not much different from that Finn. </speak>
-            <speak chara="teslaNoFace">Rather than gossip about that, let's first find this information left behind by that other party. </speak>
-            <speak chara="einNoFace">Well. </speak>
-            <text>Mophead places her hands together in a style mimicking Sherlock Holmes. </text>
-            <speak chara="einNoFace">The story may have just begun. </speak>
+            <speak chara="teslaNoFace">Здесь есть радиоактивный источник?!</speak>
+            <speak chara="einNoFace">Нет…</speak>
+            <speak chara="einNoFace">Это детектор энергии Хонкай, который Ада переделала из счетчика Гейгера недавно.</speak>
+            <speak chara="einNoFace">Разве он не выглядит модно?</speak>
+            <speak chara="teslaNoFace">…Модно?!</speak>
+            <speak chara="teslaNoFace">Я бы сказала, что это выглядит довольно устрашающе…</speak>
+            <text>Тесла усмехается и воротит нос от чувства моды Эйн.</text>
+            <speak chara="weltNoFace">ФПодожди…</speak>
+            <speak chara="weltNoFace">Кто эта Ада?</speak>
+            <speak chara="teslaNoFace">Помощник, просто помощник. Не сильно отличается от того финна.</speak>
+            <speak chara="teslaNoFace">Вместо того, чтобы сплетничать об этом, давайте сначала найдем информацию, оставленную другой стороной.</speak>
+            <speak chara="einNoFace">Что ж.</speak>
+            <text>Эйнштейн сложила руки вместе, подражая Шерлоку Холмсу.</text>
+            <speak chara="einNoFace">Возможно, история только началась.</speak>
             <goto goto="33" change="#ffffff"/>
         </scene>
         <scene id="33" background="CG7-1.jpg">
             <bgm src="themeEin.mp3" status="continue"></bgm>
-            <speak chara="einNoFace">Here. </speak>
-            <text>After some length of time, Mophead, who had already been lying flat on the ground, points her finger towards a position on the underside of the cannon, and both companions also notice an abnormally-painted layer of black pitch. </text>
-            <text> Einstein glances around, and seeing that no one else is nearby, takes out a knife and scrapes the body of the cannon a few times — </text>
-            <text>And a line of silver inscription is clearly revealed. </text>
+            <speak chara="einNoFace">Вот здесь.</speak>
+            <text>Через некоторое время Швабра, лёжа на земле, указала пальцем на нижнюю сторону пушки, и оба её спутника также заметили аномально окрашенный слой черной смолы.</text>
+            <text>Эйнштейн оглядывается и, видя, что поблизости никого нет, достает нож и несколько раз царапает корпус пушки —</text>
+            <text>И тут же чётко проявляется строка серебряной надписи.</text>
             <text article="1">
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">The innocent queen has both her eyes blindfolded. </p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">У невинной королевы завязаны оба глаза.</p>
                 <br />
-                <p class="article-text" style="color:#EDEDED;font-style:italic;">H.A. </p>
+                <p class="article-text" style="color:#EDEDED;font-style:italic;">Х.А.</p>
             </text>
             <goto goto="34" change="0"/>
         </scene>
         <scene id="34" background="derryWall.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="start"></bgm>
             <show chara="weltSurpriseWinterClose" position="right"/>
-            <speak chara="weltNoFace">Queen? Is this someone from British history? </speak>
+            <speak chara="weltNoFace">Королева? Это кто-то из британской истории?</speak>
             <show chara="weltSurpriseWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">But what queen would be blindfolded … </speak>
+            <speak chara="teslaNoFace">Но какая королева будет с завязанными глазами…</speak>
             <show chara="teslaNormalGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose" position="right"/>
-            <speak chara="weltNoFace">It couldn't be just some ignorant rambling nonsense … </speak>
+            <speak chara="weltNoFace">Это не может быть просто какой-то бессвязной чушью…</speak>
             <show chara="weltSurpriseWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hmm … </speak>
+            <speak chara="teslaNoFace">Хмм…</speak>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace" remark="next">Is it some kind of metaphor? Like “John the Baptist” or “Mary Antoinette”?</speak>
+            <speak chara="teslaNoFace" remark="next">Это какая-то метафора? По типу, «Иоанн Креститель» или «Мария-Антуанетта»?</speak>
             <remark post="U2FsdGVkX19Bg4sTQmgcZy8IrP4i">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Both were beheaded and killed. In particular the death of John the Baptist is legendary for its extremely “beautiful” (read: sick and gratuitous*) description by Oscar Wilde (1854-1900) in his play “Salome” — </p>
-                <p class="article-text">“Ah! thou wouldst not suffer me to kiss thy mouth, Iokanaan [John]. Well! I will kiss it now. I will bite it with my teeth as one bites a ripe fruit. Yes, I will kiss thy mouth, Iokanaan. I said it; did I not say it? I said it. Ah! I will kiss it now … But wherefore dost thou not look at me, Iokanaan? ” (*Translator's note: The Chinese word used here is 病娇, which is a loanword from Japanese ヤンデレ or “Yandere”) </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Оба были обезглавлены и убиты. В частности, смерть Иоанна Крестителя легендарна своим чрезвычайно «красивым» (читай: больным и беспричинным*) описанием Оскара Уайльда (1854–1900) в его пьесе «Саломея» —</p>
+                <p class="article-text">«Ах! ты не позволил бы мне поцеловать твои губы, Иоканаан. Хорошо! Я поцелую его сейчас. Я буду кусать его зубами, как кусают спелый плод. Да, я поцелую твой рот, Иоканаан. Я сказал это; разве я не говорил? Я сказал это. Ах! Я поцелую его сейчас… Но почему ты не смотришь на меня, Иоканаан? (*Примечание переводчика: здесь используется китайское слово 病娇, заимствованное из японского ヤンデレ или «яндере»)</p>
             </remark>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose" position="right"/>
-            <speak chara="weltNoFace">John the Baptist? Mary Antoinette? What do you mean?</speak>
+            <speak chara="weltNoFace">Иоанн Креститель? Мария Антуанетта? Что ты имеешь в виду?</speak>
             <show chara="weltSurpriseWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hmm … I was just speaking nonsense. Don't mind me. Don't mind me at all.</speak>
-            <speak chara="teslaNoFace">It's not like I have a fetish for Wildean aesthetics or anything. </speak> <!-- 图腾 = loanword from the English "totem"-->
+            <speak chara="teslaNoFace">Хм… Я просто говорила ерунду. Не обращай на меня внимания. Просто не обращай на меня внимания.</speak>
+            <speak chara="teslaNoFace">Не то чтобы у меня был фетиш на эстетику Уайлда или что-то в этом роде.</speak>
             <show chara="teslaShameGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … I don't understand at all. I am absolutely confused. </speak>
+            <speak chara="weltNoFace">…Я совсем не понимаю. Я абсолютно сбит с толку.</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="center"/>
-            <speak chara="einNoFace">Correct.</speak>
-            <text>Staying aloof from the awkward atmosphere brewing between the two, Mophead appears to arrive at an epiphany, suddenly bringing her hands together into a single clap.</text>
-            <speak chara="einNoFace" remark="next">“The Execution of Lady Jane Grey”. </speak>
+            <speak chara="einNoFace">Верно.</speak>
+            <text>Оставаясь в стороне от неловкой атмосферы, назревающей между ними, Швабра, кажется, поняла в чём дело, внезапно хлопнув руками.</text>
+            <speak chara="einNoFace" remark="next">«Казнь леди Джейн Грей».</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">“The Execution of Lady Jane Grey” is an oil painting by Paul Delaroche (1797-1865), showing the historical tale of Lady Jane Grey (1537-1554) being deposed and executed at the age of 16. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">«Казнь леди Джейн Грей» — картина маслом Поля Делароша (1797–1865), изображающая историческую историю леди Джейн Грей (1537–1554), свергнутой и казненной в возрасте 16 лет.</p>
             </remark>
             <show chara="einNormalWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">? </speak>
+            <speak chara="teslaNoFace">?</speak>
             <show chara="teslaStarGlassWinterClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">Ah … ! </speak>
-            <speak chara="teslaNoFace">There is indeed such a painting! The subject of the painting — Queen Jane Grey — she is blindfolded, about to be executed by an executioner! </speak>
+            <speak chara="teslaNoFace">Ах…!</speak>
+            <speak chara="teslaNoFace">Такая картина действительно есть! Сюжет картины — королева Джейн Грей — с завязанными глазами, которую вот-вот казнит палач!</speak>
             <show chara="teslaSmileGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="center"/>
-            <speak chara="einNoFace">It seems that we may be spending the night on a boat. </speak>
-            <speak chara="einNoFace"> — Tomorrow we shall be making a visit to the National Gallery. </speak>
+            <speak chara="einNoFace">Похоже, у нас есть возможность провести ночь на лодке.</speak>
+            <speak chara="einNoFace">— Завтра мы посетим Национальную галерею.</speak>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="trafalgarSquare.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="start"></bgm>
-            <text>The next day. </text>
-            <text>Ascending slowly up a flight of steps, and leaving Charing Cross Underground Station via a narrow exit, the group find themselves greeted by that iconic landmark of the Empire — Trafalgar Square. </text>
-            <text>Perhaps symbolic of the fact that “the Sun never sets on the Empire”, even on a cold wintry Monday, there is no shortage of tourists. </text>
-            <speak chara="weltNoFace">So this is the centre of Greater London … </speak>
-            <text>Looking at Nelson's Column, towering and piercing through the clouds, Welt cannot help but let out a sigh, with wonder and awe typical of a tourist. </text>
-            <text>The inscription next to the memorial column indicates that it was built in honour of Admiral Horatio Nelson, the British national hero who led the Royal Navy to overwhelming victory against Napoleon's combined fleet, at the Battle of Trafalgar in 1805 — with the unfortunate cost of his own life. </text>
-            <text>His resourcefulness was unsurpassed, and his valour was unmatched as the bravest of the Coalition forces — whether it was in the Atlantic, or on the Nile, or in Copenhagen, or at Trafalgar, he repeatedly led England to decisive victories. But in doing so he lost his right eye, then his right arm, and finally his own life. </text> <!-- 勇冠三军 = "the bravest of three armies", originally in reference either to the Three Kingdoms, or to the two wings and centre divisions of a single military force. -->
-            <text>The British were not all crafty diplomats. They were also industrious folk, a tenacious people willing to put their lives on the line — but alas, the glory of the Empire was too dazzling, and this in turn played no small role in obscuring and concealing the individuals who made great achievements in her name.</text>
-            <text remark="next">“England expects every man to do his duty.”</text>
+            <text>На следующий день.</text>
+            <text>Медленно поднимаясь по лестнице и выходя из станции метро «Чаринг-Кросс» через узкий выход, группа встречает знаковую достопримечательность Империи — Трафальгарскую площадь.</text>
+            <text>Возможно, это символ того, что «над Империей никогда не заходит солнце», даже в холодный зимний понедельник нет недостатка в туристах.</text>
+            <speak chara="weltNoFace">Итак, это центр Большого Лондона…</speak>
+            <text>Глядя на Колонну Нельсона, возвышающуюся и пронзающую облака, Вельт не может не вздохнуть с удивлением и благоговением, типичными для туриста.</text>
+            <text>Надпись рядом с мемориальной колонной указывает на то, что она была построена в честь адмирала Горацио Нельсона, британского национального героя, который привел Королевский флот к сокрушительной победе над объединенным флотом Наполеона в Трафальгарском сражении в 1805 году — ценой неблагоприятных потерь - собственной жизни.</text>
+            <text>Его находчивость была непревзойденной, а его доблесть не имела себе равных, как самого храброго из сил Коалиции — будь то в Атлантике, или на Ниле, или в Копенгагене, или в Трафальгаре, он неоднократно приводил Англию к решающим победам. Но при этом он потерял правый глаз, затем правую руку и, наконец, собственную жизнь.</text>
+            <text>Не все британцы были искусными дипломатами. Они тоже были трудолюбивым, упорным народом, готовым рискнуть своей жизнью, — но, увы, слава Империи была слишком ослепительна, а это, в свою очередь, играло немалую роль в затемнении и сокрытии личностей, добившихся в ней великих достижений.</text>
+            <text remark="next">«Англия ожидает, что каждый человек будет выполнять свой долг».</text>
             <remark post="U2FsdGVkX195jDOR70Cu55GKFR4g">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">“England expects that every man will do his duty.” This was the message issued by British Navy Admiral Nelson from his flagship “HMS Victory” before the start of the Battle of Trafalgar (1805). The semaphore signal is shown in the accompanying figure.</p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">«Англия ожидает, что каждый человек будет выполнять свой долг». Это было послание адмирала британского флота Нельсона со своего флагмана «HMS Victory» перед началом Трафальгарского сражения (1805 г.). Сигнал семафора показан на прилагаемом рисунке.</p>
                 <div class="article-pic" picsrc="re_doHisDuty.jpg" style="background-position:left;height:14.4rem;"/>
-                <p class="article-text"> Due to an error in the referenced memoirs, the sentence was mistakenly memorialised on Nelson's Column as “England expects every man to do his duty”.  </p>
+                <p class="article-text"> Из-за ошибки в упомянутых мемуарах предложение было ошибочно увековечено в колонке Нельсона как «Англия ожидает, что каждый человек выполнит свой долг».</p>
             </remark>
-            <text>Recalling Planck's warning on the plane, the young man named Welt once again makes a secret resolution to himself — </text>
+            <text>Вспомнив предупреждение Планк в самолете, Вельт снова принимает для себя тайное решение.—</text>
             <show chara="weltSurpriseWinterFar" position="center"/>
-            <speak chara="weltNoFace"> Huh? Where are the others? </speak>
+            <speak chara="weltNoFace">Хм? Где остальные?</speak>
             <show chara="weltSurpriseWinterFar" position="center" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="right"/>
-            <speak chara="einNoFace">The art museum is to the north. </speak>
-            <text>Einstein grudgingly pulls on Welt's sleeve. </text>
+            <speak chara="einNoFace">Художественный музей к северу отсюда.</speak>
+            <text>Эйнштейн неохотно дёрнула Вельта за рукав.</text>
             <show chara="einSeriousAhWinterFar" position="right"/>
-            <speak chara="einNoFace">Don't get lost. The items in your backpack are very important to us. </speak>
+            <speak chara="einNoFace">Смотри не потеряйся. Вещи у в твоём рюкзаке очень важны для нас.</speak>
             <show chara="einSeriousEmWinterFar" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">Hmph. </speak>
-            <text>Tesla, who has long since been dissatisfied, takes this opportunity to double-down on Welt. </text> <!--  落井下石 = "to throw stones at somebody who fell down a well". -->
+            <speak chara="teslaNoFace">Хмпх.</speak>
+            <text>Уже давно недовольная Тесла, воспользовалась возможностью, чтобы подкинуть камней Вельту в колодец.</text>
             <show chara="teslaSnickerGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">How can someone like you ever survive, one who is so oblivious to everything? </speak>
-            <speak chara="teslaNoFace" remark="next">I reckon, even if you train him like a pet penguin to go to the market and buy fish for you, he'll still end up getting lost. </speak>
+            <speak chara="teslaNoFace">Как кто-то вроде тебя вообще может выжить, ничего не замечая?</speak>
+            <speak chara="teslaNoFace" remark="next">Думаю, даже если ты приучишь его, как домашнего пингвина, ходить на рынок и покупать тебе рыбу, он все равно потеряется.</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Penguins can learn this behaviour in reality. Please refer to the penguin “Lala” who once lived in Shibushi, Kagoshima Prefecture, Japan. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Пингвины могут научиться такому поведению в реальности. Пожалуйста, Реф. - пингвин Лала, который когда-то жил в Сибуси, префектура Кагосима, Япония.</p>
             </remark>
             <show chara="teslaSnickerGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterFar" position="center"/>
-            <speak chara="weltNoFace">Ugh … </speak>
+            <speak chara="weltNoFace">Фу…</speak>
             <goto goto="45" change="#ffffff"/>
         </scene>
         <scene id="45" background="trafalgarSquare.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
             <text article="1">
-                <p class="article-text">The National Gallery sits to the north, facing south, with a set of weathered, darkened Roman columns standing across the street from Trafalgar Square — silently narrating the glorious bygone days of the old Empire. </p>
+                <p class="article-text">Национальная галерея находится на севере, лицом на юг, в сопровождении обветренных, потемневших римских колонн, стоящих через дорогу от Трафальгарской площади, молчаливо повествующих о славных минувших днях старой Империи.</p>
             </text>
             <text article="1">
-                <p class="article-text">A heavy and profound history, laden with the sediment of life, is deposited upon the impassive architecture. This unique sense of oppression permeates through the gloomy cold haze of London, and occasionally reminds people of how formidable the violent institutions of “nationhood” and “society” can truly be. </p>
+                <p class="article-text">Тяжелая и глубокая история, отягощенная жизненным осадком, отложена на бесстрастной архитектуре. Это уникальное чувство угнетения пронизывает мрачную холодную дымку Лондона и время от времени напоминает людям о том, насколько грозными могут быть на самом деле насильственные институты «национальности» и «общества».</p>
             </text>
             <text article="1">
-                <p class="article-text">And the people who dealt regularly with these institutions — without the reckless bravery of Spartacus, the fierce cruelty of Robespierre, the astute wisdom of Benjamin Franklin, and the determined willpower of Vladimir Lenin — Could they have really accomplished anything at all? </p>
+                <p class="article-text">И люди, регулярно имевшие дело с этими учреждениями, — без безрассудной храбрости Спартака, свирепой жестокости Робеспьера, проницательной мудрости Бенджамина Франклина и решительной силы воли Владимира Ленина — могли бы они вообще что-нибудь сделать?</p>
             </text>
             <show chara="weltTiredWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hey! Wake up! Yeah, it's not as good as the British Museum, but it's still worth a visit!</speak>
-            <text>Not satisfied with Welt's despondent and pathetic appearance, Tesla slaps him hard on his shoulder. </text>
+            <speak chara="teslaNoFace">Эй! Проснись! Да, он не так хорош, как Британский музей, однако его всё же стоит посетить!</speak>
+            <text>Неудовлетворенная унылым и жалким видом Вельта, Тесла сильно ударила его по плечу.</text>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose" position="right"/>
-            <speak chara="einNoFace">It's not like Tesla had said something weird. </speak>
-            <text>Einstein, who is leading the way, also seems a little discontent. </text>
+            <speak chara="einNoFace">Не похоже, чтобы Тесла сказала что-то странное.</speak>
+            <text>Эйнштейн, ведя группу за собой, кажется тоже немного недовольна.</text>
             <show chara="einSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Huh … What weird thing!? Obviously it's the truth. </speak>
+            <speak chara="teslaNoFace">А? Что странное!? Очевидно же, это правда.</speak>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">The state of one's emotions is born from the struggle between excitement and depression. </speak>
-            <speak chara="einNoFace">Since you induced him towards one extreme, how can you blame him for not being at the other end?</speak>
+            <speak chara="einNoFace">Эмоции рождённые из борьбы между возбуждением и депрессией.</speak>
+            <speak chara="einNoFace">Поскольку ты склонила его к одной крайности, то как ты можешь винить его за то, что он не оказался на другом конце?</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace"> … No need to speak such baffling philosophising nonsense. </speak>
+            <speak chara="teslaNoFace">…Не надо заливать тут свою непонятную философствующую чепуху.</speak>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">It's totally not cute. </speak>
+            <speak chara="teslaNoFace">Это вообще не мило.</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace"> … Welt, what do you think? </speak>
-            <speak chara="einNoFace">Excitement or depression, what is the essential force behind human life, or should I say “human reason”? </speak>
-            <speak chara="einNoFace">Or, from the perspective of aesthetics, which one is more “cute”? </speak>
+            <speak chara="einNoFace">…Вельт, что ты думаешь?</speak>
+            <speak chara="einNoFace">Возбуждение или депрессия, что является основной силой человеческой жизни, или, лучше сказать, «человеческим разумом»?</speak>
+            <speak chara="einNoFace">Или, с точки зрения эстетики, какой из них более «милый»?</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose" position="center"/>
-            <speak chara="weltNoFace"> … ? </speak>
-            <text>The young man, his mind still wandering, had clearly not paid any attention to Mophead's question — </text>
+            <speak chara="weltNoFace">…?</speak>
+            <text>Вельт, мысли которого всё ещё блуждали, явно не обратил внимания на вопрос Эёнштейн…</text>
             <show chara="weltShameWinterClose" position="center"/>
-            <speak chara="weltNoFace">I-I think … </speak>
+            <speak chara="weltNoFace">Я-я… Я думаю…</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="weltNoFace">All girls are cute, no matter what they're like! </speak>
+            <speak chara="weltNoFace">Все девушки хороши, какими бы они не были!</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="weltNoFace">Girls are justice! </speak>
+            <speak chara="weltNoFace">Девочки - это справедливость!</speak>
             <show chara="weltShameWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace"> … </speak>
-            <text>For some reason, Twintail's face suddenly turns to a shade of red, then a shade of purple. </text>
+            <speak chara="teslaNoFace">…</speak>
+            <text>По какой-то причине лицо Теслы внезапно покраснело, затем стало фиолетовым.</text>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">Oh … </speak>
-            <text> Mophead seems unconcerned with the answer, or the fact that her original question remained unanswered. </text>
+            <speak chara="einNoFace">О…</speak>
+            <text>эйншетйн, похоже, не волнует ответ или тот факт, что её первоначальный вопрос остался без ответа.</text>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">I wanted to ask Mr Welt what he thought of the “beauty of humanity” — but I'll take that as an answer. </speak>
+            <speak chara="einNoFace">Я хотела спросить мистера Вельта, что он думает о «красоте человечества», но я приму это как ответ.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="center"/>
-            <speak chara="weltNoFace"> … Ugh. </speak>
+            <speak chara="weltNoFace">…Э-э…</speak>
             <show chara="weltTiredWinterClose" position="center" opacity="0.7"/>
             <show chara="einFoolWinterClose" position="right"/>
-            <speak chara="einNoFace">What a mediocre man. </speak>
+            <speak chara="einNoFace">Какой посредственный человек.</speak>
             <bgm src="10_20_PeerGynt.mp3" status="stop"></bgm>
             <goto goto="48" change="0"/>
         </scene>
         <scene id="48" background="">
             <sound src="hit man.mp3"/>
-            <text>She gives him a hard flick on his forehead. </text>
+            <text>Она дала ему жёсткий щелбан по лбу.</text>
             <goto goto="50" change="#ffffff"/>
         </scene>
         <scene id="50" background="gallery.jpg">
             <bgm src="street.mp3" status="start"></bgm>
             <show chara="staffGalleryNormalClose" position="left"/>
-            <speak chara="nekoNoFace">I didn't expect researchers like you to be interested in damaged paintings. </speak>
-            <text>One of the management staff speaks, while leading the way in the rear promenade of the National Gallery. </text>
-            <text>The pot-bellied, balding, obese middle-aged man is holding in his hand a wooden rack filled with hanging keys — the small metal keys clang incessantly against each other, in unison with his swaying, waddling steps. </text>
-            <speak chara="nekoNoFace">A flood of the Thames in 1928 destroyed much of our collection, and even now the full extent of the damage has not been clearly appraised. </speak>
-            <speak chara="nekoNoFace">The only thing certain, is that the painting you're looking for is one of those in the ruined collection. </speak>
+            <speak chara="nekoNoFace">Я не ожидал, что такие исследователи, как вы, заинтересуются поврежденными картинами.</speak>
+            <text>Сказал один из сотрудников администрации, идя впереди по задней набережной Национальной галереи.</text>
+            <text>Пузатый, лысеющий, тучный мужчина средних лет держит в руке деревянную стойку, заполненную висящими ключами — маленькие металлические ключи беспрестанно лязгают друг о друга в унисон его покачивающимся, переваливающимся шагам.</text>
+            <speak chara="nekoNoFace">Наводнение на Темзе в 1928 году уничтожило большую часть нашей коллекции, и даже сейчас полностью оценить ущерб не удалось.</speak>
+            <speak chara="nekoNoFace">Единственное, в чем можно быть уверенным, так это в том, что картина, которую вы ищете, одна из тех, что находятся в разрушенной коллекции.</speak>
             <show chara="staffGalleryNormalClose" position="left" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Wait, you … What do you mean by “even now it has not been clearly appraised”? </speak>
-            <text>The other person's statement clearly refreshed in Tesla's mind, her acute awareness of bureaucratic inefficiency. </text>
+            <speak chara="teslaNoFace">Подожди, ты… Что ты имеешь в виду под "даже сейчас полностью оценить ущерб не удалось"?</speak>
+            <text>Слова другого человека ясно освежили в памяти Теслы её острое осознание бюрократической неэффективности.</text>
             <show chara="teslaNormalGlassWinterClose" position="center" opacity="0.7"/>
             <show chara="staffGallerySweatClose" position="left"/>
-            <speak chara="nekoNoFace">Um … After all, there are more than 2,000 world-famous paintings in this museum … </speak>
-            <text>The manager splays his hands in a helpless, conceding gesture — </text>
-            <speak chara="nekoNoFace">How much damage each painting has incurred can only be evaluated when the restoration is complete.  </speak>
-            <speak chara="nekoNoFace">You must understand … a master can only restore two or three paintings in a year. It's all quite a troublesome affair. </speak>
+            <speak chara="nekoNoFace">Хм… В этом музее более 2000 всемирно известных картин…</speak>
+            <text>Менеджер беспомощно разводит руками в уступчивом жесте -</text>
+            <speak chara="nekoNoFace">Какой ущерб был нанесен каждой картине, можно оценить только после завершения реставрации.</speak>
+            <speak chara="nekoNoFace">Поймите… мастер может реставрировать только две-три картины в год. Это все довольно хлопотное дело.</speak>
             <show chara="staffGallerySweatClose" position="left" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace"> … So, this painting we are looking for — is it a work that is relatively low in priority for restoration? </speak>
+            <speak chara="teslaNoFace">…Итак, эта картина, которую мы ищем, — это относительно низкоприоритетная работа для реставрации?</speak>
             <show chara="teslaNormalGlassWinterClose" position="center" opacity="0.7"/>
             <show chara="staffGalleryNormalClose" position="left"/>
-            <speak chara="nekoNoFace">Yes, it can be said so. After all, it is a modern work and it is difficult to rank above those other older, more “classical” works. </speak>
-            <speak chara="nekoNoFace">Let me tell you, even the famous and most highly-esteemed Turner, has several artworks that have yet to be restored. </speak>
-            <text>And in saying this, the fat balding uncle leading the group finally stops at the door of an old warehouse. </text>
-            <speak chara="nekoNoFace">This is it. I'll enter with you. </speak>
+            <speak chara="nekoNoFace">Да, можно сказать и так. В конце концов, это относительно современная работа, и её трудно поставить выше других, более старых, более «классических» работ.</speak>
+            <speak chara="nekoNoFace">Позвольте мне сказать вам, что даже у знаменитого и самого уважаемого Тёрнера есть несколько произведений искусства, которые ещё предстоит отреставрировать.</speak>
+            <text>И, говоря это, толстый лысеющий дядя, возглавляющий группу, наконец останавился у дверей старого склада.</text>
+            <speak chara="nekoNoFace">Это здесь. Я пойду с вами.</speak>
             <show chara="teslaBoringGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Hmm … </speak>
-            <text>Tesla's face makes an uncomfortable expression — </text>
+            <speak chara="teslaNoFace">Хммм…</speak>
+            <text>Лицо Теслы приняло неловкое выражение —</text>
             <show chara="teslaEmbarraGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">We are conducting research of a most confidential nature … </speak>
+            <speak chara="teslaNoFace">Мы проводим исследование очень конфиденциального характера…</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="center" opacity="0.7"/>
             <show chara="staffGalleryNormalClose" position="left"/>
-            <speak chara="nekoNoFace">So I've heard. </speak>
-            <text>The fat balding uncle does not budge — </text>
+            <speak chara="nekoNoFace">Да, я знаю</speak>
+            <text>Толстый лысеющий дядька не шелохнулся —</text>
             <show chara="staffGallerySeriousClose" position="left"/>
-            <speak chara="nekoNoFace">I don't care if you're MI5 or MI6 — </speak>
-            <speak chara="nekoNoFace">Or whatever fancy get-up — </speak>
-            <speak chara="nekoNoFace">But in this museum, non-staff visitors must never be left unsupervised. </speak>
+            <speak chara="nekoNoFace">Мне все равно, MI5 вы или MI6 —</speak>
+            <speak chara="nekoNoFace">Или какой-нибудь причудливый наряд—</speak>
+            <speak chara="nekoNoFace">Но в этом музее внештатных посетителей ни в коем случае нельзя оставлять без присмотра.</speak>
             <show chara="staffGallerySeriousClose" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace"> … </speak>
+            <speak chara="teslaNoFace">…</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="center" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">No problem. </speak>
-            <text>Einstein shrugs, indicating that she does not mind. </text>
+            <speak chara="einNoFace">Не вопрос.</speak>
+            <text>Эйнштейн пожала плечами, показывая, что она не против.</text>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">Let's go in together. </speak>
+            <speak chara="einNoFace">пойдем вместе.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="staffGallerySmileClose" position="left"/>
-            <speak chara="nekoNoFace">Haha, I really appreciate your cooperation. </speak>
-            <speak chara="nekoNoFace">At least this lady still has some common sense. </speak>
+            <speak chara="nekoNoFace">Ха-ха, я очень ценю ваше сотрудничество.</speak>
+            <speak chara="nekoNoFace">По крайней мере, у этой леди ещё есть здравый смысл.</speak>
             <show chara="staffGallerySmileClose" position="left" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Tsk. </speak>
-            <speak chara="teslaNoFace">I'm only cooperating for your sake — </speak>
+            <speak chara="teslaNoFace">Цк.</speak>
+            <speak chara="teslaNoFace">Я сотрудничаю только ради тебя —</speak>
             <bgm src="street.mp3" status="stop"></bgm>
             <show chara="teslaEmbarraGlassWinterClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">! </speak>
+            <speak chara="teslaNoFace">!</speak>
             <show chara="teslaAngryGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Wha-wha-what — What is that stench? ! </speak>
+            <speak chara="teslaNoFace">Чт-ч-что — Что это за вонь?!</speak>
             <goto goto="60" change="#ffffff"/>
         </scene>
         <scene id="60" background="storage.jpg">
             <bgm src="serenity.mp3" status="start"></bgm>
-            <text>As the heavy door slowly opened with a creaking sound, a thick musty scent even heavier than the door instantly permeates into everybody's nostrils.</text>
-            <text> Even Tesla, who had once visited a century-old wine cellar in Vienna, is taken aback by the pungent odour.</text>
+            <text>Когда тяжелая дверь со скрипом медленно открылась, густой затхлый запах, еще более тяжелый, чем сама дверь, мгновенно проник в ноздри каждого.</text>
+            <text>Даже Тесла, однажды посетившая столетний винный погреб в Вене, ошеломлена резким запахом.</text>
             <show chara="staffGallerySweatClose" position="left"/>
-            <speak chara="nekoNoFace">After a painting is affected by damp moisture, a certain amount of oil-water admixture will form on its surface … and if it is sealed in an airtight warehouse at constant temperature … </speak>
-            <text> Returning the door bolt to its locked position, the fat uncle coughs a few times — </text>
-            <speak chara="nekoNoFace">If you think it through: the resulting product of fermentation, I'm afraid, is not much different from swill or hogwash in terms of its composition. </speak>
+            <speak chara="nekoNoFace">После воздействия на картину влаги на ее поверхности образуется некоторое количество масляно-водяной примеси… и если ее запечатать в герметичном складе при постоянной температуре…</speak>
+            <text>Возвращая задвижку в запертое положение, толстый дядька несколько раз кашляет —</text>
+            <speak chara="nekoNoFace">Если хорошенько подумать: то получившийся продукт брожения, боюсь, мало чем отличается от пойла или херни по своему составу.</speak>
             <show chara="staffGallerySweatClose" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose" position="right"/>
-            <speak chara="teslaNoFace"> … </speak>
-            <speak chara="teslaNoFace">Please, please don't describe it so disgustingly. </speak>
+            <speak chara="teslaNoFace">…</speak>
+            <speak chara="teslaNoFace">Пожалуйста, пожалуйста, не описывайте это так отвратительно.</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="right" opacity="0.7"/>
             <show chara="staffGalleryNormalClose" position="left"/>
-            <speak chara="nekoNoFace">Cough cough … </speak>
-            <speak chara="nekoNoFace"> … It's “The Execution of Lady Jane Grey”, right? </speak>
+            <speak chara="nekoNoFace">Кхе кхе…</speak>
+            <speak chara="nekoNoFace">…"Казнь леди Джейн Грей", верно?</speak>
             <show chara="staffGallerySmileClose" position="left"/>
-            <speak chara="nekoNoFace">No index cards have been made here — </speak>
-            <speak chara="nekoNoFace">So we can only check them by hand, one by one. </speak>
-            <text>With a meek smile, the fat uncle makes a statement even more demoralising than the thick musty smell enveloping them. </text>
+            <speak chara="nekoNoFace">Идентификационных карточек здесь не делали —</speak>
+            <speak chara="nekoNoFace">Так что, мы можем проверить их только вручную, одну за другой.</speak>
+            <text>С кроткой улыбкой толстый дядя сделал заявление, ещё более деморализующее, чем окутывающий их густой затхлый запах.</text>
             <goto goto="65" change="#ffffff"/>
         </scene>
         <scene id="65" background="storage.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
             <text article="1">
-                <p class="article-text">Despite having sustained flood damage, the cultural relics are still cultural relics after all. The Fat Uncle takes great pains to shout orders so that Welt's actions can be synchronised with his own. There is still considerable weight in the picture frames — and the action of carefully lifting up and putting down each frame, repeated dozens of times, has already given both men sore hips and aching backs, their bodies dripping with sweat. </p>
-            </text>
+                <p class="article-text">Несмотря на ущерб, нанесенный наводнением, культурные реликвии все ещё остаются культурными реликвиями. Толстый дядя изо всех сил старается выкрикивать приказы, чтобы действия Вельта можно было синхронизировать с его собственными. Рамы картин по-прежнему много вес, и все действия по осторожному подъему и опусканию каждой рамы, повторяющиеся десятки раз, уже вызвали у мужчин боли в бедрах и спине, с их тел уже капает пот.</p>
+           </text>
             <goto goto="70" change="#ffffff"/>
         </scene>
         <scene id="70" background="storage.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
             <show chara="staffGalleryBlackClose-up" position="center"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">“The Goddess of Discord Choosing the Apple of Contention in the Garden of the Hesperides” … There are a few Turners here. Riddled with holes and scars … What a pity … </p>
-            </text>
+                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">«Богиня раздора выбирает яблоко раздора в саду Гесперид»… Здесь несколько Тернеров. Изрешеченные дырами и порезами… Как жаль…</p>
+           </text>
             <goto goto="75" change="#ffffff"/>
         </scene>
         <scene id="75" background="storage.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
             <show chara="teslaBlackGlassWinterClose-up" position="center"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(237,118,114);font-style:italic;">“The Destruction of Pompeii and Herculaneum” … This one's already taller than me! Speaking of which, does anyone know, the one we are looking for, how big is it ?!</p>
-            </text>
+                <p class="article-text" style="color:rgb(237,118,114);font-style:italic;">«Разрушение Помпеи и Геркуланума»… Эта картина выше меня ростом! Кстати говоря, кто-нибудь знает, та, которую мы ищем, насколько она большая?!</p>
+           </text>
             <goto goto="80" change="#ffffff"/>
-        </scene>
+       </scene>
         <scene id="80" background="storage2.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
             <show chara="teslaBlackGlassWinterClose-up" position="center"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(237,118,114);font-style:italic;">Uh …  this painting … will you two be okay? </p>
-            </text>
+                <p class="article-text" style="color:rgb(237,118,114);font-style:italic;">Ох… эта картина… вы двое будете в порядке?</p>
+           </text>
             <text article="1">
-                <p class="article-text">Upon seeing a work that seems to be as tall as a football goalpost, Twintails hurries forward to assist. </p>
-            </text>
+                <p class="article-text">Увидев работу высотой с футбольную стойку ворот, Тесла поспешила на помощь.</p>
+           </text>
             <show chara="staffGalleryBlackClose-up" position="center"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">Miss, move a bit over there … don't be more of a hindrance than a help. </p>
-            </text>
+                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">Мисс, подвиньтесь немного туда… не мешайте больше, чем помогаете.</p>
+           </text>
             <text article="1">
-                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">Alright, young lad … I'll count to three … One, two, three — Heave! </p>
-            </text>
+                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">Ладно, ребята, Считаю до трех… Раз, два, три - Взяли!</p>
+           </text>
             <goto goto="85" change="#ffffff"/>
-        </scene>
+       </scene>
         <scene id="85" background="storage2.jpg">
             <bgm src="themeWelt.mp3" status="start"></bgm>
-            <text>A board-shaped object, larger than the warehouse door, is lifted shakily from its stand. </text>
-            <text>The burlap cloth wrapped around the painting flutters about, raining down annoying puffs of dust — both hands occupied, Welt tries to hold back his sneeze, his facial features contorted to resemble a twisted pretzel. </text> <!-- In Chinese, they instead use mahua (麻花) as the metaphor - this is a northern Chinese snack made of fried dough that is also twisted in shape. -->
+            <text>Объект в форме доски, больше, чем дверь склада, неуверенно поднимается со своей подставки.</text>
+            <text>Мешковина, обернутая вокруг картины, трепещет, осыпая надоедливые клубы пыли — обе руки заняты, Вельт пытается сдержать чих, черты его лица искажаются, и теперь напоминают скрученный крендель.</text> <!-- In Chinese, they instead use mahua (麻花) as the metaphor - this is a northern Chinese snack made of fried dough that is also twisted in shape. -->
             <show chara="staffGallerySmileClose-up" position="center"/>
-            <speak chara="nekoNoFace">Alright … let's continue to remove these rags that are probably older than me … </speak>
-            <text>Fat Uncle wipes the sweat from his forehead, and very carefully opens the sleeve containing the oil painting, filled with copious stains, water marks and dust. </text>
+            <speak chara="nekoNoFace">Ладно… Продолжим снимать эти тряпки, они, наверное, старше меня…</speak>
+            <text>Дядька вытирает пот со лба и очень осторожно открывает чехол с картиной маслом, весь в грязи, с водяными пятнами и пылью.</text>
             <shake position="center" time="250"></shake>
-            <speak chara="nekoNoFace">This … This is it?! </speak>
+            <speak chara="nekoNoFace">Это… Это оно?!</speak>
             <goto goto="90" change="#ffffff"/>
-        </scene>
+       </scene>
         <scene id="90" background="CG7-2.jpg">
             <bgm src="themeEin.mp3" status="start"></bgm>
-            <text>As soon as the old sleeve cloth is peeled open, a bright ivory white comes into view of the four around the painting. </text>
-            <text>Upon a dim background, an innocent girl in a white dress is blindfolded, and an old man dressed as a priest leads her towards a cruel-looking chopping block. </text> <!-- The Chinese says 断头台, or guillotine platform, whereas the painting clearly shows a more traditional chopping block. -->
-            <text>This is undoubtedly “The Execution of Lady Jane Grey” — and it is in fact very well-preserved! </text>
-            <speak chara="nekoNoFace">Im- … Impossible … </speak>
-            <speak chara="nekoNoFace">How could it be possible … </speak>
-            <text>The Fat Uncle, who is apparently experienced and knowledgeable in the field of fine arts, almost drops his chin for a moment. </text>
-            <speak chara="nekoNoFace">My God! Not even a trace of mildew!! </speak>
-            <speak chara="teslaNoFace">But this painting … </speak>
-            <text>Evidently puzzling over other things, Twintails holds up a magnifying glass and passes around to the back of the giant painting. </text>
-            <speak chara="teslaNoFace"> … The signature area looks unchanged …  Is there anything strange about this painting? </speak>
-            <speak chara="nekoNoFace">Why … Can't this be considered miraculous enough? </speak>
-            <text>Of course Fat Uncle didn't understand what Tesla meant by “strange”. </text>
+            <text>Как только старая ткань снялась, в поле зрения четырех вокруг картины появляется ярко-белый цвет цвета слоновой кости.</text>
+            <text>На тусклом фоне, невинной девушке в белом платье завязывают глаза, и старик, одетый как священник, ведет ее к жестокой на вид плахе.</text> <!-- The Chinese says 断头台, or guillotine platform, whereas the painting clearly shows a more traditional chopping block. -->
+            <text>Это, несомненно, «Казнь леди Джейн Грей» — и она на самом деле очень хорошо сохранилась!</text>
+            <speak chara="nekoNoFace">Не… Невозможно…</speak>
+            <speak chara="nekoNoFace">Как такое возможно…</speak>
+            <text>Толстый дядя, который, по-видимому, опытен и хорошо разбирается в области изящных искусств, на мгновение чуть не опускает подбородок.</text>
+            <speak chara="nekoNoFace">Мой Бог! Ни следа плесени!!</speak>
+            <speak chara="teslaNoFace">Но эта картина…</speak>
+            <text>Очевидно, ломая голову над другими вещами, Тесла подходит к задней части гигантской картины с лупой в руках.</text>
+            <speak chara="teslaNoFace">…Область подписи не изменилась… Есть ли что-то странное в этой картине??</speak>
+            <speak chara="nekoNoFace">Почему… Разве это не может считаться достаточно чудесным?</speak>
+            <text>Конечно, Толстый Дядя не понял, что Тесла имела в виду под словом «странный».</text>
             <goto goto="100" change="0"/>
-        </scene>
+       </scene>
         <scene id="100" background="storage2.jpg">
             <bgm src="themeEin.mp3" status="continue"></bgm>
             <show chara="teslaNormalGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Do you remember where this painting was previously displayed? </speak>
+            <speak chara="teslaNoFace">Вы помните, где раньше выставлялась эта картина?</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGallerySweatClose-up" position="left"/>
-            <speak chara="nekoNoFace">Little lady, you ask about this … </speak>
-            <text>Between laughter and tears, the Fat Uncle holds out his hands — </text>
-            <speak chara="nekoNoFace">Yet during the 1928 flood, I was nothing more than an ignorant Grammar-school student! </speak>
+            <speak chara="nekoNoFace">Маленькая леди, вы спрашиваете об этом…</speak>
+            <text>Между смехом и слезами Толстый дядя протягивает руки—</text>
+            <speak chara="nekoNoFace">Во время наводнения 1928 года я был не более чем невежественным учеником гимназии!</speak>
             <show chara="staffGallerySweatClose-up" position="left" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … </speak>
-            <text>Having thus understood that she was seeking information from an idiot, Tesla sticks her tongue out. </text>
+            <speak chara="teslaNoFace">…</speak>
+            <text>Поняв, что она спрашивает у идиота, Тесла высовывает язык.</text>
             <show chara="teslaBoringGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Not enough clues. </speak>
+            <speak chara="teslaNoFace">Недостаточно подсказок.</speak>
             <show chara="teslaBoringGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGalleryNormalClose-up" position="left"/>
-            <speak chara="nekoNoFace">Clues? </speak>
-            <text>Uncle Fat is still as confused as before, his mind in a fog. </text>
+            <speak chara="nekoNoFace">Подсказок?</speak>
+            <text>Дядя Жирный всё так же сбит с толку, как и прежде, его мысли в тумане.</text>
             <show chara="staffGalleryNormalClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
-            <speak chara="einNoFace"> … I actually have a conjecture. </speak>
-            <text>From Welt's backpack, Einstein takes out a device that resembles a tube amplifier. </text>
+            <speak chara="einNoFace">…У меня есть предположение.</speak>
+            <text>Из рюкзака Вельта Эйнштейн достает устройство, напоминающее ламповый усилитель.</text>
             <show chara="einSmileWinterClose-up" position="center"/>
-            <speak chara="einNoFace">May I use it to scan the canvas? </speak>
+            <speak chara="einNoFace">Могу ли я использовать его для проверки холста?</speak>
             <show chara="einSmileWinterClose-up" position="center" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Ah … Could it be … </speak>
-            <speak chara="teslaNoFace">No, it can't be … </speak>
-            <text>Seeing this, Tesla also seems to realise an incredible possibility. </text>
+            <speak chara="teslaNoFace">Ах… Неужто…</speak>
+            <speak chara="teslaNoFace">Быть не может…</speak>
+            <text>Увидев это, Тесла, кажется, также осознала невероятную возможность.</text>
             <show chara="teslaNormalGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGallerySeriousClose-up" position="left"/>
-            <speak chara="nekoNoFace">Mmm … this “toy” of yours … it doesn't release any radiation waves, does it? </speak>
-            <text>Fat Uncle stares at the suspicious device with a guarded expression. </text>
+            <speak chara="nekoNoFace">Ммм… эта твоя "игрушка"… она ведь не испускает никаких радиационных волн, не так ли?</speak>
+            <text>Толстый дядя смотрит на подозрительное устройство с настороженным выражением лица.</text>
             <show chara="staffGallerySeriousClose-up" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose-up" position="center"/>
-            <speak chara="einNoFace" remark="next">It just emits microwaves in a specific band. It has no destructive power. </speak>
+            <speak chara="einNoFace" remark="next">Он просто излучает микроволны в определенном диапазоне. У него нет разрушительной силы.</speak>
             <remark post="U2FsdGVkX19HAOD7GN9woHXyw4Jp">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">According to quantum theory, the ability of electromagnetic waves to affect molecules depends on their frequency (or wavelength). The higher the frequency (or, the shorter the wavelength), the greater its ability to alter molecular structures. </p>
-                <p class="article-text">In particular, as a kind of far-infrared electromagnetic wave, the frequency of the microwave is far from sufficient to change the molecule itself, so an object will merely be heated when exposed to microwave radiation — a property that is exploited in the microwave oven. </p>
-            </remark>
-            <speak chara="einNoFace">It will induce the activation of a certain rare element, and cause it to separate from its original mixed state. </speak>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Согласно квантовой теории, способность электромагнитных волн воздействовать на молекулы зависит от их частоты (или длины волны). Чем выше частота (или короче длина волны), тем больше его способность изменять молекулярные структуры.</p>
+                <p class="article-text">В частности, частота микроволн, как разновидности электромагнитной волны дальнего инфракрасного диапазона, далеко не достаточна для изменения самой молекулы, поэтому объект будет просто нагреваться под воздействием микроволнового излучения — свойство, которое используется в микроволновой печи.</p>
+           </remark>
+            <speak chara="einNoFace">Это вызовет активацию определенного редкого элемента и заставит его отделиться от исходного смешанного состояния.</speak>
             <show chara="einSmileWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryNormalClose-up" position="left"/>
-            <speak chara="nekoNoFace">Oh … </speak>
-            <text>For a moment, Fat Uncle reacts with nothing more than rubbing his balding forehead. </text>
+            <speak chara="nekoNoFace">Ох…</speak>
+            <text>На мгновение Толстый Дядюшка реагирует только тем, что потирает лысеющий лоб.</text>
             <show chara="staffGalleryScareClose-up" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="nekoNoFace">Wait … Are you going to use that toy to squeeze or draw something out of this canvas?! </speak>
+            <speak chara="nekoNoFace">Подожди… Ты собираешься использовать эту игрушку, чтобы выдавливать или рисовать что-то из этого холста?!</speak>
             <show chara="staffGalleryScareClose-up" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose-up" position="center"/>
-            <speak chara="einNoFace">It can be understood as such. </speak>
+            <speak chara="einNoFace">Можно и так понять.</speak>
             <show chara="einSmileWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryScareClose-up" position="left"/>
-            <speak chara="nekoNoFace">No, no, no! If I let you do that, wouldn't the painting be ruined?! </speak>
+            <speak chara="nekoNoFace">Нет нет нет! Если я позволю тебе это сделать, разве картина не будет испорчена?!</speak>
             <show chara="staffGalleryScareClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
-            <speak chara="einNoFace"> … Unlikely. </speak>
-            <text>Mophead takes out a flashlight from her pocket, and shines it on the canvas from the side, at an angle. </text>
-            <speak chara="einNoFace"> … </speak>
+            <speak chara="einNoFace">…Навряд ли.</speak>
+            <text>Эйнштейн достаёт из кармана фонарик и светит им на холст сбоку, под углом.</text>
+            <speak chara="einNoFace">…</speak>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
-            <speak chara="einNoFace">Indeed. </speak>
+            <speak chara="einNoFace">Конечно.</speak>
             <show chara="einSeriousEmWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryNormalClose-up" position="left"/>
-            <speak chara="nekoNoFace">Huh? </speak>
-            <text>Fat Uncle remains oblivious. </text>
+            <speak chara="nekoNoFace">А?</speak>
+            <text>Толстый дядя не обращает внимания.</text>
             <show chara="staffGalleryNormalClose-up" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
-            <speak chara="einNoFace">Please observe carefully. </speak>
-            <text>The young girl explains while maintaining the angle of the flashlight. </text>
-            <speak chara="einNoFace">Do you see? On the surface of the painting, there is a thin film. </speak>
+            <speak chara="einNoFace">Пожалуйста, смотрите внимательно.</speak>
+            <text>Девушка объясняет, сохраняя угол фонарика.</text>
+            <speak chara="einNoFace">Видите? На поверхности картины имеется тонкая пленка.</speak>
             <show chara="einSeriousEmWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryNormalClose-up" position="left"/>
-            <speak chara="nekoNoFace"> … Hmm … Protective lacquer? </speak>
-            <speak chara="nekoNoFace"> … </speak>
+            <speak chara="nekoNoFace">…Хм… Защитный лак?</speak>
+            <speak chara="nekoNoFace">…</speak>
             <show chara="staffGallerySeriousClose-up" position="left"/>
-            <speak chara="nekoNoFace">No, there is no protective lacquer that is able to keep a painting in such a pristine state! </speak>
-            <text>Fat Uncle's expression becomes even more confused. On careful inspection, it can be noticed that the film even has a slight metallic sheen! </text>
-            <speak chara="nekoNoFace"> … What is … this? </speak>
-            <speak chara="nekoNoFace"> … I have never seen or heard of such a thing! </speak>
+            <speak chara="nekoNoFace">Нет, не существует защитного лака, способного сохранить картину в таком первозданном виде!</speak>
+            <text>Выражение лица толстого дядюшки становится еще более растерянным. При внимательном рассмотрении можно заметить, что пленка даже имеет легкий металлический блеск!</text>
+            <speak chara="nekoNoFace">…Что это?</speak>
+            <speak chara="nekoNoFace">…Я никогда не видел и не слышал о таком!</speak>
             <show chara="staffGallerySeriousClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
-            <speak chara="einNoFace">If you permit, we can test it now. </speak>
-            <text>Mophead begins cranking the handle of the machine in her arms. </text>
+            <speak chara="einNoFace">Если вы позволите, мы можем проверить это прямо сейчас.</speak>
+            <text>Мопхед начинает крутить ручку машины в руках.</text>
             <show chara="einNormalWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryScareClose-up" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="nekoNoFace"> … I said that you are not allowed to damage the picture! </speak>
-            <text> Fat Uncle suddenly becomes anxious — </text>
-            <speak chara="nekoNoFace">If we pull some kind of nonsense, you and I will all be deemed sinners against humanity! </speak> <!-- 幺蛾子 = "To cause small moths to appear", northern Chinese phrase for "creating problems", much like how moths could wreak havoc on food stores. -->
+            <speak chara="nekoNoFace">…Я сказал, что нельзя портить картину!</speak>
+            <text>Толстый дядюшка вдруг забеспокоился —</text>
+            <speak chara="nekoNoFace">Если мы сотворим что-то с этим, то мы с все будем считаться грешниками перед человечеством!</speak> <!-- 幺蛾子 = "To cause small moths to appear", northern Chinese phrase for "creating problems", much like how moths could wreak havoc on food stores. -->
             <show chara="staffGalleryScareClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
-            <speak chara="einNoFace"> … You are being overly dramatic. </speak>
-            <speak chara="einNoFace">After we're done, this painting …  will simply become as fragile as the other “normal” collections. </speak>
+            <speak chara="einNoFace">…Вы слишком драматизируете.</speak>
+            <speak chara="einNoFace">Когда мы закончим, эта картина… просто станет такой же хрупкой, как и другие «обычные» коллекции.</speak>
             <show chara="einNormalWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGallerySeriousClose-up" position="left"/>
-            <speak chara="nekoNoFace"> … </speak>
+            <speak chara="nekoNoFace">…</speak>
             <show chara="staffGallerySeriousClose-up" position="left" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">This substance on the painting is very important to us. </speak>
-            <speak chara="teslaNoFace">To just let it sit here, merely protecting a painting, may be a huge waste of its value. </speak>
+            <speak chara="teslaNoFace">Это вещество на картине очень важно для нас.</speak>
+            <speak chara="teslaNoFace">Просто оставить его здесь, просто защищая картину, может быть огромной тратой ее стоимости.</speak>
             <show chara="teslaBoringGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGallerySeriousClose-up" position="left"/>
-            <speak chara="nekoNoFace"> … </speak>
+            <speak chara="nekoNoFace">…</speak>
             <show chara="staffGallerySeriousClose-up" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">If you continue to refuse us, our organisation will make use of other options. </speak>
-            <speak chara="teslaNoFace">I don't mean to bring ill tidings … but when that moment comes, I fear that you and your staff will find that you've bitten off more than you can chew. </speak>
+            <speak chara="teslaNoFace">Если вы продолжите нам отказывать, наша организация воспользуется другими вариантами.</speak>
+            <speak chara="teslaNoFace">Я не хочу приносить дурные вести… но когда этот момент наступит, я боюсь, что вы и ваши сотрудники обнаружите, что откусили больше, чем можете прожевать.</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGallerySeriousClose-up" position="left"/>
-            <speak chara="nekoNoFace"> … </speak>
-            <speak chara="nekoNoFace"> … Ugh. </speak>
+            <speak chara="nekoNoFace">…</speak>
+            <speak chara="nekoNoFace">…Охх.</speak>
             <show chara="staffGallerySweatClose-up" position="left"/>
-            <speak chara="nekoNoFace">Little lady, I am not blind to reason. </speak>
-            <speak chara="nekoNoFace">But even if the procedure is “non-destructive” to the painting itself, I believe there is one thing you still need to explain clearly  … </speak>
+            <speak chara="nekoNoFace">Юная леди, я не слеп, чтобы рассуждать.</speak>
+            <speak chara="nekoNoFace">Но даже если процедура «не разрушает» саму картину, я считаю, что есть одна вещь, которую вам все же нужно четко объяснить…</speak>
             <show chara="staffGallerySeriousClose-up" position="left"/>
-            <speak chara="nekoNoFace">Once you've extracted that thin film, what value is there in it? From an ethical point of view, why should our art museum allow you to do such a thing? </speak>
+            <speak chara="nekoNoFace">Как только вы извлекли эту тонкую пленку, какая в ней ценность? С этической точки зрения, почему наш художественный музей должен позволять вам это делать?</speak>
             <show chara="staffGallerySeriousClose-up" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
-            <speak chara="einNoFace">To foretell the fate of humanity. </speak>
-            <text>Mophead speaks in a icy-cold voice like never before. </text>
+            <speak chara="einNoFace">Чтобы предсказать судьбу человечества.</speak>
+            <text>Эйн говорит ледяным голосом, как никогда раньше.</text>
             <show chara="einSeriousAhWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryScareClose-up" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="nekoNoFace"> … ? ! </speak>
+            <speak chara="nekoNoFace">…?!</speak>
             <show chara="staffGalleryScareClose-up" position="left" opacity="0.7"/>
             <hide position="left"/>
             <hide position="right"/>
             <show chara="einSeriousEmWinterClose-up" position="center"/>
-            <text>Before Uncle Manager could recover from his dumbstruck state, Einstein has already aimed the machine at the centre of the canvas. </text>
+            <text>Прежде чем дядя Менеджер смог оправиться от своего онемевшего состояния, Эйнштейн уже нацелил машину на центр холста.</text>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
-            <speak chara="einNoFace">Initiating resonant-form Soulium extraction. </speak>
-            <speak chara="einNoFace">Everybody, please cover your ears. </speak>
+            <speak chara="einNoFace">начинаю извлечение Соулиума в резонансной форме.</speak>
+            <speak chara="einNoFace">Все, пожалуйста, закройте уши.</speak>
             <end post="U2FsdGVkX19TjZQmi9wqji9OWE3F"/>
-        </scene>
-    </story>
+       </scene>
+   </story>
 </data>

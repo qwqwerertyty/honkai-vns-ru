@@ -13,10 +13,10 @@
             <bgm src="10_20_londonderry_p.mp3" status="start"></bgm>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Вы двое, о чём вы там шепчетесь?!</speak>
-            <text>—В ярости, Тесла бросила сумки в руки Вельта.</text>
+            <text>— В ярости, Тесла бросила сумки в руки Вельта.</text>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltScaredWinterClose" position="center"/>
-            <speak chara="weltNoFace">…Оо-о-осторожнее!</speak>
+            <speak chara="weltNoFace">… Оо-о-осторожнее!</speak>
             <text>Вельт еле смог схватить все сумки, одну за другой.</text>
             <show chara="weltTiredWinterClose" position="center"/>
             <speak chara="weltNoFace">Мы посреди улицы! Что предлагаешь делать, если что-то сломается?</speak>
@@ -26,17 +26,17 @@
             <text>Тесла пожала плечами.</text>
             <show chara="teslaEmbarraGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="center"/>
-            <speak chara="weltNoFace">…Ты слишком буянишь.</speak>
+            <speak chara="weltNoFace">… Ты слишком буянишь.</speak>
             <show chara="weltShameWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Хпф, так как финн остался с другой группой, теперь ты автоматически берёшь на себя все его «мужские обязанности».</speak>
+            <speak chara="teslaNoFace">Хпф, так как Финн остался с другой группой, теперь ты автоматически берёшь на себя все его «мужские обязанности».</speak>
             <show chara="teslaSnickerGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Так трудно это понять?</speak>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">О, и если бы Планк не высадилась в Вене, то она вполне могла бы разделить с тобой эти uhzpyst дела…</speak>
+            <speak chara="teslaNoFace">О, и если бы Планк не высадилась в Вене, то она вполне могла бы разделить с тобой эти грязные дела…</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="center"/>
-            <speak chara="weltNoFace">(…Это действительно трудно понять. Может быть, лучше спросить, pfxtv ты бегаешь повсюду, и покупаешь столько всякого барахла?)</speak>
+            <speak chara="weltNoFace">(…Это действительно трудно понять. Может быть, лучше спросить, зачем ты бегаешь повсюду, и покупаешь столько всякого барахла?)</speak>
             <speak chara="weltNoFace">(…И разве ты не ясно сказала: «Нет проблем, нет проблем, вы двое можете уйти и оставить нас»?)</speak>
             <show chara="weltTiredWinterClose" position="center" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
@@ -44,14 +44,14 @@
             <text>Эйнштейн, идущая впереди, лениво потягивается и объясняет, не оглядываясь на Вельта.</text>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose" position="center"/>
-            <speak chara="weltNoFace">…Что?</speak>
-            <speak chara="weltNoFace">…Она сейчас действительно имела это ввиду?</speak>
+            <speak chara="weltNoFace">… Что?</speak>
+            <speak chara="weltNoFace">… Она сейчас действительно имела это ввиду?</speak>
             <show chara="weltScaredWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Эй, я не такая странная, понял?!</speak>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">Так что ты должен ответить ей: Эйн знакомит меня с историей Северной Ирландии и города Лондондерри, с чем Эйн хорошо знакома—</speak>
+            <speak chara="einNoFace">Так что ты должен ответить ей: Эйн знакомит меня с историей Северной Ирландии и города Лондондерри, с чем Эйн хорошо знакома —</speak>
             <text>Не обращая внимания на все возмущения Теслы, Эйнштейн говорит как по своему "обычному" протоколу, будто занята чем-то другим —</text>
             <show chara="einSmileWinterClose" position="right"/>
             <speak chara="einNoFace">— и при этом показать мне, как кельтская культура постепенно размывается англо-саксонской культурой.</speak>
@@ -70,13 +70,13 @@
             <speak chara="weltNoFace">Корабле?</speak>
             <show chara="weltNormalWinterClose" position="center" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">Мм. это был первый раз, когда я уехала из дома в дальнее путешествие… Я и впрямь была очень счастлива, Однако время в пути было довольно долгим.</speak>
+            <speak chara="einNoFace">Мм. Это был первый раз, когда я уехала из дома в дальнее путешествие… Я и впрямь была очень счастлива. Однако время в пути было довольно долгим.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Ах… это было… лет Двадцать назад?</speak>
+            <speak chara="teslaNoFace">Ах… это было… лет двадцать назад?</speak>
             <show chara="teslaNormalGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltScaredWinterClose" position="center"/>
-            <speak chara="weltNoFace">…А?</speak>
+            <speak chara="weltNoFace">… А?</speak>
             <show chara="weltScaredWinterClose" position="center" opacity="0.7"/>
             <show chara="einFoolWinterClose" position="right"/>
             <speak chara="einNoFace">…</speak>
@@ -89,11 +89,11 @@
             <show chara="planckSisterBlackClose-up" position="center"/>
             <speak chara="planckSisterNoFace">По плану сегодня мы побудем денек здесь — затем пересечем Атлантику.</speak>
             <speak chara="planckSisterNoFace">У нас есть возможность провести его на суше — есть ли что-нибудь, во что ты хочешь поиграть?</speak>
-            <speak chara="einNoFace">…Учитель, вы ведете себя как ребенок в школе.</speak>
+            <speak chara="einNoFace">… Учитель, вы ведете себя как ребенок в школе.</speak>
             <speak chara="einNoFace">Вместо того, чтобы тратить время на «игры», я считаю, что будет лучше, если мы просто найдем удобное место, чтобы немного почитать…</speak>
-            <speak chara="planckSisterNoFace">…Фройлейн Эйнштейн, вы пытаетесь развеселить меня, или огорчить?</speak>
-            <speak chara="planckSisterNoFace">…Нет, сегодня ты должна сопровождать меня, и мы сделаем и то и это вместе!</speak>
-            <speak chara="planckSisterNoFace">…Пошли, полезем на городские стены!</speak>
+            <speak chara="planckSisterNoFace">… Фройлейн Эйнштейн, вы пытаетесь развеселить меня, или огорчить?</speak>
+            <speak chara="planckSisterNoFace">… Нет, сегодня ты должна сопровождать меня, и мы сделаем и то и это вместе!</speak>
+            <speak chara="planckSisterNoFace">… Пошли, полезем на городские стены!</speak>
             <goto goto="17" change="#000000"/>
         </scene>
         <scene id="17" background="londonStreet.jpg">
@@ -115,7 +115,7 @@
             <speak chara="einNoFace">Но если кто-то был заинтересован в каком-то месте, он, естественно, искал много информации о нем. Постепенно можно было бы так же познакомиться с местными обычаями, как и с тыльной стороной ладони.</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">…Это немного ужасающе, навязчивая погоня теоретика за знаниями.</speak>
+            <speak chara="teslaNoFace">… Это немного ужасающе, навязчивая погоня теоретика за знаниями.</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
             <speak chara="einNoFace">Во всяком случае, это лучше, чем у тех экспериментаторов, у которых сносит крышу в мгновение ока.</speak>
@@ -124,16 +124,16 @@
             <speak chara="teslaNoFace">Эй!</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einFoolWinterClose" position="right"/>
-            <speak chara="einNoFace">О, тогда это еще лучше, чем те экспериментаторы, которые уничтожают мир одним щелчком выключателя.</speak>
+            <speak chara="einNoFace">О, тогда это еще лучше, чем те экспериментаторы, которые уничтожают мир одним щелчком кнопки.</speak>
             <show chara="einFoolWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">…ЭЙ, ЭТО ЕЩЁ ВОЗМУТИТЕЛЬНЕЕ!</speak>
+            <speak chara="teslaNoFace">… ЭЙ, ЭТО ЕЩЁ ВОЗМУТИТЕЛЬНЕЕ!</speak>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <text article="1">
-                <p class="article-text">Итак, в пятые выходные октября 1955 года три молодые души — две женщины и один мужчина — в порыве смеха и глумления взошли на стены Лондондерри, лучше всего сохранившегося городского оборонительного сооружения во всей Европе со времен Эпохи. Просвещения.</p>
+                <p class="article-text">Итак, в пятые выходные октября 1955 года три молодые души — две женщины и один мужчина — в порыве смеха и глумления взошли на стены Лондондерри, лучше всего сохранившегося городского оборонительного сооружения во всей Европе со времен Эпохи Просвещения.</p>
                 <br />
-                <p class="article-text">В тот момент они и подумать не могли, что в этом ирландском городе им предстоит пережить одно из самых важных событий в своей жизни.</p>
+                <p class="article-text">В тот момент они и подумать не могли, что в этом Ирландском городе им предстоит пережить одно из самых важных событий в своей жизни.</p>
             </text>
             <goto goto="20" change="#ffffff"/>
         </scene>
@@ -142,7 +142,7 @@
             <show chara="einNormalWinterFar" position="center"/>
             <speak chara="einNoFace">Первоначально Лондондерри назывался просто "Дерри".</speak>
             <speak chara="einNoFace">Конечно, к «Дели» в Индии это не имеет никакого отношения. Вместо этого оно происходит от ирландского «Daire», что означает «дубовый лес».</speak>
-            <speak chara="einNoFace">Позже сюда приехала лондонская торговая палата, чтобы  начать  осваивать и колонизировать земли, поэтому к названию города приписали приставку «Лондон».</speak>
+            <speak chara="einNoFace">Позже сюда приехала Лондонская торговая палата, чтобы начать осваивать и колонизировать земли, поэтому к названию города приписали приставку «Лондон».</speak>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">Людям колониального периода, похоже, нравилось называть вещи таким образом…</speak>
@@ -155,16 +155,16 @@
             </remark>
             <show chara="teslaBoringGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="center"/>
-            <speak chara="einNoFace">Потому что это был город, построенный лондонцами —</speak>
+            <speak chara="einNoFace">Потому что это был город, построенный Лондонцами —</speak>
             <text>Эйнштейн безостановочно продолжала свое объяснение, полностью игнорируя комментарии Теслы.</text>
-            <speak chara="einNoFace">—Будь то выбор места или планировка центрального городского района, в обоих случаях город намеренно подражал Лондону.</speak>
+            <speak chara="einNoFace">— Будь то выбор места или планировка центрального городского района, в обоих случаях город намеренно подражал Лондону.</speak>
             <speak chara="einNoFace" remark="next">С этой точки зрения, главное отличие, вероятно, в том, что качество воды в реке Фойл намного лучше, чем в Темзе.</speak>
             <remark post="U2FsdGVkX19HAOD7GN9woHXyw4Jp">
                 <p class="article-text-h">Примечание:</p>
                 <p class="article-text">Река Фойл — главная река, питающая Лондондерри, с её чистыми водами и богатым биоразнообразием.</p>
                 <p class="article-text">Положение Лондондерри по отношению к реке и ее устью было преднамеренным — градостроители намеренно имитировали положение Лондона по отношению к Темзе.</p>
             </remark>
-            <speak chara="einNoFace">Как и лондонская городская стена, городская стена Дерри также имела форму квадрата или ромба; это было относительно редко для европейских городов.</speak>
+            <speak chara="einNoFace">Как и Лондонская городская стена, городская стена Дерри также имела форму квадрата или ромба; это было относительно редко для европейских городов.</speak>
             <speak chara="einNoFace">Конечно, по сравнению с Лондоном названия городских ворот здесь гораздо более условны, например, «Ворота пристани» прямо перед нами — названы так потому, что ворота обращены к пристани для заграничного судоходства.</speak>
             <speak chara="einNoFace">Точно так же, двигаясь по часовой стрелке с востока, «Паромные ворота», «Епископские ворота» и «Мясные ворота».</speak>
             <speak chara="einNoFace">Дерри — один из немногих «девственных городов» в европейской истории, чьи стены ни разу не пробивались с момента его основания — в 1689 году он выдержал 105-дневную осаду, но смог устоять.</speak>
@@ -205,7 +205,7 @@
             <speak chara="einNoFace">Я… Я не это имела в виду…</speak>
             <show chara="einFoolWinterFar" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterFar" position="right"/>
-            <speak chara="weltNoFace">Эх… Да-уж, Тесла, не нужно быть таким щепетильным в таких темах.</speak>
+            <speak chara="weltNoFace">Эх… Да-уж, Тесла, не нужно быть такой щепетильной в таких темах.</speak>
             <show chara="weltNormalWinterFar" position="right"/>
             <speak chara="weltNoFace">К слову, что касается той подсказки, за которой мы пришли — у нас действительно есть четкая цель?</speak>
             <show chara="weltNormalWinterFar" position="right" opacity="0.7"/>
@@ -221,18 +221,18 @@
         <scene id="25" background="CG7-1.jpg">
             <bgm src="themeEin.mp3" status="start"></bgm>
             <text>То, что изначально было простой «прогулкой» вокруг городской стены Дерри длиной в одну милю —</text>
-            <text>— Теперь превратилось в нечто большее, когда Эйнштейн внезапно легла перед пушкой, и достала из кармана фонарик и взяла его в рот.</text>
-            <speak chara="weltNoFace">Ч-почему так внезапно…</speak>
+            <text>— Теперь превратилось в нечто большее, когда Эйнштейн внезапно легла перед пушкой, достала из кармана фонарик и взяла его в рот.</text>
+            <speak chara="weltNoFace">П-почему так внезапно…</speak>
             <speak chara="teslaNoFace">Да-да, что здесь происходит?</speak>
             <text>Вельт и Тесла выглядят озадаченными.</text>
             <speak chara="einNoFace">Таких пушек осталось еще 24 штуки.</speak>
             <speak chara="teslaNoFace">О… так что же такого особенного в этой?</speak>
-            <text>Телса пожала плечами, показывая свое замешательство.</text>
+            <text>Тесла пожала плечами, показывая свое замешательство.</text>
             <speak chara="einNoFace">Эта тоже ничем не примечательна</speak>
             <speak chara="teslaNoFace">А?</speak>
             <speak chara="einNoFace">Просто указатель подскочил.</speak>
-            <text>Эйнштейн доста из переднего кармана какое-то устройство армейского зеленого цвета.</text>
-            <speak chara="teslaNoFace" remark="next">Что это… Счетчик Гейгера?</speak>
+            <text>Эйнштейн достала из переднего кармана какое-то устройство армейского зеленого цвета.</text>
+            <speak chara="teslaNoFace" remark="next">Что это… счетчик Гейгера?</speak>
             <remark>
                 <p class="article-text-h">Примечание:</p>
                 <p class="article-text">Счетчик Гейгера, также известный как счетчик Гейгера-Мюллера, представляет собой детектор частиц, используемый для обнаружения ионизирующего излучения. Обычно он используется для обнаружения альфа-лучей (протонных и нейтронных частиц) и бета-лучей (электронных частиц), в то время как некоторые модели могут обнаруживать гамма-лучи (ультравысокочастотные электромагнитные волны) и рентгеновские лучи.</p>
@@ -241,12 +241,12 @@
             <speak chara="einNoFace">Нет…</speak>
             <speak chara="einNoFace">Это детектор энергии Хонкай, который Ада переделала из счетчика Гейгера недавно.</speak>
             <speak chara="einNoFace">Разве он не выглядит модно?</speak>
-            <speak chara="teslaNoFace">…Модно?!</speak>
+            <speak chara="teslaNoFace">… Модно?!</speak>
             <speak chara="teslaNoFace">Я бы сказала, что это выглядит довольно устрашающе…</speak>
             <text>Тесла усмехается и воротит нос от чувства моды Эйн.</text>
-            <speak chara="weltNoFace">ФПодожди…</speak>
+            <speak chara="weltNoFace">Подожди…</speak>
             <speak chara="weltNoFace">Кто эта Ада?</speak>
-            <speak chara="teslaNoFace">Помощник, просто помощник. Не сильно отличается от того финна.</speak>
+            <speak chara="teslaNoFace">Помощник, просто помощник. Не сильно отличается от того Финна.</speak>
             <speak chara="teslaNoFace">Вместо того, чтобы сплетничать об этом, давайте сначала найдем информацию, оставленную другой стороной.</speak>
             <speak chara="einNoFace">Что ж.</speak>
             <text>Эйнштейн сложила руки вместе, подражая Шерлоку Холмсу.</text>
@@ -280,11 +280,11 @@
             <show chara="teslaNormalGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Хмм…</speak>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace" remark="next">Это какая-то метафора? По типу, «Иоанн Креститель» или «Мария-Антуанетта»?</speak>
+            <speak chara="teslaNoFace" remark="next">Это какая-то метафора? По типу, «Иоанн Креститель» или «Мария Антуанетта»?</speak>
             <remark post="U2FsdGVkX19Bg4sTQmgcZy8IrP4i">
                 <p class="article-text-h">Примечание:</p>
                 <p class="article-text">Оба были обезглавлены и убиты. В частности, смерть Иоанна Крестителя легендарна своим чрезвычайно «красивым» (читай: больным и беспричинным*) описанием Оскара Уайльда (1854–1900) в его пьесе «Саломея» —</p>
-                <p class="article-text">«Ах! ты не позволил бы мне поцеловать твои губы, Иоканаан. Хорошо! Я поцелую его сейчас. Я буду кусать его зубами, как кусают спелый плод. Да, я поцелую твой рот, Иоканаан. Я сказал это; разве я не говорил? Я сказал это. Ах! Я поцелую его сейчас… Но почему ты не смотришь на меня, Иоканаан? (*Примечание переводчика: здесь используется китайское слово 病娇, заимствованное из японского ヤンデレ или «яндере»)</p>
+                <p class="article-text">«Ах! ты не позволил бы мне поцеловать твои губы, Иоканаан. Хорошо! Я поцелую его сейчас. Я буду кусать его зубами, как кусают спелый плод. Да, я поцелую твои губы, Иоканаан. Я сказал это; разве я не говорил? Я сказал это. Ах! Я поцелую его сейчас… Но почему ты не смотришь на меня, Иоканаан? (*Примечание переводчика: здесь используется китайское слово 病娇, заимствованное из японского ヤンデレ или «яндере»)</p>
             </remark>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose" position="right"/>
@@ -292,10 +292,10 @@
             <show chara="weltSurpriseWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Хм… Я просто говорила ерунду. Не обращай на меня внимания. Просто не обращай на меня внимания.</speak>
-            <speak chara="teslaNoFace">Не то чтобы у меня был фетиш на эстетику Уайлда или что-то в этом роде.</speak>
+            <speak chara="teslaNoFace">Не то чтобы у меня был фетиш на эстетику Уайльда или что-то в этом роде.</speak>
             <show chara="teslaShameGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace">…Я совсем не понимаю. Я абсолютно сбит с толку.</speak>
+            <speak chara="weltNoFace">… Я совсем не понимаю. Я абсолютно сбит с толку.</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="center"/>
             <speak chara="einNoFace">Верно.</speak>
@@ -333,7 +333,7 @@
                 <p class="article-text-h">Примечание:</p>
                 <p class="article-text">«Англия ожидает, что каждый человек будет выполнять свой долг». Это было послание адмирала британского флота Нельсона со своего флагмана «HMS Victory» перед началом Трафальгарского сражения (1805 г.). Сигнал семафора показан на прилагаемом рисунке.</p>
                 <div class="article-pic" picsrc="re_doHisDuty.jpg" style="background-position:left;height:14.4rem;"/>
-                <p class="article-text"> Из-за ошибки в упомянутых мемуарах предложение было ошибочно увековечено в колонке Нельсона как «Англия ожидает, что каждый человек выполнит свой долг».</p>
+                <p class="article-text">Из-за ошибки в упомянутых мемуарах предложение было ошибочно увековечено в колонке Нельсона как «Англия ожидает, что каждый человек выполнит свой долг».</p>
             </remark>
             <text>Вспомнив предупреждение Планк в самолете, Вельт снова принимает для себя тайное решение.—</text>
             <show chara="weltSurpriseWinterFar" position="center"/>
@@ -343,7 +343,7 @@
             <speak chara="einNoFace">Художественный музей к северу отсюда.</speak>
             <text>Эйнштейн неохотно дёрнула Вельта за рукав.</text>
             <show chara="einSeriousAhWinterFar" position="right"/>
-            <speak chara="einNoFace">Смотри не потеряйся. Вещи у в твоём рюкзаке очень важны для нас.</speak>
+            <speak chara="einNoFace">Смотри не потеряйся. Вещи в твоём рюкзаке очень важны для нас.</speak>
             <show chara="einSeriousEmWinterFar" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">Хмпх.</speak>
@@ -357,7 +357,7 @@
             </remark>
             <show chara="teslaSnickerGlassWinterFar" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterFar" position="center"/>
-            <speak chara="weltNoFace">Фу…</speak>
+            <speak chara="weltNoFace">Уф…</speak>
             <goto goto="45" change="#ffffff"/>
         </scene>
         <scene id="45" background="trafalgarSquare.jpg">
@@ -381,25 +381,25 @@
             <text>Эйнштейн, ведя группу за собой, кажется тоже немного недовольна.</text>
             <show chara="einSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">А? Что странное!? Очевидно же, это правда.</speak>
+            <speak chara="teslaNoFace">А? Что странного!? Очевидно же, это правда.</speak>
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
             <speak chara="einNoFace">Эмоции рождённые из борьбы между возбуждением и депрессией.</speak>
             <speak chara="einNoFace">Поскольку ты склонила его к одной крайности, то как ты можешь винить его за то, что он не оказался на другом конце?</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">…Не надо заливать тут свою непонятную философствующую чепуху.</speak>
+            <speak chara="teslaNoFace">… Не надо заливать тут свою непонятную философствующую чепуху.</speak>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Это вообще не мило.</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">…Вельт, что ты думаешь?</speak>
+            <speak chara="einNoFace">… Вельт, что ты думаешь?</speak>
             <speak chara="einNoFace">Возбуждение или депрессия, что является основной силой человеческой жизни, или, лучше сказать, «человеческим разумом»?</speak>
             <speak chara="einNoFace">Или, с точки зрения эстетики, какой из них более «милый»?</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose" position="center"/>
             <speak chara="weltNoFace">…?</speak>
-            <text>Вельт, мысли которого всё ещё блуждали, явно не обратил внимания на вопрос Эёнштейн…</text>
+            <text>Вельт, мысли которого всё ещё блуждали, явно не обратил внимания на вопрос Эйнштейн…</text>
             <show chara="weltShameWinterClose" position="center"/>
             <speak chara="weltNoFace">Я-я… Я думаю…</speak>
             <shake position="center" time="250"></shake>
@@ -413,12 +413,12 @@
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
             <speak chara="einNoFace">О…</speak>
-            <text>эйншетйн, похоже, не волнует ответ или тот факт, что её первоначальный вопрос остался без ответа.</text>
+            <text>Эйнштейн, похоже, не волнует ответ или тот факт, что её первоначальный вопрос остался без ответа.</text>
             <show chara="einSmileWinterClose" position="right"/>
             <speak chara="einNoFace">Я хотела спросить мистера Вельта, что он думает о «красоте человечества», но я приму это как ответ.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="center"/>
-            <speak chara="weltNoFace">…Э-э…</speak>
+            <speak chara="weltNoFace">… Э-э…</speak>
             <show chara="weltTiredWinterClose" position="center" opacity="0.7"/>
             <show chara="einFoolWinterClose" position="right"/>
             <speak chara="einNoFace">Какой посредственный человек.</speak>
@@ -450,7 +450,7 @@
             <speak chara="nekoNoFace">Поймите… мастер может реставрировать только две-три картины в год. Это все довольно хлопотное дело.</speak>
             <show chara="staffGallerySweatClose" position="left" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">…Итак, эта картина, которую мы ищем, — это относительно низкоприоритетная работа для реставрации?</speak>
+            <speak chara="teslaNoFace">… Итак, эта картина, которую мы ищем, — это относительно низкоприоритетная работа для реставрации?</speak>
             <show chara="teslaNormalGlassWinterClose" position="center" opacity="0.7"/>
             <show chara="staffGalleryNormalClose" position="left"/>
             <speak chara="nekoNoFace">Да, можно сказать и так. В конце концов, это относительно современная работа, и её трудно поставить выше других, более старых, более «классических» работ.</speak>
@@ -478,7 +478,7 @@
             <speak chara="einNoFace">Не вопрос.</speak>
             <text>Эйнштейн пожала плечами, показывая, что она не против.</text>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">пойдем вместе.</speak>
+            <speak chara="einNoFace">Пойдем вместе.</speak>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="staffGallerySmileClose" position="left"/>
             <speak chara="nekoNoFace">Ха-ха, я очень ценю ваше сотрудничество.</speak>
@@ -520,7 +520,7 @@
         <scene id="65" background="storage.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
             <text article="1">
-                <p class="article-text">Несмотря на ущерб, нанесенный наводнением, культурные реликвии все ещё остаются культурными реликвиями. Толстый дядя изо всех сил старается выкрикивать приказы, чтобы действия Вельта можно было синхронизировать с его собственными. Рамы картин по-прежнему много вес, и все действия по осторожному подъему и опусканию каждой рамы, повторяющиеся десятки раз, уже вызвали у мужчин боли в бедрах и спине, с их тел уже капает пот.</p>
+                <p class="article-text">Несмотря на ущерб, нанесенный наводнением, культурные реликвии все ещё остаются культурными реликвиями. Толстый дядя изо всех сил старается выкрикивать приказы, чтобы действия Вельта можно было синхронизировать с его собственными. Рамы картин по-прежнему много весят, и все действия по осторожному подъему и опусканию каждой рамы, повторяющиеся десятки раз, уже вызвали у мужчин боли в бедрах и спине, с их тел уже капает пот.</p>
            </text>
             <goto goto="70" change="#ffffff"/>
         </scene>
@@ -539,7 +539,7 @@
                 <p class="article-text" style="color:rgb(237,118,114);font-style:italic;">«Разрушение Помпеи и Геркуланума»… Эта картина выше меня ростом! Кстати говоря, кто-нибудь знает, та, которую мы ищем, насколько она большая?!</p>
            </text>
             <goto goto="80" change="#ffffff"/>
-       </scene>
+        </scene>
         <scene id="80" background="storage2.jpg">
             <bgm src="serenity.mp3" status="continue"></bgm>
             <show chara="teslaBlackGlassWinterClose-up" position="center"/>
@@ -554,10 +554,10 @@
                 <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">Мисс, подвиньтесь немного туда… не мешайте больше, чем помогаете.</p>
            </text>
             <text article="1">
-                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">Ладно, ребята, Считаю до трех… Раз, два, три - Взяли!</p>
+                <p class="article-text" style="color:rgb(165,150,153);font-style:italic;">Ладно, ребята… Считаю до трех… Раз, два, три - Взяли!</p>
            </text>
             <goto goto="85" change="#ffffff"/>
-       </scene>
+        </scene>
         <scene id="85" background="storage2.jpg">
             <bgm src="themeWelt.mp3" status="start"></bgm>
             <text>Объект в форме доски, больше, чем дверь склада, неуверенно поднимается со своей подставки.</text>
@@ -568,7 +568,7 @@
             <shake position="center" time="250"></shake>
             <speak chara="nekoNoFace">Это… Это оно?!</speak>
             <goto goto="90" change="#ffffff"/>
-       </scene>
+        </scene>
         <scene id="90" background="CG7-2.jpg">
             <bgm src="themeEin.mp3" status="start"></bgm>
             <text>Как только старая ткань снялась, в поле зрения четырех вокруг картины появляется ярко-белый цвет цвета слоновой кости.</text>
@@ -580,11 +580,11 @@
             <speak chara="nekoNoFace">Мой Бог! Ни следа плесени!!</speak>
             <speak chara="teslaNoFace">Но эта картина…</speak>
             <text>Очевидно, ломая голову над другими вещами, Тесла подходит к задней части гигантской картины с лупой в руках.</text>
-            <speak chara="teslaNoFace">…Область подписи не изменилась… Есть ли что-то странное в этой картине??</speak>
+            <speak chara="teslaNoFace">… Область подписи не изменилась… Есть ли что-то странное в этой картине?</speak>
             <speak chara="nekoNoFace">Почему… Разве это не может считаться достаточно чудесным?</speak>
             <text>Конечно, Толстый Дядя не понял, что Тесла имела в виду под словом «странный».</text>
             <goto goto="100" change="0"/>
-       </scene>
+        </scene>
         <scene id="100" background="storage2.jpg">
             <bgm src="themeEin.mp3" status="continue"></bgm>
             <show chara="teslaNormalGlassWinterClose-up" position="right"/>
@@ -592,7 +592,7 @@
             <show chara="teslaNormalGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGallerySweatClose-up" position="left"/>
             <speak chara="nekoNoFace">Маленькая леди, вы спрашиваете об этом…</speak>
-            <text>Между смехом и слезами Толстый дядя протягивает руки—</text>
+            <text>Между смехом и слезами Толстый дядя протягивает руки —</text>
             <speak chara="nekoNoFace">Во время наводнения 1928 года я был не более чем невежественным учеником гимназии!</speak>
             <show chara="staffGallerySweatClose-up" position="left" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
@@ -603,10 +603,10 @@
             <show chara="teslaBoringGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGalleryNormalClose-up" position="left"/>
             <speak chara="nekoNoFace">Подсказок?</speak>
-            <text>Дядя Жирный всё так же сбит с толку, как и прежде, его мысли в тумане.</text>
+            <text>Толстый дядя всё так же сбит с толку, как и прежде, его мысли в тумане.</text>
             <show chara="staffGalleryNormalClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
-            <speak chara="einNoFace">…У меня есть предположение.</speak>
+            <speak chara="einNoFace">… У меня есть предположение.</speak>
             <text>Из рюкзака Вельта Эйнштейн достает устройство, напоминающее ламповый усилитель.</text>
             <show chara="einSmileWinterClose-up" position="center"/>
             <speak chara="einNoFace">Могу ли я использовать его для проверки холста?</speak>
@@ -643,7 +643,7 @@
             <speak chara="nekoNoFace">Нет нет нет! Если я позволю тебе это сделать, разве картина не будет испорчена?!</speak>
             <show chara="staffGalleryScareClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
-            <speak chara="einNoFace">…Навряд ли.</speak>
+            <speak chara="einNoFace">… Навряд ли.</speak>
             <text>Эйнштейн достаёт из кармана фонарик и светит им на холст сбоку, под углом.</text>
             <speak chara="einNoFace">…</speak>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
@@ -654,31 +654,31 @@
             <text>Толстый дядя не обращает внимания.</text>
             <show chara="staffGalleryNormalClose-up" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
-            <speak chara="einNoFace">Пожалуйста, смотрите внимательно.</speak>
+            <speak chara="einNoFace">Пожалуйста, посмотрите внимательно.</speak>
             <text>Девушка объясняет, сохраняя угол фонарика.</text>
             <speak chara="einNoFace">Видите? На поверхности картины имеется тонкая пленка.</speak>
             <show chara="einSeriousEmWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryNormalClose-up" position="left"/>
-            <speak chara="nekoNoFace">…Хм… Защитный лак?</speak>
+            <speak chara="nekoNoFace">… Хм… Защитный лак?</speak>
             <speak chara="nekoNoFace">…</speak>
             <show chara="staffGallerySeriousClose-up" position="left"/>
             <speak chara="nekoNoFace">Нет, не существует защитного лака, способного сохранить картину в таком первозданном виде!</speak>
             <text>Выражение лица толстого дядюшки становится еще более растерянным. При внимательном рассмотрении можно заметить, что пленка даже имеет легкий металлический блеск!</text>
-            <speak chara="nekoNoFace">…Что это?</speak>
-            <speak chara="nekoNoFace">…Я никогда не видел и не слышал о таком!</speak>
+            <speak chara="nekoNoFace">… Что это?</speak>
+            <speak chara="nekoNoFace">… Я никогда не видел и не слышал о таком!</speak>
             <show chara="staffGallerySeriousClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
             <speak chara="einNoFace">Если вы позволите, мы можем проверить это прямо сейчас.</speak>
-            <text>Мопхед начинает крутить ручку машины в руках.</text>
+            <text>Тупоголовая начинает крутить ручку машины в руках.</text>
             <show chara="einNormalWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGalleryScareClose-up" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="nekoNoFace">…Я сказал, что нельзя портить картину!</speak>
+            <speak chara="nekoNoFace">… Я сказал, что нельзя портить картину!</speak>
             <text>Толстый дядюшка вдруг забеспокоился —</text>
             <speak chara="nekoNoFace">Если мы сотворим что-то с этим, то мы с все будем считаться грешниками перед человечеством!</speak> <!-- 幺蛾子 = "To cause small moths to appear", northern Chinese phrase for "creating problems", much like how moths could wreak havoc on food stores. -->
             <show chara="staffGalleryScareClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="center"/>
-            <speak chara="einNoFace">…Вы слишком драматизируете.</speak>
+            <speak chara="einNoFace">… Вы слишком драматизируете.</speak>
             <speak chara="einNoFace">Когда мы закончим, эта картина… просто станет такой же хрупкой, как и другие «обычные» коллекции.</speak>
             <show chara="einNormalWinterClose-up" position="center" opacity="0.7"/>
             <show chara="staffGallerySeriousClose-up" position="left"/>
@@ -697,12 +697,12 @@
             <show chara="teslaEmbarraGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="staffGallerySeriousClose-up" position="left"/>
             <speak chara="nekoNoFace">…</speak>
-            <speak chara="nekoNoFace">…Охх.</speak>
+            <speak chara="nekoNoFace">… Охх.</speak>
             <show chara="staffGallerySweatClose-up" position="left"/>
             <speak chara="nekoNoFace">Юная леди, я не слеп, чтобы рассуждать.</speak>
             <speak chara="nekoNoFace">Но даже если процедура «не разрушает» саму картину, я считаю, что есть одна вещь, которую вам все же нужно четко объяснить…</speak>
             <show chara="staffGallerySeriousClose-up" position="left"/>
-            <speak chara="nekoNoFace">Как только вы извлекли эту тонкую пленку, какая в ней ценность? С этической точки зрения, почему наш художественный музей должен позволять вам это делать?</speak>
+            <speak chara="nekoNoFace">Как только вы извлекете эту тонкую пленку, какая в ней ценность? С этической точки зрения, почему наш художественный музей должен позволять вам это делать?</speak>
             <show chara="staffGallerySeriousClose-up" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
             <speak chara="einNoFace">Чтобы предсказать судьбу человечества.</speak>
@@ -717,7 +717,7 @@
             <show chara="einSeriousEmWinterClose-up" position="center"/>
             <text>Прежде чем дядя Менеджер смог оправиться от своего онемевшего состояния, Эйнштейн уже нацелил машину на центр холста.</text>
             <show chara="einSeriousAhWinterClose-up" position="center"/>
-            <speak chara="einNoFace">начинаю извлечение Соулиума в резонансной форме.</speak>
+            <speak chara="einNoFace">Начинаю извлечение Соулиума в резонансной форме.</speak>
             <speak chara="einNoFace">Все, пожалуйста, закройте уши.</speak>
             <end post="U2FsdGVkX19TjZQmi9wqji9OWE3F"/>
        </scene>

@@ -212,8 +212,8 @@
         <character name="Тесла" color="rgb(237,118,114)" id="teslaShameGlassWinterClose-up" src="10_20_teslaShameGlassWinterClose-up.png"/>
         <character name="Вельт" color="#ffffff" id="weltScaredWinterClose" src="10_12_weltScaredWinterClose.png"/>
         <character name="Вельт" color="#ffffff" id="weltTiredWinterClose" src="10_12_weltTiredWinterClose.png"/>
-        <character name="Старшая сестрёнка" color="rgb(208,223,162)" id="planckSisterNoFace" src=""/>
-        <character name="Старшая сестрёнка" color="rgb(208,223,162)" id="planckSisterBlackClose-up" src="9_26_planckBlackClose-up.png"/>
+        <character name="Старшая сестричка" color="rgb(208,223,162)" id="planckSisterNoFace" src=""/>
+        <character name="Старшая сестричка" color="rgb(208,223,162)" id="planckSisterBlackClose-up" src="9_26_planckBlackClose-up.png"/>
         <character name="Менеджер" color="rgb(165,150,153)" id="nekoNoFace" src=""/>
         <character name="Менеджер" color="rgb(165,150,153)" id="staffGalleryNormalClose" src="10_20_staffGalleryNormalClose.png"/>
         <character name="Менеджер" color="rgb(165,150,153)" id="staffGallerySweatClose" src="10_20_staffGallerySweatClose.png"/>

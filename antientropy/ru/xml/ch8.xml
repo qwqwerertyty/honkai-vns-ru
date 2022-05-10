@@ -13,7 +13,7 @@
             <hide position="center"/>
             <show chara="staffGalleryScareClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="staffNoFace">еищюялватсосогеесвонидеовьтазявсамузарогоксечеволеч ьтсонбосопсенотэеримвьщевяандресолимяамасястежакенм.^%$@!</speak> <!--Тарабарщина читается наоборот: “Мне кажется, самая милосердная вещь в мире - это неспособность человеческого разума связать воедино всё его составляющие.” — цитата из Лавкрафта.-->
+            <speak chara="staffNoFace">еищюялватсосогеесвонидеовьтазявсамузарогоксечеволеч ьтсонбосопсенотэеримвьщевяандресолимяамасястежакенм..^%$@!</speak> <!--Тарабарщина читается наоборот: “Мне кажется, самая милосердная вещь в мире - это неспособность человеческого разума связать воедино всё его составляющие.” — цитата из Лавкрафта.-->
             <text article="1">
                 <p class="article-text">Не прошло и двух минут с тех пор, как Эйнштейн включила странное устройство, а лысого дядьки, так настаивавшего на сопровождении уже и след просттыл.</p>
             </text>
@@ -25,8 +25,8 @@
             <show chara="teslaDisgustedGlassNoiseWinterClose" position="left" opacity="0.7"/>
             <show chara="einLeftWeltCloseWinterClose" position="right"/>
             <speak chara="weltNoFace">Нет! Я не отпущу!</speak>
-            <speak chara="einNoFace">…Пожалуйста, не делай так.</speak>
-            <speak chara="einNoFace">…Позаботься лучше о себе. Я в порядке. </speak>
+            <speak chara="einNoFace">… Пожалуйста, не делай так.</speak>
+            <speak chara="einNoFace">… Позаботься лучше о себе. Я в порядке. </speak>
             <show chara="einLeftWeltCloseWinterClose" position="right" opacity="0.7"/>
             <text article="1">
                 <p class="article-text">Громкий, непрекращающийся скрежет пробирает до мурашек. Однако среди такого шума, Эйнштейн, кажется, остается спокойной.</p>
@@ -64,19 +64,19 @@
             <text article="1">
                 <p class="article-text">Если и нужно описать это, то звук стальной ложки, энергично трущихся о железную сковороду, вероятно, будет самым близким совпадением.</p>
                 <br />
-                <p class="article-text">В качестве альтернативы - царапанье школьной доски ногтями, или сильное натирание шариковой ручки об нейлоновый зонт, возможно, так тоже можно получить аналогичный эффект.</p>
+                <p class="article-text">В качестве альтернативы - царапанье школьной доски ногтями, или сильное натирание шариковой ручки об нейлоновый зонт - возможно, их также можно использовать для достижения аналогичного эффекта.</p>
             </text>
             <goto goto="15" change="#ffffff"/>
         </scene>
         <scene id="15" background="storage2.jpg">
             <bgm src="themeWelt.mp3" status="start"></bgm>
             <show chara="einLeftWeltOpenWinterClose" position="center"/>
-            <speak chara="einNoFace">…Ты… Не обязан делать это.</speak>
+            <speak chara="einNoFace">… Ты… не обязан делать это.</speak>
             <show chara="einLeftWeltSmileWinterClose" position="center"/>
             <speak chara="weltNoFace">Что за глупости… ты говоришь…</speak>
-            <speak chara="weltNoFace">Это… Единственное…</speak>
-            <speak chara="weltNoFace">Что… Я… Могу… Сейчас… Сделать…</speak>
-            <speak chara="einNoFace">…Дурак.</speak>
+            <speak chara="weltNoFace">Это… единственное…</speak>
+            <speak chara="weltNoFace">что… я… могу… сейчас… сделать…</speak>
+            <speak chara="einNoFace">… Дурак.</speak>
             <speak chara="einNoFace">Садись сейчас же. И не говори ничего.</speak>
             <show chara="einSeriousAhWinterClose" position="center"/>
             <speak chara="einNoFace">Отдохни некоторое время. Сейчас твои слуховые нервы в состоянии перегрузки.</speak>
@@ -93,7 +93,7 @@
             <show chara="teslaNormalGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Я конечно понимаю, что ты родилась устойчивой к подобным звукам скрежета…</speak>
             <show chara="teslaBoringGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">…Но вот другим двоим не так повезло, и посмотри на них сейчас.</speak>
+            <speak chara="teslaNoFace">… Но вот другим двоим не так повезло, и посмотри на них сейчас.</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <text article="1">
                 <p class="article-text">Вельт не нуждается в объяснении —</p>
@@ -137,7 +137,7 @@
             <speak chara="einNoFace">Вельт… у него были благие намерения.</speak>
             <show chara="einNormalWinterClose" position="center" opacity="0.7"/>
             <show chara="teslaAstonishGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">…Намерения? Как ученый, ты собираешься прямо сейчас объяснять мне теорию мотивации? Эйн?</speak>
+            <speak chara="teslaNoFace">… Намерения? Как ученый, ты собираешься прямо сейчас объяснять мне теорию мотивации? Эйн?</speak>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Каким бы непослушным он ни был сейчас, что, если он столкнется с чем-то более опасным в будущем?</speak>
             <show chara="teslaDisgustedGlassWinterClose" position="left"/>
@@ -179,19 +179,19 @@
             <speak chara="einNoFace">У нее просто плохой характер.</speak>
             <show chara="einSmileWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltDarkWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Но… Я действительно был… Слишком упрям.</speak>
+            <speak chara="weltNoFace">Но… Я действительно был… слишком упрям.</speak>
             <show chara="weltDarkWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose-up" position="right"/>
             <speak chara="einNoFace">С сегодняшнего дня тебе запрещено извиняться.</speak>
             <show chara="einSeriousEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">…А?</speak>
+            <speak chara="weltNoFace">… А?</speak>
             <show chara="weltNormalWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose-up" position="right"/>
             <speak chara="einNoFace">Не подливай масла в огонь. Когда мы вернёмся, ты сделаешь вид, что ничего не произошло.</speak>
             <show chara="einSeriousEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">…Что?</speak>
+            <speak chara="weltNoFace">… Что?</speak>
             <show chara="weltSurpriseWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="right"/>
             <speak chara="einNoFace">Будь уверен. Она не вернётся и не затеет с тобой драку. Тесла не такой мелочный человек.</speak>
@@ -237,7 +237,7 @@
             <speak chara="weltNoFace">…</speak>
             <show chara="weltDarkWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSlyWinterClose-up" position="right"/>
-            <speak chara="einNoFace">всё в порядке.</speak>
+            <speak chara="einNoFace">Всё в порядке.</speak>
             <show chara="einFoolWinterClose-up" position="right"/>
             <speak chara="einNoFace">Я сказала — хотя у этого человека ужасный характер, всё будет хорошо, как только ее гнев утихнет. </speak>
             <show chara="einSmileWinterClose-up" position="right"/>
@@ -253,7 +253,7 @@
             <show chara="einFoolWinterClose-up" position="right"/>
             <speak chara="einNoFace">Не мной.</speak>
             <show chara="einSlyWinterClose-up" position="right"/>
-            <speak chara="einNoFace">И уж точно не та злая женщина.</speak>
+            <speak chara="einNoFace">И уж точно не той злой женщиной.</speak>
             <show chara="einSlyWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
             <speak chara="weltNoFace">Так…</speak>
@@ -329,10 +329,10 @@
             <text>Тем обычным, последовательным, бесстрастном, неорганическом тоне — </text>
             <text>В сочетании с этой слабой загадочной улыбкой она кажется чрезвычайно раздражающей.</text>
             <sound src="10_25_key1.mp3"/>
-            <text>…Более того, при этом она держит ключ в замке, даже не поворачивая его.</text>
+            <text>… Более того, при этом она держит ключ в замке, даже не поворачивая его.</text>
             <show chara="einSlyWinterClose" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="left"/>
-            <speak chara="weltNoFace">…Это ты сейчас так насмехалась надо мной?</speak>
+            <speak chara="weltNoFace">… Это ты сейчас так насмехалась надо мной?</speak>
             <text>Вельт пожимает плечами, не зная, смеяться ему нет.</text>
             <show chara="weltTiredWinterClose" position="left" opacity="0.7"/>
             <show chara="einSlyWinterClose" position="right"/>
@@ -362,14 +362,14 @@
             <show chara="einSmileWinterFar" position="right" opacity="0.7"/>
             <show chara="adaDimFar" position="center"/>
             <speak chara="adaNoFace">Добрый день, доктор Эйнштейн.</speak>
-            <speak chara="adaNoFace">А, мистер Ассистент тоже… Добрый день.</speak>
+            <speak chara="adaNoFace">А, мистер Ассистент тоже - Добрый день.</speak>
             <text>Со стороны странного звука снова появляется странное свечение и волшебным образом превращается в милый гуманоидный силуэт, приветствуя их двоих.</text> 
             <show chara="adaDimFar" position="center" opacity="0.7"/>
             <show chara="weltSurpriseWinterFar" position="left"/>
             <speak chara="weltNoFace">З… Здрасте…</speak>
             <show chara="weltSurpriseWinterFar" position="left" opacity="0.7"/>
             <show chara="einSmileWinterFar" position="right"/>
-            <speak chara="einNoFace">Ада, пожалуйста, представь этого парня официально. Я уже активировала систему эмуляции изображения.</speak>
+            <speak chara="einNoFace">Ада, пожалуйста, представься этому парню официально. Я уже активировала систему эмуляции изображения.</speak>
             <text>Эйнштейн говорит не оглядываясь, при этом возясь и настраивая какие-то переключатели.</text>
             <show chara="einSmileWinterFar" position="right" opacity="0.7"/>
             <show chara="adaDimFar" position="center"/>
@@ -405,7 +405,7 @@
             <show chara="weltSurpriseWinterFar" position="left"/>
             <speak chara="weltNoFace">Подожди…</speak>
             <show chara="weltTiredWinterFar" position="left"/>
-            <speak chara="weltNoFace">…что это за язык ктулху? "J" - что-то там, "S" - что-то там, "Z" Что-то…</speak>
+            <speak chara="weltNoFace">… Что это за язык ктулху? "J" - что-то там, "S" - что-то там, "Z" Что-то…</speak>
             <show chara="weltTiredWinterFar" position="left" opacity="0.7"/>
             <show chara="adaNormalFar" position="center"/>
             <speak chara="adaNoFace">ⵥⵙⵎ ⵋⴱⴳ ⵐⵓⴽⴸ ⵐ ⵥⵛⵌⴱⴴⵙⴸ ⵋⵓⵖⴱ ⵥⴶ</speak>
@@ -424,7 +424,7 @@
             </remark>
             <show chara="adaSmileFar" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterFar" position="left"/>
-            <speak chara="weltNoFace">…Я сдаюсь.</speak>
+            <speak chara="weltNoFace">… Я сдаюсь.</speak>
             <text>Юноша в отчаянии посмотрел на тарабарщину —</text>
             <show chara="weltNormalWinterFar" position="left"/>
             <speak chara="weltNoFace">Просто скажи мне, что ты обычно делаешь.</speak>
@@ -435,7 +435,7 @@
             <speak chara="adaNoFace">Согласно твоему определению «обычного», на этом и всё.</speak>
             <show chara="adaSmileFar" position="center" opacity="0.7"/>
             <show chara="weltSurpriseWinterFar" position="left"/>
-            <speak chara="weltNoFace">…Даже не знаю, правильное ли такое обобщение…</speak>
+            <speak chara="weltNoFace">… Даже не знаю, правильное ли такое обобщение…</speak>
             <text>Юноша думает, держась за подбородок —</text>
             <show chara="weltNormalWinterFar" position="left"/>
             <speak chara="weltNoFace">То есть — по сравнению с теми… хм, этими сверхбольшими калькуляторами из других лабораторий… вы тоже чем-то похожи?</speak>
@@ -445,7 +445,7 @@
             <text>Сущность небрежно судит о самых передовых вычислительных устройствах того времени.</text>
             <show chara="adaSmileAhFar" position="center" opacity="0.7"/>
             <show chara="weltScaredWinterFar" position="left"/>
-            <speak chara="weltNoFace">…Примитивны?</speak>
+            <speak chara="weltNoFace">… Примитивны?</speak>
             <show chara="weltScaredWinterFar" position="left" opacity="0.7"/>
             <show chara="adaSmileFar" position="center"/>
             <speak chara="adaNoFace">Поддержание этого уровня интеллектуального интерактивного интерфейса в настоящее время составляет 99% производительности моего основного модуля.</speak>
@@ -457,8 +457,8 @@
             </remark>
             <show chara="adaSmileFar" position="center" opacity="0.7"/>
             <show chara="weltSurpriseWinterFar" position="left"/>
-            <speak chara="weltNoFace">…в 13 раз?</speak>
-            <text> Вельт, не очень хорошо разбирающийся в математике, понятия не имеет о таких больших числах.</text>
+            <speak chara="weltNoFace">… В 13 раз?</speak>
+            <text>Вельт, не очень хорошо разбирающийся в математике, понятия не имеет о таких больших числах.</text>
             <show chara="weltSurpriseWinterFar" position="left" opacity="0.7"/>
             <show chara="adaSmileFar" position="center"/>
             <speak chara="adaNoFace">Десять триллионов. </speak>
@@ -467,7 +467,7 @@
             <speak chara="adaNoFace">Другими словами, моя 1 секунда равна их 100,000 лет.</speak>
             <show chara="adaSmileFar" position="center" opacity="0.7"/>
             <show chara="weltScaredWinterFar" position="left"/>
-            <speak chara="weltNoFace">Что-…</speak>
+            <speak chara="weltNoFace">Что- …</speak>
             <show chara="weltScaredWinterFar" position="left" opacity="0.7"/>
             <show chara="einSmileWinterFar" position="right"/>
             <speak chara="einNoFace">Не нужно удивляться.</speak>
@@ -477,10 +477,10 @@
             <show chara="weltSurpriseWinterFar" position="left"/>
             <speak chara="weltNoFace">Не из этой эпохи…</speak>
             <show chara="weltScaredWinterFar" position="left"/>
-            <speak chara="weltNoFace">…Что ты имеешь ввиду?</speak>
+            <speak chara="weltNoFace">… Что ты имеешь ввиду?</speak>
             <show chara="weltScaredWinterFar" position="left" opacity="0.7"/>
             <show chara="einSmileWinterFar" position="right"/>
-            <speak chara="einNoFace">Да… плод Предыдущей Эры.</speak>
+            <speak chara="einNoFace">Верно. Плод Предыдущей Эры.</speak>
             <show chara="einFoolWinterFar" position="right" />
             <speak chara="einNoFace">Именно поэтому Лаборатория 42 и наняла доктора Элиаса Нокианвиртанена.</speak>
             <show chara="einFoolWinterFar" position="right" opacity="0.7"/>
@@ -506,14 +506,14 @@
             <speak chara="adaNoFace">Запись в Соулиуме не нуждается в переводе, доктор Эйнштейн, ассистент Вельт.</speak>
             <show chara="adaSmileFar" position="center" opacity="0.7"/>
             <show chara="weltScaredWinterFar" position="left"/>
-            <speak chara="weltNoFace">…А?!</speak>
+            <speak chara="weltNoFace">… А?!</speak>
             <show chara="weltScaredWinterFar" position="left" opacity="0.7"/>
             <show chara="adaSmileAhFar" position="center"/>
             <speak chara="adaNoFace">Тут две записи.</speak>
             <speak chara="adaNoFace">Первая — это данные изображения той эпохи, а другая — какие-то зашифрованные данные.</speak>
             <show chara="adaSmileFar" position="center" opacity="0.7"/>
             <show chara="einSeriousAhWinterFar" position="right" />
-            <speak chara="einNoFace">…Вполне ожидаемо. Покажи сперва изображение.</speak>
+            <speak chara="einNoFace">… Вполне ожидаемо. Покажи сперва изображение.</speak>
             <show chara="einSeriousEmWinterFar" position="right" opacity="0.7"/>
             <show chara="adaNormalFar" position="center"/>
             <speak chara="adaNoFace">Окей.</speak>
@@ -524,7 +524,7 @@
             <text article="1">
                 <p class="article-text">Еще до того, как ее слова закончились, образ Ады, сказочной принцессы, уже исчез, уступая место миражному пейзажу.</p>
                 <br />
-                <p class="article-text">…Это пещера, очень похожая на руины Йеллоустона.</p>
+                <p class="article-text">… Это пещера, очень похожая на руины Йеллоустона.</p>
             </text>
             <text article="1">
                 <p class="article-text">В их поле зрения появляется фигура.</p>
@@ -537,14 +537,14 @@
         </scene>
         <scene id="82" background="CG8.jpg">
             <bgm src="10_25_ada.mp3" status="continue"></bgm>
-            <speak chara="haNoNameNoFace">…Запись уже должна была начаться.</speak>
-             <text>Сестра на изображении делает глубокий вдох.</text>
+            <speak chara="haNoNameNoFace">… Запись уже должна была начаться.</speak>
+            <text>Сестра на изображении делает глубокий вдох.</text>
             <speak chara="haNoNameNoFace">Я… Х.А. Если вы это видите, значит вы уже решили первоначальную загадку, которую я оставила для вас.</speak>
             <speak chara="haNoFace">Ха-ха-ха… Даже не знаю, стоит ли мне вас поздравить, или проклинать.</speak>
             <speak chara="haNoFace">Полагаю, вы уже знаете об организации под названием «Шиксаль». Может быть, вы даже один из них.</speak>
             <speak chara="haNoFace">А, может быть, ты даже сам Отто Апокалипсис.</speak>
             <speak chara="haNoFace">Если это действительно последнее, то мне действительно нужно уделить минутку, чтобы поблагодарить Бога за это.</speak>
-            <speak chara="haNoFace">…Ха-ха-ха-ха-ха-ха-ха.</speak>
+            <speak chara="haNoFace">… Ха-ха-ха-ха-ха-ха-ха.</speak>
             <speak chara="weltNoFace">Отто … Апокалипсис?</speak>
             <text>Вельту это имя показалось знакомым.</text>
             <sound src="9_28_sheeee.mp3"/>
@@ -569,7 +569,7 @@
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="adaSmileFar" position="center"/>
             <speak chara="adaNoFace">Я анализировала метод шифрования сопутствующих зашифрованных данных, пока вооспроизводила видео.</speak>
-            <text>Ада сообщила, восстанавливая свой антропоморфный образ.</text>
+            <text>Сообщила Ада, восстанавливая свой антропоморфный образ.</text>
             <show chara="adaNormalFar" position="center"/>
             <speak chara="adaNoFace" remark="next">Думаю, что тут используется дискретный логарифм эллиптической кривой над конечным полем.</speak>
             <remark post="U2FsdGVkX19S8bzKHNuaPD0XARXO">
@@ -597,7 +597,7 @@
             <show chara="adaNormalFar" position="center" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="right"/>
             <speak chara="einNoFace">Фух…</speak>
-            <text>Мопхед делает глубокий вдох —</text>
+            <text>Тупоголовая делает глубокий вдох —</text>
             <show chara="einSmileWinterFar" position="right" />
             <speak chara="einNoFace">Нет, меня просто захватило любопытство, не более того.</speak>
             <show chara="einSmileWinterFar" position="right" opacity="0.7"/>
@@ -611,7 +611,7 @@
             <text>Эйнштейн внезапно сделала шаг ближе и пронзительно смотрит на человека, который не очень-то помогал в решении головоломок.</text>
             <show chara="einNormalWinterFar" position="center" opacity="0.7"/>
             <show chara="weltShyWinterFar" position="left"/>
-            <speak chara="weltNoFace">…Эм — Да?</speak>
+            <speak chara="weltNoFace">… Эм — Да?</speak>
             <text>Вельт, с самого начала просто не успевавший за быстрым темпом всего происходящего, чуть не споткнулся, словно испугавшись.</text>
             <show chara="weltShyWinterFar" position="left" opacity="0.7"/>
             <show chara="einSlyWinterFar" position="center" />
@@ -620,8 +620,8 @@
             <speak chara="einNoFace">Тогда прошу тебя, пожалуйста, возьми на себя ответственность в течение этого времени, хорошо?</speak> <!-- https://www.youtube.com/watch?v=1FfDtZFkP8k -->
             <show chara="einSmileWinterFar" position="center" opacity="0.7"/>
             <show chara="weltShameWinterFar" position="left"/>
-            <speak chara="weltNoFace">…А?</speak>
-            <speak chara="weltNoFace">…П-п-п-подожди, О чём это ты вообще!?</speak>
+            <speak chara="weltNoFace">… А?</speak>
+            <speak chara="weltNoFace">… П-п-п-подожди, о чём это ты вообще!?</speak>
             <end post="U2FsdGVkX19rqEwKMZHDErhJDSEv"/>
         </scene>
     </story>

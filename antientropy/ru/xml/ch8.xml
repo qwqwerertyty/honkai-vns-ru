@@ -15,7 +15,7 @@
             <shake position="left" time="250"></shake>
             <speak chara="staffNoFace">еищюялватсосогеесвонидеовьтазявсамузарогоксечеволеч ьтсонбосопсенотэеримвьщевяандресолимяамасястежакенм..^%$@!</speak> <!--Тарабарщина читается наоборот: “Мне кажется, самая милосердная вещь в мире - это неспособность человеческого разума связать воедино всё его составляющие.” — цитата из Лавкрафта.-->
             <text article="1">
-                <p class="article-text">Не прошло и двух минут с тех пор, как Эйнштейн включила странное устройство, а лысого дядьки, так настаивавшего на сопровождении уже и след просттыл.</p>
+                <p class="article-text">Не прошло и двух минут с тех пор, как Эйнштейн включила странное устройство, а лысого дядьки, так настаивавшего на сопровождении уже и след простыл.</p>
             </text>
             <show chara="teslaDisgustedGlassNoiseWinterClose" position="left"/>
             <shake position="left" time="250"></shake>
@@ -113,7 +113,7 @@
             <text>Тесла подошла к Вельту, бросив на него суровый взгляд.</text>
             <show chara="teslaAngryGlassWinterClose" position="center"/>
             <shake position="center" time="250"/>
-            <speak chara="teslaNoFace">«Но ты, ты действительно НЕКОМПЕТЕНТНЫЙ!? Сколько раз мы говорили заткнуть СВОИ уши. Почему ты не слушал!?</speak>
+            <speak chara="teslaNoFace">Но ты, ты действительно НЕКОМПЕТЕНТНЫЙ!? Сколько раз мы говорили заткнуть СВОИ уши. Почему ты не слушал!?</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="center"/>
             <speak chara="teslaNoFace">Я знаю, ты так беспокоился о ней, но её, правда, не беспокоит этот шум!</speak>
             <show chara="teslaBiteGlassWinterClose" position="center"/>
@@ -132,7 +132,7 @@
             <show chara="teslaAngryGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSeriousAhWinterClose" position="center"/>
             <speak chara="einNoFace">Тесла!</speak>
-            <text>Эйнштейн прервала теслу, выкрикнув её имя.</text>
+            <text>Эйнштейн прервала Теслу, выкрикнув её имя.</text>
             <show chara="einNormalWinterClose" position="center"/>
             <speak chara="einNoFace">Вельт… у него были благие намерения.</speak>
             <show chara="einNormalWinterClose" position="center" opacity="0.7"/>
@@ -268,10 +268,10 @@
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
             <text>Такси проезжает мимо арки Веллингтона и продолжает свой путь на запад вдоль Найтсбриджа.</text>
             <text>В эти сумерки поздней осени прохладное сияние угасающего солнца отражается в придорожных лужах; увидев эту сцену, нельзя не вспомнить зловещий стих, написанный более 2000 лет назад —</text>
-            <text remark="next">«Бледная Смерть одинаково бьет и в бедняцкие ворота, и в дворцы королей.»</text>
+            <text remark="next">«Бледная смерть одинаково бьет и в ворота бедняка, и во дворцы королей»</text>
             <remark>
                 <p class="article-text-h">Примечание: </p>
-                <p class="article-text">«Бледная смерть одинаково бьет и в ворота бедняка, и во дворцы королей».</p>
+                <p class="article-text">«Бледная смерть одинаково бьет и в ворота бедняка, и во дворцы королей»</p>
                 <p class="article-text">Эта фраза исходит от древнеримского поэта Квинта Горация Флакка (65-8 г. до н.э.). Оригинальный латинский стих звучит так: «PALLIDA MORS AEQVO PVLSAT PEDE PAVPERVM TABERNAS REGVMQVE TVRRES».</p>
             </remark>
             <text>Девушка опускает окно, и ее взгляд обращается к сочной зелени Гайд-парка через дорогу.</text>
@@ -333,7 +333,7 @@
             <show chara="einSlyWinterClose" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="left"/>
             <speak chara="weltNoFace">… Это ты сейчас так насмехалась надо мной?</speak>
-            <text>Вельт пожимает плечами, не зная, смеяться ему нет.</text>
+            <text>Вельт пожимает плечами, не зная, смеяться ему или нет.</text>
             <show chara="weltTiredWinterClose" position="left" opacity="0.7"/>
             <show chara="einSlyWinterClose" position="right"/>
             <speak chara="einNoFace">Конечно.</speak>
@@ -379,7 +379,7 @@
             <speak chara="adaNoFace">Здравствуйте, это прототип интерфейса терминала №0042. Моё человеческое имя Ада.</speak>
             <speak chara="adaNoFace">А ~ Д ~ А ~ </speak>
             <speak chara="adaNoFace">Ай — Да. </speak>
-            <text remark="next">Она произносит последний слог своего имени, намеренно пощипывая верхнее небо кончиком языка. Действие заставляет Велта с некоторым дискомфортом вспоминать спорный роман, недавно опубликованный во Франции.</text>
+            <text remark="next">Она произносит последний слог своего имени, намеренно пощипывая верхнее небо кончиком языка. Действие заставляет Вельта с некоторым дискомфортом вспоминать спорный роман, недавно опубликованный во Франции.</text>
             <remark>
                 <p class="article-text-h">Примечание: </p>
                 <p class="article-text">Ло-Ли-Та: кончик языка делает три шага вниз по небу, чтобы на третьем постучать по зубам.</p>
@@ -549,10 +549,10 @@
             <text>Вельту это имя показалось знакомым.</text>
             <sound src="9_28_sheeee.mp3"/>
             <speak chara="einNoFace">Тсс. </speak>
-            <text>Эйнштейн, нахмурилв брови, посмотрела на Вельта, показывая ему, чтобы он молчал.</text>
+            <text>Эйнштейн, нахмурив брови, посмотрела на Вельта, показывая ему, чтобы он молчал.</text>
             <speak chara="haNoFace">Вы должно быть знаете, что такое "Хонкай".</speak>
             <text>Естественно, Х.А. на видео не может напрямую взаимодействовать с ними, но она продолжает говорить спокойно, в своем темпе.</text>
-            <speak chara="haNoFace">Вы также должны знать, что гланая цель Шиксаля состоит в том, чтобы стереть Хонкай с лица земли.</speak>
+            <speak chara="haNoFace">Вы также должны знать, что главная цель Шиксаля состоит в том, чтобы стереть Хонкай с лица земли.</speak>
             <speak chara="haNoFace">Но…</speak>
             <speak chara="haNoFace">К сожалению, этого сделать нельзя. </speak>
             <speak chara="haNoFace">Вы можете подумать, что меня просто переполняют негативные эмоции.</speak>

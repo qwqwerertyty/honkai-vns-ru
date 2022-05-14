@@ -247,7 +247,7 @@
         <character name="Ада" color="rgb(249,222,230)" id="adaNormalFar" src="10_25_adaNormalFar.png"/>
         <character name="Ада" color="rgb(249,222,230)" id="adaSmileAhFar" src="10_25_adaSmileAhFar.png"/>
         <character name="Ада" color="rgb(249,222,230)" id="adaSmileFar" src="10_25_adaSmileFar.png"/>
-        <character name="H.A" color="rgb(221,149,235)" id="haNoFace" src=""/>
+        <character name="Х.А" color="rgb(221,149,235)" id="haNoFace" src=""/>
         <character name="???" color="rgb(221,149,235)" id="haNoNameNoFace" src=""/>
         <character name="Тесла" color="rgb(237,118,114)" id="teslaNormalDrunkWinterClose" src="11_02_teslaNormalDrunkWinterClose.png"/>
         <character name="Тесла" color="rgb(237,118,114)" id="teslaAstonishDrunkWinterClose" src="11_02_teslaAstonishDrunkWinterClose.png"/>

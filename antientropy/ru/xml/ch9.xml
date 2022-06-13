@@ -8,25 +8,25 @@
         </scene>
         <scene id="10" background="studyLamp.jpg">
             <bgm src="themeWelt.mp3" status="start"></bgm>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <text article="1">
-                <p class="article-text">In the four weeks beginning from now, the lab assistant named Welt will be bearing a heavy responsibility. Lab 42 is now on a “quasi-holiday” because the supercomputer Ada has been shackled with a computationally-heavy task — which means Welt needs to organise recreational activities for the two doctors every day for the entire period. Although one of the doctors proclaims that “Just because we're on vacation, doesn't mean we don't need to work some days”; given the personality of the other doctor, it seems difficult to say for certain what the workload is going to be like for Welt … </p>
+                <p class="article-text">С этого момента, следующие четыре недели лаборант Вельт будет нести большую ответственность. Лаборатория 42 сейчас находится в «квазиотпуске», так как суперкомпьютер "Ада" был занят расчётом задачи, а это означает, что теперь Вельт должен организовывать развлекательные мероприятия для двух учённых каждый день в течение всего периода. Хотя один из них заявляет, что «То, что мы в отпуске, не означает, что нам не нужно работать несколько дней»; учитывая личность другого, кажется, трудно с уверенностью сказать, какой будет рабочая нагрузка для Вельта…</p>
             </text>
-            <text>Especially given that just a few hours earlier, his own foolhardy behaviour had caused her to blow a fuse.</text> <!--  无腦耍帅 = "to be brainless while trying to act brave and cool"; 火冒三丈 = "to burn with a rage that extends thirty feet" -->
-            <text>The wall clock silently ticks past eleven o'clock. Despite knowing that the community safety in this neighbourhood is one of the best in Britain, Welt remains uneasy, and since he has trouble sleeping anyway, chooses to stay up all night in the lobby. </text>
-            <text>On the other hand, Einstein, who seems accustomed to her roommate's late-night adventures, had already gone upstairs to “rest” an hour ago. </text>
+            <text>Особенно учитывая, что всего несколько часов назад его безрассудное поведение очень сильно разгневало её.</text> <!--  无腦耍帅 = "to be brainless while trying to act brave and cool"; 火冒三丈 = "to burn with a rage that extends thirty feet" -->
+            <text>Настенные часы тихо пробили одиннадцать часов. Несмотря на то, что он знает, что общественная безопасность в этом районе является одной из лучших в Великобритании, Вельту по-прежнему не спокойно, и, поскольку у него всё равно проблемы со сном, он решает не спать всю ночь, сидя в вестибюле.</text>
+            <text>С другой стороны, Эйнштейн, которая, кажется, привыкла к ночным приключениям своей соседки по комнате, уже час назад поднялась наверх, чтобы «отдохнуть».</text>
             <sound src="8_24_mess.mp3"/>
-            <text> — If not for the various sounds of falling debris in the garbage chute, occurring from time to time. It sounds like someone taking this opportunity to finally clean up the house.</text>
-            <text remark="next">After drinking his seventh cup of black tea, the “Catcher in the Rye” in his hand has already been flipped to its last page. </text>
+            <text>— Если бы не различные звуки мусора падающего в мусоропровод, слышные время от времени. Похоже, кто-то воспользовался возможностью, чтобы наконец убраться в доме.</text>
+            <text remark="next">Наконец, допив седьмую чашку черного чая, последняя страница «Над пропастью во ржи» в его руке перелистнлась.</text>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">“The Catcher in the Rye” is a novel published by American writer JD Salinger in 1951.  </p>
-                <p class="article-text"> When it was first published, many schools and libraries banned the book; but now, this book is a designated reading for many American schools. Some critics say that it “has greatly affected generations of American youth.” </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">"Над пропастью во ржи" — роман, опубликованный американским писателем Дж. Д. Сэлинджером в 1951 году.</p>
+                <p class="article-text">Когда книга была впервые опубликована, её запретили многие школы и библиотеки; но теперь эта книга предназначена для чтения во многих американских школах. Некоторые критики говорят, что это «сильно повлияло на поколения американской молодежи».</p>
             </remark>
-            <text>The silly protagonist of the book had an amusing temperament, and this reminded him of “Don Quixote” he had read last year. </text>
-            <text>Ah. </text>
-            <text>Speaking of which … </text>
-            <text>Just now he had received a letter, and it was a very strange letter indeed … </text>
+            <text>Глуповатый герой книги обладал забавным темпераментом, и это напомнило ему «Дон Кихота», прочитанного им в прошлом году.</text>
+            <text>Ах.</text>
+            <text>К слову…</text>
+            <text>Только что он получил письмо, и это было действительно очень странное письмо…</text>
             <goto goto="15" change="#ffffff"/>
         </scene>
         <scene id="15" background="CG9-1.jpg">
@@ -35,385 +35,382 @@
             <text article="1">
                 <p class="article-text-h">Ω: </p>
                 <br />
-                <p class="article-text">When you do receive this letter, it should already be around the 31st. </p>
+                <p class="article-text">Когда ты получишь это письмо, должно быть уже около 31 числа.</p>
                 <br />
-                <p class="article-text">Happy Halloween. </p>
+                <p class="article-text">Счастливого Хэллоуина.</p>
             </text>
             <text article="1">
-                <p class="article-text">I heard that, because a certain Overseer pays special attention to this festival, I've had to make grand arrangements at Headquarters every year … Yes, the attached photo shows the state of my preparations this year. </p>
-                <p class="article-text">By the way, something else to “celebrate”: starting this month, my lab's staff has been reduced to just me alone — so as you can see, even when taking a team photo, I can only take one of myself. </p>
+                <p class="article-text">Я слышал, что из-за того, что некий Смотритель уделяет этому фестивалю особое внимание, мне приходится каждый год устраивать грандиозные мероприятия в Штабе… Да, на прилагаемой фотографии видно состояние моей подготовки в этом году.</p>
+                <p class="article-text">Кстати, еще кое-что, что можно «отпраздновать»: в этом месяце штат моей лаборатории сократился до одного меня — так что, как видишь, даже при съемке команды я могу сделать фото лишь одного себя.</p>
             </text>
             <text article="1">
-                <p class="article-text">I haven’t heard from you recently. Is it because of the new opportunities that have rekindled your passion for life? I've heard you guys have been travelling back and forth between the Atlantic Ocean, and have been having a great time. However, the North American branch has always been rated poorly by Headquarters. If they happen to cause some sort of trouble amongst themselves, or be at loggerheads with each other, you mustn't blindly participate … I've heard that still water runs deep, and thing can get rather treacherous. </p>
+                <p class="article-text">Я ничего не слышал от тебя в последнее время. Это из-за новых возможностей, которые возродили вашу страсть к жизни? Я слышал, вы, ребята, путешествовали туда и обратно над Атлантическим океаном и прекрасно проводили время. Однако штаб-квартира всегда плохо оценивала североамериканский филиал. Если вдруг они поссорятся между собой, то ты не должен участвовать… Я слышал, что в тихом омуте черти водятся, и дело может стать довольно коварным.</p>
             </text>
             <text article="1">
-                <p class="article-text"> … But I'm also being stupid. When Gods fight, what does it matter to mere mortals like you and me?  Best not talk about it any more. Now, I don't know what the weather is like in London — but the moonlight in Vienna tonight is indeed hard to come by; I will thus borrow the power of alcohol to guide us in a casual chat, about some things we cannot usually talk about. Well, it's a letter, so just let me talk, and you can just listen — don't take any of this too seriously. </p>
+                <p class="article-text">…Но я также веду себя глупо. Когда боги сражаются, какое это имеет значение для простых смертных, как ты и я? Лучше не говорить об этом больше. Так вот, я не знаю, какая погода в Лондоне, но лунного света в Вене сегодня действительно трудно добиться; Поэтому, я позаимствую силу алкоголя, чтобы вести нас в непринужденной беседе о некоторых вещах, о которых мы обычно не можем говорить. Ну, это письмо, так что просто дай мне поговорить, а ты можешь просто слушать — не принимай ничего из этого слишком серьезно.</p>
             </text>
             <text article="1">
-                <p class="article-text">I know that you are a person who likes reading. But … have you ever thought about what has caused us human beings, in our struggle against the Honkai, to be repeatedly thwarted, to suffer loss after loss? After all, what flaws make us vulnerable to constant forestalling by the Honkai, to the point that we are close to complete surrender, too tired to cope anymore? </p>
-                <p class="article-text">In other words … why do we always, always, always repeat the same mistakes? </p>
+                <p class="article-text">Я знаю, что вы человек, который любит читать. Но… задумывались ли вы когда-нибудь о том, что заставляет нас, людей, в нашей борьбе с Хонкай постоянно терпеть неудачи, терпеть потери за потерями? В конце концов, какие недостатки делают нас уязвимыми для постоянного опережения Хонкай, вплоть до того, что мы близки к полной капитуляции, слишком устали, чтобы больше справляться?</p>
+                <p class="article-text">Другими словами… почему мы всегда, всегда, всегда повторяем одни и те же ошибки?</p>
             </text>
             <text article="1">
-                <p class="article-text">It is true that, throughout human history, we have been steadily progressing, and this trend of progress will unlikely be obstructed by any trivial event or matter; but what I've been seeing more, are those pioneers who stand on the crest of the wave — isolated and cut off from help, battered and bruised, caught between a rock and a hard place. Sometimes, they may even lose, defeated and embarrassed by their own human foibles. Spiritually, they may be giants, but sometimes physically or materially they are weaklings; their spiritual strength often takes a long time to be passed down to later generations, before they are eventually recognised as cherished paragons. </p>
+                <p class="article-text">Верно то, что на протяжении всей истории человечества мы неуклонно продвигались вперед, и эта тенденция прогресса вряд ли будет остановлена каким-либо тривиальным событием или обстоятельством; но больше всего я видел тех первопроходцев, которые стоят на гребне волны — изолированных и отрезанных от помощи, избитых и ушибленных, зажатых между молотом и наковальней. Иногда они могут даже проигрывать, побежденные и смущенные своими человеческими слабостями. Духовно они могут быть великанами, но иногда физически или материально они слабаки; их духовная сила часто требует много времени, чтобы передать их последующим поколениям, прежде чем они в конечном итоге будут признаны заветными образцами.</p>
             </text>
             <text article="1">
-                <p class="article-text">Earlier, I told you the story of Saint Kallen. However, what I want to say today is … Despite her strong force of character, nature instead granted her the body of an ordinary girl (although the bloodline of Kaslana is definitely nothing ordinary … but that won't make much difference to what I'm about to say here) — a body so weak and frail, one so minuscule and insignificant, that even the common folk can sentence her to death, so that even a lowly Honkai beast can take her life with ease. </p>
+                <p class="article-text">Ранее я рассказал тебе историю Святой Каллен. Однако то, что я хочу сказать сегодня… Несмотря на её сильный характер, природа подарила ей тело обычной девушки (хотя родословная Касланы определенно не является чем-то обычным… но сейчас это не имеет большого значения) — тело настолько слабое и хрупкое, настолько крохотное и незначительное, что даже простой народ может приговорить её к смерти, так что даже низшее чудовище Хонкай может с легкостью лишить ее жизни.</p>
             </text>
             <text article="1">
-                <p class="article-text">Doesn't this make absolutely no sense? </p>
+                <p class="article-text">Разве это не имеет абсолютно никакого смысла?</p>
                 <br />
-                <p class="article-text">The world we live in, it does not follow logic at all, and it does not respect the principle of equivalent exchange! </p>
+                <p class="article-text">Мир, в котором мы живем, совершенно не подчиняется логике и не соблюдает принцип равноценного обмена!</p>
             </text>
             <text article="1">
-                <p class="article-text">I will never forget what Kallen experienced during her brief life. </p>
+                <p class="article-text">Я никогда не забуду того, что пережила Каллен за свою короткую жизнь.</p>
                 <br />
-                <p class="article-text">I am convinced that, for us humans, the greatest enemy is not the Honkai at all, but ourselves. </p>
+                <p class="article-text">Я убежден, что для нас, людей, самый злейший враг вовсе не Хонкай, а мы сами.</p>
             </text>
             <text article="1">
-                <p class="article-text"> — We are too weak, so weak that our heroes are always powerless to save everyone; we are too weak, so weak that some of us would even doubt the motives of our heroes; we are too weak, so weak that we will sacrifice true justice for a small immediate gain; we are too weak, so weak that we can only negotiate short-term peace amidst mutual conflict, and that we have to resort to official, pompous-sounding words like “social order” and “ethics” to cover up our despicable motives. </p>
+                <p class="article-text">— Мы слишком слабы, настолько слабы, что наши герои всегда бессильны всех спасти; мы слишком слабы, настолько слабы, что некоторые из нас даже усомнились бы в мотивах наших героев; мы слишком слабы, настолько слабы, что пожертвуем истинной справедливостью ради небольшой сиюминутной выгоды; мы слишком слабы, настолько слабы, что можем вести переговоры только о краткосрочном мире среди взаимных конфликтов, и что нам приходится прибегать к официальным, напыщенно звучащим словам, таким как «социальный порядок» и «этика», чтобы скрыть наши презренные мотивы.</p>
             </text>
             <text article="1">
-                <p class="article-text">The Saint … She is a Saint because, despite being as fragile as us, she is very different from us, for she is one — just the one, the only one — who does not fear her vulnerability. This kind of bravery, emanating from the heart, is like the sun to us ordinary folk — something we can all see, but can clearly never attain. </p>
-                <p class="article-text">At least, compared to her … I am a complete coward. </p>
+                <p class="article-text">Святая… Она Святая, потому что, несмотря на то, что она такая же хрупкая, как и мы, она очень отличается от нас, потому что она одна — всего одна, единственная — кто не боится своей уязвимости. Такого рода храбрость, исходящая из сердца, для нас, простых людей, подобна солнцу — то, что мы все можем видеть, но явно никогда не можем достичь. </p>
+                 <p class="article-text">По крайней мере, по сравнению с ней… я полный трус.</p>
             </text>
             <text article="1">
-                <p class="article-text">Every one of us, harbouring this original sin called “fear”, trepidly seeks the answers to life's questions. </p>
+                <p class="article-text">Каждый из нас, таящий в себе этот первородный грех под названием «страх», трепетно ищет ответы на вопросы жизни.</p>
                 <br />
-                <p class="article-text">The Saint would never deride or jeer at us. But every time I realise we are living like this, I wish that I could kill myself with a single blow. </p>
+                <p class="article-text">Святой никогда не стал бы насмехаться или насмехаться над нами. Но каждый раз, когда я осознаю, что мы так живем, мне хочется убить себя одним ударом.</p>
             </text>
             <text article="1">
-                <p class="article-text">But imagine, if, if each of us really has a chance to rid ourselves of this fragility; if we can uproot this fear, this thought of “I am fragile” deeply rooted within our hearts … then we can create a new culture at that moment, one that is full of forgiveness, full of self-confidence, and full of vigour! And then this so-called “Honkai”, won't it then dwindle to something so small, so insignificant, as to be unworthy of further mention? </p>
+                <p class="article-text">Но представь, если бы у каждого из нас действительно был шанс избавиться от этой хрупкости; если мы сможем искоренить этот страх, эту мысль «я хрупкий», глубоко укоренившуюся в наших сердцах… тогда в этот момент мы сможем создать новую культуру, полную прощения, полную уверенности в себе и полную энергии! И тогда этот так называемый «Хонкай», не сократится ли он до чего-то такого маленького, такого незначительного, что не заслуживает дальнейшего упоминания?</p>
             </text>
             <text article="1">
-                <p class="article-text">Such a world, would protect its own Saints. </p>
+                <p class="article-text">Такой мир защитит своих Святых.</p>
                 <br />
-                <p class="article-text">Such a world, is more worthy of protection from its Saints. </p>
+                <p class="article-text">Такой мир более достоин защиты от своих Святых.</p>
             </text>
             <text article="1">
-                <p class="article-text">If, if, if there is ever a chance that Kallen is able to shine upon this world stage again, then, this time, she will not struggle to progress because of our own meagreness. </p>
+                <p class="article-text">Если, если, если когда-нибудь появится шанс того, что Каллен сможет снова засиять на этой мировой арене, то на этот раз она не будет бороться за прогресс из-за нашей собственной убогости.</p>
             </text>
             <text article="1">
-                <p class="article-text">I haven't tasted red wine for a long time, but I have really been drinking quite a bit today. In your opinion, this letter may be pure unintelligible incoherent rambling … but this doesn't matter. Before, I had been talking to you as a member of the organisation; today, let me be an ordinary researcher, and let me have a casual, self-opinionated rant for once. </p>
+                <p class="article-text">Я давно не пробовал красного вина, но сегодня я действительно выпил совсем немного. На ваш взгляд, это письмо может быть чистой невнятной бессвязной бессвязностью… но это не имеет значения. Прежде я разговаривал с вами как с членом организации; сегодня, позвольте мне быть обычным исследователем, и позвольте мне хоть раз небрежно и самоуверенно разглагольствовать.</p>
             </text>
             <text article="1">
-                <p class="article-text">I don't think the kind of world I have just imagined can be realised … but it doesn't matter. We still have a lot to do — don't we? </p>
+                <p class="article-text">Я не думаю, что мир, который я только что вообразил, может быть реализован… но это не имеет значения. Нам еще многое предстоит сделать, не так ли?</p>
                 <br />
-                <p class="article-text-s">Your old friend, who has been acting a little strange today, </p>
-                <p class="article-text-s">Clown Alpha</p>
+                <p class="article-text-s">Твой старый друг, который сегодня ведет себя немного странно,</p>
+                <p class="article-text-s">Клоун Альфа</p>
                 <p class="article-text-s">1955.10.28.</p>
             </text>
             <goto goto="30" change="#ffffff"/>
         </scene>
         <scene id="30" background="studyLamp.jpg">
             <bgm src="themeWelt.mp3" status="start"></bgm>
-            <text>The hour hand on the wall clock has moved 60°, and it is already early morning of the next day. </text>
-            <text>Welt silently refills his eighth cup of black tea. </text>
+            <text>Часовая стрелка настенных часов переместилась на 60°, и вот уже раннее утро следующего дня.</text>
+            <text>Вельт молча наполнил свою восьмую чашку черного чая.</text>
             <sound src="11_3_mess lock.mp3"/>
-            <text>Click. </text>
+            <text>Клик.</text>
             <sound src="11_3_mess lock.mp3"/>
-            <text>Click click. </text>
+            <text>Клик-Клик.</text>
             <sound src="11_3_mess lock.mp3"/>
-            <text>Click click click. </text>
-            <text>At last, outside the door, there is that familiar sound unique to drunkards: the sound of a prodding key from one who cannot, for the life of them, find the keyhole to the lock. </text>
+            <text>Клик-Клик-Клик.</text>
+            <text>Наконец за дверью раздается тот знакомый звук, характерный только для пьяниц: звук тычущего ключа от того, кто не может хоть на жизнь найти замочную скважину.</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="studyNight.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="teslaNormalDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Ah … you little dječak … not asleep, I see. </speak>
-            <text>Drifting footsteps, breath full of alcohol — there is no doubt, this woman has already drunk more than enough. </text>
-            <speak chara="weltNoFace"> … Yes. Do you want to go upstairs? </speak>
-            <text> Thinking back to Mophead's advice, the young man decides to deal with the situation with an ordinary, calm mindset. </text>
+            <speak chara="teslaNoFace">Ах… ты, маленький розбійник… не спишь, я погляжу.</speak>
+            <text>Заплывающие шаги, дыхание, несущее алкоголем — можно не сомневаться, эта женщина уже выпила более чем достаточно.</text>
+            <speak chara="weltNoFace">…Да. Ты хочешь пойти наверх?</speak>
+            <text>Вспомнив совет Эйнштейна, Вельт решает разобраться с ситуацией с обычным, спокойным настроем.</text>
             <show chara="teslaAstonishDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Upstairs?  … Ne, ne. </speak>
-            <text>The red-haired woman with half-loosened twintails waves both hands dismissively. </text>
+            <speak chara="teslaNoFace">Наверх? … Н—е, не—.</speak>
+            <text>Рыжеволосая женщина с полураспущенными хвостиками пренебрежительно машет обеими руками.</text>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">You … you come and talk to me. </speak>
-            <speak chara="weltNoFace"> … M-me? </speak>
+            <speak chara="teslaNoFace">Т—ты … Ты… Подойди сюда, разговор есть. </speak>
+            <speak chara="weltNoFace">…Я?</speak>
             <show chara="teslaBiteDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">None … None of that n-nonsense! </speak>
+            <speak chara="teslaNoFace">Нет… Ничего из этой ч-чуши!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">If not you … who else is there … hmm? </speak>
+            <speak chara="teslaNoFace">Если не ты… кто еще там… хм?</speak>
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="CG9-2.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
-            <text>The “clearly sober adult” seizes the opportunity to flop down and sprawl all over the small sofa beside him. </text>
-            <speak chara="teslaNoFace"> … You haven't heard of it anyway, have you? </speak>
-            <speak chara="weltNoFace">Haven't heard? </speak>
-            <speak chara="weltNoFace">Uh … Haven't heard of what? </speak>
-            <speak chara="teslaNoFace"> … You're being wordy today, aren't you. Are you a visiting member from the House of Commons? If you haven't heard of it, then you haven't heard of it, da? </speak>
-            <speak chara="teslaNoFace"> … Okay, this old gal is gonna use this rare occasion to explain it to you, so you better wash your ears and listen like the good little dječak you are, okay? </speak>
-            <text>The red-haired drunkard continues to ramble incessantly, while she scornfully flings her coat over the back of the sofa. </text>
-            <speak chara="teslaNoFace"> … You know, this old gal's name is Nikola. </speak>
-            <speak chara="teslaNoFace">It just happens to be a girl's name as well, so I use it like that. </speak>
-            <speak chara="teslaNoFace">However, on the passport … </speak>
-            <speak chara="teslaNoFace">Ha ha ha ha ha, speaking of it now, I feel a bit embarrassed. </speak>
-            <speak chara="weltNoFace">Uh … Are you trying to say … </speak>
-            <speak chara="weltNoFace"> … that Nikola is a pseudonym? </speak>
-            <speak chara="teslaNoFace">Actually … no, it's not a pseudonym. </speak>
-            <speak chara="teslaNoFace">Frederica Nikola Tesla … That's my full name. </speak>
+            <text>«Совершенно трезвый взрослый» не упускает случая плюхнуться и растянуться на маленьком диване рядом с ним.</text>
+            <speak chara="teslaNoFace">…Ты все равно не слышал об этом, не так ли?</speak>
+            <speak chara="weltNoFace">Не слышал?</speak>
+            <speak chara="weltNoFace">Э-э… Не слышали о чем?</speak>
+            <speak chara="teslaNoFace">…Ты сегодня многословен, не так ли. Ты приглашенный член Палаты общин? Если ты не слышал об этом, то ты не слышал об этом, да?</speak>
+            <speak chara="teslaNoFace">…Ладно, эта старая девчонка воспользуется этим редким случаем, чтобы объяснить тебе, так что тебе лучше прочистить уши и слушать, как хороший маленький мальчик, ладно?</speak>
+            <text>Рыжеволосая пьяница продолжает без умолку болтать, а она презрительно швыряет пальто на спинку дивана.</text>
+            <speak chara="teslaNoFace">…Знаешь, эту старушкуу зовут Никола.</speak>
+            <speak chara="teslaNoFace">Просто так получилось, что это женское имя, поэтому я использую его именно так.</speak>
+            <speak chara="teslaNoFace">Однако в паспорте…</speak>
+            <speak chara="teslaNoFace">Ха-ха-ха-ха-ха, говоря об этом сейчас, я чувствую себя немного смущенной.</speak>
+            <speak chara="weltNoFace">Э-э… хочешь сказать…</speak>
+            <speak chara="weltNoFace">…Что Никола – это псевдоним?</speak>
+            <speak chara="teslaNoFace">На самом деле… нет, это не псевдоним.</speak>
+            <speak chara="teslaNoFace">Фредерика Никола Тесла… Это мое полное имя.</speak>
             <speak chara="teslaNoFace" remark="next">Really, it sounds like a name for a German sow. </speak>
             <remark post="U2FsdGVkX19IgpxWjGoRkLC6kAMe">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Tesla is a Serbian who was born in Croatia and has Austrian nationality. In Central and Eastern Europe, this is not uncommon for historical reasons. </p>
+                <p class="article-text-h">Примечание: </p>
+                <p class="article-text">Тесла — серб, родившаяся в Хорватии и имеющий австрийское гражданство. В Центральной и Восточной Европе это не редкость по историческим причинам.</p>
             </remark>
-            <speak chara="weltNoFace">Um … isn't that … a rather cute name? </speak>
-            <speak chara="teslaNoFace"> … Tsk. </speak>
-            <text>Dissatisfied, the drunkard shifts her posture, and crosses her legs together — </text>
-            <speak chara="teslaNoFace">I knew you men would speak like that. </speak>
-            <speak chara="teslaNoFace">A unisex name like Nikola, and you men immediately lose interest, aren't I right? </speak>
-            <speak chara="weltNoFace">Uh … i-it isn't really like that … </speak>
-            <speak chara="teslaNoFace">I've had enough of a life that treats me as a simple, ordinary “girl”. </speak>
-            <text>The drunkard's speech suddenly speeds up dramatically — </text>
-            <speak chara="teslaNoFace">The whole thing's so stupid, I think I might just die from the stupid. How can human personality be defined by such boring things as gender and race? </speak>
-            <speak chara="teslaNoFace" remark="next">Have their brains been soaked with formalin? </speak>
+            <speak chara="weltNoFace">Эм… Довольно милое имя… не правда ли?</speak>
+            <speak chara="teslaNoFace">…Тц.</speak>
+            <text>Недовольная пьяница меняет позу и скрещивает ноги вместе —</text>
+            <speak chara="teslaNoFace">Я знала, что вы, мужчины, будете так говорить.</speak>
+            <speak chara="teslaNoFace">Унисекс-имя типа Никола, и вы, мужчины, сразу теряете интерес, не так ли?</speak>
+            <speak chara="weltNoFace">Э-э… это не совсем так…</speak>
+            <speak chara="teslaNoFace">Мне надоела жизнь, которая относится ко мне как к простой, обычной «девочке». </speak>
+             <text>Речь пьяницы резко ускоряется —</text>
+            <speak chara="teslaNoFace">Все это так глупо, я думаю, что могу просто умереть от глупости. Как может человеческая личность определяться такими скучными вещами, как пол и раса?</speak>
+            <speak chara="teslaNoFace" remark="next">Их мозги формалином пропитаны?</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text"> Formalin is a mixed aqueous solution with a formaldehyde content of about 40% and a methanol content of about 15%. It is generally used as a preservative for specimen preparation.</p>
-                <p class="article-text"> In our world, on April 18, 1955, within 7 hours of the death of physicist Albert Einstein, his brain was preliminarily fixed with a 10% to 11.4% formalin solution, and then preserved for histological sectioning. </p>
+                <p class="article-text-h">Примечание: </p>
+                <p class="article-text">Формалин представляет собой смешанный водный раствор с содержанием формальдегида около 40% и содержанием метанола около 15%. Он обычно используется в качестве консерванта для подготовки образцов.</p>
+                <p class="article-text">В нашем мире 18 апреля 1955 года, в течение 7 часов после смерти физика Альберта Эйнштейна, его мозг был предварительно зафиксирован 10-11,4% раствором формалина, а затем сохранен для гистологического среза.</p>
             </remark>
-            <speak chara="teslaNoFace"> … But indeed, unfortunately, the vast majority of people in the world can only confine themselves in these little cocoons, planning their lives around senseless labels. </speak>
-            <speak chara="teslaNoFace">As soon as someone steps out of these black-and-white “rules”, they'll become inexplicably angry, and get all riled up, as if their lives were completely ruined. </speak>
-            <speak chara="teslaNoFace">These people probably forget that these various identities within us, are all just fabricated values, created by humans to organise society into an orderly state. </speak>
-            <speak chara="teslaNoFace">Everything that does not exist in the natural world is nothing more than personal assumption, nothing more than human fabrication.</speak>
-            <speak chara="teslaNoFace">Fa-bri-ca-tion! </speak>
-            <speak chara="teslaNoFace">Schicksal is fabricated, Britain is fabricated, driving on the left is fabricated, even the toilet being divided into ladies and gents — that too is fabricated! </speak>
-            <speak chara="weltNoFace">Urgh … </speak>
+            <speak chara="teslaNoFace">…Но ведь, к сожалению, подавляющее большинство людей в мире могут лишь замыкаться в этих маленьких коконах, планируя свою жизнь вокруг бессмысленных ярлыков.</speak>
+            <speak chara="teslaNoFace">Как только кто-то выходит за пределы этих черно-белых «правил», он необъяснимо злится и приходит в ярость, как будто его жизнь полностью разрушена.</speak>
+            <speak chara="teslaNoFace">Эти люди, вероятно, забывают, что все эти различные идентичности внутри нас — всего лишь сфабрикованные ценности, созданные людьми для организации общества в упорядоченное государство.</speak>
+            <speak chara="teslaNoFace">Все, чего нет в мире природы, есть не более чем личное предположение, не более чем человеческая выдумка.</speak>
+            <speak chara="teslaNoFace">вы—дум—ка! </speak>
+            <speak chara="teslaNoFace">Шикзаль сфабрикован, Британия сфабрикована, левостороннее движение сфабриковано, даже туалет, разделенный на женский и мужской, — это тоже сфабриковано!</speak>
+            <speak chara="weltNoFace">…</speak>
             <goto goto="100" change="0"/>
         </scene>
         <scene id="100" background="studyNight.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace" remark="next">Ah … Izvini, izvini, I'm speaking too much at once, it's almost like I'm stuffing a goose. </speak>
+            <speak chara="teslaNoFace" remark="next">Ах… Извини, извини, я слишком много говорю сразу, как будто гуся набиваю.</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Foie gras (“fat liver”) is a famous French dish, often called “geese liver” in Chinese (鹅肝), when in fact, duck liver can also used as the raw ingredient. </p>
-                <p class="article-text">Foie gras farms force ducks or geese to develop fatty livers by tube-feeding food directly into their stomachs. Gavage is carried out for 2 to 4 weeks, 2 to 3 times a day, when a specially-prepared slurry of feed is directly poured into the oesophagus using a tube. This will cause a large amount of excess nutrients to accumulate in its liver, resulting in an enlarged and delicate fatty liver. </p>
+                <p class="article-text-h">Примечание: </p>
+                <p class="article-text">Фуа-гра («жирная печень») — известное французское блюдо, которое по-китайски часто называют «гусиной печенью» (鹅肝), хотя на самом деле утиная печень также может использоваться в качестве сырого ингредиента.</p>
+                <p class="article-text">Фермы, производящие фуа-гра, заставляют уток или гусей развивать ожирение печени, кормя их через трубку прямо в желудок. Зондирование проводят в течение 2-4 недель 2-3 раза в день, когда специально приготовленную кашицу корма вливают непосредственно в пищевод через зонд. Это приведет к накоплению большого количества избыточных питательных веществ в его печени, что приведет к увеличению и нежности жировой печени.</p>
             </remark>
             <show chara="teslaFoolDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Guess I'm Nikola Tesla, with a doctorate in “post-alcohol verbosity”. </speak>
-            <text>The redhead half-rises from her seat, snatches the black tea in front of the young man, and without any warning, drinks it down in one gulp.  </text>
+            <speak chara="teslaNoFace">Полагаю, я Никола Тесла с докторской степенью по «посталкогольному многословию».</speak>
+            <text>Рыжая приподнимается со своего места, выхватывает черный чай на глазах у Вельта и без предупреждения выпивает его залпом.</text>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">All of you call me a doctor — but I haven't even graduated yet, have I? </speak>
+            <speak chara="teslaNoFace">Вы все называете меня доктором, но ведь я еще даже не выпустилась, а?</speak>
             <show chara="teslaNormalDrunkWinterClose" position="left" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … Huh? </speak>
+            <speak chara="weltNoFace">…А?</speak>
             <show chara="weltSurpriseWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Are you so surprised … </speak>
+            <speak chara="teslaNoFace">ты так удивлен</speak>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">It's not uncommon for people to defer or leave school for various reasons. </speak>
+            <speak chara="teslaNoFace">Люди нередко откладывают или бросают школу по разным причинам.</speak>
             <show chara="teslaNormalDrunkWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace">But … aren't you doing research here? </speak>
+            <speak chara="weltNoFace">Но… ты разве не проводишь здесь исследования?</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Ah, this is different. </speak>
-            <text>Tesla shrugs languidly. </text>
-            <speak chara="teslaNoFace">Professor Planck is purely theoretical with her work — with my current research, I can't graduate under her supervision. </speak>
+            <speak chara="teslaNoFace">Ах, Это другое.</speak>
+            <text>Тесла лениво пожимает плечами.</text>
+            <speak chara="teslaNoFace">Профессор Планк занимается чисто теоретической работой — с моими текущими исследованиями я не могу получить высшее образование под ее руководством.</speak>
             <show chara="teslaBiteDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Especially Einstein that bitch … recently she's only willing to let me run “virtual” tests on Ada! </speak>
-            <speak chara="teslaNoFace">Only because I'd blown up the bedroom once or twice before … Isn't that a bit excessive? </speak>
+            <speak chara="teslaNoFace">Особенно Эйнштейн, эта сука… в последнее время она разрешает мне проводить только «виртуальные» тесты на Аде!</speak>
+             <speak chara="teslaNoFace">Только потому, что я уже раз или два взорвала спальню… Не слишком ли это?</speak>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Oh. </speak>
-            <speak chara="teslaNoFace">Do you know who Ada is? </speak>
+            <speak chara="teslaNoFace">Ох.</speak>
+            <speak chara="teslaNoFace">Ты знаешь кто такая Ада?</speak>
             <show chara="teslaNormalDrunkWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … If we're talking about Ada, I'd just met her today. </speak>
+            <speak chara="weltNoFace">…Если речь идёт об Аде, то я только сегодня встретил её.</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Rawr — looks like you've already analysed the stuff in  the toy? </speak>
+            <speak chara="teslaNoFace">Ваа — похоже, вы уже проанализировали то, что было в игрушке?</speak>
             <show chara="teslaFoolDrunkWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace">No … Looks like it'll take at least four weeks to produce results. </speak>
+            <speak chara="weltNoFace">Нет… Похоже, для получения результатов потребуется не менее четырех недель.</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAstonishDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hic … </speak>
+            <speak chara="teslaNoFace">Ик…</speak>
             <show chara="teslaFoolDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Then tonight we shall pull an all-nighter and play till dawn! Ahahahahaha! </speak>
+            <speak chara="teslaNoFace">Тогда сегодня мы протянем всю ночь и будем играть до рассвета! Ахахахаха!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="left" opacity="0.7"/>
             <show chara="weltScaredWinterClose" position="right"/>
-            <speak chara="weltNoFace">A-all-nighter? </speak>
+            <speak chara="weltNoFace">Всю ночь?</speak>
             <show chara="weltScaredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaLveDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Ain't that so … Of course, silly! </speak>
+            <speak chara="teslaNoFace">Не правда ли… Конечно, глупый!</speak>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Four weeks! </speak>
+            <speak chara="teslaNoFace">Четыре недели!</speak>
             <show chara="teslaLveDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">A whole month! Don't you understand?! </speak>
+            <speak chara="teslaNoFace">Целый месяц! Разве ты не понимаешь?!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Ada is going to be busy for four weeks, so how am I … how am I going to refuse this big vacation? </speak>
-            <speak chara="teslaNoFace">HAHAHAHAHAHA! Holiday time! A life of luxury and debauchery! HERE I COME! </speak>
+            <speak chara="teslaNoFace">Ада будет занята четыре недели, так как же я… как я откажусь от этого большого отпуска?</speak>
+            <speak chara="teslaNoFace">HAHAHAHАХАХА! Праздничное время! Жизнь в роскоши и разврате! ВОТ И Я!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="left" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAstonishDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">What are you waiting for, boy, bring your gal some wine! </speak>
+            <speak chara="teslaNoFace">Чего ты ждешь, мальчик, принеси своей девочке вина!</speak>
             <show chara="teslaAstonishDrunkWinterClose" position="left" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="right"/>
-            <speak chara="weltNoFace">H-hey  … You … Y-you shouldn't be drinking any more, should you? </speak>
+            <speak chara="weltNoFace">Э-эй… Ты… Т-тебе не следует больше пить, не так ли?</speak>
             <show chara="weltScaredWinterClose" position="right"/>
-            <speak chara="weltNoFace">You're already in such a drunken state …  and still you want to drink more?! </speak>
+            <speak chara="weltNoFace">Ты уже в таком пьяном состоянии… и все еще хочешь пить еще?!</speak>
             <show chara="weltScaredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Hic. </speak>
+            <speak chara="teslaNoFace">Ик.</speak>
             <show chara="teslaFoolDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Saying such stupid things …  I'd say that you've been the one having too much to drink … HAHAHAHA! </speak>
+            <speak chara="teslaNoFace">Говоришь такие глупости… Я бы сказала, что это ты слишком много выпил… ХА-ХА-ХА-ХА!</speak>
             <show chara="teslaLveDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Wasn't that a super-snappy response? I can definitely go for another round! </speak>
+            <speak chara="teslaNoFace">Разве это не был супербыстрый ответ? Я определенно могу пойти на еще один раунд!</speak>
             <show chara="teslaNormalDrunkWinterClose" position="left"/>
-            <speak chara="teslaNoFace">Since you refuse to help … </speak>
+            <speak chara="teslaNoFace">Поскольку ты отказываешься помочь…</speak>
             <hide position="left"/>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace"> … then how about I go help myself? </speak>
+            <speak chara="teslaNoFace">…тогда как насчет, мне помочь себе?</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="corridorMessy.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
-            <text>As she speaks, she sways and wobbles towards upstairs. </text>
-            <text>Her goal is obvious — the plump, gaudy refrigerator at the end of the corridor on the top floor. </text>
+            <text>Пока она говорит, она качается и качается вверх по лестнице.</text>
+            <text>Ее цель очевидна — пухлый холодильник в конце коридора на верхнем этаже.</text>
             <show chara="teslaFoolDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="right"/>
-            <speak chara="weltNoFace">Ah … No, no! </speak>
-            <text> Seeing that he cannot block Tesla's steps, Welt crosses his heart and rushes forward to hold her tightly. </text>
+            <speak chara="weltNoFace">Ах… Нет, нет! </speak>
+            <text>Видя, что он не может остановить Теслу, Вельт крестит свое сердце и бросается вперед, чтобы крепко обнять её.</text>
             <show chara="weltShameWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBiteDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace"> … Hey! What are you doing! </speak>
-            <speak chara="teslaNoFace"> Let go of my hand! </speak>
+            <speak chara="teslaNoFace">…Эй! Что ты делаешь!</speak>
+            <speak chara="teslaNoFace">Отпусти!</speak>
             <show chara="teslaBiteDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltNormalWinterClose" position="right"/>
-            <speak chara="weltNoFace">If you're going to keep drinking, I'm not going to let go. </speak>
-            <text> The young man takes a step forward and grabs her other hand. </text>
+            <speak chara="weltNoFace">Если ты собираешься продолжать пить, я тебя не отпущу. </speak>
+            <text>Вельт делает шаг вперед и хватает ее за другую руку.</text>
             <show chara="weltNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAstonishDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Ha? Finally, after much difficulty, I've managed to secure a holiday, how can I not be permitted to enjoy my freedom? </speak>
+            <speak chara="teslaNoFace">Ха? Наконец, с большим трудом, мне удалось обеспечить отпуск, как же мне не позволить насладиться свободой?</speak>
             <show chara="teslaLveDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Are you really going to stop me from getting another drink, you grinch?! </speak>
-            <text>The drunk is obviously dissatisfied with Welt's rough interference — she flicks her hands up and down like a skipping rope, trying to break free from Welt. </text> <!-- The original Chinese used specific imagery: 拉面大师 = a chef expert in making Chinese "pulled noodles", more commonly known in Japanese as "ramen" (ラーメン); see \href{https://www.youtube.com/watch?v=6Ge1_eJq7RY}{this link} at 0:20 for the imagery. Changed to a skipping rope motion to avoid confusion. -->
+            <speak chara="teslaNoFace">Ты действительно собираешься помешать мне еще раз выпить, ухмыляешься?! </speak>
+             <text>Пьяная, явно недовольна грубым вмешательством Вельта — она машет руками вверх-вниз, как Рамен Мастер, пытаясь вырваться из Вельта.</text> <!-- The original Chinese used specific imagery: 拉面大师 = a chef expert in making Chinese "pulled noodles", more commonly known in Japanese as "ramen" (ラーメン); see \href{https://www.youtube.com/watch?v=6Ge1_eJq7RY}{this link} at 0:20 for the imagery. Changed to a skipping rope motion to avoid confusion. -->
             <show chara="teslaBiteDrunkWinterClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">Hey! </speak>
+            <speak chara="teslaNoFace">Эй!</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">Pervert! Sexual deviant! </speak>
+            <speak chara="teslaNoFace">Извращенец! Сексуальный девиант!</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">Let go now! </speak>
+            <speak chara="teslaNoFace">Отпусти сейчас же!</speak>
             <show chara="teslaBiteDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBiteDrunkWinterClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">You must let go! Let go! Let go! </speak>
+            <speak chara="teslaNoFace">Ты должен отпустить! Отпустить! Отпустить!</speak>
             <show chara="teslaBiteDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … Are you able to behave responsibly and look after your own body, in this state? </speak>
-            <text>The young man does not know whether he should laugh or cry — the red-haired girl, whose hands he is holding, is now lying on the ground, breaking out into a tantrum. She is flinging about and causing a scene, just like a toddler who is refused her toy. </text>
+            <speak chara="weltNoFace">…Способен ли ты вести себя ответственно и следить за своим телом в таком состоянии?</speak>
+            <text>Юноша не знает, смеяться ему или плакать — рыжеволосая девушка, которую он держит за руки, сейчас лежит на земле, закатывая истерику. Она мечется и устраивает сцену, совсем как малыш, которому отказали в игрушке.</text>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBiteDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace"> … You won't let go, won't you. </speak>
+            <speak chara="teslaNoFace">…Ты не отпустишь, не так ли.</speak>
             <show chara="teslaBiteDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="right"/>
-            <speak chara="weltNoFace">Before you give up your quest for more alcohol …  No, I-I cannot let go!</speak>
+            <speak chara="weltNoFace">Прежде чем ты откажешься от своих стремлений к алкоголю… Нет, я-я не могу тебя отпустить!</speak>
             <show chara="weltShameWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace"> … </speak>
+            <speak chara="teslaNoFace">…</speak>
             <show chara="teslaNormalDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace">You're drunk. Go back to your room and rest. </speak>
+            <speak chara="weltNoFace">Ты пьяна. Вернись в свою комнату и отдохни.</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">No! I'm not drunk! I am clearly sober! </speak>
+            <speak chara="teslaNoFace">Нет! Я Не пьяна! Я точно трезва!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … Only a drunk would say that! </speak>
+            <speak chara="weltNoFace">…Так сказал бы только пьяный!</speak>
             <show chara="weltShameWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Not drunk, not drunk means I'm not drunk! </speak>
-            <text>Tesla squats angrily on the ground — then all of a sudden, she violently leaps up as though an idea has hopped into her mind. </text>
+            <speak chara="teslaNoFace">Не пьяна, Не пьяна - значит Не пьяна!</speak>
+            <text>Тесла сердито садится на корточки, а затем внезапно резко вскакивает, как будто ей в голову пришла идея.</text>
             <show chara="teslaAstonishDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">I know. I won't drink anymore. </speak>
+            <speak chara="teslaNoFace">Я знаю. Я больше не буду пить.</speak>
             <show chara="teslaAstonishDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … Don't lie to me. </speak>
+            <speak chara="weltNoFace">…Не ври!</speak>
             <show chara="weltSurpriseWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Not lying! Not lying! </speak>
+            <speak chara="teslaNoFace">Не вру! Не вру!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <text>The bundle of red hair, exuding the scent of wine, flashes a impish grin. </text>
-            <speak chara="teslaNoFace">But, for a price … </speak>
-            <speak chara="teslaNoFace"> … you'll have to play with me! </speak>
+            <text>Пучок рыжих волос, источающих аромат вина, сверкает озорной ухмылкой.</text>
+            <speak chara="teslaNoFace">Но за это…</speak>
+            <speak chara="teslaNoFace">…Тебе придется поиграть со мной!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Play with me, then I won't drink! </speak>
+            <speak chara="teslaNoFace">Поиграй со мной, тогда я не буду пить!</speak>
             <show chara="teslaFoolDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaAstonishDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Really! Really! I'm not lying to you! </speak>
+            <speak chara="teslaNoFace">Правда! Правда! Я Не вру! тебе!</speak>
             <show chara="teslaAstonishDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltNormalWinterClose" position="right"/>
-            <speak chara="weltNoFace"> … Okay. </speak>
-            <text>In the face of Death, the young man nods — </text>
+            <speak chara="weltNoFace">…Okay.</speak>
+            <text>Перед лицом Смерти юноша кивает —</text>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace">So, what are you planning to play? It's late at night, you know? </speak>
+            <speak chara="weltNoFace">Итак, во что ты планируешь играть? уже поздно знаешь ли…</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Ha ha ha ha, what is fun to play late at night? </speak>
+            <speak chara="teslaNoFace">Ха-ха-ха-ха, во что весело играть поздно ночью?</speak>
             <show chara="teslaFoolDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose" position="right"/>
-            <speak chara="weltNoFace">Huh? </speak>
+            <speak chara="weltNoFace">А?</speak>
             <show chara="weltScaredWinterClose" position="right"/>
-            <speak chara="weltNoFace">D-Don't say such dangerous things! </speak>
+            <speak chara="weltNoFace">Н-Не говори таких опасных вещей!</speak>
             <show chara="weltTiredWinterClose" position="right"/>
-            <speak chara="weltNoFace"> H-hearing you say such things is practically the same as being guilty of doing it?! </speak>
+            <speak chara="weltNoFace">С-слышать, что ты говоришь такие вещи, практически то же самое, что быть виновным в этом?!</speak>
             <show chara="weltTiredWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Ah. So shy. So timid. </speak>
+            <speak chara="teslaNoFace">Ах. Такой скромный. Такой робкий.</speak>
             <show chara="teslaFoolDrunkWinterClose" position="center" opacity="0.7"/>
             <show chara="weltShameWinterClose" position="right"/>
-            <speak chara="weltNoFace">Shy, timid, stop speaking nonsense! </speak>
+            <speak chara="weltNoFace">Скромный, робкий, перестань говорить глупости!</speak>
             <shake position="right" time="250"></shake>
-            <speak chara="weltNoFace">How am I shy! </speak>
+            <speak chara="weltNoFace">Как это я застенчив!</speak>
             <show chara="weltShameWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaFoolDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">H-h-h-hey, I'm just going to say it then! </speak>
+            <speak chara="teslaNoFace">Х-х-х-хей, тогда я просто скажу это!</speak>
             <show chara="teslaLveDrunkWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Welt! You stinky boy! If you have the courage, come and — </speak>
+            <speak chara="teslaNoFace">Вельт! Ты вонючий мальчик! Если у тебя хватит смелости, иди и…</speak>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="">
             <bgm src="themeTesla.mp3" status="stop"></bgm>
-            <text>Bam. </text>
+            <text>Бам.</text>
             <goto goto="140" change="0"/>
         </scene>
         <scene id="140" background="corridorMessy.jpg">
             <bgm src="themeTesla.mp3" status="start"></bgm>
-            <text>From the shadows behind them, a dictionary comes flying out and hits the noisy woman squarely on the head. </text>
+            <text>Из тени позади них вылетает словарь и попадает шумной женщине прямо в голову.</text>
             <show chara="0einSeriousAhVestClose-up" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="einNoFace">It's the middle of the night and you're loud as hell! </speak>
+            <speak chara="einNoFace">Сейчас полночь, а ты чертовски шумная!</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="einNoFace"> Let me get some sleep! Now! Right now! </speak>
+            <speak chara="einNoFace">Дай мне поспать! Сейчас! Сейчас же!</speak>
             <show chara="0einNormalVestClose-up" position="center"/>
-            <speak chara="einNoFace"> … </speak>
-            <speak chara="einNoFace"> …  … </speak>
+            <speak chara="einNoFace">…</speak>
+            <speak chara="einNoFace">…  …</speak>
             <show chara="0einFoolVestClose-up" position="center"/>
-            <speak chara="einNoFace"> …  …  … </speak>
+            <speak chara="einNoFace">…  …  …</speak>
             <show chara="einBagaVestClose-up" position="center"/>
-            <speak chara="einNoFace">Say, Welt … why is she suddenly so still? </speak>
+            <speak chara="einNoFace">Скажи, Вельт… почему она вдруг так затихла?</speak>
             <end post="U2FsdGVkX19e4WHxF4Pk4HxRATs2"/>
         </scene>
     </story>
-</data>	
-
-
-
+</data>

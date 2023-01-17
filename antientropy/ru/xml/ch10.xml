@@ -11,239 +11,239 @@
         </scene>
         <scene id="10" background="plankVienaNormal.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="start"></bgm>
-            <text remark="next">Vienna, 13th district, Schicksal Headquarters</text>
+            <text remark="next">Вена, 13-й округ, штаб-квартира Шиксаль</text>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Vienna's thirteenth district is called “Hietzing” and is located in the westernmost part of the city. The Schönbrunn Palace of the Habsburgs is located here. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Тринадцатый район Вены - «Хитцинг», расположен в самой западной части города. Здесь находится дворец Шенбрунн Габсбургов</p>
             </remark>
-            <speak chara="abcNoFace">Professor Planck, please refrain from doing such “unconventional” things ever again. </speak>
-            <text> A council member anonymously berates the provocative scholar via the intercom. </text>
+            <speak chara="abcNoFace">Профессор Планк, пожалуйста, воздержитесь от подобных выходок.</speak>
+            <text>Советник отчитывает ученого-провокатора.</text>
             <goto goto="15" change="0"/>
         </scene>
         <scene id="15" background="plankVienaSly.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">This is a part of my teaching. I do not know what you are making a fuss about. </speak>
+            <speak chara="planckNoFace">Это лишь часть моего учения. Я не понимаю, из за чего вы поднимаете весь этот шум.</speak>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="plankVienaSmile.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="abcNoFace">Teaching is no excuse for violating the organisation's core principles. </speak>
+            <speak chara="abcNoFace">Преподавание не оправдывает нарушение основных принципов организации.</speak>
             <goto goto="25" change="0"/>
         </scene>
         <scene id="25" background="plankVienaSerious.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace"> … But we are entitled to a certain degree of autonomy, aren't we, whether it is the North American branch, or Lab 42?</speak>
-            <speak chara="abcNoFace">Lab 42 is a member of the European branch. They are still required to follow procedure. </speak>
-            <text>Another voice in the council seems to speak in a slightly calmer tone. </text>
+            <speak chara="planckNoFace">…Однако мы имеем право на определенную автономию, не так ли? Это касается как североамериканского отделения, так и Лабораторию 42.</speak>
+            <speak chara="abcNoFace">Лаборатория 42 является членом европейского отделения. Они по-прежнему обязаны следовать регламенту.</speak>
+            <text>Другой советник, кажется, говорит более спокойно.</text>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="plankVienaSly.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">So, from which side do you wish to withdraw the right to self-autonomy? </speak>
+            <speak chara="planckNoFace">Так, какую сторону вы хотите лишить прав на автономию?</speak>
             <goto goto="35" change="0"/>
         </scene>
         <scene id="35" background="plankVienaSmile.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="abcNoFace">No … please don't take it in such an extreme way. We are only investigating procedural issues, and there is no need to turn this into a larger problem than it really is. </speak> <!-- 上纲上线 = "to analyse a problem through the discourse of class struggle and dialectics". This phrase has its origins in the political theory of Communist China, but is used here in a belittling way to describe something akin to "brewing a storm in a teacup" -->
+            <speak chara="abcNoFace">Что… Нет. Стоило сразу сказать, но мы вызвали вас по другой причине. Вдобавок мы не уполномочены для решения таких вопросов.</speak>
             <goto goto="40" change="0"/>
         </scene>
         <scene id="40" background="plankVienaSly.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">Then I am just here to remind you — </speak>
+            <speak chara="planckNoFace">Всё же, я вам напомню —</speak>
             <goto goto="45" change="0"/>
         </scene>
         <scene id="45" background="plankVienaNormal.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">That the right to autonomy and self-determination is the source of vitality for research institutions. If you insist that everything has to go through procedures for approval, then in terms of academic and scientific vigour, it will be a disaster for this organisation. </speak>
-            <speak chara="abcNoFace">Ahem … speaking of which, how is Edison's personal situation? </speak>
-            <text>Seeing that the two sides held firm to their own positions on the issue, a third speaker shifts the topic. </text>
+            <speak chara="planckNoFace">Право на автотномию и самоопределение является основополагающей для исследовательских институтов. Если вы будете настаивать на том, чтобы все следовали регламенту, то в плане академической и научной активности это станет катастрофой для организации.</speak>
+            <speak chara="abcNoFace">Кхм… К слову, как там обстоят дела у Эдисона?</speak>
+            <text>Видя, что обе стороны твёрдо придерживаются своих позиций, третий советник меняет тему.</text>
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="plankVienaSly.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">Oh, Princess Nancy? She's quite interesting. </speak>
+            <speak chara="planckNoFace">А, Принцесса Нэнси? С ней довольно интересно…</speak>
             <goto goto="55" change="0"/>
         </scene>
         <scene id="55" background="plankVienaSmile.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">For example, I have the exact evidence on hand — that she is helping to train an army outside of this organisation. </speak>
-            <speak chara="abcNoFace">What? Is she planning to rebel? </speak>
+            <speak chara="planckNoFace">Например, у меня на руках есть доказательства того, что она содействует в обучении армии вне организации.</speak>
+            <speak chara="abcNoFace">Что? Она собирается бунтовать?</speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="plankVienaSly.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">No … this is a request from the US government, and both parties have signed an agreement for development of non-lethal weaponry, a matter that is difficult for us to refuse. </speak>
+            <speak chara="planckNoFace">Нет… Это был запрос от правительства США. Обе стороны подписали соглашение о разработке нелетального оружия. Мы не могли от этого отказаться.</speak>
             <goto goto="65" change="0"/>
         </scene>
         <scene id="65" background="plankVienaSmile.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="abcNoFace"> …  What the hell is this, some sort of militia for civil defence and law enforcement? </speak>
-            <speak chara="abcNoFace">Don't make such vile jokes in poor taste, Professor Planck. </speak>
+            <speak chara="abcNoFace">…Ч-что это ещё за хрень? Милиция гражданской обороны?</speak>
+            <speak chara="abcNoFace">Не отпускайте такие гнусные шутки из-за дурных предпочтений, профессор Планк.</speak>
             <goto goto="70" change="0"/>
         </scene>
         <scene id="70" background="plankVienaSly.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">Ara ara … I'm just thinking that you're all being too serious right now, are you not? </speak>
+            <speak chara="planckNoFace">Божечки… Как по мне, так вы тут все слишком серьёзны!</speak>
             <goto goto="75" change="0"/>
         </scene>
         <scene id="75" background="plankVienaSmile.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="abcNoFace"> … Of course, the council must be serious. Please do not introduce such unrefined “foreign” habits to our discussion. </speak>
+            <speak chara="abcNoFace">Естественно! В совете недопустимо наплевательское отношение к делу! Пожалуйста, не привносите нам дурные привычки.</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="plankVienaSerious.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="planckNoFace">Endšuldigung, I am a true “Bavarian”, born and bred. I simply cannot help it. </speak>
+            <speak chara="planckNoFace">Ну простите! Я коренная Баварка! родилась там, и выросла. Я ничего не могу с собой поделать!</speak>
             <goto goto="85" change="0"/>
         </scene>
         <scene id="85" background="plankVienaNormal.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
-            <speak chara="abcNoFace">I say … everyone, please do not go off-topic. </speak>
-            <text>A more dignified-sounding “elder” speaks. </text>
-            <speak chara="abcNoFace">The trivialities of the North American branch shall be set aside for now … today we have more important matters to discuss. </speak>
+            <speak chara="abcNoFace">Я попрошу… Пожалуйста, все, не отходите от темы.</speak>
+            <text>Старейшина прервал поднявшийся гул, несмотря на тихий, немного хриплый голос.</text>
+            <speak chara="abcNoFace">Мелочи касающиеся североамериканского отделения пока отложим в сторону… Сейчас у нас есть более важные дела.</speak>
             <goto goto="100" change="#ffffff"/>
         </scene>
         <scene id="100" background="edisonTower.jpg">
             <bgm src="10_25_ada.mp3" status="start"></bgm>
-            <text>New York, Manhattan, the Consolidated Edison building.</text>
+            <text>Нью-Йорк, Манхэттен, здание "Consolidated Edison".</text>
             <show chara="schroNormalAhFar" position="left"/>
             <show chara="edisonSlyWinterFar" position="center" opacity="0.7"/>
             <show chara="nokiaSmileEmWinterFar" position="right" opacity="0.7"/>
-            <speak chara="schroNoFace">So …  about those “important matters” you wish to speak about, what is it? </speak>
+            <speak chara="schroNoFace">Итак… О тех «важных делах», о которых вы хотели поговорить, что это?</speak>
             <show chara="schroNormalEmFar" position="left"/>
-            <text>Schrödinger, who nearly overturns an ink bottle, glares grumpily at Nancy Edison and Elias Nokianvirtanen, who have been stubbornly interrupting her own research. </text>
+            <text>Шрёдингер, чуть не опрокинувшая чернильницу, сердито смотрит на Нэнси Эдисона и Элиаса Нокианвиртанена, которые то и дело мешают её исследованиям.</text>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="edisonTower.jpg">
             <bgm src="10_25_ada.mp3" status="continue"></bgm>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Let me explain. </speak>
+            <speak chara="nokiaNoFace">Итак… Позволь мне объяснить.</speak>
             <show chara="nokiaSmileEmWinterClose" position="right"/>
-            <text>The man pretends to nudge his gold-rimmed glasses — </text>
+            <text>Мужчина делает вид, что поправляет свои очки.</text>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Previously, Headquarters lent Lab 42 an unpublished section of the Dead Sea Scrolls … Do you remember this? </speak>
+            <speak chara="nokiaNoFace">Ранее Штаб предоставил Лаборатории 42 неопубликованный раздел свитков "Мертвого моря". Помнишь?</speak>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … Ah. </speak>
-            <speak chara="schroNoFace"> … So? </speak>
-            <speak chara="schroNoFace">Did you manage to find anything from this object, one with a history of “merely” three to four thousand years? </speak>
+            <speak chara="schroNoFace">…Ах.</speak>
+            <speak chara="schroNoFace">…Так?</speak>
+            <speak chara="schroNoFace">Удалось ли вам найти что-нибудь из этого барахла с историей всего-то в три-четыре тысячи лет?</speak>
             <show chara="schroNormalEmClose" position="left"/>
-            <text>Evidently, the researcher with the Corkscrew Ponytail is not particularly enthusiastic about these fantastical antiques from a less civilised age. </text>
+            <text>Видно, что Шрёдингер не пытает особого энтузиазма по поводу этих "фантастических антиквариатов" из менее цивилизованной эпохи.</text>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace"> … First, let me confirm with you one thing. </speak>
-            <speak chara="nokiaNoFace">Is there an important constant in physics, one whose first digits begin with 6626070? I am saying, without the decimal separator. </speak>
+            <speak chara="nokiaNoFace">…Сперва, позволь уточнить одну вещь.</speak>
+            <speak chara="nokiaNoFace">Есть ли в физике важная константа, первые цифры которой начинаются с 6626070? Я про те, что без десятичного делителя.</speak>
             <show chara="nokiaSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … 6626070? </speak>
-            <speak chara="schroNoFace">Isn't that Planck's constant? Why are you asking when you already know the answer? </speak>
+            <speak chara="schroNoFace">…6626070?</speak>
+            <speak chara="schroNoFace">Разве это не постоянная Планка? Зачем ты спрашиваешь, если сам знаешь ответ?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Is there also another constant, whose first few digits are 1045571? </speak>
+            <speak chara="nokiaNoFace">Существует ли еще одна константа, первые несколько цифр которой равны 1045571?</speak>
             <show chara="nokiaSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … That is the reduced Planck constant that I recommend everyone should use. </speak>
-            <speak chara="schroNoFace"> But what exactly is it that you want to say? </speak>
+            <speak chara="schroNoFace">…Это приведённая постоянная Планка, которую я обычно советую всем использовать.</speak>
+            <speak chara="schroNoFace">Но что именно ты хочешь этим сказать?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace"> … They all appear in a manuscript with a history of “merely three or four thousand years”!</speak>
+            <speak chara="nokiaNoFace">Все они фигурируют в манускрипте, история которого насчитывает «всего три-четыре тысячи лет»!</speak>
             <show chara="nokiaSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … What? </speak>
+            <speak chara="schroNoFace">…Что?</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="edisonTower.jpg">
             <bgm src="10_25_ada.mp3" status="continue"></bgm>
             <show chara="schroNormalEmClose-up" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose-up" position="right"/>
-            <speak chara="nokiaNoFace">Not only that</speak>
-            <speak chara="nokiaNoFace">You see, although their notation is different from ours … </speak>
-            <speak chara="nokiaNoFace">But this strange-looking coat-of-arms, when you take it apart like this and look — don't you think it looks a lot like some formula from calculus? </speak>
+            <speak chara="nokiaNoFace">Это ещё не всё!</speak>
+            <speak chara="nokiaNoFace">Видишь ли, хоть их обозначения и отличаются от наших…</speak>
+            <speak chara="nokiaNoFace">Но этот странно выглядящий герб, если его вот так разобрать и посмотреть — не кажется ли тебе, что он очень похож на кое-какую формулу из исчисления?</speak>
             <show chara="nokiaSmileEmWinterClose-up" position="right"/>
-            <text>The man gets more and more excited as he speaks, and he fishes out his own notebook and thrusts it into the face of the Corkscrew Ponytail. </text>
+            <text>Говоря это, мужчину всё больше и больше захватывает волна мыслей. Он резким движением достаёт свой блокнот и сует его в лицо Шрёдингеру.</text>
             <show chara="nokiaSmileEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose-up" position="left"/>
-            <speak chara="schroNoFace">Uh … I can't read it if it's this close … </speak>
+            <speak chara="schroNoFace">Эээ… Я не могу ничего прочитать, ты сунул слишком близко!</speak>
             <show chara="schroNormalEmClose-up" position="left"/>
-            <text>The doctor in physics awkwardly takes a step back — </text>
+            <text>Учённый физик неловко делает шаг назад —</text>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="edisonTower.jpg">
             <bgm src="10_25_ada.mp3" status="continue"></bgm>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace">Hmm … </speak>
-            <speak chara="schroNoFace">Indeed you have a point … </speak>
+            <speak chara="schroNoFace">Хмм…</speak>
+            <speak chara="schroNoFace">В самом деле, ты прав…</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Right, right! Do you think this is really pure coincidence? </speak>
+            <speak chara="nokiaNoFace">Верно-верно! Ты же не думаешь, что это чистое совпадение?</speak>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … So? </speak>
-            <speak chara="schroNoFace"> … Should you instead be asking: from which remnant of the Previous Era did a group of Jews copy this kind of thing? </speak>
+            <speak chara="schroNoFace">…Так?</speak>
+            <speak chara="schroNoFace">…Хочешь выяснить, из каких остатков Предыдущей Эры группа евреев скопировала эти записи?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Correct! That's it! </speak>
+            <speak chara="nokiaNoFace">Верно! Так и есть!</speak>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … Huh? </speak>
+            <speak chara="schroNoFace">…Хм?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Let's start with my conclusion first — I think this scroll is extremely valuable. It inadvertently records a method of energy conversion that we have never imagined before. </speak>
+            <speak chara="nokiaNoFace">Давай начнем с моего вывода — я думаю, что этот свиток чрезвычайно ценен. Он непреднамеренно записывает метод преобразования энергии, который мы никогда раньше не могли себе представить.</speak>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">You should first take a look at this passage I decoded. </speak>
+            <speak chara="nokiaNoFace">Тебе стоит сперва взглянуть на отрывок, который я расшифровал.</speak>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … A thesis? </speak>
+            <speak chara="schroNoFace">…Тезис?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Correct. A thesis. </speak>
+            <speak chara="nokiaNoFace">Верно. Тезис.</speak>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace"> Although the original ancient manuscript has a completely nonsensical and sensationalised Aramaic curse as a title — </speak>
-            <speak chara="nokiaNoFace">If you treat it as an output, as the result of another passage of text that has been passed through a simple substitution cipher … </speak>
+            <speak chara="nokiaNoFace">Хотя оригинальный древний манускрипт назван в честь арамейского проклятия…</speak>
+            <speak chara="nokiaNoFace">Однако если рассматривать его, как результат другого фрагмента декодированного текста…</speak>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> — Wait, wait, wait, wait. “A simple substitution cipher”? </speak>
+            <speak chara="schroNoFace">— Подожди, подожди, подожди. "Другого декодированного текста"?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Ah … Sorry, I jumped ahead too quickly. </speak>
-            <speak chara="nokiaNoFace" remark="next">Change A to D, B to E, C to F … This is the most primitive encryption method — simple substitution, also known as a “Caesar cipher”. Do you understand? </speak>
+            <speak chara="nokiaNoFace">А… Прости, Перескочил слишком быстро.</speak>
+            <speak chara="nokiaNoFace" remark="next">Смотри, если заменить А на Г, Б на Д, В на Е, и так далее… Это же самый примитивный метод шифрования - простая подстановка, так же известная как "Шифр Цезаря". Понимаешь к чему я?</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">“If he (Caesar) had anything confidential to say, he wrote it in cipher, that is, by so changing the order of the letters of the alphabet, that not a word could be made out. If anyone wishes to decipher these, and get at their meaning, he must substitute the fourth letter of the alphabet, namely D, for A, and so with the others.”</p>
-                <p class="article-text"> — Suetonius (69AD-?), “The Twelve Roman Emperors” (Loeb Classical Library translation) </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">«Если Цезарь хотел сказать что-нибудь конфиденциальное, то записывал это шифром, то есть таким изменением порядка букв в алфавите, что нельзя было разобрать ни слова. Если кто-нибудь захочет расшифровать их и понять их значение, он должен заменить А четвертой буквой алфавита, а именно D, и так же с другими».</p>
+                <p class="article-text">- Светоний (69 г. н.э. -?), «Двенадцать римских императоров» (перевод классической библиотеки Леба)</p>
             </remark>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace">Mm-hmm. </speak>
-            <speak chara="schroNoFace">So? </speak>
+            <speak chara="schroNoFace">М-м-м.</speak>
+            <speak chara="schroNoFace">Так?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Imagine that we are the Jews who strayed into the ruins of the Previous Era. </speak>
-            <speak chara="nokiaNoFace">We see these texts which have been left behind by the previous Era of humans. And we think it's some mysterious magical text. </speak>
-            <speak chara="nokiaNoFace">But unfortunately, our knowledge is limited, and we cannot understand these holy books. </speak>
-            <speak chara="nokiaNoFace">In this situation, if we want to force-read … </speak>
+            <speak chara="nokiaNoFace">Представь, что мы — евреи, заблудившиеся в руинах Предыдущей Эпохи.</speak>
+            <speak chara="nokiaNoFace">Мы видим тексты, оставленные предыдущей Эрой человечества. И думаем, что это какой-то таинственный, "магический" текст.</speak>
+            <speak chara="nokiaNoFace">К сожалению, наши знания ограничены, и мы не можем понять эти священные книги.</speak>
+            <speak chara="nokiaNoFace">В таком случае, если мы захотим их прочитать…</speak>
             <show chara="nokiaSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace">Then we can only make up a name for each letter, and read it letter by letter? </speak>
+            <speak chara="schroNoFace">Нам придётся придумывать, как читать каждый символ, и прочесть их по порядку?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">That's right. </speak>
+            <speak chara="nokiaNoFace">Верно.</speak>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Because of this one-to-one correspondence, the Aramaic text on the scrolls just so happens to form a simple substitution of the original text. </speak>
-            <speak chara="nokiaNoFace"> … Once we understand it at this level, the rest of the deciphering work is extremely simple. Just trial and error. </speak>
+            <speak chara="nokiaNoFace">Из-за этого взаимно однозначного соответствия арамейский текст на свитках оказался простой заменой исходного текста.</speak>
+            <speak chara="nokiaNoFace">…Как только мы осознаем это на данном этапе, остальная работа по расшифровке станет чрезвычайно простой.</speak>
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … </speak>
-            <speak chara="schroNoFace"> … Since the result of the description is meaningful, from the perspective of probability, I gather that you managed to ascertain the original text. </speak>
-            <speak chara="schroNoFace"> … So, your so-called “method of energy conversion that we have never imagined before”, what is it exactly? </speak>
+            <speak chara="schroNoFace">…</speak>
+            <speak chara="schroNoFace">…Поскольку результат описания имеет смысл, то с точки зрения вероятности, я полагаю, что тебе удалось установить исходный текст.</speak>
+            <speak chara="schroNoFace">…Итак, этот твой «метод преобразования энергии, который мы никогда раньше не представляли», что он из себя предсталвяет?</speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">It's a way to allow Honkai energy to return to ordinary energy in a controlled manner. </speak>
+            <speak chara="nokiaNoFace">Это способ позволить энергии Хонкай вернуться к обычной энергии. При том, контролируемым образом.</speak>
             <show chara="nokiaSeriousEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
-            <speak chara="schroNoFace"> … What? </speak>
+            <speak chara="schroNoFace">…Что?</speak>
             <goto goto="160" change="0"/>
         </scene>
         <scene id="160" background="edisonTower.jpg">
@@ -251,121 +251,120 @@
             <show chara="schroNormalEmFar" position="left" opacity="0.7"/>
             <show chara="edisonSmileWinterFar" position="center"/>
             <show chara="nokiaSeriousEmWinterFar" position="right" opacity="0.7"/>
-            <speak chara="edisonNoFace">That comes as no surprise. </speak>
-            <speak chara="edisonNoFace" remark="next">The Second Law of Thermodynamics places a constraint on ordinary internal energy. Can it also include Honkai energy on the imaginary side? </speak>
+            <speak chara="edisonNoFace">Ну, это не удивительно.</speak>
+            <speak chara="edisonNoFace" remark="next">Второй закон термодинамики накладывает ограничение на обычную внутреннюю энергию. Однако может ли он также включать энергию Хонкай на воображаемой стороне?</speak>
             <remark post="U2FsdGVkX19FYPxwW3ZnF4aisvMm">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">There are many equivalent expressions of the Second Law of Thermodynamics. Common examples are: </p>
-                <p class="article-text">“Heat can never pass from a colder to a warmer body without some other change, connected therewith, occurring at the same time.” (Clausius); </p>
-                <p class="article-text">“It is impossible, by means of inanimate material agency, to derive mechanical effect from any portion of matter by cooling it below the temperature of the coldest of the surrounding objects.” (Kelvin); </p>
-                <p class="article-text">“It is impossible to construct an engine which will work in a complete cycle, and produce no effect except the raising of a weight and cooling of a heat reservoir.” (Planck);</p>
-                <p class="article-text"> “When an isolated system performs a process after the removal of a series of internal constraints, it will reach a unique state of equilibrium: this state of equilibrium is independent of the order in which the constraints are removed.” (Hatsopoulos-Keenan);</p>
-                <p class="article-text">and many more. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Есть много эквивалентных выражений второго закона термодинамики. Общие примеры:</p>
+                <p class="article-text">«Теплота не может переходить самопроизвольно от более холодного тела к более тёплому.» (Постулат Клаузиуса); </p>
+                <p class="article-text">«Теплота не может самопроизвольно переходить от более холодного тела к более нагретому телу.» (Kelvin); </p>
+                <p class="article-text">«Невозможно построить периодически действующую машину, вся деятельность которой сводится к поднятию тяжести и к охлаждению теплового резервуара.» (Planck);</p>
+                <p class="article-text">И многие другие.</p>
             </remark>
             <show chara="schroNormalAhFar" position="left"/>
             <show chara="edisonSmileWinterFar" position="center" opacity="0.7"/>
-            <speak chara="schroNoFace">That being said … </speak>
-            <speak chara="schroNoFace">Circumstances mean that there will be a very high Honkai energy density  … Because of this, our degree of control will approach zero … </speak>
+            <speak chara="schroNoFace">В таком случае…</speak>
+            <speak chara="schroNoFace">Всё будет идти к тому, что  плотность Хонкай-энергии будет очень высока… Из-за этого наша степень контроля будет приближаться к нулю…</speak>
             <show chara="schroNormalEmFar" position="left" opacity="0.7"/>
             <show chara="edisonSighWinterFar" position="center"/>
-            <speak chara="edisonNoFace">No, of course it won't approach zero. </speak>
+            <speak chara="edisonNoFace">В этом всё и дело! Она не приблизится к нулю.</speak>
             <show chara="edisonSlyWinterFar" position="center"/>
-            <speak chara="edisonNoFace">Did you forget about the “Herrscher”? </speak>
+            <speak chara="edisonNoFace">Ты забыла про Херршера?</speak>
             <goto goto="200" change="#ffffff"/>
         </scene>
         <scene id="200" background="campusImperialDay.jpg">
             <bgm src="street.mp3" status="start"></bgm>
-            <text>London, Kensington, Imperial Institute.</text>
+            <text>Лондон, Кенсингтон, Имперский институт.</text>
             <goto goto="210" change="0"/>
         </scene>
         <scene id="210" background="schoolDay3.jpg">
             <bgm src="street.mp3" status="continue"></bgm>
             <text article="1">
-                <p class="article-text">Maybe Einstein's dictionary attack was too powerful — but Tesla ends up sleeping through to the afternoon of the next day. </p>
+                <p class="article-text">Возможно, "словарная" атака Эйнштейна была слишком мощной, но в итоге Тесла проспала до полудня следующего дня.</p>
                 <br />
-                <p class="article-text">When she rubs the dark circles around her eyes, and eventually climbs downstairs, she sees the culprit and Welt sitting face-to-face in the foyer, taking turns playing around with some small pebbles that they've picked up for somewhere. </p>
+                <p class="article-text">Сонно спустившись вниз, и потерев мешки под глазами, она видит "преступника" и Вельта, сидящих лицом к лицу в фойе, играющих по очереди небольшими камушками, которые они где-то раздбыли.</p>
             </text>
             <goto goto="220" change="0"/>
         </scene>
         <scene id="220" background="studyNoon.jpg">
             <bgm src="street.mp3" status="continue"></bgm>
             <text article="1">
-                <p class="article-text">The room has its floor heating switched on, so it is more comfortable now than before when there was a cold draft. </p>
+                <p class="article-text">В номере включили подогрев пола, поэтому сейчас было комфортнее чем раньше, на сквозняке.</p>
                 <br />
-                <p class="article-text">Also, permeating through the languid atmosphere is the unique fragrance of fried food. </p>
+                <p class="article-text">Также сквозь томную атмосферу пронизывался приятный аромат жареной еды.</p>
             </text>
             <show chara="teslaNormalSleepyNightyClose" position="center"/>
-            <speak chara="teslaNoFace">I say, you guys … What's up? </speak>
+            <speak chara="teslaNoFace">Я говорю, ребята… Что случилось?</speak>
             <hide position="center"/>
             <show chara="einNormalCoatClose" position="right"/>
-            <speak chara="einNoFace">Omweso. </speak>
+            <speak chara="einNoFace">Omweso.</speak>
             <show chara="einSmileCoatClose" position="right" opacity="0.7"/>
             <show chara="weltNormalSweaterClose" position="left"/>
-            <speak chara="weltNoFace">Owale. </speak>
+            <speak chara="weltNoFace">Owale.</speak>
             <show chara="weltNormalSweaterClose" position="left" opacity="0.7"/>
             <show chara="einNormalCoatClose" position="right"/>
-            <speak chara="einNoFace">Bao. </speak>
+            <speak chara="einNoFace">Bao.</speak>
             <show chara="einSmileCoatClose" position="right" opacity="0.7"/>
             <show chara="weltNormalSweaterClose" position="left"/>
-            <speak chara="weltNoFace" remark="next">Kalah. </speak>
+            <speak chara="weltNoFace" remark="next">Kalah.</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">The above four are different variants of Mancala (called “African chess” in Chinese).  Omweso is popular in Uganda, Owale is popular in Ghana, Bao is popular in Kenya, and Kalah is a variant adopted by Americans. </p>
-                <p class="article-text">In general, this is a two-player turn-based board game, featuring the peculiar mechanic of constantly moving pieces into holes on a board in a seeding process — in doing so, one can win pieces according to certain rules and eventually become victorious. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Вышеупомянутые четыре являются различными вариантами манкалы (называемой «африканскими шахматами» на китайском языке). Омвесо популярен в Уганде, Овале популярен в Гане, Бао популярен в Кении, а Калах — вариант, принятый американцами.</p>
+                <p class="article-text">В общем, это пошаговая настольная игра для двух игроков, отличающаяся своеобразной механикой постоянного перемещения фигур в лунки на доске в процессе раздачи — при этом можно выигрывать фигуры по определенным правилам и в итоге побеждать.</p>
                 <div class="article-pic" picsrc="mancala.png" style="background-position:left;height:11.5rem;"/>
             </remark>
             <show chara="weltNormalSweaterClose" position="left" opacity="0.7"/>
             <hide position="left"/>
             <hide position="right"/>
             <show chara="teslaDisgustedShySleepyNightyClose" position="center"/>
-            <speak chara="teslaNoFace"> … Speak to me in a human language. </speak>
-            <text>The devil with the messy red hair stares intensely at the piles of small stones on the coffee table, and makes a motion as if she were trying to scatter them. </text>
+            <speak chara="teslaNoFace">…Говори со мной на ЧЕЛОВЕЧЕСКОМ языке!</speak>
+            <text>Дьяволица с растрепанными рыжими волосами окинула взглядом груды мелких камней, лежащих на кофейном столике, после чего сделала резкое движение рукой, пытаясь их разбросать.</text>
             <show chara="einFoolCoatClose" position="center"/>
-            <speak chara="einNoFace">Careful, careful now. </speak>
-            <text>Mophead hurriedly reaches out to protect the piles of stones — </text>
+            <speak chara="einNoFace">Осторожно, осторожно.</speak>
+            <text>Эйнштейн торопливо потянулась, чтобы защитить груды камней —</text>
             <show chara="einSlyCoatClose" position="center"/>
-            <speak chara="einNoFace">We are studying the numerous variants of this board game called Mancala. </speak>
+            <speak chara="einNoFace">Мы изучаем варианты Манкалы.</speak>
             <show chara="teslaNormalSleepyNightyClose" position="center"/>
-            <speak chara="teslaNoFace"> … Don't tell me you've been doing this retarded crap for the whole morning. </speak>
+            <speak chara="teslaNoFace">…Только не говори мне, что вы занимаетесь этой хернёй всё утро.</speak>
             <show chara="einSmileCoatClose" position="center"/>
-            <speak chara="einNoFace">Of the 60 mainstream variants, four have already been studied. </speak>
+            <speak chara="einNoFace">Из 60 основных вариантов четыре уже изучены.</speak>
             <show chara="einSlyCoatClose" position="center"/>
-            <speak chara="einNoFace">We are now preparing to try out the fifth. </speak>
+            <speak chara="einNoFace">Сейчас мы собираемся опробовать пятую.</speak>
             <show chara="teslaNormalSleepyNightyClose" position="center"/>
-            <speak chara="teslaNoFace"> … Is it really that interesting? </speak>
+            <speak chara="teslaNoFace">…Неужели это… ТАК интересно?</speak>
             <show chara="einSmileCoatClose" position="center"/>
-            <speak chara="einNoFace">Pure, innocent men need some less stimulating entertainment. </speak>
-            <text>Mophead continues to explain in a vague, circumlocutory manner. </text>
+            <speak chara="einNoFace">Опрятным, невинным мужчинам нужны менее сумбурные развлечения.</speak>
+            <text>Эёнштейн говорит расплывчато и двусмысленно.</text>
             <bgm src="themeTesla.mp3" status="start"></bgm>
             <show chara="einSlyCoatClose" position="center"/>
-            <speak chara="einNoFace"> … Must I remind you: last night you were chasing after this “pure-hearted” man in a booze-fuelled frenzy. </speak>
+            <speak chara="einNoFace">Надо ли тебе напомнить - Прошлой ночью ты гонялась за этим «чистым сердцем» человеком в пьяном угаре.</speak>
             <show chara="teslaNormalSleepyNightyClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace"> … Guh. </speak>
-            <text>The bewildered red demon suddenly seems to remember something. </text>
+            <speak chara="teslaNoFace">…Угх.</speak>
+            <text>Сбитая с толку рыжая дьяволица вдруг что-то вспомнила.</text>
             <show chara="teslaShyHandNightyClose" position="center"/>
-            <speak chara="teslaNoFace">Uhahhhhhhhhhhhhhh! </speak>
-            <text>Instantly, her face turns red, and she attempts to crawl under the sofa like a cat. </text>
+            <speak chara="teslaNoFace">В-А-Аа-ААаааргхх!</speak>
+            <text>Мгновенно её лицо покраснело, и она как кошка, попыталась заползти под диван.</text>
             <hide position="center"/>
             <show chara="einNormalCoatClose" position="right" opacity="0.7"/>
             <show chara="weltTiredSweaterClose" position="left"/>
-            <speak chara="weltNoFace"> … </speak>
-            <text>Welt awkwardly shakes his head. </text>
+            <speak chara="weltNoFace">…</speak>
+            <text>Вельт неловко покачал головой.</text>
             <show chara="weltTiredSweaterClose" position="left" opacity="0.7"/>
             <show chara="einSlyCoatClose" position="right"/>
-            <speak chara="einNoFace">As you can see, “this person” is rather pure and innocent. </speak>
+            <speak chara="einNoFace">Как видишь, "этот человек" довольно чист и невинен.</speak>
             <show chara="einSlyCoatClose" position="right" opacity="0.7"/>
             <show chara="teslaDisgustedShySleepyNightyClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace"> … Who the hell are you talking about!? </speak>
-            <text>Tesla is confused by Einstein's twinkling eyes and shifty vague expression. Is she referring to Welt, or she referring to Tesla herself? </text>
+            <speak chara="teslaNoFace">…О ком, чёрт возьми, ты говоришь!?</speak>
+            <text>Тесла сбита с толку мерцающими глазами Эйнштейна и неуверенным выражением лица. Она имеет в виду Вельта или она имеет в виду саму Теслу?</text>
             <show chara="teslaDisgustedShySleepyNightyClose" position="center" opacity="0.7"/>
             <show chara="einSlyCoatClose" position="right"/>
-            <speak chara="einNoFace">Mm-hmm. Today's Tesla is especially cute. </speak>
+            <speak chara="einNoFace">М-м-м. Сегодня Тесла особенно милашка.</speak>
             <show chara="einSlyCoatClose" position="right" opacity="0.7"/>
             <show chara="teslaShyHandNightyClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">Enough! ! ! ! </speak>
+            <speak chara="teslaNoFace">Достаточно!!!!</speak>
             <goto goto="300" change="#ffffff"/>
         </scene>
         <scene id="300" background="carNoon.jpg">
@@ -373,157 +372,157 @@
             <sound src="9_11_car away.mp3"/>
             <show chara="weltTiredWinterClose-up" position="left"/>
             <show chara="teslaBoringGlassWinterClose-up" position="right" opacity="0.7"/>
-            <speak chara="weltNoFace">Well … Where exactly are we going? </speak>
-            <text remark="next">Riding a taxi to Hampstead Heath, Welt finally gets the chance to ask the red-haired tyrant. </text>
+            <speak chara="weltNoFace">Так… Куда именно мы идем?</speak>
+            <text remark="next">Поехав на такси в Хэмпстед-Хит, Вельт наконец-то решил спросить у рыжеволосого тирана.</text>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Hampstead Heath (or simply, “the Heath”) is a large and ancient London park spanning a clay belt (including sand dunes, the highest point in London's geography, 134 meters above sea level), from Hampstead to Highgate Cemetery. It is one of London's famous natural attractions. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Хэмпстед-Хит — большой и старинный лондонский парк, охватывающий глиняный пояс (включая песчаные дюны, самую высокую географическую точку Лондона, 134 метра над уровнем моря) от Хэмпстеда до Хайгейтского кладбища. Это одна из известных природных достопримечательностей Лондона.</p>
             </remark>
             <show chara="weltTiredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Huh? </speak>
+            <speak chara="teslaNoFace">А?</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … Oh, right, when I was making that phone call for our taxi, you were still playing that retarded stone game.  </speak>
+            <speak chara="teslaNoFace">…Ах да, точно, когда я вызывала такси, ты всё ещё играл в эту дурацкую игру.</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Cemetery, we're going to Highgate Cemetery. </speak>
+            <speak chara="teslaNoFace">Кладбище, мы идем на Хайгейтское кладбище.</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Cemetery? ! </speak>
+            <speak chara="weltNoFace">Кладбище?!</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … Why are you kicking up such a fuss? It's not like we're going to bury you there. </speak>
+            <speak chara="teslaNoFace">…Что ты так кричишь? Мы не собираемся тебя там хоронить.</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltTiredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Anyway, back to the point … </speak>
+            <speak chara="teslaNoFace">Вернёмся к делу…</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">That large bag you threw into the back of the trunk, don't you know what's actually in it? </speak>
+            <speak chara="teslaNoFace">Знаешь, что в той сумке, которую ты кинул в багажник?</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace"> … Well, no matter how hard I try, I can't will myself to receive superpowers like x-ray vision, okay? </speak>
+            <speak chara="weltNoFace">…Ну, как бы я ни старался, я не могу обзавестись рентгеновским зрением…</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … </speak>
+            <speak chara="teslaNoFace">…</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Do you have rhinitis? Couldn't you smell the cat food? </speak>
+            <speak chara="teslaNoFace">У тебя ринит? Ты не чувствуешь запах кошачьей еды?</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Oh, that … I've never raised a cat — </speak>
+            <speak chara="weltNoFace">А, это… У меня никогда не было кота —</speak>
             <show chara="weltTiredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> — Then I hope you won't be sniffing about, drool trailing from your mouth, okay? </speak>
+            <speak chara="teslaNoFace">— Тогда, надеюсь, ты не станешь пускать слюни при запахе.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace"> … You're treating me just like a cat! </speak>
+            <speak chara="weltNoFace">…Ты обращаешься со мной как с кошкой!</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaSnickerGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Yeah, that's about right. There's virtually no difference. </speak>
+            <speak chara="teslaNoFace">Даа… Разницы практически никакой.</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace"> … There is a huge difference, okay? ! </speak>
+            <speak chara="weltNoFace">…То-есть как это нет!? Как это можно спутать человека и кота?!</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaSmileGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Fufu. Only Welt would argue and complain so seriously. </speak>
+            <speak chara="teslaNoFace">Фу-фу. Только Вельт может так серьезно возмущаться от шуток.</speak>
             <show chara="teslaSmileGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">You don't say … </speak>
-            <speak chara="weltNoFace">But why are we feeding cats at the cemetery? This drive seems rather long. </speak>
+            <speak chara="weltNoFace">Ты не говорила…</speak>
+            <speak chara="weltNoFace">Почему мы кормим кошек на кладбище? Путь туда не близкий</speak>
             <show chara="weltSurpriseWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaSmileGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">I guess that's true … but I've gotten used to it. </speak>
+            <speak chara="teslaNoFace">Может и так… Наверное, я просто привыкла к этому.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">After all, in the first half of the year, I was forced to do volunteer work there for five months. </speak>
+            <speak chara="teslaNoFace">В первом полугодии я была вынуждена работать там волонтёром пять месяцев.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Forced … to volunteer … </speak>
+            <speak chara="weltNoFace">Вынуждена… Быть добровольцем…</speak>
             <show chara="weltScaredWinterClose-up" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="weltNoFace"> … At a cemetery? </speak>
+            <speak chara="weltNoFace">…На кладбище?</speak>
             <shake position="left" time="250"></shake>
-            <speak chara="weltNoFace">How did the situation come to that? </speak>
+            <speak chara="weltNoFace">Как до этого дошло?</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">The situation was a non-situation … </speak>
+            <speak chara="teslaNoFace">Была "нештатная" ситуация…</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">If a court orders you to be a volunteer, would you still refuse to go? </speak>
+            <speak chara="teslaNoFace">Если суд прикажет тебе быть волонтёром, ты откажешься им быть?</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Court? </speak>
+            <speak chara="weltNoFace">Суд?</speak>
             <show chara="weltTiredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">I-I guess you must have broken some law relating to the cemetery … </speak>
+            <speak chara="weltNoFace">Полагаю, ты, нарушила какой-то закон, касающийся кладбища…</speak>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Besides, don't all members of our organisation have judicial immunity? </speak>
+            <speak chara="weltNoFace">Да и вообще, разве все члены нашей организации не обладают судебной неприкосновенностью?</speak>
             <show chara="weltSurpriseWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … Does the treaty signed between our organisation and the government include drink-driving? </speak>
+            <speak chara="teslaNoFace">…Включает ли соглашение, подписанное между нашей организацией и правительством, вождение в нетрезвом виде?</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Huh? </speak>
-            <speak chara="weltNoFace">Drink-driving? </speak>
+            <speak chara="weltNoFace">А?</speak>
+            <speak chara="weltNoFace">Вождение в нетрезвом виде?</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Haven't you wondered, now that the Finn has left, why we could only take the Underground or hire a taxi? </speak>
+            <speak chara="teslaNoFace">А ты не задумывался, почему теперь, когда Финн уехал, мы можем ездить только на метро или такси?</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="teslaNoFace">If it wasn't for that blasted Scotland Yard! Being so insistent on revoking my driver's licence! </speak>
+            <speak chara="teslaNoFace">Если бы не этот проклятый Скотленд-Ярд! Так настаивавшем на отзыве моих водительских прав!</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Urgh … </speak>
-            <speak chara="weltNoFace">This … this all sounds like it's your own fault … </speak>
+            <speak chara="weltNoFace">Угх…</speak>
+            <speak chara="weltNoFace">Это… Всё это звучит так, будто ты сама в этом виновата…</speak>
             <show chara="weltTiredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">How is it my fault … </speak>
+            <speak chara="teslaNoFace">Каким это образом я виновата…</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Clearly it's their established rules and standards that are too baffling! In fact I didn't even “feel” anything so to speak! </speak> <!-- She is implying that she did not feel drunk when she was booked. -->
+            <speak chara="teslaNoFace">Ясно же, что это их установленные правила и стандарты сбивают с толку! Я к слову, чувствовала себя очень даже нормально!</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Well, well … By the time it gets to the point that the “feeling” is obvious even to you, wouldn't it already be a major disaster?! </speak>
+            <speak chara="weltNoFace">Нуу… К тому времени, когда "плохое самочувствие" станет очевидным даже для тебя, думаю будет уже СЛИШКОМ поздно.</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … </speak>
+            <speak chara="teslaNoFace">…</speak>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">Ahem, anyway, during the weekends of the first half of the year, I spent my time in the graveyard … </speak>
+            <speak chara="teslaNoFace">Кхм, во всяком случае, выходные в первой половине года я проводила на кладбище…</speak>
             <show chara="teslaSmileGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … But actually, it was pretty fun. </speak>
+            <speak chara="teslaNoFace">…На самом деле, это было довольно весело.</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">This place called Highgate, perhaps it's more appropriate to call it a “point of historical interest”, rather than a “cemetery”. </speak>
+            <speak chara="teslaNoFace">Это место - Хайгейт, пожалуй, его правильнее назвыать «достопримечательностью», а не «кладбищем».</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltSurpriseWinterClose-up" position="left"/>
-            <speak chara="weltNoFace"> … Historical interest? </speak>
+            <speak chara="weltNoFace">…достопримечательностью?</speak>
             <show chara="weltSurpriseWinterClose-up" position="left" opacity="0.7"/>
             <show chara="teslaSmileGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace">You'll understand when you get there. </speak>
+            <speak chara="teslaNoFace">Ты поймешь, когда доберёмся туда.</speak>
             <goto goto="400" change="#ffffff"/>
         </scene>
         <scene id="400" background="graveAfternoon.jpg">
             <bgm src="10_20_londonderry_b.mp3" status="start"></bgm>
-            <text remark="next">Ms Elizabeth Jackson, who died in May 1839, must not have expected … </text>
+            <text remark="next">Мисс Элизабет Джексон, умершая в мае 1839 года, должно быть, не ожидала…</text>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text"> Elizabeth Jackson was the first deceased to be buried in Highgate Cemetery. </p>
-                <p class="article-text">In the mid-early nineteenth century, due to a soaring urban population brought about by the Industrial Revolution, there was a “grave shortage” in London. Graves that had only been recently used several months ago were being reused to bury more dead. Highgate Cemetery was one of the new cemeteries planned by the British government at the time, to solve this challenging problem affecting the populace's dignity and welfare. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Элизабет Джексон была первой умершей, похороненной на Хайгейтском кладбище.</p>
+                <p class="article-text">В середине девятнадцатого века из-за стремительного роста городского населения, вызванного промышленной революцией, в Лондоне возникла «нехватка могил». Могилы, которые использовались всего несколько месяцев назад, снова использовались для захоронения новых мертвецов. Кладбище Хайгейт было одним из новых кладбищ, запланированных британским правительством в то время для решения этой сложной проблемы, затрагивающей достоинство и благополучие населения.</p>
             </remark>
-            <text>That in the decades following her death, the place where she now rests would gradually evolve into what we see today: a place where a variety of tomb styles have converged to create a place of attraction all of its own — </text>
-            <text> — A unique cemetery where surrounding villas and real estate continue to fetch high prices. </text>
+            <text>В течение десятилетий после её смерти место, где она сейчас покоится, постепенно превратилось в то, что мы видим сегодня: место, где сошлись различные стили гробниц, чтобы создать собственное место притяжения —</text>
+            <text>— Уникальное кладбище, где близлежащие виллы и недвижимость продолжают продаваться по высоким ценам.</text>
             <goto goto="410" change="0"/>
         </scene>
         <scene id="410" background="catHighgate.jpg">
             <bgm src="10_20_londonderry_b.mp3" status="continue"></bgm>
-            <text>Naturally … in such a venue, much like a public park or garden, there are bound to be many cats. </text>
-            <speak chara="teslaNoFace">Ah … it's Pandu. </speak>
-            <speak chara="weltNoFace">Pandu? </speak>
-            <speak chara="weltNoFace"> … Is that the cat's name. </speak>
-            <speak chara="teslaNoFace">Mm-hmm. As it can be regarded as a perfect specimen of an “exiled” cat, don't you think such a name is very fitting? </speak>
-            <speak chara="weltNoFace"> … I have absolutely no idea what you're on about. </speak>
-            <speak chara="teslaNoFace" remark="next">No problem, I just borrowed the name of a boring character from a boring story … </speak>
+            <text>Естественно… в таком месте, как и общественном парке или сау, обязательно будет много кошек.</text>
+            <speak chara="teslaNoFace">Ах… А вот и Панду.</speak>
+            <speak chara="weltNoFace">Панду?</speak>
+            <speak chara="weltNoFace">…Это имя кота.</speak>
+            <speak chara="teslaNoFace">М-м-м. Поскольку его можно считать идеальным образцом «изгнанного» кота, тебе не кажется, что такое имя очень подходит?</speak>
+            <speak chara="weltNoFace">…Я не понимаю, к чему это ты.</speak>
+            <speak chara="teslaNoFace" remark="next">Не важно, я просто позаимствовала имя "скучного" персонажа из "скучной" истории…</speak>
             <remark post="U2FsdGVkX18I67XYQqwGpilFZmQ5">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Pandu was the ancestor of the Pandavas in the Hindu epic “Mahabharata”, and the nominal father of the “five sons of Pandu”, who included Arjuna among others. </p>
-                <p class="article-text">When he was young, Pandu hunted in the countryside, and shot arrows at a mating antelope — but the antelope happened to be the incarnation of a sage, and Pandu was cursed by him to not be able to approach others with the intention of lovemaking, or else he would die tragically.   When he grew up, as a king, he married Kunti, who had learned immortality. Kunti gave birth to sons (including Karna, the son of the Sun god, who was born before her marriage. This eldest son was adopted and brought up by a charioteer), thus giving Pandu heirs. (Translator's note: This is not entirely accurate as far as the most common version of the Mahabharata is concerned — Pandu had already married before he shot the sage and became cursed; Pandu thus exiled himself and his family from his own kingdom because of this curse [hence Tesla's nickname for the cat]; Kunti never learned of immortality; and precisely because of Pandu's curse, all her sons were sired by different fathers, who were all Hindu Gods.) </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Панду был предком Пандавов в индуистском эпосе «Махабхарата» и номинальным отцом «пяти сыновей Панду», среди которых был и Арджуна.</p>
+                <p class="article-text">Когда был молод, Панду охотился в сельской местности и выстрелил из лука в спаривающуюся антилопу, однако антилопа оказалась воплощением мудреца, и Панду был проклят им, чтобы он не мог приближаться к тем, с кем хотел совокупиться. Иначе тот трагически погибнет. Когда он вырос, как царь, он женился на Кунти, познавшей бессмертие. Кунти родила сыновей (в том числе Карну, сына бога Солнца, родившегося до её замужества. Этот старший сын был усыновлен и воспитан возничим), таким образом дав наследников Панду. (Примечание переводчика: Это не совсем точно в отношении наиболее распространенной версии Махабхараты — Панду уже женился до того, как застрелил мудреца и был проклят; После, Панду изгнал себя и свою семью из своего собственного царства из-за этого проклятия. [отсюда прозвище Теслы для кота]; Кунти так и не узнала о бессмертии; и именно из-за проклятия Панду все её сыновья произошли от разных отцов, которые все были индуистскими богами.)</p>
             </remark>
             <goto goto="420" change="0"/>
         </scene>
@@ -531,267 +530,267 @@
             <bgm src="themeTesla.mp3" status="start"></bgm>
             <show chara="teslaStarGlassWinterFar" position="right"/>
             <show chara="weltTiredWinterFar" position="left" opacity="0.7"/>
-            <speak chara="teslaNoFace">Oh that's right! </speak>
-            <speak chara="teslaNoFace">Pass me half of the cat food in the bag!  </speak>
+            <speak chara="teslaNoFace">Кстати, точно!</speak>
+            <speak chara="teslaNoFace">Передай мне половину кошачьего корма из пакета!</speak>
             <show chara="teslaStarGlassWinterFar" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterFar" position="left"/>
-            <speak chara="weltNoFace">Half? </speak>
-            <speak chara="weltNoFace">Can it eat that much on its own? </speak>
+            <speak chara="weltNoFace">Половину?</speak>
+            <speak chara="weltNoFace">Сможет ли он съесть столько сам?</speak>
             <show chara="weltScaredWinterFar" position="left" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace"> … What the hell are you on about. </speak>
+            <speak chara="teslaNoFace">…Что за бред ты несешь?</speak>
             <show chara="teslaShameGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace">It's a large garden, and now it's that time of day again — so won't it be reasonable for us to split up and work separately? </speak>
+            <speak chara="teslaNoFace">Это большое кладбище, вдобавок скоро начнёт темнеть. Так не разумно ли будет нам разделиться и работать отдельно?</speak>
             <show chara="weltScaredWinterFar" position="left"/>
-            <speak chara="weltNoFace">W-work s-separately? </speak>
-            <speak chara="weltNoFace">He-here? </speak>
+            <speak chara="weltNoFace">П-по отдельности?</speak>
+            <speak chara="weltNoFace">З-здесь?</speak>
             <show chara="weltScaredWinterFar" position="left" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace"> … </speak>
+            <speak chara="teslaNoFace">…</speak>
             <show chara="teslaEmbarraGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace">As such a big boy, you sure have a lot of courage. </speak>
+            <speak chara="teslaNoFace">Раз уж ты такой взрослый, то у тебя должно хватать мужества.</speak>
             <show chara="teslaShameGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace">Here, a map for you. I definitely want to stay on the eastern side, so … </speak>
+            <speak chara="teslaNoFace">Вот, держи карту. Я хочу пройтись по восточной части, так что…</speak>
             <show chara="teslaStarGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace">The entire western side is entrusted to you! </speak>
+            <speak chara="teslaNoFace">Всю западную часть доверяю тебе!</speak>
             <goto goto="430" change="#ffffff"/>
         </scene>
         <scene id="430" background="graveDayLate.jpg">
             <bgm src="10_20_londonderry_b.mp3" status="start"></bgm>
-            <text remark="next">Highgate Cemetery, unlike Westminster Abbey, houses countless renowned personages of the empire — </text>
+            <text remark="next">На Хайгейтском кладбище, в отличие от Вестминстерского аббатства, покоятся бесчисленные известные личности империи.</text>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">Westminster Abbey, located in the Westminster district of central London, has been the site of the crowning and burial of British monarchs (since the foundation of England).</p>
-                <p class="article-text">The non-royal members buried there are mostly British greats, including Isaac Newton, Charles Darwin, Charles Dickens and so on.</p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Вестминстерское аббатство, расположенное в Вестминстерском районе в центре Лондона, было местом коронации и захоронения британских монархов (с момента основания Англии).</p>
+                <p class="article-text">Однако похоронены там не члены королевской семьи, в основном великие британцы, включая Исаака Ньютона, Чарльза Дарвина, Чарльза Диккенса и так далее.</p>
             </remark>
-            <text remark="next"> — But of all the names, two names in particular — `Michael Faraday' and `Karl Marx' — give the lonesome Welt an inexplicable sense of familiarity and peace of mind.</text>
+            <text remark="next">—Из всех имён два в особенности — «Майкл Фарадей» и «Карл Маркс» — придают одинокому Вельту необъяснимое ощущение близости и душевного спокойствия.</text>
             <remark post="U2FsdGVkX18nWTNTcyVHAnSlQCjJ">
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">These two great men were buried at Highgate Cemetery. </p>
-                <p class="article-text">P.S. For our work, we should also add Douglas Adams (1952-2001AD), author of “The Hitchhiker's Guide to the Galaxy”. We thank him for giving us “42”, “the Answer to the Ultimate Question of Life, The Universe, and Everything”. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Эти два великих человека были похоронены на Хайгейтском кладбище.</p>
+                <p class="article-text">P.S. К нашей работе следует также добавить Дугласа Адамса (1952-2001 гг.), автора «Автостопом по Галактике». Мы благодарим его за то, что он дал нам «42», «Ответ на главный вопрос жизни, Вселенной и всего остального».</p>
             </remark>
-            <text>So to speak …  the so-called “celebrity effect” is really an omnipresent and universal phenomenon that transcends death itself.</text>
-            <text>Fortunately, thanks to this, the young man named Welt can finally experience and appreciate the unique charm of this cemetery. </text>
+            <text>Так сказать… так называемый «эффект знаменитости» — это действительно вездесущее и феноменальное явление, превосходящее саму смерть.</text>
+            <text>К счастью, благодаря этому, Вельт наконец-то может ощутить и оценить неповторимое очарование этого кладбища.</text>
             <text article="1">
-                <p class="article-text">From simple crude tombs that are so small as to be barely perceptible; to grandiose, luxurious palatial mausoleums that look like they come straight from Angkor Wat — all of these have decayed into prehistoric ruins under the weathering and erosion of lichen moss and acid rain. A stone-carved piano, its keys long since blurred together; a statue with broken arms, covered from head to toe with clambering vines; a granite lion with a mane covered completely by bird guano … Although admittedly it all seems rather eerie and creepy, it can also be seen as yet another Natural History Museum — a dazzling display of the world's living and non-living. </p> <!-- 众生百态，琳琅满目 = "a hundred forms of living things, glittering jewels to delight the eye." -->
+                <p class="article-text">От простых грубых надгробий, которые настолько малы, что едва заметны; до грандиозных, роскошных дворцовых мавзолеев, которые выглядят так, будто они прибыли прямо из Ангкор-Вата, — Все они выветрились, и покрылись лишайниками и мхом, от чего были похожи на руины какой-то древней цивилизации. Вырезанное из камня пианино, клавиши которого давно слились воедино; статуя со сломанными руками, с ног до головы обвитая вьющимися лозами; гранитный лев с гривой, полностью покрытой птичьим пометом… Хотя, надо признать, хоть всё это и кажется довольно заброшенным и жутким, также это можно рассматривать как ещё один Музей естественной истории — завораживающую экспозицию помеси живого и неживого мира.</p>
             </text>
             <goto goto="440" change="#ffffff"/>
         </scene>
         <scene id="440" background="graveDayLate.jpg">
             <bgm src="10_20_londonderry_b.mp3" status="continue"></bgm>
             <show chara="reaNormalAhWinterFar" position="right"/>
-            <speak chara="weltNoFace">Ah. </speak>
-            <text>When the young man directs his eyes back to the trail in front of him, he suddenly notices that there is a somewhat familiar-looking female figure, standing in the corner ahead. </text>
+            <speak chara="weltNoFace">Ах…</speak>
+            <text>Когда Вельт вновь перевёл взгляд на тропу, то заметил впереди знакомую женскую фигуру.
+            </text>
             <hide position="right"/>
             <show chara="reaSmileAhWinterFar" position="center"/>
-            <speak chara="reannaNoNameNoFace">Oh. How serendipitous. </speak>
-            <speak chara="weltNoFace">When did we … </speak>
+            <speak chara="reannaNoNameNoFace">Ой. Вот так совпадение!</speak>
+            <speak chara="weltNoFace">Когда мы…</speak>
             <show chara="reaSmileEmWinterFar" position="center"/>
-            <speak chara="reannaNoNameNoFace">It was last month, at the airport, wasn't it? </speak>
+            <speak chara="reannaNoNameNoFace">Мы встречались в прошлом месяце, в аэропорту, не так ли?</speak>
             <goto goto="450" change="#ffffff"/>
         </scene>
         <scene id="450" background="airportNewYorkOld.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="start"></bgm>
             <show chara="blackTwo" position="center"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <goto goto="460" change="#ffffff"/>
         </scene>
         <scene id="460" background="graveDayLate.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="weltScaredWinterFar" position="left"/>
             <show chara="reaSmileEmWinterFar" position="right" opacity="0.7"/>
-            <speak chara="weltNoFace"> … Ah! </speak>
+            <speak chara="weltNoFace">…А!</speak>
             <show chara="weltShyWinterFar" position="left"/>
-            <speak chara="weltNoFace">T-that was … </speak>
+            <speak chara="weltNoFace">Т-так это были…</speak>
             <show chara="weltShyWinterFar" position="left" opacity="0.7"/>
             <show chara="reaSmileEmSadWinterFar" position="right"/>
-            <speak chara="reannaNoNameNoFace">No need to worry. </speak>
+            <speak chara="reannaNoNameNoFace">Давай сейчас отложим формальности.</speak>
             <show chara="reaSmileEmWinterFar" position="right"/>
-            <speak chara="reannaNoNameNoFace">My name is Reanna Brigantia. </speak>
+            <speak chara="reannaNoNameNoFace">Меня зовут Рианна Бригантия.</speak>
             <show chara="reaSmileAhWinterFar" position="right"/>
-            <speak chara="reannaNoFace">Although I am a Valkyrie directly under the command of Headquarters — today I am just like you, an ordinary person who has come to visit and sweep the graves. </speak>
+            <speak chara="reannaNoFace">Хоть я и валькирия, под прямым подчинением Штаба — сегодня я не на службе. Сегодня я пришла навести порядок, и навестить ушедших.</speak>
             <show chara="reaSmileEmWinterFar" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterFar" position="left"/>
-            <speak chara="weltNoFace">Not … here … to sweep graves … </speak>
+            <speak chara="weltNoFace">Здесь … Не убирать…</speak>
             <show chara="weltTiredWinterFar" position="left" opacity="0.7"/>
             <show chara="reaNormalAhWinterFar" position="right"/>
             <speak chara="reannaNoFace">? </speak>
             <show chara="reaNormalAhWinterFar" position="right" opacity="0.7"/>
             <show chara="weltTiredWinterFar" position="left"/>
-            <speak chara="weltNoFace">I-I'm really only here to help people feed the cats … </speak>
+            <speak chara="weltNoFace">Я-я здесь только, чтобы покормить кошек…</speak>
             <goto goto="470" change="#ffffff"/>
         </scene>
         <scene id="470" background="graveDayLate.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="weltTiredWinterFar" position="left" opacity="0.7"/>
             <show chara="reaSmileEmSadWinterFar" position="right"/>
-            <speak chara="reannaNoFace">Ha. So that's the reason.  </speak>
+            <speak chara="reannaNoFace">А… Вот почему…</speak>
             <show chara="reaSmileAhWinterFar" position="right"/>
-            <speak chara="reannaNoFace">You must have really been working hard. </speak>
+            <speak chara="reannaNoFace">Ты, должно быть, очень много работал.</speak>
             <show chara="reaSmileEmWinterFar" position="right" opacity="0.7"/>
             <show chara="weltGiggleWinterFar" position="left"/>
-            <speak chara="weltNoFace">Ahaha … that's not exactly true … </speak>
+            <speak chara="weltNoFace">Ахаха… Не совсем…</speak>
             <show chara="weltGiggleWinterFar" position="left" opacity="0.7"/>
             <show chara="reaSmileAhWinterFar" position="right"/>
-            <speak chara="reannaNoFace">It must really be fate, for us to meet here … </speak>
-            <speak chara="reannaNoFace"> … Perhaps we should feed these little furry children together? </speak>
+            <speak chara="reannaNoFace">Должно быть, это судьба, что мы встретились здесь…</speak>
+            <speak chara="reannaNoFace">…Может быть, стоит вместе покормить этих пушистых милах?</speak>
             <show chara="reaSmileEmWinterFar" position="right" opacity="0.7"/>
             <show chara="weltShyWinterFar" position="left"/>
-            <speak chara="weltNoFace">Um? C-can we really? </speak>
+            <speak chara="weltNoFace">Эм? П-правда можем?</speak>
             <show chara="weltShyWinterFar" position="left" opacity="0.7"/>
             <show chara="reaSmileAhWinterFar" position="right"/>
-            <speak chara="reannaNoFace">Of course we can. </speak>
-            <speak chara="reannaNoFace">Anyway, today I'm off-duty. </speak>
+            <speak chara="reannaNoFace">Конечно.</speak>
             <show chara="reaSmileEmWinterFar" position="right" opacity="0.7"/>
             <show chara="weltShyWinterFar" position="left"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltSmileWinterFar" position="left"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltNormalWinterFar" position="left"/>
-            <speak chara="weltNoFace">In that case, will you also permit me to join you in paying respects to the dead? </speak>
+            <speak chara="weltNoFace">В таком случае, позволите ли мне почтить память с вами?</speak>
             <show chara="weltNormalWinterFar" position="left" opacity="0.7"/>
             <show chara="reaNormalAhWinterFar" position="right"/>
-            <speak chara="reannaNoFace">Mmm? </speak>
+            <speak chara="reannaNoFace">М-м-м?</speak>
             <show chara="reaSmileEmSadWinterFar" position="right"/>
-            <speak chara="reannaNoFace">Oh, of course. </speak>
+            <speak chara="reannaNoFace">О Конечно.</speak>
             <show chara="reaNormalEmWinterFar" position="right"/>
-            <speak chara="reannaNoFace">The child, Martha, she's a good conversationalist, and she won't despise your company. </speak>
+            <speak chara="reannaNoFace">Марта была хорошим собеседником, думаю она будет не против вашей компании.</speak>
             <goto goto="480" change="#ffffff"/>
         </scene>
         <scene id="480" background="callaLily.jpg">
             <bgm src="11_17_memory.mp3" status="start"></bgm>
-            <speak chara="weltNoFace"> … I wish, wherever you are, may there be no ominous darkness, nor glaring brightness. </speak>
-            <speak chara="weltNoFace"> … I wish, wherever you are, may there be no raucous noise, nor frightful silence. </speak>
-            <speak chara="weltNoFace"> …  Wherever you are, may it be a warm and genial paradise on the other side. Amen. </speak>
-            <speak chara="reannaNoFace"> … </speak>
-            <speak chara="reannaNoFace">Martha “Lily” Jacobs … a child born in Holloway Street. </speak>
-            <speak chara="reannaNoFace">“Lily” was her nickname because she liked calla lilies. </speak>
-            <speak chara="reannaNoFace" remark="next">She was the only Valkyrie who died from the Honkai Eruption in Berlin but was not buried in the Invalidenfriedhof cemetery. </speak>
+            <speak chara="weltNoFace">…Желаю, чтобы, где бы ты ни была, не было ни зловещей тьмы, ни ослепительного сияния.</speak>
+            <speak chara="weltNoFace">…Желаю, чтобы где бы ты ни была, не было ни хриплого шума, ни страшной тишины.</speak>
+            <speak chara="weltNoFace">…Где бы ты ни была, пусть на другой стороне будет теплый и радушный рай. Аминь.</speak>
+            <speak chara="reannaNoFace">…</speak>
+            <speak chara="reannaNoFace">Марта "Лили" Джейкобс… Ребёнок, родившийся на Холлоуэй-стрит.</speak>
+            <speak chara="reannaNoFace">“Лили” - было ее прозвищем. …Ей очень нравились каллы.</speak>
+            <speak chara="reannaNoFace" remark="next">Она была единственной валькирией, умершей во время Берлинского извержения Хонкай. Однако её так и не похоронили на Инвалиденфридхофском кладбище.</speak>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text">The Invalidenfriedhof is one of the oldest cemeteries in Berlin and was used as a military cemetery in Prussia. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Invalidenfriedhof — одно из старейших берлинских кладбищ, которое использовалось в качестве военного кладбища в Пруссии.</p>
             </remark>
-            <speak chara="weltNoFace"> … B-Berlin?  </speak>
-            <speak chara="weltNoFace">W-wasn't that … </speak>
-            <speak chara="reannaNoFace">Mm-hmm. It was the incident where you were “born”. </speak>
-            <speak chara="weltNoFace"> … </speak>
-            <speak chara="reannaNoFace">You don't need to feel too guilty. </speak>
-            <speak chara="reannaNoFace">Sacrifice is an inevitability on the battlefield. </speak>
-            <speak chara="reannaNoFace">Generally speaking, the organisation chooses a cemetery nearby. In the event of death, they will bury everyone there, so that one can rest with their comrades-in-arms. </speak>
-            <speak chara="weltNoFace"> … </speak>
-            <speak chara="weltNoFace">Huh? So Martha's situation was … </speak>
-            <speak chara="reannaNoFace">In the process of destroying the Emperor-class Honkai beasts, the “Night Moth” team she led was almost completely annihilated. </speak>
-            <speak chara="reannaNoFace">This child … as the sole survivor, she must have bore an unimaginably heavy burden. </speak>
-            <speak chara="weltNoFace"> …  … </speak>
-            <speak chara="reannaNoFace">Although we had immediately arranged for her to leave the front and receive treatment … </speak>
-            <speak chara="reannaNoFace">In the end … </speak>
-            <speak chara="weltNoFace"> …  …  … </speak>
-            <speak chara="reannaNoFace">New Year's day of this year, was the second anniversary of the incident … </speak>
-            <speak chara="reannaNoFace">She was at her home … </speak>
-            <speak chara="reannaNoFace"> … Where she hanged herself. </speak>
-            <speak chara="weltNoFace"> …  …  …  … </speak>
-            <speak chara="reannaNoFace">Because of her suicide in a non-combat situation, according to military protocol, we could not bury her together with her compatriots, or with those who have yet to die, in the one place. </speak>
+            <speak chara="weltNoFace">…Б-берлин?</speak>
+            <speak chara="weltNoFace">Р-разве это не…</speak>
+            <speak chara="reannaNoFace">М-мм? Да, Это тот случай, когда ты "родился".</speak>
+            <speak chara="weltNoFace">…</speak>
+            <speak chara="reannaNoFace">Не стоит себя винить.</speak>
+            <speak chara="reannaNoFace">На поле боя Жертвы неизбежны.</speak>
+            <speak chara="reannaNoFace">Вообще, организация выбирала кладбище поблизости. Так в случае смерти там хоронили рядом с соратниками.</speak>
+            <speak chara="weltNoFace">…</speak>
+            <speak chara="weltNoFace">Хм? Так, Марта была…</speak>
+            <speak chara="reannaNoFace">Во время уничтожения Хонкай чудищ класса «Император», команда «Ночной Мотылек», которую она возглавляла, была почти полностью уничтожена.</speak>
+            <speak chara="reannaNoFace">Этот ребенок… Оставшись единственной в живых, она должна была нести невообразимо тяжелое бремя.</speak>
+            <speak chara="weltNoFace">…  …</speak>
+            <speak chara="reannaNoFace">Хотя мы сразу договорились, чтобы она покинула фронт, и ушла с на реабилитацию…</speak>
+            <speak chara="reannaNoFace">Но в итоге…</speak>
+            <speak chara="weltNoFace">…  …  …</speak>
+            <speak chara="reannaNoFace">Этот новый год стал второй годовщиной инцидента…</speak>
+            <speak chara="reannaNoFace">Она была у себя дома…</speak>
+            <speak chara="reannaNoFace">…Где она повесилась.</speak>
+            <speak chara="weltNoFace">…  …  …  …</speak>
+            <speak chara="reannaNoFace">Из-за её самоубийства вне боевой обстановки, по военному протоколу, мы не могли похоронить её с соратниками, в одном месте.</speak>
             <shake position="all" time="250"></shake>
-            <speak chara="weltNoFace"> … I-isn't that too cruel? ! </speak>
+            <speak chara="weltNoFace">Это… Весьма жестоко…</speak>
             <goto goto="490" change="0"/>
         </scene>
         <scene id="490" background="graveDayLate.jpg">
             <bgm src="11_17_memory.mp3" status="continue"></bgm>
             <show chara="reaSeriousWinterClose" position="center"/>
-            <speak chara="reannaNoFace"> … There is no alternative. That is the way of the military. </speak>
+            <speak chara="reannaNoFace">…Иначе было никак. Таков военный путь.</speak>
             <show chara="reaSmileEmSadWinterClose" position="center"/>
-            <speak chara="reannaNoFace"> The so-called army is a machine that cannot tolerate the failure of any one screw.  </speak>
-            <speak chara="reannaNoFace">Because of this, its “Hall of Heroes”, its “Valhalla” … will only accept those who fulfill their “responsibilities” to their final breath.</speak>
+            <speak chara="reannaNoFace">Армия — это структура, не терпящая ни малейших сбоев.</speak>
+            <speak chara="reannaNoFace">Из-за этого, в «Вальхаллу» будут принимать только тех, кто выполняет свои обязанности до последнего вздоха.</speak>
             <show chara="reaSeriousWinterClose" position="center"/>
-            <speak chara="reannaNoFace">It is cruel … but we have no better solution. </speak>
+            <speak chara="reannaNoFace">Это жестоко… Но других вариантов у нас нет.</speak>
             <show chara="reaNormalEmWinterClose" position="center"/>
-            <speak chara="reannaNoFace">Don't get me wrong. </speak>
+            <speak chara="reannaNoFace">Не пойми меня неправильно.</speak>
             <show chara="reaSmileEmSadWinterClose" position="center"/>
-            <speak chara="reannaNoFace">To anyone else, her misfortune was a complete tragedy. A tragedy that should have never been borne by her alone. </speak>
+            <speak chara="reannaNoFace">Её случай был трагедией для всех. Трагедия, которую она никогда не должна была пережить одна.</speak>
             <show chara="reaNormalEmWinterClose" position="center"/>
-            <speak chara="reannaNoFace"> It's just that … for the warrior, for the soldier — the “professional code of honour” is something that must come before any one individual. </speak>
+            <speak chara="reannaNoFace">Просто… Для воина, для солдата — «профессиональный кодекс чести» — это то, что должно быть важнее другого человека.</speak>
             <show chara="reaSmileEmSadWinterClose" position="center"/>
-            <speak chara="reannaNoFace">Yes, it is tragic, for the individual … </speak>
+            <speak chara="reannaNoFace">Да, это трагично, для кого-то одного…</speak>
             <show chara="reaNormalEmWinterClose" position="center"/>
-            <speak chara="reannaNoFace"> … But this is also a situation where there is no alternative, but to “fight fire with fire, poison with poison”. </speak>
+            <speak chara="reannaNoFace">…Но это та ситуация, когда альтернативы нет. Как говорится, "клин клином вышибают".</speak>
             <show chara="reaSeriousWinterClose" position="center"/>
-            <speak chara="reannaNoFace">Because only in this way, can we organise some of the bravest among us — </speak>
-            <speak chara="reannaNoFace">To let them work in unison like a machine, on a rapidly-changing battlefield — </speak>
-            <speak chara="reannaNoFace"> — To confront … and then … to defeat … some of the cruellest things in the world. </speak>
+            <speak chara="reannaNoFace">Только так мы можем организовать самых смелых из нас.</speak>
+            <speak chara="reannaNoFace">Чтобы они работали в унисон, как машина, на быстро меняющемся поле боя.</speak>
+            <speak chara="reannaNoFace">И противостояли самым жестоким вещам в мире.</speak>
             <goto goto="500" change="#ffffff"/>
         </scene>
         <scene id="500" background="graveNight.jpg">
             <bgm src="themeWelt.mp3" status="start"></bgm>
-            <text>The sky slowly fills with stars, and the food bag slowly empties. </text>
-            <text> Along the way, the cats appear to be very much gratified …  However, after hearing the story of the Valkyrie Martha, Welt felt upset and needed to vent. </text>
+            <text>Солнце почти скрылось за горизонтом, и на небе начали виднеться звёзды…</text>
+            <text>…Пакет с кормом почти опустел.</text>
+            <text>Кошки, похоже, остались очень довольны… Однако, услышав историю о валькирии Марте, Вельт расстроился, и ему хотелось выговориться.</text>
             <show chara="weltDarkWinterFar" position="left" opacity="0.7"/>
             <show chara="reaNormalAhWinterFar" position="right"/>
-            <speak chara="reannaNoFace"> … This is the last feeding point. </speak>
+            <speak chara="reannaNoFace">…Это последнее место кормления.</speak>
             <show chara="reaNormalEmWinterFar" position="right" opacity="0.7"/>
             <show chara="weltDarkWinterFar" position="left"/>
-            <speak chara="weltNoFace">Mm. </speak>
+            <speak chara="weltNoFace">Мм.</speak>
             <show chara="weltDarkWinterFar" position="left" opacity="0.7"/>
             <show chara="reaSmileEmSadWinterFar" position="right"/>
-            <speak chara="reannaNoFace"> … I'm sorry. </speak>
+            <speak chara="reannaNoFace">…Мне жаль.</speak>
             <show chara="reaSmileEmSadWinterFar" position="right" opacity="0.7"/>
             <show chara="weltDarkWinterFar" position="left"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltDarkWinterFar" position="left" opacity="0.7"/>
             <show chara="reaSmileEmSadWinterFar" position="right"/>
-            <speak chara="reannaNoFace">Martha's incident … This is not a sadness you need to bear. </speak>
+            <speak chara="reannaNoFace">Инцидент с Мартой… Это не то, о чём тебе стоит беспокоиться.</speak>
             <show chara="reaSmileEmSadWinterFar" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterFar" position="left"/>
-            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">…</speak>
             <show chara="weltSmileWinterFar" position="left"/>
-            <speak chara="weltNoFace"> … But, Miss Reanna, you must also be upset, right? </speak>
+            <speak chara="weltNoFace">…Но, Мисс Реанна, вы ведь тоже должно быть расстроены, верно?</speak>
             <show chara="ghostFloatDarkFar" position="back" opacity="0.3"/>
             <bgm src="horror.mp3" status="start"></bgm>
-            <speak chara="weltNoFace">Isn't there a saying that goes — </speak>
-            <speak chara="weltNoFace">“A joy shared is a joy doubled; a sorrow shared is a sorrow halved.”</speak>
+            <speak chara="weltNoFace">Есть одна поговорка — </speak>
+            <speak chara="weltNoFace">“Разделенная радость — это двойная радость; общая скорбь - половина печали.”</speak>
             <show chara="weltSmileWinterFar" position="left" opacity="0.7"/>
             <show chara="reaNormalAhWinterFar" position="right"/>
-            <speak chara="reannaNoFace"> … ? </speak>
+            <speak chara="reannaNoFace">…?</speak>
             <show chara="reaNormalAhWinterFar" position="right" opacity="0.7"/>
             <show chara="weltGiggleShyWinterFar" position="left"/>
             <show chara="ghostFloatDarkFar" position="back" opacity="0.5"/>
-            <speak chara="weltNoFace">Ahaha … wasn't that … a little bit desperate of me. </speak>
+            <speak chara="weltNoFace">Хах… Не было ли это немного отчаянно с моей стороны?</speak>
             <show chara="reaSeriousWinterFar" position="right"/>
-            <speak chara="reannaNoFace"> … ! </speak>
+            <speak chara="reannaNoFace">…!</speak>
             <show chara="reaSeriousWinterFar" position="right" opacity="0.7"/>
             <show chara="weltShyWinterFar" position="left"/>
             <show chara="ghostFloatDarkFar" position="back" opacity="0.7"/>
-            <speak chara="weltNoFace"> … Well, I-I guess it wasn't good for me to be joking like that? </speak>
+            <speak chara="weltNoFace">…Пожалуй, мне не стоило так говорить?</speak>
             <show chara="weltShyWinterFar" position="left" opacity="0.7"/>
             <hide position="right"/>
             <hide position="back"/>
             <bgm src="11_17_tatakau.mp3" status="start"></bgm>
             <show chara="reaSeriousWinterFar" position="center"/>
-            <speak chara="reannaNoFace"> … Shush! </speak>
+            <speak chara="reannaNoFace">…Тсс! Тише!</speak>
             <goto goto="520" change="0"/>
         </scene>
         <scene id="520" background="graveNightSpeed.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
-            <text>No sooner does she say this, than Reanna covers Welt's mouth with her hand, and violently pulls him into the bushes! </text>
+            <text>В этот же момент, Реанна прикрыла рот Вельта рукой и быстро утянула его в кусты.</text>
             <show chara="ghostFloatClose-up" position="center"/>
-            <text>In a direction he had not noticed before — a mysterious floating object appears out of nowhere in the night air! </text>
+            <text>Со стороны, куда Вельт до этого не смотрел — В их сторону двигался таинственный парящий объект!</text>
             <goto goto="530" change="0"/>
         </scene>
         <scene id="530" background="CG10-2.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">W-what is that? </speak>
-            <speak chara="reannaNoFace"> … </speak>
-            <speak chara="weltNoFace">Urgh … Can that not be … that s-s-something? </speak>
-            <speak chara="reannaNoFace">What do you mean by “Can that not be that something”? … speak precisely! </speak>
-            <speak chara="weltNoFace">Urgh … </speak>
-            <speak chara="weltNoFace">That must be … </speak>
-            <speak chara="weltNoFace">One of those … </speak>
-            <speak chara="weltNoFace">G … g … g … </speak>
-            <speak chara="weltNoFace">Ghosts? </speak> <!-- In Chinese, the word for "ghost" (幽灵, yōulíng) starts with the "you" syllable. The VN therefore uses 'u's in English, instead of 'g's. -->
-            <speak chara="reannaNoFace"> … Tsk. Don't say such unlucky words! </speak>
-            <speak chara="reannaNoFace">The “ghosts” that truly exist in this world are way more troublesome than those in urban legends! </speak>
-            <speak chara="weltNoFace">Huh? Are there really ghosts? </speak>
-            <speak chara="reannaNoFace"> … It's just a metaphor. </speak>
-            <speak chara="reannaNoFace">Also, stop yelling at me. On the battlefield, it could mean death! </speak>
+            <speak chara="weltNoFace">Ч-что это такое?</speak>
+            <speak chara="reannaNoFace">…</speak>
+            <speak chara="weltNoFace">Угх… Ч-ч-что это такое? Неужели это…</speak>
+            <speak chara="reannaNoFace">Что ты хочешь сказать!? Говори внятно!</speak>
+            <speak chara="weltNoFace">Э-э-э…</speak>
+            <speak chara="weltNoFace">Э-это…</speak>
+            <speak chara="weltNoFace">П… п… п…</speak>
+            <speak chara="weltNoFace">Призрак?</speak>
+            <speak chara="reannaNoFace">Боже… Не говори такую чушь!</speak>
+            <speak chara="reannaNoFace">Реальные "призраки" - доставляют куда больше хлопот, чем о них говорят в легендах!</speak>
+            <speak chara="weltNoFace">А!? Они действительно существуют!?</speak>
+            <speak chara="reannaNoFace">…Это просто метафора.</speak>
+            <speak chara="reannaNoFace">И вообще, перестань кричать! На поле боя это может привести к смерти!</speak>
             <goto goto="540" change="#ffffff"/>
         </scene>
         <scene id="540" background="graveNight.jpg">
@@ -809,82 +808,82 @@
             <speak chara="ghostNoFace" remark="next">Cthulhu fhtagn!</speak>
             <hide position="center"/>
             <remark>
-                <p class="article-text-h">Note: </p>
-                <p class="article-text"> This is a mantra used by Cthulhu's cult in Lovecraft's famous short novel “Call of Cthulhu”. It means, “In his house at R'lyeh, dead Cthulhu waits dreaming.”. </p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Это мантра, используемая культом Ктулху в известном рассказе Лавкрафта «Зов Ктулху». В переводе означает: «В своем доме в Р'льех мертвый Ктулху ждет во сне».</p>
             </remark>
             <show chara="ghostFloatFar2" position="right"/>
-            <speak chara="weltNoFace"> … It's hovering on the spot! </speak>
+            <speak chara="weltNoFace">Он… Парит на месте!</speak>
             <hide position="right"/>
             <show chara="ghostFloatFar" position="left"/>
-            <speak chara="weltNoFace"> … In fact it's also reciting something?! </speak>
+            <speak chara="weltNoFace">Он ещё что-то говорит?!</speak>
             <hide position="left"/>
             <show chara="ghostFloatFar2" position="center"/>
-            <speak chara="reannaNoFace"> … Hmph. </speak>
+            <speak chara="reannaNoFace">…Хмм.</speak>
             <hide position="center"/>
             <show chara="ghostFloatFar" position="right"/>
-            <speak chara="reannaNoFace">That fluttering object …  don't you think it looks too much like a bed sheet? </speak>
+            <speak chara="reannaNoFace">…Тебе не кажется, что он похож на простыню?</speak>
             <hide position="right"/>
             <show chara="ghostFloatFar2" position="left"/>
-            <speak chara="weltNoFace">B-bed sheet? </speak>
+            <speak chara="weltNoFace">Простыню?</speak>
             <hide position="left"/>
             <show chara="ghostFloatFar" position="center"/>
-            <speak chara="weltNoFace">Hmm … but it has no legs? </speak>
+            <speak chara="weltNoFace">Эмм… Но у него нет ног!</speak>
             <hide position="center"/>
             <show chara="ghostFloatFar2" position="right"/>
-            <speak chara="reannaNoFace"> …  Who knows. I guess it's someone's prank with a balloon? </speak>
+            <speak chara="reannaNoFace">Полагаю, что это чья выходка… С воздушным шариком?</speak>
             <hide position="right"/>
-            <show chara="ghostFloatFar" position="left"/>
-            <speak chara="reannaNoFace">And also, those words it's saying … I feel … isn't it something I've heard of before, somewhere? --|||</speak> <!-- This is likely an emoticon depicting cold sweat. -->
+            <show chara="ghosыыtFloatFar" position="left"/>
+            <speak chara="reannaNoFace">Ещё то, что он говорит… Мне кажется, что раньше я это где-то слышала!? --|||</speak> <!-- This is likely an emoticon depicting cold sweat. -->
             <hide position="left"/>
             <show chara="ghostFloatFar2" position="center"/>
-            <text>Reanna picks up a stone from the grass — </text>
+            <text>Реанна подобрала камень.</text>
             <goto goto="550" change="0"/>
         </scene>
         <scene id="550" background="white">
             <bgm src="horror.mp3" status="stop"></bgm>
             <sound src="11_17_metal hit.mp3"/>
-            <text>Ping! </text>
+            <text>Бах!</text>
             <goto goto="560" change="0"/>
         </scene>
         <scene id="560" background="graveNight.jpg">
             <bgm src="horror.mp3" status="start"></bgm>
-            <text>The stone hits the “ghost” and makes a crisp sound, as if it had struck  hard rock, before rolling back onto the grass. </text>
+            <text>Камень попав в «призрака» издал четкий звук, как если бы он попал в скалу.</text>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="reaNormalAhWinterClose-up" position="right"/>
-            <speak chara="reannaNoFace"> … ? </speak>
+            <speak chara="reannaNoFace">…?</speak>
             <show chara="reaNormalAhWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">T-that strange clanging sound, what the hell is going on?! </speak>
+            <speak chara="weltNoFace">Э-этот странный звук… Что, чёрт возьми происходит?!</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="reaNormalAhWinterClose-up" position="right"/>
-            <speak chara="reannaNoFace"> … How would I know?! </speak>
+            <speak chara="reannaNoFace">…Мне откуда знать?!</speak>
             <goto goto="565" change="0"/>
         </scene>
         <scene id="565" background="graveNightSpeed.jpg">
             <bgm src="11_17_tatakau.mp3" status="start"></bgm>
             <show chara="ghostEscapeFar" position="center"/>
-            <speak chara="ghostNoFace">Oops, I've been discovered! </speak>
+            <speak chara="ghostNoFace">Упс! Кажется меня заметили…</speak>
             <hide position="center"/>
             <sound src="11_17_gust wind.mp3"/>
             <show chara="ghostEscapeFar" position="left"/>
-            <text> The “ghost” suddenly blows a stream of air from beneath it, and flees from the scene at rapid speed! </text>
+            <text>«Призрак» внезапно нагнал тяги, и с молниеносной скоростью улетел с места происшествия!</text>
             <hide position="left"/>
             <show chara="reaNormalAhWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltScaredWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Wait, w-w-what's going on now? </speak>
+            <speak chara="weltNoFace">Подожди, Ч-что это сейчас было!?</speak>
             <show chara="weltScaredWinterClose-up" position="left" opacity="0.7"/>
             <show chara="reaSeriousWinterClose-up" position="right"/>
-            <speak chara="reannaNoFace"> … Tsk.  </speak>
-            <text>Reanna pulls out a miniature walkie-talkie device. </text>
+            <speak chara="reannaNoFace">…Тцк.</speak>
+            <text>Реанна достала миниатюрную рацию.</text>
             <hide position="right"/>
             <hide position="left"/>
             <show chara="reaRunWinterClose-up" position="center"/>
             <sound src="11_17_D.mp3"/>
-            <speak chara="reannaNoFace">V-23 requests emergency support! I have encountered an Unidentified Flying Object, please send weapons to my location immediately in accordance with Plan 8! Mobile units, please stand by! </speak>
+            <speak chara="reannaNoFace">V-23 запрашивает экстренную поддержку! Я столкнулась с неопознанным летающим объектом, пожалуйста, немедленно пришлите мне оружие в соответствии с Планом 8! Мобильные подразделения, будьте наготове!</speak>
             <hide position="center"/>
             <sound src="11_17_D.mp3"/>
             <show chara="reaRunWinterClose-up" position="left"/>
-            <speak chara="reannaNoFace">I repeat, I have encountered an Unidentified Flying Object, please send weapons to my location immediately in accordance with Plan 8! Mobile units, please stand by! </speak>
+            <speak chara="reannaNoFace">Повторяю, я столкнулась с неопознанным летающим объектом, пожалуйста, немедленно направьте мне оружие в соответствии с Планом 8! Мобильные подразделения, будьте наготове!</speak>
             <goto goto="600" change="#ffffff"/>
         </scene>
         <scene id="600" background="graveNightRS.jpg">
@@ -894,63 +893,63 @@
             <speak chara="teslaNoFace">slkjfdsjfdjlsdjlfjlaslioeijfdslf?</speak>
             <show chara="teslaBiteGlassWinterClose" position="right" opacity="0.7"/>
             <show chara="joaNormalAhWinterClose" position="left"/>
-            <speak chara="joaNoNameNoFace">esoppusIootsevilllitsuhluhtC...</speak> <!-- In reverse: “Cthulhu still lives too I suppose." -->
+            <speak chara="joaNoNameNoFace">esoppusIootsevilllitsuhluhtC...</speak>
             <show chara="joaNormalEmWinterClose" position="left" opacity="0.7"/>
-            <text>At the junction separating the east and west cemeteries, Tesla, whose expression is inexplicably tense, is communicating with a young boy — </text>
+            <text>На перекрёстке, разделяющем восточное и западное кладбища, Тесла с необъяснимо напряженным выражением лица разговаривала с мальчиком.</text>
             <goto goto="610" change="0"/>
         </scene>
         <scene id="610" background="graveNightSpeed.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
             <show chara="weltScaredWinterClose-up" position="center"/>
-            <speak chara="weltNoFace">Tesla! Danger! </speak>
+            <speak chara="weltNoFace">Тесла! Берегись!</speak>
             <show chara="reaRunWinterClose-up" position="center"/>
-            <speak chara="reannaNoFace">Make way! Redhead! </speak>
+            <speak chara="reannaNoFace">Дай дорогу! Рыжая!</speak>
             <goto goto="620" change="0"/>
         </scene>
         <scene id="620" background="graveNightRS.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
             <show chara="teslaDisgustedGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">R-redhead? Who's the redhead!? </speak>
+            <speak chara="teslaNoFace">РЫЖАЯ!? Кто это рыжая!?</speak>
             <show chara="teslaAstonishGlassWinterClose" position="center"/>
-            <speak chara="teslaNoFace">Hey hey hey … what's going on?? ! </speak>
+            <speak chara="teslaNoFace">Эй эй эй… Что происходит?!</speak>
             <goto goto="630" change="0"/>
         </scene>
         <scene id="630" background="graveNightSpeed.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
             <show chara="reaRunWinterClose-up" position="center"/>
-            <speak chara="reannaNoFace">Make way if you want to live!  </speak>
+            <speak chara="reannaNoFace">Отойди, если жить не надоело!</speak>
             <goto goto="640" change="0"/>
         </scene>
         <scene id="640" background="white">
             <bgm src="11_17_tatakau.mp3" status="stop"></bgm>
-            <speak chara="teslaJoaNoFace">AAARRRRGHHHH — </speak>
+            <speak chara="teslaJoaNoFace">АААРРРРРХХХ—</speak>
             <goto goto="650" change="0"/>
         </scene>
         <scene id="650" background="graveNightRS.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
             <show chara="reannaBlackWhite" position="center"/>
             <sound src="11_17_D.mp3"/>
-            <speak chara="reannaNoFace"> … Plan 8 was a perfect success. The UFO has been disintegrated. </speak>
+            <speak chara="reannaNoFace">…План 8 удался. НЛО уничтожено.</speak>
             <sound src="11_17_D.mp3"/>
-            <speak chara="reannaNoFace">I will bring back Abyss Flower myself, in accordance with the plan. Over and out. </speak> <!-- Chinese full name 黑渊白花 = "Black Abyss White Lotus" -->
+            <speak chara="reannaNoFace">Я лично верну "Цветок Бездны", согласно плану. Конец связи.</speak>
             <show chara="teslaAstonishGlassWinterClose-up" position="center"/>
             <speak chara="teslaNoFace"> … </speak>
             <show chara="joaScaredWinterClose-up" position="center"/>
-            <speak chara="joaNoNameNoFace"> … </speak>
+            <speak chara="joaNoNameNoFace">…</speak>
             <show chara="reannaBlackWhite" position="center"/>
-            <speak chara="reannaNoFace">The two of you, are you okay? Have you been hurt? </speak>
+            <speak chara="reannaNoFace">Вы в порядке? Не пострадали? </speak>
             <bgm src="10_20_PeerGynt.mp3" status="stop"></bgm>
             <show chara="joaScaredWinterClose-up" position="center"/>
-            <speak chara="joaNoNameNoFace"> … </speak>
+            <speak chara="joaNoNameNoFace">…</speak>
             <bgm src="themeTesla.mp3" status="start"></bgm>
             <show chara="teslaShoutWinterClose-up" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">HAVE YOU BEEN HURT MY ARSE?!</speak>
+            <speak chara="teslaNoFace">ТЫ ДАЖЕ НЕ ПРЕДСТАВЛЯЕШЬ, КАК СЕЙЧАС ГОРИТ МОЙ ЗАД!!</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="teslaNoFace">THAT WAS OUR LATEST FLOATING ROBOT!!</speak>
+            <speak chara="teslaNoFace">ЭТО БЫЛ НАШ ПОСЛЕДНИЙ ДРОН!!</speak>
             <shake position="center" time="250"></shake>
             <show chara="teslaAngryGlassWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">REPAY ME!!!!</speak>
+            <speak chara="teslaNoFace">ТЫ МНЕ ЗА ЭТО ЗАПЛАТИШЬ!!!!</speak>
             <end post="U2FsdGVkX18eaRN6J700hdHmH7oe"/>
         </scene>
     </story>
